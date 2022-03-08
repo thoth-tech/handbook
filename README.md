@@ -27,5 +27,8 @@ a pull request to suggest improvements or add clarifications. Please use issues 
     - Organisational
     - Technical
     - Social
+  - Offboarding
+    - Handover
+    - Exit Survey
   - Learning & Development
 - Tools
