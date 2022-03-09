@@ -25,14 +25,9 @@ and self-learning, whilst also remaining as asynchronous as possible.
 
 ## Company
 
-- [ ] Thoth Tech values are a living document. It is documented, refined and
-      revised based on lessons learned in the course of doing business.
-      Familiarise youself with our [Values](#).
-- [ ] Thoth Tech mission is to create tools that enhance education outcomes by
-      empowering students, connecting them with tutors and facilitating
-      personalised learning experiences.
-- [ ] Thoth Tech has a team charter that helps to steer the ways we work. Please
-      have a look at our [Charter](#)
+- [ ] Thoth Tech charter helps to steer the ways we work and is a living document.
+      It is documented, refined and revised based on lessons learned in the course of doing business.
+      Please familiarise yourself with our [Charter](https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md).
 
 ## Products
 
