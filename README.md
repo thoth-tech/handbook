@@ -8,10 +8,8 @@ a pull request to suggest improvements or add clarifications. Please use issues 
 ## Sections
 
 - Company
-  - Mission
-  - Values
-  - How do we work
-  - Organisational structure
+  - [Charter](docs/company/charter.md)
+  - Structure
 - Processes
   - Developer Operations
   - Quality Assurance
@@ -23,10 +21,7 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - Engineer
 - People Operations
   - Recruiting
-  - Onboarding
-    - Organisational
-    - Technical
-    - Social
+  - [Onboarding](docs/peopleops/onboarding/onboarding-process.md)
   - Offboarding
     - Handover
     - Exit Survey
