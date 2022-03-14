@@ -1,5 +1,7 @@
 # Onboarding process
 
+We are so excited you're here and look forward to setting you up for success.
+
 Onboarding is incredibly important at Thoth Tech. We don't expect you to hit the
 ground running from day one.
 
@@ -8,7 +10,12 @@ free to participate in your team's work in the first two weeks, but don't feel
 like you are under heavy pressure. We are here to help.
 
 The onboarding process for the new team member is self-driven and self-learning,
-whilst also remaining as asynchronous as possible.
+whilst also remaining as asynchronous as possible. It has been developed with
+three dimensions in mind, namely:
+
+- Organisational Onboarding
+- Technical Onboarding
+- Social Onboarding
 
 ## Accounts & Access
 
