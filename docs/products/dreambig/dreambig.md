@@ -6,16 +6,18 @@ helping better prepare them at graduation to smoothly enter the IT profession.â€
 
 ## What are the goals for DreamBig?
 
-DreamBig is at its early inception and need a passionate team to shape its future.
-We would like to build a prototype and can help to achieve the following:
+DreamBig is at its early inception and needs a passionate team to shape its
+future. We would like to build a prototype that can help to achieve the
+following:
 
-- Multi-dimensional visualisation of each student's growing professional identity
+- Multi-dimensional visualisation of each student's growing professional
+  identity
 - Used within curriculum to encourage engagement.
 - Scaffolds reflections on industry-readiness
 - Increases awareness of important milestones and dates for graduate recruitment
   and internships
 - Customised paths for careers starters, career changers and career advancers.
 
-For the technical architecture, it would be suggested to lean on the established
-pattern set out by OnTrack project. However, this is subjected to change and the
-team is empowered to explore alternatives as they see fit.
+For the technical architecture, it is suggested to lean on the established
+pattern set out by the OnTrack project. However, this is subjected to change and
+the team is empowered to explore alternatives as they see fit.
