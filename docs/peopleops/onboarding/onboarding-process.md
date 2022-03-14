@@ -1,5 +1,7 @@
 # Onboarding process
 
+We are so excited you're here and look forward to setting you up for success.
+
 Onboarding is incredibly important at Thoth Tech. We don't expect you to hit the
 ground running from day one.
 
@@ -7,9 +9,13 @@ We highly recommend taking at least one full day for onboarding. Please feel
 free to participate in your team's work in the first two weeks, but don't feel
 like you are under heavy pressure. We are here to help.
 
-All onboarding steps are in the onboarding issue template which is owned by the
-Leadership Team. The onboarding process for the new team member is self-driven
-and self-learning, whilst also remaining as asynchronous as possible.
+The onboarding process for the new team member is self-driven and self-learning,
+whilst also remaining as asynchronous as possible. It has been developed with
+three dimensions in mind, namely:
+
+- Organisational Onboarding
+- Technical Onboarding
+- Social Onboarding
 
 ## Accounts & Access
 
@@ -17,7 +23,10 @@ and self-learning, whilst also remaining as asynchronous as possible.
 - [ ] Set up a GitHub [account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (if you do not have one already)
 - [ ] Add your contact details in this [doc](https://deakin365.sharepoint.com/:x:/r/sites/ThothTech2/Shared%20Documents/General/Administration/Personal%20Contacts.xlsx?d=w279b188c84544b269712dc4d2a6f7b87&csf=1&web=1)
 - [ ] Ping a person in the leadership team to add you in the
-      [Thoth Tech organisation](https://github.com/thoth-tech) on GitHub
+      [Thoth Tech organisation](https://github.com/thoth-tech) on GitHub. Being
+      a member of the organisation allows you to collaborate with others,
+      create new repositories, manage permissions and approval process more
+      effectively.
 - [ ] Sign up for a [Miro](https://miro.com/contact/education/) account using
       your Deakin email address. We use this tool for online collaboration.
       The Leadership team will later create different projects and invite you.
@@ -31,17 +40,18 @@ and self-learning, whilst also remaining as asynchronous as possible.
 
 ## Products
 
-We have two main products at Thoth Tech: OnTrack and SplashKit. Depending on
-which team you are working with, you are expected to have some good level of
+We have three products at Thoth Tech: OnTrack, SplashKit and DreamBig. Depending
+on which team you are working with, you are expected to have a good level of
 understanding about the product and how to set it up. Please follow the
 applicable product onboarding below.
 
 - [ ] See [OnTrack onboarding](https://github.com/thoth-tech/handbook/blob/main/docs/products/ontrack/ontrack.md)
 - [ ] See [SplashKit onboarding](https://github.com/thoth-tech/handbook/blob/main/docs/products/splashkit.md)
+- [ ] See [DreamBig onboarding](https://github.com/thoth-tech/handbook/blob/main/docs/products/dreambig/dreambig.md)
 
 ## Social
 
-Starting in a new team can be overwhelming, how about schedule some calls with your team members. The leadership
+Starting in a new team can be overwhelming, how about schedule some calls with your team members. The Leadership
 team would also love to chat. There's no need to ask people if it's okay to schedule a call first. Schedule a
 meeting using Schedule Assistant in the Outlook calendar. Be sure to introduce yourself in the invite.
 
