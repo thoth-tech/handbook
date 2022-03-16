@@ -9,16 +9,14 @@ a pull request to suggest improvements or add clarifications. Please use issues 
 
 - Company
   - [Charter](docs/company/charter.md)
+  - [Roles](docs/company/roles.md)
   - Structure
+- Leadership
+  - [Meetings](docs/leadership/meetings.md)
 - Processes
   - Developer Operations
   - Quality Assurance
   - Documentation
-- Roles
-  - Leadership
-  - Delivery Lead
-  - Group Lead
-  - Engineer
 - People Operations
   - Recruiting
   - [Onboarding](docs/peopleops/onboarding/onboarding-process.md)
