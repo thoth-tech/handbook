@@ -11,6 +11,8 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
+- Leadership
+  - [Meetings](docs/leadership/meetings.md)
 - Processes
   - Developer Operations
   - Quality Assurance

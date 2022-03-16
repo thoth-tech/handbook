@@ -59,3 +59,24 @@ meeting using Schedule Assistant in the Outlook calendar. Be sure to introduce y
 - [ ] Coffee chat with \_\_
 - [ ] Coffee chat with \_\_
 - [ ] Coffee chat with \_\_
+
+## Role-specific Tasks
+
+### Delivery & Product Lead
+
+- [ ] Get to know your team. Have a look at your team members from the
+      onboarding manual document - this will give you a sense of the
+      roles we had in mind for them.
+- [ ] Book your first meeting.
+- [ ] Set up a project team channel on Microsoft Team.
+- [ ] Set up team work log to record activities of team members.
+- [ ] Set up file organisation on Microsoft Team/SharePoint.
+- [ ] Get everyone to fill out the teams skill and availability matrix.
+- [ ] Decide on a team cadence - stand ups, retros, etc.
+- [ ] Decide on how meetings will run - meeting minutes, meeting agendas, etc.
+- [ ] How will you collaborate? - Miro? Trello Board?
+- [ ] Discuss what activities are needed - upskilling, scoping, etc. What do you need to plan your project?
+- [ ] Discuss area alignments for your team - the thing they want to drive (e.g.
+      Tech, QA, Docs, Data - ideally a balance).
+- [ ] Information about QA Process to come to talk about in your team meetings.
+- [ ] Discussion around project tasks - ensuring everyone is aligned.
