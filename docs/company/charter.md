@@ -1,6 +1,6 @@
 # Charter
 
-Thoth Tech charter is important for steering our team in the right direction,
+The Thoth Tech charter is important for steering our team in the right direction,
 establishing boundaries, and aligning the team on how they want to work into the
 future. If every member of the team is clear on their roles, responsibilities,
 and purpose, they can focus on the relevant things — reducing the risk of
