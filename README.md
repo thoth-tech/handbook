@@ -13,6 +13,7 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - Structure
 - Leadership
   - [Meetings](docs/leadership/meetings.md)
+- [Teams](docs/teams/teams.md)
 - Processes
   - Developer Operations
   - Quality Assurance
