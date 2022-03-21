@@ -12,6 +12,8 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - [Roles](docs/company/roles.md)
   - Structure
 - Leadership
+  - [Epic Example](docs/leadership/epic-example.md)
+  - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
 - Processes
   - Developer Operations
