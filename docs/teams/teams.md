@@ -118,16 +118,18 @@ Product Lead: Yash Kondlekar
 
 #### Python Compatibility
 
+- Trello Board: [Python Compatibility](https://trello.com/b/cZXHjIv0/python-compatability)
 - Team Member: Norbert Pop, Jack Sievers, Ben Thomas, Liu Sicheng
 
 #### Language Extensions
 
+- Trello Board: [Language Extensions](https://trello.com/b/xIVeBYwU/language-extensions)
 - Team Member: Dylan Medlin, Du Jingze, Timothy Wilbert
 
 ### Applications
 
 - Teams Channel: [Applications Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Applications%20Team?threadId=19:1a52251788de42edbda8153f1913bd90@thread.tacv2&ctx=channel)
-- Trello Board: TBD
+- Trello Board: [Acarde Team](https://trello.com/b/cnMs1BW6/arcade-team)
 - Delivery Lead: Nick Agiazis
 
 #### Arcade Machine
@@ -136,12 +138,12 @@ Product Lead: Yash Kondlekar
 
 #### Build a Cool Game
 
-Team Member: Lily Lan, Morgaine Barter, Bella Chhour
+- Team Member: Lily Lan, Morgaine Barter, Bella Chhour
 
 ### Modules
 
 - Teams Channel: [SplashKit Modules](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/SplashKit%20Modules?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:3abb0a52353b436db927e16d3c152903@thread.tacv2&ctx=channel)
-- Trello Board: TBD
+- Trello Board: [Modules](https://trello.com/b/SKqf30oS/modules)
 - Delivery Lead: Alex Hocking
 
 #### Physics
