@@ -22,7 +22,7 @@ Product Lead: Jordan Trainor
 
 ### Front-end Migration
 
-- Teams Channel: TBD
+- Teams Channel: [Front End Migration](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Front%20End%20Migration?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:40cc53f7f52d42cd8d15bddad593aa01@thread.tacv2&ctx=channel)
 - Trello Board: [Front-end Migration](https://trello.com/b/pFPgCaIo/front-end-migration)
 - Delivery Lead: David Kwiatkowski, Jesse Hancock
 - Team Member (pair):
@@ -37,9 +37,9 @@ Product Lead: Jordan Trainor
 
 ### Deployment
 
-- Teams Channel: TBD
+- Teams Channel: [Deployment](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Deployment?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:42df0a88caed442a867bc8c41c25416d@thread.tacv2&ctx=channel)
 - Trello Board: [Deployment](https://trello.com/b/dI1yx9A1/deployment)
-- Delivery Lead: TBD
+- Delivery Lead: Jordan Trainor (Interim)
 
 #### Google Cloud
 
@@ -62,7 +62,7 @@ Team Member: Nathan Sukamto, Sarah Dyson, Xue Jing, Linden Hutchinson
 
 ### Voice Verification
 
-- Teams Channel: [Voice Verification - OnTrack](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3Aea448ec4e26449a5b74e0d6dc9be71f4%40thread.tacv2%2FVoice%2520Verification%2520-%2520OnTrack%3FgroupId%3D0e15669c-3f66-49aa-b023-640fe1dda2e0%26tenantId%3Dd02378ec-1688-46d5-8540-1c28b5f470f6&type=channel&deeplinkId=fd1ba64e-fdab-4b8f-a6a9-ab5259fce16c&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+- Teams Channel: [Voice Verification - OnTrack](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Voice%20Verification%20-%20OnTrack?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:ea448ec4e26449a5b74e0d6dc9be71f4@thread.tacv2&ctx=channel)
 - Trello Board: [Voice Verification](https://trello.com/b/lkRdh1Fp/voice-verification)
 - Delivery Lead: Shaine Christmas
 - Team Member: Devin Jayasinghe, Yanjun Chen, Gao Yujun, Ha Nguyen, Daniel Le
@@ -80,14 +80,14 @@ Product Lead: Abigail Howe
 
 ### DreamBig Prototype
 
-- Teams Channel: [DreamBig Prototype Team](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3A71cf013320fb430db1e7427d9d7d61ad%40thread.tacv2%2FDreamBig%2520Prototype%2520Team%3FgroupId%3D0e15669c-3f66-49aa-b023-640fe1dda2e0%26tenantId%3Dd02378ec-1688-46d5-8540-1c28b5f470f6&type=channel&deeplinkId=435cbc9f-c2e5-4942-8397-2a0214d3af75&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+- Teams Channel: [DreamBig Prototype Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/DreamBig%20Prototype%20Team?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:71cf013320fb430db1e7427d9d7d61ad@thread.tacv2&ctx=channel)
 - Trello Board: [DreamBig](https://trello.com/b/5hGRqxJO/dreambig)
 - Delivery Lead: Neha Makineni
 - Team Member: Li Harry, Chen Guanyu, Munatsi Matipano, Zac Brydon, Harrison Allwood, Lei Feng, George Gkoumas
 
 ### Internal Systems
 
-- Teams Channel: [Internal Systems](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3A8778e877fdca4e899c42d52b1b1ead32%40thread.tacv2%2FInternal%2520Systems%3FgroupId%3D0e15669c-3f66-49aa-b023-640fe1dda2e0%26tenantId%3Dd02378ec-1688-46d5-8540-1c28b5f470f6&type=channel&deeplinkId=791c774f-c1a9-48b0-8f11-19bad44f738f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+- Teams Channel: [Internal Systems](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Internal%20Systems?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:8778e877fdca4e899c42d52b1b1ead32@thread.tacv2&ctx=channel)
 - Trello Board: [Internal Systems](https://trello.com/b/Y3chllnR/internal-systems)
 - Delivery Lead: Matthew Fletcher
 - Team Member: Areeb Jjaz, Tushar, Manveen Bhullar
@@ -98,12 +98,13 @@ Product Lead: Yash Kondlekar
 
 ### Operations
 
-- Teams Channel: [SplashKit Operations Team](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3A845469c493864784b3de109e2da8060b%40thread.tacv2%2FSplashKit%2520Operations%2520Team%3FgroupId%3D0e15669c-3f66-49aa-b023-640fe1dda2e0%26tenantId%3Dd02378ec-1688-46d5-8540-1c28b5f470f6&type=channel&deeplinkId=a95fe626-299a-4ce2-8f18-a7695635a548&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+- Teams Channel: [SplashKit Operations Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/SplashKit%20Operations%20Team?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:845469c493864784b3de109e2da8060b@thread.tacv2&ctx=channel)
 - Trello Board: TBD
 - Delivery Lead: Aiden Molluso
 
 #### Migrate Arcana to SplashKit
 
+- Trello Board: [Migrate Arcana to SplashKit](https://trello.com/b/ci4vjDkG/migrate-arcana-to-splashkit)
 - Team Member: Devesh Juggiah, Ray Guo
 
 #### Distribution Channels
@@ -113,7 +114,6 @@ Product Lead: Yash Kondlekar
 ### Extensions
 
 - Teams Channel: TBD
-- Trello Board: TBD
 - Delivery Lead: Allan Farrell
 
 #### Python Compatibility
