@@ -15,6 +15,7 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
+- [Teams](docs/teams/teams.md)
 - Processes
   - Developer Operations
   - Quality Assurance
