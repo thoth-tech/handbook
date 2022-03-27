@@ -4,7 +4,7 @@
 
 Area Lead: Liz Lynch
 
-## Quality Analysis group
+## Quality Assurance group
 
 Area Lead: Katrina Steen
 
@@ -12,7 +12,7 @@ Area Lead: Katrina Steen
 
 Area Lead: Talia Zidar
 
-## Data Science & Product Analytics group
+## Data Science & Analytics group
 
 Area Lead: Tan Le
 
@@ -31,7 +31,7 @@ Product Lead: Jordan Trainor
   - Ma Junhua, Cai Oscar
   - Perry Rose, Chen Renhao
   - Zheng Jiahao, Huang Yongqi
-  - Adbullah Algamdi, Grady Ransay
+  - Abdullah Algamdi, Grady Ramsay
   - Ishrat Jahan, Ricardo Ingles
   - Leo Luong, Ni Leo
 
@@ -43,15 +43,15 @@ Product Lead: Jordan Trainor
 
 #### Google Cloud
 
-Team Member: Joyce Cruz, Sultan Albishri
+- Team Member: Joyce Cruz, Sultan Albishri
 
 #### Pipeline Build
 
-Team Member: Matt Perkins, Lachlan Cayzer
+- Team Member: Matt Perkins, Lachlan Cayzer
 
 #### Enhance Authentication
 
-Team Member: Nathan Sukamto, Sarah Dyson, Xue Jing, Linden Hutchinson
+- Team Member: Nathan Sukamto, Sarah Dyson, Xue Jing, Linden Hutchinson
 
 ### Jupyter Notebook Support
 
@@ -99,12 +99,12 @@ Product Lead: Yash Kondlekar
 ### Operations
 
 - Teams Channel: [SplashKit Operations Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/SplashKit%20Operations%20Team?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:845469c493864784b3de109e2da8060b@thread.tacv2&ctx=channel)
-- Trello Board: TBD
+- Trello Board: [Distribution Channels - Operations](https://trello.com/b/uDYt4NJB/distribution-channels-operations)
 - Delivery Lead: Aiden Molluso
 
 #### Migrate Arcana to SplashKit
 
-- Trello Board: [Migrate Arcana to SplashKit](https://trello.com/b/ci4vjDkG/migrate-arcana-to-splashkit)
+- Trello Board: [Migrate Arcana to SplashKit - Operations](https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations)
 - Team Member: Devesh Juggiah, Ray Guo
 
 #### Distribution Channels
