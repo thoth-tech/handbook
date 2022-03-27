@@ -4,7 +4,7 @@
 
 Area Lead: Liz Lynch
 
-## Quality Analysis group
+## Quality Assurance group
 
 Area Lead: Katrina Steen
 
@@ -12,7 +12,7 @@ Area Lead: Katrina Steen
 
 Area Lead: Talia Zidar
 
-## Data Science & Product Analytics group
+## Data Science & Analytics group
 
 Area Lead: Tan Le
 
@@ -43,15 +43,15 @@ Product Lead: Jordan Trainor
 
 #### Google Cloud
 
-Team Member: Joyce Cruz, Sultan Albishri
+- Team Member: Joyce Cruz, Sultan Albishri
 
 #### Pipeline Build
 
-Team Member: Matt Perkins, Lachlan Cayzer
+- Team Member: Matt Perkins, Lachlan Cayzer
 
 #### Enhance Authentication
 
-Team Member: Nathan Sukamto, Sarah Dyson, Xue Jing, Linden Hutchinson
+- Team Member: Nathan Sukamto, Sarah Dyson, Xue Jing, Linden Hutchinson
 
 ### Jupyter Notebook Support
 
