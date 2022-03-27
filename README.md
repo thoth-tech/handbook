@@ -11,6 +11,7 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
+- [Communication](docs/communication/communication.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
