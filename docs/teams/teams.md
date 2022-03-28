@@ -72,7 +72,7 @@ Product Lead: Jordan Trainor
 - Teams Channel: [OnTrack Documentation](https://teams.microsoft.com/l/channel/19%3arhz4yutH2rF0sJU-xbcqAIS-tZ59n3j2c5LMzqDdicA1%40thread.tacv2/General?groupId=215e9f4e-95e6-4a1a-84b7-489f22d4ecae&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6)
 - Trello Board: [Documentation](https://trello.com/b/FHz8evJG/documentation)
 - Delivery Lead: James Micallef
-- Team Member: Parth Aneja, Manisha Jyoti, MD Fahim Mizi, Shivam Singh, Kosta Constantinou
+- Team Member: Parth Aneja, Manisha Jyoti, MD Fahim Mizi, Shivam Singh, Kosta Constantinou, Faiq Rehman
 
 ## DreamBig
 
