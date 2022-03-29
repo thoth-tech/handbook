@@ -57,8 +57,8 @@ Product Lead: Jordan Trainor
 
 - Teams Channel: [Jupyter Notebook Support Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/General?threadId=19:TfS2kJmJ0HXihVO4_9pXuxrzAN_4em5uQgIvQByzhWQ1@thread.tacv2&ctx=channel)
 - Trello Board: [Jupyter Support](https://trello.com/b/3lWJEuDQ/jupyter-sypport)
-- Delivery Lead: Matt Clark
-- Team Member: Jordan Litsas, Ethan Keirs, Lachlan Foy, Chetan Nagar
+- Delivery Lead: Ethan Keirs 
+- Team Member: Jordan Litsas, Matt Clark, Lachlan Foy, Chetan Nagar
 
 ### Voice Verification
 
