@@ -5,6 +5,10 @@ It's a central guide to understand more about what we believe in and how we run 
 our value of being transparent, the handbook is open to the world and we welcome feedback. Please create
 a pull request to suggest improvements or add clarifications. Please use issues to ask questions.
 
+## Contributing
+
+Please see the [contribution guidelines](CONTRIBUTING.md).
+
 ## Sections
 
 - Company
