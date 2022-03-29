@@ -6,7 +6,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "lint": "prettier --write \"**/*.md\""
+    "format": "prettier --write \"**/*.md\""
   },
   "repository": {
     "type": "git",
