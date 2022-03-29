@@ -11,6 +11,19 @@ asynchronous communication as starting point.
 We place emphasis on documentation and ensure that decisions and conclusions
 are written down and accessible to everyone in the company.
 
+## Guidelines
+1. All announcements to general only 
+   __(clarity in notification)__
+1. Use channels for all general to major discussion 
+1. Use chat / direct message for private or personal discussion 
+1. Use GitHub PRs for feedback on code or documentation 
+   __(building visibility)__
+1. Use Trello for  planning and assigning tasks 
+1. Use meetings for sychronous discussion 
+   __(for private channels, record and store the meeting in the channel files)__
+1. Use whiteboard tools (Miro or MS) to collaborate in meetings 
+   __(send a link in the channel to board)__
+
 ## Tips and practices
 
 1. You are not expected to be available all the time. There is no expectation
