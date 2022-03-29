@@ -1,0 +1,28 @@
+{
+  "name": "handbook",
+  "version": "0.0.1",
+  "description": "Thoth Tech company handbook",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "prettier --write \"**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoth-tech/handbook.git"
+  },
+  "keywords": ["handbook"],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/thoth-tech/handbook/issues"
+  },
+  "homepage": "https://github.com/thoth-tech/handbook#readme",
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  },
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.5.5"
+  }
+}
