@@ -85,4 +85,6 @@ To create a **split screen view** (allowing you to edit your Markdown file in on
 
 ## Markdown Templates
 
-[Meeting Template](../leadership/meeting-template.md)
+[Epic Markdown Template](../leadership/epic-template.md)
+
+[Meeting Markdown Template](../leadership/meeting-template.md)
