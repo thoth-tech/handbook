@@ -5,14 +5,22 @@ It's a central guide to understand more about what we believe in and how we run 
 our value of being transparent, the handbook is open to the world and we welcome feedback. Please create
 a pull request to suggest improvements or add clarifications. Please use issues to ask questions.
 
+## Contributing
+
+Please see the [contribution guidelines](CONTRIBUTING.md).
+
 ## Sections
 
 - Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
+- [Communication](docs/communication/communication.md)
 - Leadership
+  - [Epic Example](docs/leadership/epic-example.md)
+  - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
+- [Teams](docs/teams/teams.md)
 - Processes
   - Developer Operations
   - Quality Assurance
@@ -24,4 +32,5 @@ a pull request to suggest improvements or add clarifications. Please use issues 
     - Handover
     - Exit Survey
   - Learning & Development
+    - [Training](docs/training/training-toc.md)
 - Tools

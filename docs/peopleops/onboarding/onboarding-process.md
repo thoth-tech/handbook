@@ -21,12 +21,11 @@ three dimensions in mind, namely:
 
 - [ ] Submit the [onboarding form](https://teams.microsoft.com/l/entity/81fef3a6-72aa-4648-a763-de824aeafb7d/_djb2_msteams_prefix_1382414451?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3AQfx_STHU90OsVYBHVYKhsRQ5gmEe0s9Q6kOpBf6bli81%40thread.tacv2%22%7D&groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6)
 - [ ] Set up a GitHub [account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) (if you do not have one already)
-- [ ] Add your contact details in this [doc](https://deakin365.sharepoint.com/:x:/r/sites/ThothTech2/Shared%20Documents/General/Administration/Personal%20Contacts.xlsx?d=w279b188c84544b269712dc4d2a6f7b87&csf=1&web=1)
-- [ ] Ping a person in the leadership team to add you in the
-      [Thoth Tech organisation](https://github.com/thoth-tech) on GitHub. Being
-      a member of the organisation allows you to collaborate with others,
-      create new repositories, manage permissions and approval process more
-      effectively.
+- [ ] Add your contact details in this [doc](https://deakin365.sharepoint.com/:x:/r/sites/ThothTech2/Shared%20Documents/General/Administration/Personal%20Contacts.xlsx?d=w279b188c84544b269712dc4d2a6f7b87&csf=1&web=1).
+      You will receive an invite to the [Thoth Tech organisation](https://github.com/thoth-tech)
+      on GitHub within 24 hours. Being a member of the organisation allows
+      you to collaborate with others, create new repositories, manage
+      permissions and approval process more effectively.
 - [ ] Sign up for a [Miro](https://miro.com/contact/education/) account using
       your Deakin email address. We use this tool for online collaboration.
       The Leadership team will later create different projects and invite you.
