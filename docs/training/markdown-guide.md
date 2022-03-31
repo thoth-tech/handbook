@@ -1,5 +1,17 @@
 # Markdown Guide
 
+[What is Markdown?](#what-is-markdown)
+
+[Thoth Tech and Markdown](#thoth-tech-and-markdown)
+
+[Guide to Using Markdown](#guide-to-using-markdown)
+
+[Using VS Code to Preview Markdown](#using-vs-code-to-preview-markdown)
+
+[Markdown Templates](#markdown-templates)
+
+---
+
 ## What is Markdown?
 
 Markdown (md) is a markup language, similar to a .txt file, but with basic **in-text** formatiing
@@ -21,7 +33,7 @@ Many tools are capable of working in Markdown (**Dillinger and VS Code are good 
 
 ---
 
-## Guide to Using Markdown Language
+## Guide to Using Markdown
 
 _How do I create a Markdown file?_
 
@@ -57,16 +69,22 @@ Commonly used formatting options include the following:
 
 VS Code has built in support for previewing Markdown files.
 
-**Mac Users**
+_**Mac Users**_
 
 To open your **current tab** in **Markdown preview**, use _shift + command + v_.
 
 To create a **split screen view** (allowing you to edit your Markdown file in one screen while previewing in another, side-by-side), press _command + k_, release the keys, then press _v_.
 
-**Windows Users**
+_**Windows Users**_
 
 To open your **current tab** in **Markdown preview**, use _shift + ctrl + v_.
 
 To create a **split screen view** (allowing you to edit your Markdown file in one screen while previewing in another, side-by-side), press _ctrl + k_, release the keys, then press _v_.
 
 ---
+
+## Markdown Templates
+
+[Epic Markdown Template](../leadership/epic-template.md)
+
+[Meeting Markdown Template](../leadership/meeting-template.md)

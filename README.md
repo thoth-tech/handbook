@@ -28,4 +28,5 @@ a pull request to suggest improvements or add clarifications. Please use issues 
     - Handover
     - Exit Survey
   - Learning & Development
+    - [Training](docs/training/training-toc.md) 
 - Tools
