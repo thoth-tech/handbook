@@ -93,7 +93,7 @@ Pull requests require a minimum of two approvals; initial approval requires a te
 
 ## Commit Guidelines
 
-Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms's [contribution.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
+Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms's [CONTRIBUTING.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
 
 ### Message Format
 
@@ -174,19 +174,19 @@ git config --global core.editor "atom --wait"
 
 1. Synch repo and set up for new feature branch (remember to use Thoth Tech [branching guidelines](#branching-guidelines) for naming the new branch):
 
-```bash
-git checkout main
-git pull main
-git checkout -b feature/\<project\_subtask\_description\>
-```
+   ```bash
+   git checkout main
+   git pull main
+   git checkout -b feature/voice-verification-1.2-store-voice-input
+   ```
 
 2. Make changes, commit (using comments format that follows [commit guidelines](#commit-guidelines)) and push to origin:
 
-```bash
-git add .
-git commit
-git push -u origin feature/\<project\_subtask\_description\>
-```
+   ```bash
+   git add .
+   git commit
+   git push -u origin feature/voice-verification-1.2-store-voice-input
+   ```
 
 3. Remember to submit a [draft pull request](#draft-pull-request) via GitHub to allow for code review (and mark as ready to submit when ready to merge your changes to main).
 
@@ -194,15 +194,15 @@ git push -u origin feature/\<project\_subtask\_description\>
 
 1. If the branch has already been created in the remote repository.
 
-```bash
-git checkout feature/\<project\_subtask\_description\>
-```
+   ```bash
+   git checkout feature/voice-verification-1.2-store-voice-input
+   ```
 
 2. Pull in any new code from the default branch
 
-```bash
-git pull origin main
-```
+   ```bash
+   git pull origin main
+   ```
 
 3. Resolve any merge conflicts that may now be revealed.
 
@@ -214,7 +214,9 @@ Ideally, we should avoid having developers working on the same code. It creates 
 
 1. Please make sure you pull changes in the remove branch before starting your work.
 
-git pull origin feature/\<project_subtask_description\>
+   ```bash
+   git pull origin feature/voice-verification-1.2-store-voice-input
+   ```
 
 2. Resolve any merge conflicts that may now be revealed.
 3. Continue to Step 2 in [Start a new piece of work](#start-a-new-piece-of-work) flow
