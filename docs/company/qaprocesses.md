@@ -1,4 +1,4 @@
-# QA Process (Git contribution)
+# QA Processes
 
 [Repositories](#_Repositories)
 
@@ -26,11 +26,11 @@ Steps:
 
 _If you have never worked on the repository before:_
 
-- Clone your project&#39;s relevant Thoth Tech repository to your local machine and navigate to the created project folder; you will find yourself on the default branch (main/master).
+- Clone your project's relevant Thoth Tech repository to your local machine and navigate to the created project folder; you will find yourself on the default branch (main/master).
 
 _If you already have a copy of this repository on your local machine_
 
-- From the main/master branch of your local copy of the repository, make sure to do a git &quot;pull&quot; to make sure you are working on the latest copy of code from the origin (this will include any changes merged to the main branch since you last cloned/pulled the repo).
+- From the main/master branch of your local copy of the repository, make sure to do a git "pull" to make sure you are working on the latest copy of code from the origin (this will include any changes merged to the main branch since you last cloned/pulled the repo).
 
 _Then:_
 
@@ -56,7 +56,7 @@ Branches must have descriptive names, including a reference the task/subtask num
 | `fix/<project_task or subtask number_description>`     | For a fix                                                             |
 | `doc/<project_task orsubtask number_description>`      | Document additions/changes which are not specifically feature related |
 
-For an example, let&#39;s assume the following hypothetical task breakdown for the Voice Verification project (we might expect these numbers to be reflected in a Trello task cards):
+For an example, let's assume the following hypothetical task breakdown for the Voice Verification project (we might expect these numbers to be reflected in a Trello task cards):
 
 Product/Epic:
 
@@ -87,7 +87,7 @@ git checkout -b feature/voice-verification-1.2-store-voice-input
 
 Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description and re-request reviews as required.
 
-Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub&#39;s [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
+Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub's [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
 
 # Required Approvals
 
@@ -95,7 +95,7 @@ Pull requests require a minimum of two approvals; initial approval requires a te
 
 # Commit Guidelines
 
-Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms&#39;s [contribution.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
+Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms's [contribution.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
 
 ## Message Format
 
