@@ -1,22 +1,20 @@
-# QA Processes - Git Contributions
+# Git Contribution Guide
 
-[Repositories](#_Repositories)
+[Repositories](#repositories)
 
-[Branching Guidelines](#_Branching_Guidelines)
+[Branching Guidelines](#branching-guidelines)
 
-- [Branch naming format](#_Branch_naming_format)
+[Draft Pull Request](#draft-pull-request)
 
-[Draft Pull Request](#_Draft_Pull_Request)
+[Required Approvals](#required-approvals)
 
-[Required Approvals](#_Required_Approvals_1)
+[Commit Guidelines](#commit-guidelines)
 
-[Commit Guidelines](#_Commit_guidelines)
+- [Message format](#message-format)
 
-- [Message format](#_Message_Format)
+[Git Workflow Summary](#git-workflow-summary)
 
-[Git Workflow Summary](#_Git_Workflow_Summary)
-
-# Repositories
+## Repositories
 
 Repositories are where existing Thoth Tech code is stored, and where new code contributions, once tested and approved, will ultimately be merged.
 
@@ -34,23 +32,23 @@ _If you already have a copy of this repository on your local machine_
 
 _Then:_
 
-- Create a new branch (as per [Branching Guide](#_Branching_Guide)) for your changes
+- Create a new branch (as per [Branching Guide](#branching-guidelines)) for your changes
 - Make your code changes on the branch you created
-- When complete, commit your changes, using the format provided in the [commit guidelines](#_Commit_guidelines).
+- When complete, commit your changes, using the format provided in the [commit guidelines](#commit-guidelines).
 - Push the branch to origin
-- Create a [draft Pull Request](#_Draft_Pull_Request) (PR) for merging the branch into the main Thoth Tech branch for your repository, adding [required approvals](#_Required_Approvals) (note: it will be blocked from merging while in draft form). Comment on the progress and any feedback sought.
+- Create a [draft Pull Request](#draft-pull-request) (PR) for merging the branch into the main Thoth Tech branch for your repository, adding [required approvals](#required-approvals) (note: it will be blocked from merging while in draft form). Comment on the progress and any feedback sought.
 - Continue making changes on your local branch, committing and pushing your changes, until you are satisfied the code is complete, passing all tests and relevant acceptance criteria, and ready for merging
 - Publish your Pull request by changing the status to ready for review
 
-An example sequence of git commands used in this process is provided in the [Git Workflow Summary](#__Git_Workflow_Summary).
+An example sequence of git commands used in this process is provided in the [Git Workflow Summary](#git-workflow-summary).
 
-# Branching Guidelines
+## Branching Guidelines
 
 No commits should be made directly to the default branch (usually main/master/develop). Instead, branches should be created off the default branch to encompass any changes.
 
 Branches must have descriptive names, including a reference the task/subtask number the work relates to, using the following format:
 
-| **Branch naming format**                               | **Use**                                        |
+| Branch naming format                                   | Use                                            |
 | ------------------------------------------------------ | ---------------------------------------------- |
 | `feature/<project_task or subtask number_description>` | New product feature/function                   |
 | `fix/<project_task or subtask number_description>`     | For a fix                                      |
@@ -83,21 +81,21 @@ This would be created and checked out by using the git command:
 git checkout -b feature/voice-verification-1.2-store-voice-input
 ```
 
-# Draft Pull Request
+## Draft Pull Request
 
 Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description and re-request reviews as required.
 
 Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub's [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
 
-# Required Approvals
+## Required Approvals
 
 Pull requests require a minimum of two approvals; initial approval requires a team peer (with relevant tech or role expertise) and the team delivery lead.
 
-# Commit Guidelines
+## Commit Guidelines
 
 Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms's [contribution.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
 
-## Message Format
+### Message Format
 
 Each commit message consists of a header, a body, and a footer.
 
@@ -170,11 +168,11 @@ git config --global core.editor vim
 git config --global core.editor "atom --wait"
 ```
 
-# Git Workflow Summary
+## Git Workflow Summary
 
-## Start a new piece of work
+### Start a new piece of work
 
-1. Synch repo and set up for new feature branch (remember to use Thoth Tech [branching guidelines](#__Branching_Guide) for naming the new branch):
+1. Synch repo and set up for new feature branch (remember to use Thoth Tech [branching guidelines](#branching-guidelines) for naming the new branch):
 
 ```bash
 git checkout main
@@ -182,7 +180,7 @@ git pull main
 git checkout -b feature/\<project\_subtask\_description\>
 ```
 
-2. Make changes, commit (using comments format that follows [commit guidelines](#_Commit_guidelines)) and push to origin:
+2. Make changes, commit (using comments format that follows [commit guidelines](#commit-guidelines)) and push to origin:
 
 ```bash
 git add .
