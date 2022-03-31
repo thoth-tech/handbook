@@ -8,6 +8,8 @@
 
 [Using VS Code to Preview Markdown](#using-vs-code-to-preview-markdown)
 
+[Markdown Templates](#markdown-templates)
+
 ---
 
 ## What is Markdown?
@@ -80,3 +82,7 @@ To open your **current tab** in **Markdown preview**, use _shift + ctrl + v_.
 To create a **split screen view** (allowing you to edit your Markdown file in one screen while previewing in another, side-by-side), press _ctrl + k_, release the keys, then press _v_.
 
 ---
+
+## Markdown Templates
+
+[Meeting Template](../leadership/meeting-template.md)
