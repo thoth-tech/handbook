@@ -1,24 +1,11 @@
 {
   "name": "handbook",
-  "version": "0.0.1",
   "description": "Thoth Tech company handbook",
   "private": true,
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
     "format": "prettier --write \"**/*.md\"",
     "format:check": "prettier --check \"**/*.md\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thoth-tech/handbook.git"
-  },
-  "keywords": ["handbook"],
-  "bugs": {
-    "url": "https://github.com/thoth-tech/handbook/issues"
-  },
-  "homepage": "https://github.com/thoth-tech/handbook#readme",
   "devDependencies": {
     "prettier": "^2.6.1"
   },
