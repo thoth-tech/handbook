@@ -11,7 +11,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 
 ## Sections
 
-* Company
+- Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
@@ -32,5 +32,5 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
     - Handover
     - Exit Survey
   - Learning & Development
-    - [Training](docs/training/training-toc.md) 
+    - [Training](docs/training/training-toc.md)
 - Tools
