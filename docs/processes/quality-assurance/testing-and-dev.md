@@ -1,14 +1,14 @@
 # QA Process - Testing and Development
 
-[Testing and Development](#_Testing_and_Development)
+[Testing and Development](#testing-and-development
 
-- [Feature Development: where to start?](#_Feature_development_%E2%80%93)
+- [Feature Development: where to start?](#feature-development-–-where-do-i-start)
 
-- [Test-Driven Development](#_Test_Driven_Development)
-  - [Writing Appropriate Tests](#_Determining_appropriate_tests)
-  - [Writing a Failing Test Case](#_Writing_a_failing)
-  - [Writing Code to Pass a Test](#_Writing_code_to)
-  - [Refactoring Code](#_Refactoring_Code)
+- [Test-Driven Development](#test-driven-development)
+  - [Writing Appropriate Tests](#determining-appropriate-tests)
+  - [Writing a Failing Test Case](#writing-a-failing-test-case)
+  - [Writing Code to Pass a Test](#writing-code-to-pass-your-test)
+  - [Refactoring Code](#refactoring-code)
 - [Epics and User Stories](#epics-and-user-stories)
   - [Epics](#epics)
   - [User Stories](#user-stories)
@@ -24,7 +24,7 @@ Current Areas under construction:
 
 Testing should be built into the software development process.
 
-Thoth-Tech advocates for a [Test Driven Development](#_Test_Driven_Development) approach.
+Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) approach.
 
 But you might be wondering, before jumping into coding and planning tests for a new feature, _where do you begin_?
 
@@ -40,7 +40,7 @@ But you might be wondering, before jumping into coding and planning tests for a 
 
 For each product/feature, using the required specifications, flesh out the expected behaviour for different use case scenarios. A collaborative approach helps to make sure you are defining the right problem and solution; be sure to seek feedback from the team during this process.
 
-Armed with your acceptance criteria and use cases, you are ready to create the test scenarios that drive a [test driven development](#_Test_Driven_Development) approach.
+Armed with your acceptance criteria and use cases, you are ready to create the test scenarios that drive a [test driven development](#test-driven-development) approach.
 
 You will also need to consider _how_ you are going to test your scenarios as part of this process – considering matters such as what tools will you use, what platforms tests will be performed on, any release processes, and what deliverables will you need to produce. This should be considered as part of your Test Strategy – a deliverable which should be produced as part of the QA process. Other documents that may be produced as part of the QA process include a Test Plan and Bug Reports.
 
@@ -147,7 +147,7 @@ Developers working with C++ may also find [Test Driven Development in C++](https
 
 ## Epics and User Stories
 
-# Epics
+### Epics
 
 Epics describe a large body of work that will be broken down into smaller tasks (called user stories). Epics are a higher-level view of user request or needs that help with considering larger aims, what value the work described will bring to the business, organizing work and creating a hierarchy. Epics will be broken down into smaller, more manageable tasks ("user stories") to be completed by team members. A Markdown Epic Template is also available.
 
@@ -157,7 +157,7 @@ Epics describe a large body of work that will be broken down into smaller tasks 
 will link when relevant PR is merged - doc currently not there
 ```
 
-# User Stories
+### User Stories
 
 User Stories are user-centric statements often put in the form of:
 
