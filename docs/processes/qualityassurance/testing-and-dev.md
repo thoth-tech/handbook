@@ -14,6 +14,12 @@
   - [User Stories](#user-stories)
 - [Testing Templates](#testing-templates)
 
+Current Areas under construction:
+
+- [Refactoring Intro](#tbc-refactoring-intro)
+- [Waiting epic Template link](#tbc-template-link)
+- [Testing tools expansion](#tbc-testing-tools)
+
 # Testing and Development
 
 Testing should be built into the software development process.
@@ -67,19 +73,14 @@ Remember, test-driven development does lend itself to an iterative software deve
 
 ### TBC Testing Tools\*\*\*
 
-_Notes about things to expand/change below_
+_Below block to be expanded_
 
 ```text
+Using testing tools makes tests easier to write and easier for future developers to understand.
 
-[talk about test tools here]
+Testing tools include JEST (for javascript), Rails minitest (for Rails) (**etc, etc**) but look for something for your language.
 
-Easier to write and easier for future developers to understand.
-
-Provide some examples (but advise to "look for something for your language").
-
-(Mention mocking, etc, here?)
-
-Test Tools? (JEST, rails minitest?)
+(Also mention mocking and expand)
 ```
 
 ### **Writing a failing test case**
@@ -98,7 +99,7 @@ When you are satisfied that your code is complete, it is wise to challenge your 
 
 ### TBC refactoring intro \*\*\*
 
-_Notes about things to expand/change below_
+_Below block to be cleaned up/expanded_
 
 ```text
 Code quality:
@@ -111,7 +112,7 @@ Is this readable?
 
 Can a third-party looking at your code easily understand what is going on?
 
-expand and entry into "refactoring code"
+expand and intro into "refactoring code"
 ```
 
 ### **Refactoring Code**
