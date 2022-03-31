@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Linelint
+        uses: fernandrone/linelint@master
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.14.2
+      - name: Install dependencies
+        run: npm install
+      - name: Prettier
+        run: npm run format:check
