@@ -50,11 +50,11 @@ No commits should be made directly to the default branch (usually main/master/de
 
 Branches must have descriptive names, including a reference the task/subtask number the work relates to, using the following format:
 
-| **Branch naming format**                               | **Use**                                                               |
-| ------------------------------------------------------ | --------------------------------------------------------------------- |
-| `feature/<project_task or subtask number_description>` | New product feature/function                                          |
-| `fix/<project_task or subtask number_description>`     | For a fix                                                             |
-| `doc/<project_task orsubtask number_description>`      | Document additions/changes which are not specifically feature related |
+| **Branch naming format**                               | **Use**                                        |
+| ------------------------------------------------------ | ---------------------------------------------- |
+| `feature/<project_task or subtask number_description>` | New product feature/function                   |
+| `fix/<project_task or subtask number_description>`     | For a fix                                      |
+| `doc/<project_task or subtask number_description>`     | Non-feature-related document additions/changes |
 
 For an example, let's assume the following hypothetical task breakdown for the Voice Verification project (we might expect these numbers to be reflected in a Trello task cards):
 
