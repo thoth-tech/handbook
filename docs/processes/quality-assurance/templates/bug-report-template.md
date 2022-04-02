@@ -1,4 +1,4 @@
-## **Bug Report Template**
+## Bug Report Template
 
 **Name of the bug**
 

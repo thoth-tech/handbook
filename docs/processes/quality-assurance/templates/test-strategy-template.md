@@ -1,38 +1,38 @@
-## **Test Strategy (Sample)**
+# Test Strategy (Sample)
 
-**Introduction**
+## Introduction
 
 A high-level summary of the project
 
-**Example**
+### Example
 
 This strategy outlines what quality provides to the project, what type of testing is done, and how testing is carried out. The aim is to ensure quality in all phases of the development lifecycle to deliver a great experience for our users.
 
-**References**
+## References
 
 Relevant links and helpful information about the project and its tech stack
 
-**Examples**
+### Examples
 
 - GitHubproject: \<github link\>
 - JEST is used [https://jestjs.io/](https://jestjs.io/)
 - App built using Node.js: [http://nodejs.org/](http://nodejs.org/)
 
-**QA Deliverables**
+## QA Deliverables
 
 What artifacts QA will provide to the team (eg, Test Strategy, Sample Test Plan, Bug reports)
 
-**Examples**
+### Examples
 
 - Test plans for each feature
 - Issues reported for bugs, enhancements, usability suggestions
 - Release process document
 
-**Test Management**
+## Test Management
 
 What resources are used to carry out testing in terms of tooling, environments, supported platforms and versions, and test data
 
-**Examples**
+### Examples
 
 - Jenkins is used to build test versions of the application off of master and PRs
 - VMs are used to test the applications in Windows
@@ -40,11 +40,11 @@ What resources are used to carry out testing in terms of tooling, environments, 
 - Supported operating systems are Windows 7 and 10 and Mac
 - Test data will include user accounts
 
-**Scope of Testing**
+## Scope of Testing
 
 What types of tests exist for this project?
 
-**Examples**
+### Examples
 
 - There are unit tests, 80% coverage, written in Mocha and Chai
 - Written during development—by developers
