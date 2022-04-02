@@ -212,7 +212,7 @@ git config --global core.editor "atom --wait"
 
 Ideally, we should avoid having developers working on the same code. It creates merge conflicts and hinders efficiency. If possible, try to break it down into small tasks so developers can work independently. In the worst-case scenario, if there is more than 1 person working on a feature branch:
 
-1. Please make sure you pull changes in the remove branch before starting your work.
+1. Please make sure you pull changes in the remote branch before starting your work.
 
    ```bash
    git pull origin feature/voice-verification-1.2-store-voice-input
