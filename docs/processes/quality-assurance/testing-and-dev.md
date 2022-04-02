@@ -14,12 +14,6 @@
   - [User Stories](#user-stories)
 - [Testing Templates](#testing-templates)
 
-Current Areas under construction:
-
-- [Refactoring Intro](#tbc-refactoring-intro)
-- [Waiting epic Template link](#tbc-template-link)
-- [Testing tools expansion](#tbc-testing-tools)
-
 # Testing and Development
 
 Testing should be built into the software development process.
@@ -38,6 +32,8 @@ But you might be wondering, before jumping into coding and planning tests for a 
 - Determine acceptance criteria
   - What are the metrics for success?
   - What's in/out of scope?
+
+Your extracted purpose and requirements will be documented within your [Software Requirements Specification](https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document) document.
 
 For each product/feature, using the required specifications, flesh out the expected behaviour for different use case scenarios. A collaborative approach helps to make sure you are defining the right problem and solution; be sure to seek feedback from the team during this process.
 
@@ -72,17 +68,17 @@ Remember, test-driven development does lend itself to an iterative software deve
 
 #### **Testing Tools**
 
-### TBC Testing Tools\*\*\*
+Using testing tools makes tests easier to write and easier for future developers to understand. They add consistency and repeatability to the testing process, and make test design and documentation simpler.
 
-_Below block to be expanded_
+Testing tools include:
 
-```text
-Using testing tools makes tests easier to write and easier for future developers to understand.
+- JEST (for javascript)
+- Minitest (for Rails)
+- Embunit (for C/C++)
+- Junit (for Java)
+- Nunit (for .Net languages, such as C#, F#, Visual Basic)
 
-Testing tools include JEST (for javascript), Rails minitest (for Rails) (**etc, etc**) but look for something for your language.
-
-(Also mention mocking and expand)
-```
+But there are many more. Look for what is currently available and popular in your language.
 
 ### **Writing a failing test case**
 
@@ -98,23 +94,16 @@ When you are satisfied that your code is complete, it is wise to challenge your 
 
 **What next?**
 
-### TBC refactoring intro \*\*\*
+Once your code is passing your test, it's time to examine _code quality_. Is your code:
 
-_Below block to be cleaned up/expanded_
+- reusable:
+  - are there components that are (or will be) repeated elsewhere?
+- efficient:
+  - is your code cost-effective and easily modifiable?
+- readable:
+  - could a third-party looking at your code easily understand what is going on?
 
-```text
-Code quality:
-
-Is this reusable?
-
-Is this understandable?
-
-Is this readable?
-
-Can a third-party looking at your code easily understand what is going on?
-
-expand and intro into "refactoring code"
-```
+These are concerns which may be addressed through _code refactoring_.
 
 ### **Refactoring Code**
 
@@ -150,13 +139,7 @@ Developers working with C++ may also find [Test Driven Development in C++](https
 
 ### Epics
 
-Epics describe a large body of work that will be broken down into smaller tasks (called user stories). Epics are a higher-level view of user request or needs that help with considering larger aims, what value the work described will bring to the business, organizing work and creating a hierarchy. Epics will be broken down into smaller, more manageable tasks ("user stories") to be completed by team members. A Markdown Epic Template is also available.
-
-### TBC template link \*\*\*
-
-```block
-will link when relevant PR is merged - doc currently not there
-```
+Epics describe a large body of work that will be broken down into smaller tasks (called user stories). Epics are a higher-level view of user request or needs that help with considering larger aims, what value the work described will bring to the business, organizing work and creating a hierarchy. Epics will be broken down into smaller, more manageable tasks ("user stories") to be completed by team members. A Markdown [Epic Template](../../leadership/epic-template.md) is also available.
 
 ### User Stories
 
