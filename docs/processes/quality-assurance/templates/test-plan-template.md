@@ -1,6 +1,6 @@
 ## Test Plan Template
 
-### TEST CASES
+### **TEST CASES**
 
 | #   | Scenario | Input | Expected Result | Actual Result | Automated? |
 | --- | -------- | ----- | --------------- | ------------- | ---------- |
