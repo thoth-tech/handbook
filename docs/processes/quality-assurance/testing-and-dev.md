@@ -1,6 +1,6 @@
 # QA Process - Testing and Development
 
-[Testing and Development](#testing-and-development
+[Testing and Development](#testing-and-development)
 
 - [Feature Development: where to start?](#feature-development-–-where-do-i-start)
 
@@ -24,12 +24,13 @@ Current Areas under construction:
 
 Testing should be built into the software development process.
 
-Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) approach.
+Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) (TDD) approach.
 
 But you might be wondering, before jumping into coding and planning tests for a new feature, _where do you begin_?
 
 ## Feature development – where do I start?
 
+- Clearly articulate the problem and why the changes need to be made
 - Create [epics](#epics) for each feature for planned development
 - Identify [user stories](#user-stories) of the feature
 - Consider how best to mitigate risk or look for alternate solutions
@@ -46,9 +47,9 @@ You will also need to consider _how_ you are going to test your scenarios as par
 
 Templates have been provided for sample [Test Strategy](templates/test-strategy-template.md), [Test Plan](templates/test-plan-template.md) and [Bug Report](templates/bug-report-template.md) documents.
 
-While manual testing may be conducted initially, moving towards automated tests allow for better efficiency, ease of code checks and is the preferred method to allow automatic test incorporation into the deployment pipeline. Testing and processes, like many other in the Agile model, are not static, and can (and should) be improved on successive iterations. This may include iterating existing processes for testing release as well as automating more functionality.
+While manual testing may be conducted initially, moving towards automated tests allows for better efficiency, ease of code checks and is the preferred method to allow automatic test incorporation into the deployment pipeline. Testing and processes, like many other in the Agile model, are not static, and can (and should) be improved on successive iterations. This may include iterating existing processes for testing releases as well as automating more functionality.
 
-## **How do I prove my code does what it's supposed to do?**
+## How do I prove my code does what it's supposed to do?
 
 ### **Test Driven Development**
 
@@ -141,9 +142,9 @@ Extract function refactoring is one common and intuitive approach to refactoring
 
 Deakin students have free access to LinkedIn Learning courses.
 
-A useful course on these general concepts is [Programming Foundations Test Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=2104084)
+A useful course on these general concepts is [Programming Foundations Test Driven Development](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3)
 
-Developers working with C++ may also find [Test Driven Development in C++](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?autoplay=true&u=2104084) useful
+Developers working with C++ may also find [Test Driven Development in C++](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus) useful
 
 ## Epics and User Stories
 
@@ -193,8 +194,8 @@ Further background on user stories can be found at https://www.atlassian.com/agi
 
 ## Testing Templates
 
-[Sample Test Strategy](templates/test-strategy-template.md))
+Several Markdown testing templates are available:
 
-[Test Plan Template](templates/test-plan-template.md)
-
-[Bug Report Template](templates/bug-report-template.md)
+- [Sample Test Strategy](templates/test-strategy-template.md))
+- [Test Plan Template](templates/test-plan-template.md)
+- [Bug Report Template](templates/bug-report-template.md)
