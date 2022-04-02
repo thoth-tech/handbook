@@ -1,14 +1,14 @@
-# Guide to QA Processes
+# Guide to Quality Assurance Processes
 
-[Why/What is QA?](#whywhat-is-qa)
+[Why/What is QA?](#whywhat-is-quality-assurance)
 
 [Testing and Development](#testing-and-development)
 
-[Git Contribution Guidelines](#git-contribution-guidelines)
+[Git Contribution Guide](#git-contribution-guide)
 
-## Why/What is QA?
+## Why/What is Quality Assurance?
 
-QA (Quality Assurance) is defined as a procedure to ensure the quality of software products or services provided to the customers by an organisation. Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products.
+Quality Assurance (QA) is defined as a procedure to ensure the quality of software products or services provided to the customers by an organisation. Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products.
 
 ## Testing and Development
 
@@ -24,9 +24,9 @@ It covers key areas including:
 
 - [Testing Templates](testing-and-dev.md#testing-templates)
 
-## Git Contribution Guidelines
+## Git Contribution Guide
 
-The [Git Contributions Guidelines](git-contribution-guide.md) concerns processes relating to the git workflow, branching and commit formatting guidelines and draft pull requests.
+The [Git Contributions Guide](git-contribution-guide.md) concerns processes relating to the git workflow, branching and commit formatting guidelines and draft pull requests.
 
 Key areas are:
 
