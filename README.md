@@ -60,6 +60,4 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
       - [Weekly Announcements](docs/projects/t1-2022/thoth-tech-leadership/weekly-announcements/)
   - T2 2022
 - Tools
-- Training
-  - [Markdown Guide](docs/training/markdown-guide.md)
-  - [Training Guide](docs/training/training-guide.md)
+- [Training](docs/training/training-guide.md)
