@@ -14,10 +14,10 @@ Never fear, get in touch and our People Team can help you discover where your ta
 
 If you have any questions, please don't hesitate to contact the Thoth Tech Leadership Team by email or MS Teams chat:
 
-Managing Director (Staff Leader): Andrew Cain - andrew.cain@deakin.edu.au
-Managing Director (Staff Leader) Glory Lee - glory.lee@deakin.edu.au
+- Managing Director (Staff Leader): Andrew Cain - andrew.cain@deakin.edu.au
+- Managing Director (Staff Leader) Glory Lee - glory.lee@deakin.edu.au
 
-**QA Lead** (Student Leader) Katrina Steen - ksteen@deakin.edu.au
-**Tech Learning Lead** (Student Leader) Liz Lynch - lynchel@deakin.edu.au
-**People & Documentation Lead** (Student Leader) Talia Zidar - tzidar@deakin.edu.au
-**Data Lead** (Student Leader) Tan Le - tanle@deakin.edu.au
+- **QA Lead** (Student Leader) Katrina Steen - ksteen@deakin.edu.au
+- **Tech Learning Lead** (Student Leader) Liz Lynch - lynchel@deakin.edu.au
+- **People & Documentation Lead** (Student Leader) Talia Zidar - tzidar@deakin.edu.au
+- **Data Lead** (Student Leader) Tan Le - tanle@deakin.edu.au
