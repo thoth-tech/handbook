@@ -9,4 +9,5 @@ A list of training can be seen below:
 - [Markdown Guide](markdown-guide.md)
 - Writing Documentation
 - Trello Guide
+- Product Epics
 - User Stories

@@ -22,6 +22,8 @@ It covers key areas including:
 
 - [Epics and User Stories](testing-and-dev.md#epics-and-user-stories)
 
+- [Software Requirements Specification](testing-and-dev.md#software-requirements-specification-document)
+
 - [Testing Templates](testing-and-dev.md#testing-templates)
 
 ## Git Contribution Guide
