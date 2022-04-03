@@ -12,7 +12,7 @@
 - [Epics and User Stories](#epics-and-user-stories)
   - [Epics](#epics)
   - [User Stories](#user-stories)
-- [Software Requirements Specification](#software-requirements-specification-srs-document)
+- [Software Requirements Specification](#software-requirements-specification-document)
 - [Testing Templates](#testing-templates)
 
 # Testing and Development
