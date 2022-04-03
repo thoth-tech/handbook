@@ -8,5 +8,6 @@ A list of training can be seen below:
 
 - [Markdown Guide](markdown-guide.md)
 - Writing Documentation
-- [Trello Guide](trello-guide.md)
+- Trello Guide
+- Product Epics
 - User Stories
