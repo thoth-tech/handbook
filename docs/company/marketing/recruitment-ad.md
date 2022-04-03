@@ -2,7 +2,7 @@
 
 Thoth Tech’s vision is to provide progressive, innovative and accessible education through our established products OnTrack and Splashkit. OnTrack is an education platform and SplashKit is an all purpose beginners kit that can be used to create 2D games. These products are already live and may have even helped you become the technologist you are today!
 
-Our current tech stack includes (but isn’t limited to)  Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, Typescript, Bootstrap, Coffeescript, Python, Cpp.
+Our current tech stack includes (but isn’t limited to) Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, Typescript, Bootstrap, Coffeescript, Python, Cpp.
 
 If you are hungry to learn, want to gain valuable technical and soft skill experience, and are ready to get to work… then Thoth Tech is the company for you.
 

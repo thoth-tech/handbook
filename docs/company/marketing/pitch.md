@@ -1,6 +1,6 @@
 # Thoth Tech Pitch Points
 
-Thoth Tech’s mission is to build, operate and deploy education technologies, creating tools that enhance education outcomes by empowering students, connecting them with tutors and facilitating personalised learning experiences. 
+Thoth Tech’s mission is to build, operate and deploy education technologies, creating tools that enhance education outcomes by empowering students, connecting them with tutors and facilitating personalised learning experiences.
 
 We value our people and we value excellence: We are people-focused, aim to produce products of excellent quality, sustainability and to provide frameworks that provide a safe environment for learning and support of team-members
 
@@ -9,6 +9,7 @@ We value our people and we value excellence: We are people-focused, aim to produ
 - Focus on learning, support and mentoring
 
 ## Products
+
 - **Ontrack**: Ontrack is an education platform to connect tutors and students at Deakin university and is also used at other universities around the world
 - **Splashkit**: Splashkit is a c++ Software Development Kit. Splashkit is an all purpose beginners kit and can be used to create 2D games
 
