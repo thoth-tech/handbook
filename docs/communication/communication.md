@@ -12,7 +12,7 @@ We place emphasis on documentation and ensure that decisions and conclusions
 are written down and accessible to everyone in the company.
 
 ## Guidelines
-1. All announcements to general only 
+1. All announcements to Thoth Tech general channel only 
    __(clarity in notification)__
 1. Use channels for all general to major discussion 
 1. Use chat / direct message for private or personal discussion 
