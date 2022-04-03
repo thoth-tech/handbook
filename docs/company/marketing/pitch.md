@@ -17,7 +17,7 @@ The focus this trimester is on new feature design and development, existing feat
 
 ## Current Tech Stack
 
-Ruby on Rails , Rabbit MQ , Docker, Angular, C/C++, Typescript, Bootstrap, Coffeescript, Python, Cpp.
+Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, TypeScript, Bootstrap, CoffeeScript, Python, Cpp.
 
 ## Recruiting
 
