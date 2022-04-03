@@ -21,7 +21,7 @@ Ruby on Rails , Rabbit MQ , Docker, Angular, C/C++, Typescript, Bootstrap, Coffe
 
 ## Recruiting
 
-large range of roles including Front-End Engineers, Back-End Engineers, Full-Stack Engineer, Data Scientists, Product Analysts, Quality Analysts, Business Analysts, Delivery Leads, Cloud Engineers, Architects, DevOps Engineers, Security Analysts, and a variety of leadership roles
+We are looking for a large range of roles including Front-End Engineers, Back-End Engineers, Full-Stack Engineers, Data Scientists, Product Analysts, Quality Analysts, Business Analysts, Delivery Leads, Cloud Engineers, Architects, DevOps Engineers, Security Analysts, and a variety of leadership roles.
 
 ## My experience from Capstone
 
