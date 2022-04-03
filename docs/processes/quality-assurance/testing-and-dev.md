@@ -176,7 +176,7 @@ When defining user stories, consider:
 
 Further background on user stories can be found at https://www.atlassian.com/agile/project-management/user-stories
 
-## Software Requirements Specification (SRS) Document
+## Software Requirements Specification Document
 
 A Software Requirements Specification (SRS) document describes the expectations for your product, how it should perform, and the functionality required to meet stakeholder needs. An [SRS template](templates/srs-template.md) has been provided which sets out an example format of an SRS, including the following components.
 
