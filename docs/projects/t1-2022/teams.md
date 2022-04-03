@@ -57,8 +57,8 @@ Product Lead: Jordan Trainor
 
 - Teams Channel: [Jupyter Notebook Support Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/General?threadId=19:TfS2kJmJ0HXihVO4_9pXuxrzAN_4em5uQgIvQByzhWQ1@thread.tacv2&ctx=channel)
 - Trello Board: [Jupyter Support](https://trello.com/b/3lWJEuDQ/jupyter-sypport)
-- Delivery Lead: Matt Clark
-- Team Member: Jordan Litsas, Ethan Keirs, Lachlan Foy, Chetan Nagar
+- Delivery Lead: Ethan Keirs
+- Team Member: Jordan Litsas, Matt Clark, Lachlan Foy, Chetan Nagar
 
 ### Voice Verification
 
@@ -72,7 +72,7 @@ Product Lead: Jordan Trainor
 - Teams Channel: [OnTrack Documentation](https://teams.microsoft.com/l/channel/19%3arhz4yutH2rF0sJU-xbcqAIS-tZ59n3j2c5LMzqDdicA1%40thread.tacv2/General?groupId=215e9f4e-95e6-4a1a-84b7-489f22d4ecae&tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6)
 - Trello Board: [Documentation](https://trello.com/b/FHz8evJG/documentation)
 - Delivery Lead: James Micallef
-- Team Member: Parth Aneja, Manisha Jyoti, MD Fahim Mizi, Shivam Singh, Kosta Constantinou
+- Team Member: Parth Aneja, Manisha Jyoti, Md Fahim Mizi, Shivam Singh, Kosta Constantinou, Faiq Rehman
 
 ## DreamBig
 

@@ -1,0 +1,16 @@
+{
+  "name": "handbook",
+  "description": "Thoth Tech company handbook",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\""
+  },
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=16.14.2",
+    "npm": "^8.5.0"
+  }
+}
