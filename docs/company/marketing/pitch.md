@@ -25,6 +25,6 @@ We are looking for a large range of roles including Front-End Engineers, Back-En
 
 ## My experience from Capstone
 
-Helped me builf confidence, all type of skill development, leadership, project management, real world project exposure, really cool to develop and contribute to something we are all users of.
+Helped me build confidence, all type of skill development, leadership, project management, real world project exposure, really cool to develop and contribute to something we are all users of.
 
 We will be posting an ad in all channels later on today so feel free to message if you have any questions.
