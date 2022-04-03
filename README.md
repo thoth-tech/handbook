@@ -38,9 +38,9 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - Learning & Development
     - [Training](docs/training/training-toc.md)
 - Products
-  - DreamBig
-  - OnTrack
-  - Splashkit
+  - [DreamBig](products/dreambig/dreambig.md)
+  - [OnTrack](products/ontrack/ontrack.md)
+  - [SplashKit](products/splashkit/splashkit.md)
 - Projects
   - T1 2022
     - [Teams](docs/projects/t1-2022/teams.md)
