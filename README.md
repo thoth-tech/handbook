@@ -23,8 +23,9 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
-- Learning
+- Development
   - [D/HD Workshop Notes](docs/learning/d-hd-workshop.md)
+  - [Training](docs/training/training-guide.md)
 - Processes
   - Developer Operations
   - Quality Assurance
@@ -60,4 +61,4 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
       - [Weekly Announcements](docs/projects/t1-2022/thoth-tech-leadership/weekly-announcements/)
   - T2 2022
 - Tools
-- [Training](docs/training/training-guide.md)
+
