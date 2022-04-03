@@ -11,6 +11,10 @@ a pull request to suggest improvements or add clarifications. Please use issues 
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
+- [Products](docs/products)
+  - [DreamBig](docs/products/dreambig)
+  - [OnTrack](docs/products/ontrack)
+  - [SplashKit](docs/products/splashkit.md)
 - [Communication](docs/communication/communication.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
@@ -29,4 +33,3 @@ a pull request to suggest improvements or add clarifications. Please use issues 
     - Exit Survey
   - Learning & Development
 - Tools
-- [Products](docs/products)
