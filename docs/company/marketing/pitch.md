@@ -10,7 +10,7 @@ We value our people and we value excellence: We are people-focused, aim to produ
 
 ## Products
 
-- **Ontrack**: Ontrack is an education platform to connect tutors and students at Deakin university and is also used at other universities around the world
+- **Ontrack**: Ontrack is an education platform to connect tutors and students at Deakin university and is also used at other universities around the world.
 - **Splashkit**: Splashkit is a c++ Software Development Kit. Splashkit is an all purpose beginners kit and can be used to create 2D games
 
 The focus this trimester is on new feature design and development, existing feature upgrades, integrations, company planning, testing, data analysis and innovation, documentation and building a pipeline
