@@ -8,5 +8,5 @@ A list of training can be seen below:
 
 - [Markdown Guide](markdown-guide.md)
 - Writing Documentation
-- Trello Guide
+- [Trello Guide](trello-guide.md)
 - User Stories

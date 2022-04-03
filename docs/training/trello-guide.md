@@ -29,7 +29,7 @@ To access boards, you need to select a workspace. You can view a list of the boa
 
 In the "My Boards" section of the left menu, you can favourite boards that you use most often. These will be pushed to the top of this list. Favourite boards can be accessed regardless of which workspace you have currently selected. This is done by selecting the "Starred" option on the top menu. Favouriting allows for quick navigation between your active projects. This is handy when you have joined a large number of boards across multiple workspaces.
 
-
+___
 ## Basics of how to use Trello
 
 ### What is a card?
@@ -47,9 +47,7 @@ The main form for cards within Thoth Tech's boards will be as tasks.
 There are three ways to move a card on a board.
 
 1. Drag and drop a card into the desired column.
-
 2. Hover over the card until the edit pencil appears. From here you can select "Move", and choose the board, column and position you want to move it to
-
 3. Open the card to view all its details. On the right hand side menu, you can find the "Move" option under the "Actions" header. Select "Move", and choose the board, column and position you want to move it to
 
 ### When do I move a card?
@@ -151,7 +149,8 @@ You can attach images, UML diagrams, Trello cards and many other items to a Trel
 You can personalise your board by using stickers. By selecting the "Show menu" option at the top right of the page, you will find an option for stickers. There are pre-loaded stickers to be used, as well as options to add your own images and GIFs to be used as stickers on your board.
 
 ### How To Link Cards
-
+TBC
+___
 ## Power-ups (Plugins):
 
 When you select a card, there is an option to add Power-ups. These are extra tools that you can utilise to better streamline your board and the Agile process. Below are two popular examples of Power-ups that you can utilise, but there are many more that can be accessed and utilised.
@@ -183,6 +182,7 @@ By setting a limit to how many cards can be in the done column, you force people
 
 Once the Power-up `List Limits` is installed, list limits can be set on a column byselecting the `...` at the top right of the column and navigating down to `Set list limit`. This allows you to set individual limits on cards within a column. Although you can still place cards in the column, as soon as its full you should be actioning the cards within to remove them. Each list can have a different limit within it.
 
+___
 ## Effective use of Trello
 
 (Give an example, demo your board SplashKit Modules)
