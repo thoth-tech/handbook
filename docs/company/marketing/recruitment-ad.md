@@ -21,5 +21,3 @@ Managing Director (Staff Leader) Glory Lee - glory.lee@deakin.edu.au
 **Tech Learning Lead** (Student Leader) Liz Lynch - lynchel@deakin.edu.au
 **People & Documentation Lead** (Student Leader) Talia Zidar - tzidar@deakin.edu.au
 **Data Lead** (Student Leader) Tan Le - tanle@deakin.edu.au
-
-
