@@ -10,18 +10,18 @@ We value our people and we value excellence: We are people-focused, aim to produ
 
 ## Products
 
-- **Ontrack**: Ontrack is an education platform to connect tutors and students at Deakin university and is also used at other universities around the world
-- **Splashkit**: Splashkit is a c++ Software Development Kit. Splashkit is an all purpose beginners kit and can be used to create 2D games
+- **Ontrack**: Ontrack is an education platform to connect tutors and students at Deakin university and is also used at other universities around the world.
+- **SplashKit**: SplashKit is a C++ Software Development Kit. It is a beginner's all-purpose software toolkit and can be used to create 2D games.
 
 The focus this trimester is on new feature design and development, existing feature upgrades, integrations, company planning, testing, data analysis and innovation, documentation and building a pipeline
 
 ## Current Tech Stack
 
-Ruby on Rails , Rabbit MQ , Docker, Angular, C/C++, Typescript, Bootstrap, Coffeescript, Python, Cpp.
+Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, TypeScript, Bootstrap, CoffeeScript, Python, Cpp.
 
 ## Recruiting
 
-large range of roles including Front-End Engineers, Back-End Engineers, Full-Stack Engineer, Data Scientists, Product Analysts, Quality Analysts, Business Analysts, Delivery Leads, Cloud Engineers, Architects, DevOps Engineers, Security Analysts, and a variety of leadership roles
+We are looking for a large range of roles including Front-End Engineers, Back-End Engineers, Full-Stack Engineers, Data Scientists, Product Analysts, Quality Analysts, Business Analysts, Delivery Leads, Cloud Engineers, Architects, DevOps Engineers, Security Analysts, and a variety of leadership roles.
 
 ## My experience from Capstone
 
