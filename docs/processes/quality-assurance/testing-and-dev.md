@@ -12,6 +12,7 @@
 - [Epics and User Stories](#epics-and-user-stories)
   - [Epics](#epics)
   - [User Stories](#user-stories)
+- [Software Requirements Specification](#software-requirements-specification-document)
 - [Testing Templates](#testing-templates)
 
 # Testing and Development
@@ -33,7 +34,7 @@ But you might be wondering, before jumping into coding and planning tests for a 
   - What are the metrics for success?
   - What's in/out of scope?
 
-Your extracted purpose and requirements will be documented within your [Software Requirements Specification](https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document) document.
+Your extracted purpose and requirements will be documented within your [Software Requirements Specification](#software-requirements-specification-srs-document) document.
 
 For each product/feature, using the required specifications, flesh out the expected behaviour for different use case scenarios. A collaborative approach helps to make sure you are defining the right problem and solution; be sure to seek feedback from the team during this process.
 
@@ -174,6 +175,66 @@ When defining user stories, consider:
 - Time: consider how long a story may take; if it's more than one sprint, or seems very complex, the story may need to be broken down into smaller stories (or, you may be looking at an epic)
 
 Further background on user stories can be found at https://www.atlassian.com/agile/project-management/user-stories
+
+## Software Requirements Specification Document
+
+A Software Requirements Specification (SRS) document describes the expectations for your product, how it should perform, and the functionality required to meet stakeholder needs. An [SRS template](templates/srs-template.md) has been provided which sets out an example format of an SRS, including the following components.
+
+- **Introduction**:
+
+  - **Product Purpose**
+
+    Define the purpose of the SRS
+
+  - **Intended audience**
+
+    Who are the expected readers (testers, developers, leadership team?) of the SRS document?
+
+  - **Intended use**
+
+    How are these readers expected to use the SRS document?
+
+  - **Scope**
+
+    What are the goals and objectives for this product? What should the product do (And what should it _not_ do?)
+
+  - **Definition and acronyms**
+
+    Describe relevant terms, definitions and acronyms required to understand the document.
+
+- **Overall Description**
+
+  Describes your product and what you are going to build; describe here whether it is a new product, or an enhancement/add-on to an existing product, who it is for and why it has value. This explains the general background and factors affecting requirements (rather than the specific requirements themselves)
+
+  - **User Needs**
+
+    Who will use your product feature and how? What needs do your end users have that you need to be aware of?
+
+  - **Assumptions and dependencies**
+
+    Provide any assumptions made (what are we assuming to be true) or dependencies for your product/feature
+
+- **System Features and Requirements**
+
+  - **Functional Requirements**
+
+    Fundamental requirements are essential requirements that, as the name suggests, provide functionality and are often described by "The system shall..." statements.
+
+  - **External Interface Requirements**
+
+    Specific requirements detailing hor your product interfaces with other components. They may include user, hardware, software and communications interfaces.
+
+  - **System Features**
+
+    _System features are types of functional requirements. These are features that are required in order for a system to function_
+
+  - **Nonfunctional requirements**
+
+    Nonfunctional requirements are those relating to non-functional measures and relate to aspects such as performance, safety, security and quality.
+
+Further references include Perforce's [How to Write an SRS Document](https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document) and, for a higher level of detail on recommended guidelines for the SRS elements, [IEEE’s Recommended Practice for Software Requirements Specifications](https://drive.google.com/file/d/1G1vQq-RjnbEmTTzItIUarWuMnbqZchlx/view).
+
+_After completing the SRS, you’ll need to get it approved by key stakeholders. This will require everyone to review the latest version of the document_
 
 ## Testing Templates
 
