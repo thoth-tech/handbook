@@ -18,7 +18,7 @@ are written down and accessible to everyone in the company.
 1. Use chat / direct message for private or personal discussion
 1. Use GitHub PRs for feedback on code or documentation _(building visibility)_
 1. Use Trello for planning and assigning tasks
-1. Use meetings for sychronous discussion _(for private channels, record and store the meeting in the channel files)_
+1. Use meetings for synchronous discussion _(for private channels, record and store the meeting in the channel files)_
 1. Use whiteboard tools (Miro or MS) to collaborate in meetings _(send a link in the channel to the board)_
 
 ## Tips and practices
