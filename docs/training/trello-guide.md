@@ -24,17 +24,18 @@ Workspaces can be found and navigated under the "Workspaces" tab at the top left
 
 To access boards, you need to select a workspace. You can view a list of the boards within a workspace by selecting the "Boards" tab on the left hand side menu. Below this is the My Boards section. It will show the boards that you are a member of within the current workspace.
 
-
 #### **How to Favourite boards**
 
 In the "My Boards" section of the left menu, you can favourite boards that you use most often. These will be pushed to the top of this list. Favourite boards can be accessed regardless of which workspace you have currently selected. This is done by selecting the "Starred" option on the top menu. Favouriting allows for quick navigation between your active projects. This is handy when you have joined a large number of boards across multiple workspaces.
 
-___
+---
+
 ## Basics of how to use Trello
 
 ### What is a card?
 
 Cards are the units that make up a Trello board. They can represent anything inlcuding:
+
 - tasks
 - user stories
 - epics
@@ -65,7 +66,6 @@ A description should succinctly tell anyone who could pick up the card its backg
 ### What do I put in the Activity section?
 
 The activity section keeps track of all changes made to a card. It will show edits, comments and moves from column to column. Comments should be added when issues arise, when new information is found, or if you need to clarify something with your delivery lead/colleagues. Often this will be utilised during the testing phase. If a test fails, the tester can leave details of the issue on the card and reassign it to the developer, allowing them to input the neccessary changes.
-
 
 ### Card templates
 
@@ -108,11 +108,13 @@ Hover over the card that you want to assign a label to and select the edit penci
 Creating a column is quite simple. At the top of the board there is an option to "Add a list". Enter the title for the column and save. You can create as many columns as you like.
 
 There is no set way to organise columns within an Agile framework. The basic three columns you need are:
+
 - To Do
 - In Progress
 - Completed
 
 At Thoth Tech, we recommend adding a few extra columns to ensure that the board is more informative, and easier to use. Here is the list of columns that are recommended, in order:
+
 - Epic
   - Cards in this column should break down the epic for each project, using the Epic Markdown Template to set up. These cards should never be moved.
 - User Stories
@@ -149,12 +151,14 @@ You can attach images, UML diagrams, Trello cards and many other items to a Trel
 You can personalise your board by using stickers. By selecting the "Show menu" option at the top right of the page, you will find an option for stickers. There are pre-loaded stickers to be used, as well as options to add your own images and GIFs to be used as stickers on your board.
 
 ### How To Link Cards
+
 TBC
-___
+
+---
+
 ## Power-ups (Plugins):
 
 When you select a card, there is an option to add Power-ups. These are extra tools that you can utilise to better streamline your board and the Agile process. Below are two popular examples of Power-ups that you can utilise, but there are many more that can be accessed and utilised.
-
 
 ### Agile
 
@@ -182,7 +186,8 @@ By setting a limit to how many cards can be in the done column, you force people
 
 Once the Power-up `List Limits` is installed, list limits can be set on a column byselecting the `...` at the top right of the column and navigating down to `Set list limit`. This allows you to set individual limits on cards within a column. Although you can still place cards in the column, as soon as its full you should be actioning the cards within to remove them. Each list can have a different limit within it.
 
-___
+---
+
 ## Effective use of Trello
 
 (Give an example, demo your board SplashKit Modules)
