@@ -37,9 +37,9 @@ so we don't scramble close to the due day.
 - Any juniors who would like to work towards leadership next trimester, we are
   organising an Expression of Interest for attending the leadership conference.
   Please stay tuned for more information.
-- Please work on the relevant project repositories from **the Thoth Tech
-  organisation**. Please do not pull or push to the original Doubtfire or
-  SplashKit repositories.
+- Please work on the relevant project repositories from the
+  [thoth-tech organisation](https://github.com/thoth-tech) on GitHub. Please do
+  not pull or push to the original Doubtfire or SplashKit repositories.
 
 ## What you can expect
 
@@ -47,7 +47,7 @@ so we don't scramble close to the due day.
   like to present project Trello boards, plans, testing & data strategies to the
   Managing Directors. It would be a great opportunity to receive feedback.
   Please speak to your Delivery Leads to confirm as soon as possible.
-- We are transitioning away from MS Word to Thoth-tech
+- We are transitioning away from MS Word to the Thoth-tech
   [handbook](https://github.com/thoth-tech/handbook) repository on GitHub
   starting from this week onward.
 - We are planning for more training in the next weeks so please watch out for
