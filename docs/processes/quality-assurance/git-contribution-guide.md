@@ -173,10 +173,11 @@ Pull requests (draft and otherwise) are created from the GitHub website. Further
 
 Pull requests require **a minimum of two approvals**. The default approach is to
 choose a reviewer from your team for the first review. However, the reviewer may
-be from different team, for example a domain expert in Ruby or C++. Depending on
-the team size and dynamics, the required approvals can be higher or lower.
-Please try to have at least another person to look at the changes beside the
-author.
+be from different team, for example a domain expert in a programming language,
+quality assurance process, telemetry or documentation. Depending on the team
+size and dynamics, the number of required approvals can be higher or lower.
+Think about the tradeoffs between velocity with quality when deciding on an
+approval process for your team.
 
 The required approvals rules can be set via the [branch protection rule](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule).
 All the leads should have access to change these settings and should ensure this
