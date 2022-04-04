@@ -25,7 +25,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Meetings](docs/leadership/meetings.md)
 - Development
   - [D/HD Workshop Notes](docs/learning/d-hd-workshop.md)
-  - [Training](docs/training/training-toc.md)
+  - [Training](docs/learning/training/training-toc.md)
 - Processes
   - Developer Operations
   - Quality Assurance
@@ -37,7 +37,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
     - Handover
     - Exit Survey
   - Learning & Development
-    - [Training](docs/training/training-toc.md)
+    - [Training](docs/learning/training/training-toc.md)
 - Products
   - [DreamBig](products/dreambig/dreambig.md)
   - [OnTrack](products/ontrack/ontrack.md)
