@@ -36,10 +36,8 @@ Key areas are:
 
 [Branching Guidelines](git-contribution-guide.md#branching-guidelines)
 
-[Draft Pull Request](git-contribution-guide.md#git-contribution-guide)
-
-[Required Approvals](git-contribution-guide.md#required-approvals)
-
 [Commit Guidelines](git-contribution-guide.md#commit-guidelines)
+
+[Code Review Guidelines](git-contribution-guide.md#code-review-guidelines)
 
 [Git Workflow Summary](git-contribution-guide.md#git-workflow-summary)
