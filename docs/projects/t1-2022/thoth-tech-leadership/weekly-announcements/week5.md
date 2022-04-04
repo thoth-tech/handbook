@@ -9,8 +9,7 @@ was a team effort and everyone deserves a pat on the back.
 
 ## OnTrack tasks
 
-For D/HD aiming students, you should start working on Task 5.1 retrospective
-this week.
+For D/HD aiming students, you should start working on Task 5.1 this week.
 
 If you need some guidance, please watch the D/HD workshop
 [video](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Recordings/2-4-22%20D-HD%20Workshop.mp4?csf=1&web=1&e=0Tomse).
@@ -48,7 +47,7 @@ so we don't scramble close to the due day.
   like to present project Trello boards, plans, testing & data strategies to the
   Managing Directors. It would be a great opportunity to receive feedback.
   Please speak to your Delivery Leads to confirm as soon as possible.
-- We are making transition away from MS Word to Thoth-tech
+- We are transitioning away from MS Word to Thoth-tech
   [handbook](https://github.com/thoth-tech/handbook) repository on GitHub
   starting from this week onward.
 - We are planning for more training in the next weeks so please watch out for
