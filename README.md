@@ -25,7 +25,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Meetings](docs/leadership/meetings.md)
 - Development
   - [D/HD Workshop Notes](docs/learning/d-hd-workshop.md)
-  - [Training](docs/training/training-guide.md)
+  - [Training](docs/training/training-toc.md)
 - Processes
   - Developer Operations
   - Quality Assurance
