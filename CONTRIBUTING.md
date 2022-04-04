@@ -41,3 +41,7 @@ run to format all Markdown files across the entire repo:
 ```sh
 npm run format
 ```
+
+## Contributing guidelines
+
+Contributing formatting guidelines, including git workflow and commit formatting requirements can be found in our [git contribution guide](docs/processes/quality-assurance/git-contribution-guide.md).
