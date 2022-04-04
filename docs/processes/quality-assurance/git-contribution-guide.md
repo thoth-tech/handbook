@@ -4,13 +4,11 @@
 
 [Branching Guidelines](#branching-guidelines)
 
-[Draft Pull Request](#draft-pull-request)
-
-[Required Approvals](#required-approvals)
-
 [Commit Guidelines](#commit-guidelines)
 
 - [Message format](#message-format)
+
+[Code Review Guidelines](#code-review-guidelines)
 
 [Git Workflow Summary](#git-workflow-summary)
 
@@ -81,16 +79,6 @@ This would be created and checked out by using the git command:
 git checkout -b feature/voice-verification-1.2-store-voice-input
 ```
 
-## Draft Pull Request
-
-Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description and re-request reviews as required.
-
-Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub's [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
-
-## Required Approvals
-
-Pull requests require a minimum of two approvals; initial approval requires a team peer (with relevant tech or role expertise) and the team delivery lead.
-
 ## Commit Guidelines
 
 Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source doubtfire-lms's [CONTRIBUTING.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format)) which this section predominantly mirrors. This format makes for an easier to read and more useful commit history.
@@ -127,9 +115,9 @@ Commit Message Header
   └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|test
 ```
 
-The \<type\> and \<summary\> fields are mandatory, the (\<scope\>) field is optional.
+The `<type>` and ` <summary>`` fields are mandatory, the ( `<scope>`) field is optional.
 
-The \<type\> must be one of the following:
+The `<type>` must be one of the following:
 
 - **build** : Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
 - **ci** : Changes to our CI configuration files and scripts (example scopes: Circle, BrowserStack, SauceLabs)
@@ -168,6 +156,32 @@ git config --global core.editor vim
 git config --global core.editor "atom --wait"
 ```
 
+## Code Review Guidelines
+
+You are strongly encouraged to get your code reviewed by a reviewer as soon as
+there is any code to review, to get a second opinion on the chosen solution and
+implementation, and an extra pair of eyes looking for bugs, logic problems, or
+uncovered edge cases.
+
+### Draft Pull Request
+
+Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description and re-request reviews as required.
+
+Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub's [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
+
+### Required Approvals
+
+Pull requests require **a minimum of two approvals**. The default approach is to
+choose a reviewer from your team for the first review. However, the reviewer may
+be from different team, for example a domain expert in Ruby or C++. Depending on
+the team size and dynamics, the required approvals can be higher or lower.
+Please try to have at least another person to look at the changes beside the
+author.
+
+The required approvals rules can be set via the [branch protection rule](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule).
+All the leads should have access to change these settings and should ensure this
+is configured when creating a new GitHub repository.
+
 ## Git Workflow Summary
 
 ### Start a new piece of work
@@ -190,7 +204,7 @@ git config --global core.editor "atom --wait"
 
 3. Remember to submit a [draft pull request](#draft-pull-request) via GitHub to allow for code review (and mark as ready to submit when ready to merge your changes to main).
 
-## Continue a piece of work
+### Continue a piece of work
 
 1. If the branch has already been created in the remote repository.
 
@@ -208,7 +222,7 @@ git config --global core.editor "atom --wait"
 
 4. Continue to Step 2 in [Start a new piece of work](#start-a-new-piece-of-work) flow
 
-## Collaborate on an existing branch
+### Collaborate on an existing branch
 
 Ideally, we should avoid having developers working on the same code. It creates merge conflicts and hinders efficiency. If possible, try to break it down into small tasks so developers can work independently. In the worst-case scenario, if there is more than 1 person working on a feature branch:
 
