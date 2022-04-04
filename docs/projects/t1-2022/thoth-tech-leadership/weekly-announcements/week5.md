@@ -9,14 +9,16 @@ was a team effort and everyone deserves a pat on the back.
 
 ## OnTrack tasks
 
-For D/HD aiming students, you should start working on Task 5.1 retrospective.
+For D/HD aiming students, you should start working on Task 5.1 retrospective
+this week.
 
 If you need some guidance, please watch the D/HD workshop
 [video](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Recordings/2-4-22%20D-HD%20Workshop.mp4?csf=1&web=1&e=0Tomse).
 It is beneficial for everyone.
 
-Please look ahead of Task 6.x. There are 4 tasks that due on the same day on Sun
-24/04/2022.
+Please also spend some time looking at Task 6.x. For D/HD aiming students, there
+are 4 tasks that due on the same day on Sun 24/04/2022. Preparation is crucial
+so we don't scramble close to the due day.
 
 ## Company tasks
 
@@ -33,7 +35,7 @@ Please look ahead of Task 6.x. There are 4 tasks that due on the same day on Sun
   [Guide](https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md)
   and see if it can help to streamline your team communication process.
 - Any seniors who want to mentor, please reach out to the Leadership team.
-- Any juniors who would like to work towards leadership next trimester. We are
+- Any juniors who would like to work towards leadership next trimester, we are
   organising an Expression of Interest for attending the leadership conference.
   Please stay tuned for more information.
 - Please work on the relevant project repositories from **the Thoth Tech
@@ -45,7 +47,7 @@ Please look ahead of Task 6.x. There are 4 tasks that due on the same day on Sun
 - Showcase for D/HD students is being organised at the end of the week. We would
   like to present project Trello boards, plans, testing & data strategies to the
   Managing Directors. It would be a great opportunity to receive feedback.
-- We are making transition away from MS Word docs to Thoth-tech
+- We are making transition away from MS Word to Thoth-tech
   [handbook](https://github.com/thoth-tech/handbook) repository on GitHub
   starting from this week onward.
 - We are planning for more training in the next weeks so please watch out for
