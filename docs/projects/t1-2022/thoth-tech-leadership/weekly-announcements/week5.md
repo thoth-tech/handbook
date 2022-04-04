@@ -39,14 +39,15 @@ so we don't scramble close to the due day.
   organising an Expression of Interest for attending the leadership conference.
   Please stay tuned for more information.
 - Please work on the relevant project repositories from **the Thoth Tech
-  organisation**. Please do not pull or push to Doubtfire or SplashKit
-  repositories.
+  organisation**. Please do not pull or push to the original Doubtfire or
+  SplashKit repositories.
 
 ## What you can expect
 
 - Showcase for D/HD students is being organised at the end of the week. We would
   like to present project Trello boards, plans, testing & data strategies to the
   Managing Directors. It would be a great opportunity to receive feedback.
+  Please speak to your Delivery Leads to confirm as soon as possible.
 - We are making transition away from MS Word to Thoth-tech
   [handbook](https://github.com/thoth-tech/handbook) repository on GitHub
   starting from this week onward.
@@ -63,7 +64,8 @@ so we don't scramble close to the due day.
   [video](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Recordings/24-3-22%20Github%20Repos%20QnA.mp4?csf=1&web=1&e=Pa3Hh0)
   and the QA
   [document](https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md)
-  if you are still unsure.
+  if you are still unsure. If you have done both of these things and still feel
+  lost, please reach out to the Area Leads.
 - While there is a focus on students having responsibility for sourcing their
   work in Capstone, if a student finds themselves with nothing to do and is
   unsure, they should, at a minimum, speak to their team leader to ask "what can
