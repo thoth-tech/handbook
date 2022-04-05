@@ -4,7 +4,7 @@
 The OnTrack project has been worked on for many years by external consultants who have not contributed efficiently and effectively. As a result of this, documentation containing the information about design decisions, requirements and user information is not accurate or up to date within our OnTrack product.
 
 ## Business Value
-To ensure that all work is usable,and the decision-making process is visible for future stakeholders, the business would like to retrospectively analyse any gaps in the documentation of our products and produce documentation.  This will ensure previous decisions, design, and requirements are easily accessible to all future users, developers, and other stakeholders so relevant context is provided for all work in the future.
+To ensure that all work is usable,and the decision-making process is visible for future stakeholders, the business would like to retrospectively analyse any gaps in the documentation of our products and produce documentation. This will ensure previous decisions, design, and requirements are easily accessible to all future users, developers, and other stakeholders so relevant context is provided for all work in the future.
 
 ## In Scope
 Design Documentation
