@@ -43,7 +43,7 @@ contributing.
    wsl --install
    ```
 
-1. Follow instructions for [linux](#linux)
+1. Follow instructions for [Linux](#linux)
 
 #### Linux
 
