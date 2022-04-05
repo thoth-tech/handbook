@@ -76,4 +76,4 @@ Please familiarise yourself with the following guidelines:
 Please keep monitor your team health and the level of engagement. We recommend a
 good 7-min read on the topic of
 [Conscious Leadership](https://blog.alexmaccaw.com/conscious-leadership/) that
-you might useful.
+you might find useful.
