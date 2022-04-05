@@ -37,7 +37,7 @@ contributing.
 
 #### Windows (using WSL2)
 
-1. Set up wsl and the linux distribution. WSL allows linux distributions to run on the Windows OS. Visit this [website](https://docs.microsoft.com/en-us/windows/wsl/install) for more information.
+1. Set up Windows Subsystem for Linux (WSL) and the Linux distribution. WSL allows Linux distributions to run on the Windows OS. Visit this [website](https://docs.microsoft.com/en-us/windows/wsl/install) for more information.
 
    ```powershell
    wsl --install
