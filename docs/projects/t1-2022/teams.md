@@ -119,7 +119,7 @@ Product Lead: Yash Kondlekar
 #### Python Compatibility
 
 - Trello Board: [Python Compatibility](https://trello.com/b/cZXHjIv0/python-compatability)
-- Team Member: Norbert Pop, Jack Sievers, Ben Thomas, Liu Sicheng
+- Team Member: Norbert Pop, Jack Sievers, Ben Thomas
 
 #### Language Extensions
 
@@ -152,7 +152,7 @@ Product Lead: Yash Kondlekar
 
 #### Machine Learning
 
-- Team Member: Harry Dentry, Ricky Dodd
+- Team Member: Harry Dentry
 
 #### Data Analytics
 
