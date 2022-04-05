@@ -9,10 +9,14 @@ example, use Miro to collect ideas async and shorten meetings with clear agenda.
 Please continue to promote your members efforts using the 'Shoutout!' channel or
 team meetings. It helps to drive engagement and improve team morale.
 
-## Planing
+## Planning
 
 Please organise time for presentation and preparing the materials for the
-Showcase this week.
+Showcase this week. **This is not compulsory - just an opportunity for students
+aiming for higher marks** to showcase your team's work to the managing
+directors. You need to ensure your team are aware of this, and communicate to us
+who is interested and what time so we can schedule it, however you do not need
+to participate if you do not want to.
 
 Remind team to start looking at the Software Requirements Specification in
 preparation for OnTrack Task 6.2.
@@ -20,7 +24,9 @@ preparation for OnTrack Task 6.2.
 Continue to build out your Trello boards. For teams who are still struggling
 with this, we have prepared a Trello
 [guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/trello-guide.md).
-We will run a short workshop later this week to cover in more detail.
+We will run a short workshop later this week to cover in more detail. We will
+also be starting to provide some specific feedback on your Trello boards this
+week.
 
 If you are would like to improve sprint planning, the upcoming delivery lead
 workshop might be of great interest. We have rescheduled it from 6 - 7PM on
@@ -31,10 +37,11 @@ this week.
 
 ## Calendar
 
-Please use our company shared calendar
-[\_#Thoth-Tech](https://outlook.office.com/calendar/group/deakin365.onmicrosoft.com/_thoth-tech/view/month)
-for regular team meetings, workshops, company meeting/event info. If you have
-any difficulties with this, let us know.
+Please ensure your team's regular meetings are in the
+[Thoth Tech calendar](https://outlook.office.com/calendar/group/deakin365.onmicrosoft.com/_thoth-tech/view/month).
+This provides visibility and also means that leadership know when your meetings
+are incase we need to jump in to support. If you have any difficulties with
+this, let us know.
 
 ## Leadership support (you):
 
@@ -45,6 +52,11 @@ to your team. If any team members would like to facilitate any training or you
 have identified any experts that can spread knowledge beyond your teams, please
 do not hesitate to reach out to the Area Leads. We love to collaborate and build
 a great learning culture at Thoth-tech.
+
+If you would like to express interest to attend the leadership conference -
+please let us know. This is a shadowing development experience that would be
+beneficial, particularly for juniors taking more leadership responsibility next
+trimester.
 
 Please familiarise yourself with the following guidelines:
 
