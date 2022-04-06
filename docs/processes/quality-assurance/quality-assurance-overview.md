@@ -16,7 +16,7 @@ The [Testing and Development processes document](testing-and-dev.md) explains th
 
 It covers key areas including:
 
-- [Feature Development: where to start?](testing-and-dev.md#feature-development-–-where-do-i-start)
+- [Feature Development: where to start?](testing-and-dev.md#feature-development-where-do-i-start)
 
 - [Test-Driven Development](testing-and-dev.md#test-driven-development)
 
