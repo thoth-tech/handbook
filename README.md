@@ -28,7 +28,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Training](docs/learning/training/training-toc.md)
 - Processes
   - Developer Operations
-  - Quality Assurance
+  - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
   - Documentation
 - People Operations
   - Recruiting
