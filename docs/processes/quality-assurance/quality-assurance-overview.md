@@ -16,7 +16,7 @@ The [Testing and Development processes document](testing-and-dev.md) explains th
 
 It covers key areas including:
 
-- [Feature Development: where to start?](testing-and-dev.md#feature-development-–-where-do-i-start)
+- [Feature Development: where to start?](testing-and-dev.md#feature-development-where-do-i-start)
 
 - [Test-Driven Development](testing-and-dev.md#test-driven-development)
 
@@ -32,7 +32,7 @@ The [Git Contributions Guide](git-contribution-guide.md) concerns processes rela
 
 Key areas are:
 
-[Repositories](git-contribution-guide.md#repositories)
+[Contributing to Repositories: How To](git-contribution-guide.md#contributing-to-repositories-how-to)
 
 [Branching Guidelines](git-contribution-guide.md#branching-guidelines)
 

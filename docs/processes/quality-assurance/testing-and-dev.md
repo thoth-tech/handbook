@@ -2,7 +2,7 @@
 
 [Testing and Development](#testing-and-development)
 
-- [Feature Development: where to start?](#feature-development-–-where-do-i-start)
+- [Feature Development: where to start?](#feature-development-where-do-i-start)
 
 - [Test-Driven Development](#test-driven-development)
   - [Writing Appropriate Tests](#determining-appropriate-tests)
@@ -23,7 +23,7 @@ Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) (
 
 But you might be wondering, before jumping into coding and planning tests for a new feature, _where do you begin_?
 
-## Feature development – where do I start?
+## Feature development: where do I start?
 
 - Clearly articulate the problem and why the changes need to be made
 - Create [epics](#epics) for each feature for planned development
