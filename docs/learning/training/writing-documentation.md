@@ -86,7 +86,7 @@ We want our people to feel included and accepted for who they are
 We want to assist our people in their learning and provide them with the information they need
 
 **Guide:**
-we want to lead our people in a thoughtful manner towards their goals
+We want to lead our people in a thoughtful manner towards their goals
 
 **Honest:**
 We want to be truthful to our people and focus on our real strengths
