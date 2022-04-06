@@ -21,7 +21,7 @@
 
 Documentation is official information provided by the company for our users and contributors. It is the preferred method of technical support and should provide instant clarity for many issues.
 
-Within Thoth Tech, all documentation will be written in markdown. You can find the guide [here](markdown-guide.md)
+Within Thoth Tech, all documentation will be written in markdown. You can find the guide [here](markdown-guide.md).
 
 ### Why is Documentation important?
 
