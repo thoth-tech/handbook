@@ -1,6 +1,6 @@
 # Git Contribution Guide
 
-[Repositories](#repositories)
+[Contributing to Repositories: How To](#contributing-to-repositories-how-to)
 
 [Branching Guidelines](#branching-guidelines)
 
@@ -12,7 +12,7 @@
 
 [Git Workflow Summary](#git-workflow-summary)
 
-## Repositories
+## Contributing to Repositories: How To
 
 Repositories are where existing Thoth Tech code is stored, and where new code contributions, once tested and approved, will ultimately be merged.
 
@@ -165,7 +165,7 @@ uncovered edge cases.
 
 ### Draft Pull Request
 
-Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description and re-request reviews as required.
+Draft Pull Requests allow a work in progress to receive early feedback. The developer creating the PR should, in the description, indicate their progress and any particular aspect they are looking for feedback on. When the PR is ready for final review, the developer should update the description, re-request reviews as required and change the status to "ready to review".
 
 Pull requests (draft and otherwise) are created from the GitHub website. Further information about draft pull requests, how to make them, and how to convert their status to ready for merging can be found on GitHub's [Introducing Draft Pull Requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/) blog.
 

@@ -32,7 +32,7 @@ The [Git Contributions Guide](git-contribution-guide.md) concerns processes rela
 
 Key areas are:
 
-[Repositories](git-contribution-guide.md#repositories)
+[Contributing to Repositories: How To](git-contribution-guide.md#contributing-to-repositories-how-to)
 
 [Branching Guidelines](git-contribution-guide.md#branching-guidelines)
 
