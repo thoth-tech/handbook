@@ -187,7 +187,7 @@ is configured when creating a new GitHub repository.
 
 ### Start a new piece of work
 
-1. Synch repo and set up for new feature branch (remember to use Thoth Tech [branching guidelines](#branching-guidelines) for naming the new branch):
+1. Synch repo and set up for your new feature branch (remember to use Thoth Tech [branching guidelines](#branching-guidelines) for naming the new branch; we have used the guideline example of _feature/voice-verification-1.2-store-voice-input_ for our workflow illustration):
 
    ```bash
    git checkout main
