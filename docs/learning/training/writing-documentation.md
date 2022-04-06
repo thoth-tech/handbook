@@ -127,7 +127,7 @@ In **active voice**, the subject of the sentence does the action.
 
 In **passive voice**, the subject of the sentence has the action done to it.
 
-> **Yes:** Marti logged into the account.<div> >**No:** The account was logged into by Marti.
+> **Yes:** Marti logged into the account.<div> **No:** The account was logged into by Marti.
 
 _One exception_ is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
