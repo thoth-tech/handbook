@@ -149,7 +149,7 @@ Guidelines:
 
 ### Writing for Accessibility
 
-We must write for a diverse audience of readers who can interact with our content in different ways
+We must write for a diverse audience of readers who can interact with our content in different ways.
 
 Consider the following:
 
