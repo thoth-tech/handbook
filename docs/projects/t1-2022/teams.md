@@ -113,23 +113,22 @@ Product Lead: Yash Kondlekar
 
 ### Extensions
 
-- Teams Channel: TBD
+- Teams Channel: [Language Extensions](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Language%20Extensions?threadId=19:b7feb53773244946936db2ee9df315f4@thread.tacv2&ctx=channel)
+- Trello Board: [Language Extensions](https://trello.com/b/xIVeBYwU/language-extensions)
 - Delivery Lead: Allan Farrell
 
 #### Python Compatibility
 
-- Trello Board: [Python Compatibility](https://trello.com/b/cZXHjIv0/python-compatability)
-- Team Member: Norbert Pop, Jack Sievers, Ben Thomas, Liu Sicheng
+- Team Member: Norbert Pop, Jack Sievers, Ben Thomas
 
 #### Language Extensions
 
-- Trello Board: [Language Extensions](https://trello.com/b/xIVeBYwU/language-extensions)
 - Team Member: Dylan Medlin, Du Jingze, Timothy Wilbert
 
 ### Applications
 
 - Teams Channel: [Applications Team](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Applications%20Team?threadId=19:1a52251788de42edbda8153f1913bd90@thread.tacv2&ctx=channel)
-- Trello Board: [Acarde Team](https://trello.com/b/cnMs1BW6/arcade-team)
+- Trello Board: [Arcade Team](https://trello.com/b/cnMs1BW6/arcade-team)
 - Delivery Lead: Nick Agiazis
 
 #### Arcade Machine
@@ -152,7 +151,7 @@ Product Lead: Yash Kondlekar
 
 #### Machine Learning
 
-- Team Member: Harry Dentry, Ricky Dodd
+- Team Member: Harry Dentry
 
 #### Data Analytics
 
