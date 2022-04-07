@@ -10,15 +10,15 @@ To ensure that all work is usable,and the decision-making process is visible for
 
 ## In Scope
 
-Design Documentation
-User documentation (high level)
-User guides (step by step how to)
-Requirement documentation
+- Design Documentation
+- User documentation (high level)
+- User guides (step by step how to)
+- Requirement documentation
 
 ## Out of Scope
 
-New feature documentation
-User research documentation
+- New feature documentation
+- User research documentation
 
 ## What needs to happen
 
@@ -51,7 +51,7 @@ Advise project teams of relevant documentation releases
 
 Aligning the existing documentation with current version of product
 
-## Acceptance criteria(Informal)
+## Acceptance criteria (Informal)
 
 - Validate documentation with managing directors
 - Clear organisation and accessibility of documentation
