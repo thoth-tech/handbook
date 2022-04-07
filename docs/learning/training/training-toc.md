@@ -7,7 +7,7 @@ A list of training can be seen below:
 ## Training
 
 - [Markdown Guide](markdown-guide.md)
-- Writing Documentation
+- [Writing Documentation](writing-documentation.md)
 - [Trello Guide](trello-guide.md)
 - Product Epics
 - User Stories
