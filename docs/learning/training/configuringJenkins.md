@@ -2,7 +2,7 @@
 
 ## Why Jenkins 
 
-Based on our recent meeting with Andrew, we have decided that the best solution is to create a dedicated CI/CD tool because only using built in GCP tools is not user friendly for future students. It is best for all deployments to GCP be centralised. I believe Jenkins is probably the best solution as it is widely adopted, has GCP plugins and is OSS. I believe that success will follow these steps
+This guide is for how to download and install Jenkins and how to run on GCP (GCP is not yet added)
  
 - Running Jenkins locally to get a good idea of how it works. Should be run using Docker as this is how it will run when in GCP
 - Hosting it on GCP, through either Cloud Run or Google Kubernetes Engine (GKE)
