@@ -1,7 +1,6 @@
 <style>body {text-align: justify}</style>
 
-
- T1 Report 2022: Week 3
+T1 Report 2022: Week 3
 
 ## Leadership & Co
 
@@ -69,6 +68,7 @@ _Managing Director_
   - [DreamBig Prototype Project](#dreambig-prototype-project)
 - [Internal Systems](#internal-systems)
   - [Internal Systems Project](#internal-systems-project)
+
 # Leadership Team
 
 ![](Aspose.Words.7698171d-24c6-484d-8064-ccc609e55c08.003.png)
@@ -83,6 +83,7 @@ _Managing Director_
 | **Delivery Lead**     | The role of the Delivery lead is to lead, organise and support their project teams to ensure ongoing success.                                                                                                                                | <p>- Establish a team cadence</p><p>- Build rapport with all team members to foster a cohesive and collaborative environment</p><p>- Strong drive towards objectives with bias for action</p><p>- Proactively identify blockers and opportunities</p><p>- Communication on what the team is doing, their plans and what is needed</p>                                                                      | <p>- Communication</p><p>- Empathy</p><p>- Interpersonal Savvy</p><p>- Collaborative</p><p>- Leadership</p><p>- Stakeholder management</p><p></p><p></p><p></p><p></p><p></p><p></p>                                                    |
 
 <style>body {text-align: justify}</style>
+
 # Trimester Goals and Objectives
 
 This trimester, Thoth Tech has set out to achieve the following objectives:

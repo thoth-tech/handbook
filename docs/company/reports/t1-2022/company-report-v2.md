@@ -1,11 +1,9 @@
 <style>body {text-align: left}</style>
 
-
-
-
-
 # Thoth Tech
+
 ## Leadership & Co
+
 **_T1 Report 2022: Week 6_**
 
 <br>
@@ -43,7 +41,7 @@ _Managing Director_
 
 - [Executive Summary](#executive-summary)
 - [Leadership Team](#leadership-team)
-    - [Roles and Responsibilities](#roles-and-responsibilities)
+  - [Roles and Responsibilities](#roles-and-responsibilities)
 - [Trimester Goals and Objectives](#trimester-goals-and-objectives)
 - [Company Charter](#company-charter)
   - [Mission](#mission)
@@ -55,23 +53,24 @@ _Managing Director_
 - [Company Structure](#company-structure)
 - [Product Overview](#product-overview)
 - [OnTrack](#ontrack)
-    - [Front-End Migration Project](#front-end-migration-project)
-    - [Deployment Project](#deployment-project)
-    - [Jupyter Notebook Support Project](#jupyter-notebook-support-project)
-    - [Voice Verification Project](#voice-verification-project)
-    - [Documentation Project](#documentation-project)
+
+  - [Front-End Migration Project](#front-end-migration-project)
+  - [Deployment Project](#deployment-project)
+  - [Jupyter Notebook Support Project](#jupyter-notebook-support-project)
+  - [Voice Verification Project](#voice-verification-project)
+  - [Documentation Project](#documentation-project)
 
 - [SplashKit](#splashkit)
-    - [Operations – Migrating Arcana to SplashKit Project](#operations-–-migrating-arcana-to-splashkit-project)
-    - [Operations – Distribution Channels Project](#operations-–-distribution-channels-project)
-    - [Extensions Project](#extensions-project)
-    - [Applications – Arcade Machine Project](#applications-–-arcade-machine-project)
-    - [Applications – Build a Cool Game Project](#applications-–-build-a-cool-game-project)
-    - [Modules Project](#modules-project)
+  - [Operations – Migrating Arcana to SplashKit Project](#operations-–-migrating-arcana-to-splashkit-project)
+  - [Operations – Distribution Channels Project](#operations-–-distribution-channels-project)
+  - [Extensions Project](#extensions-project)
+  - [Applications – Arcade Machine Project](#applications-–-arcade-machine-project)
+  - [Applications – Build a Cool Game Project](#applications-–-build-a-cool-game-project)
+  - [Modules Project](#modules-project)
 - [DreamBig](#dreambig)
-    - [DreamBig Prototype Project](#dreambig-prototype-project)
+  - [DreamBig Prototype Project](#dreambig-prototype-project)
 - [Internal Systems](#internal-systems)
-    - [Internal Systems Project](#internal-systems-project)
+  - [Internal Systems Project](#internal-systems-project)
 
 <br>
 
@@ -79,12 +78,12 @@ _Managing Director_
 
 ## Roles and Responsibilities
 
-|                       | **Role**                                                                                                                                                                                                                                     | **Responsibilities**                                                                                                                                                                                                                                                                                                                                                                                       | **Skills**                                                                                                                                                                                                                              |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Managing Director** | The role of the managing director is to oversee the Thoth Tech company executive leadership team to ensure they are running the company effectively and value is being added to the Thoth Tech products by the projects they are supporting. | <p>Provide guidance to executive leadership team</p><p>Provide high-level vision for the ongoing goals of the company</p><p>Provide a consistent company strategy due to low retention</p>                                                                                                                                                                                                           | <p>Leadership</p><p>Communication</p><p>Mentor</p><p>Decision-making</p>                                                                                               |
-| **Area Lead**         | The role of the Area lead is to drive their area focus across all products and projects of their area. They also organise, lead, guide, and support Product and Delivery leads achieve their project goals.                                  | Establish company structure, systems & processes</p><p>Establish a leadership cadence</p><p>Drive a focus on Technical Learning, Data, Documentation and Quality Assurance</p><p>Support Product leads with product vision</p><p>Support Delivery leads with their project</p><p>Proactively identify blockers and opportunities</p>                                                        | <p>Leadership</p><p>Organisation</p><p>Interpersonal Savvy</p><p>Problem-Solving</p><p>Collaborative</p><p>Mentor</p><p>Communication</p><p>Presentation</p><p>Stakeholder management</p> |
-| **Product Lead**      | The role of the Product lead is to lead and support delivery leads in projects related to their product to ensure ongoing success.                                                                                                           | <p>Drive the product in the direction determined by the Managing Directors and Area Leads.</p><p>Strong drive towards toward objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Support delivery leads where needed</p><p>Make thoughtful decisions motivated by data and research</p><p>Be transparent and accountable by visualising objectives</p> | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                               |
-| **Delivery Lead**     | The role of the Delivery lead is to lead, organise and support their project teams to ensure ongoing success.                                                                                                                                | <p>Establish a team cadence</p><p>Build rapport with all team members to foster a cohesive and collaborative environment</p><p>Strong drive towards objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Communication on what the team is doing, their plans and what is needed</p>                                                                      | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                                            |
+|                       | **Role**                                                                                                                                                                                                                                     | **Responsibilities**                                                                                                                                                                                                                                                                                                                                                                           | **Skills**                                                                                                                                                                                |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Managing Director** | The role of the managing director is to oversee the Thoth Tech company executive leadership team to ensure they are running the company effectively and value is being added to the Thoth Tech products by the projects they are supporting. | <p>Provide guidance to executive leadership team</p><p>Provide high-level vision for the ongoing goals of the company</p><p>Provide a consistent company strategy due to low retention</p>                                                                                                                                                                                                     | <p>Leadership</p><p>Communication</p><p>Mentor</p><p>Decision-making</p>                                                                                                                  |
+| **Area Lead**         | The role of the Area lead is to drive their area focus across all products and projects of their area. They also organise, lead, guide, and support Product and Delivery leads achieve their project goals.                                  | Establish company structure, systems & processes</p><p>Establish a leadership cadence</p><p>Drive a focus on Technical Learning, Data, Documentation and Quality Assurance</p><p>Support Product leads with product vision</p><p>Support Delivery leads with their project</p><p>Proactively identify blockers and opportunities</p>                                                           | <p>Leadership</p><p>Organisation</p><p>Interpersonal Savvy</p><p>Problem-Solving</p><p>Collaborative</p><p>Mentor</p><p>Communication</p><p>Presentation</p><p>Stakeholder management</p> |
+| **Product Lead**      | The role of the Product lead is to lead and support delivery leads in projects related to their product to ensure ongoing success.                                                                                                           | <p>Drive the product in the direction determined by the Managing Directors and Area Leads.</p><p>Strong drive towards toward objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Support delivery leads where needed</p><p>Make thoughtful decisions motivated by data and research</p><p>Be transparent and accountable by visualising objectives</p> | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                                                            |
+| **Delivery Lead**     | The role of the Delivery lead is to lead, organise and support their project teams to ensure ongoing success.                                                                                                                                | <p>Establish a team cadence</p><p>Build rapport with all team members to foster a cohesive and collaborative environment</p><p>Strong drive towards objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Communication on what the team is doing, their plans and what is needed</p>                                                                    | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                                                            |
 
 <style>body {text-align: left}</style>
 
@@ -338,7 +337,6 @@ Nathan Sukamto
 Sarah Nicole Dyson
 
 XueTing Jing
-
 
 <br>
 
@@ -852,7 +850,6 @@ Guanyu Chen
 
 Harry Lui
 
-
 <br>
 
 <br>
@@ -904,7 +901,6 @@ Long-term:
 **Junior Web Developer:** Manveen Kaur Bhullar
 
 **Junior Back-end Developer:** Tushar
-
 
 <br>
 
