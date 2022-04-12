@@ -37,68 +37,38 @@ _Managing Director_
 
 # Contents
 
-[Executive Summary 1](#_Toc99298312)
+- [Executive Summary](#executive-summary)
+- [Leadership Team](#leadership-team)
+  - [Roles and Responsibilities](#roles-and-responsibilities)
+- [Trimester Goals and Objectives](#trimester-goals-and-objectives)
+- [Company Charter](#company-charter)
+  - [Mission](#mission)
+  - [Values](#values)
+  - [Team Culture](#team-culture)
+  - [Roles](#roles)
+  - [Metrics of success](#metrics-of-success)
+  - [Standards of quality](#standards-of-quality)
+- [Company Structure](#company-structure)
+- [Product Overview](#product-overview)
+- [OnTrack](#ontrack)
 
-[Contents 2](#_Toc99298313)
+  - [Front-End Migration Project](#front-end-migration-project)
+  - [Deployment Project](#deployment-project)
+  - [Jupyter Notebook Support Project](#jupyter-notebook-support-project)
+  - [Voice Verification Project](#voice-verification-project)
+  - [Documentation Project](#documentation-project)
 
-[Leadership Team 3](#_Toc99298314)
-
-[Roles and Responsibilities 4](#_Toc99298315)
-
-[Trimester Goals and Objectives 5](#_Toc99298316)
-
-[Company Charter 6](#_Toc99298317)
-
-[Mission 6](#_Toc99298318)
-
-[Values 6](#_Toc99298319)
-
-[Team Culture 6](#_Toc99298320)
-
-[Roles 6](#_Toc99298321)
-
-[Metrics of success 7](#_Toc99298322)
-
-[Standards of quality 7](#_Toc99298323)
-
-[Company Structure 7](#_Toc99298324)
-
-[Product Overview 9](#_Toc99298325)
-
-[OnTrack 9](#_Toc99298326)
-
-[Front-End Migration Project 10](#_Toc99298327)
-
-[Deployment Project 11](#_Toc99298328)
-
-[Jupyter Notebook Support Project 12](#_Toc99298329)
-
-[Voice Verification Project 13](#_Toc99298330)
-
-[Documentation Project 14](#_Toc99298331)
-
-[SplashKit 15](#_Toc99298332)
-
-[Operations – Migrating Arcana to SplashKit Project 16](#_Toc99298333)
-
-[Operations – Distribution Channels Project 17](#_Toc99298334)
-
-[Extensions Project 18](#_Toc99298335)
-
-[Applications – Arcade Machine Project 19](#_Toc99298336)
-
-[Applications – Build a Cool Game Project 20](#_Toc99298337)
-
-[Modules Project 21](#_Toc99298338)
-
-[DreamBig 22](#_Toc99298339)
-
-[DreamBig Prototype Project 22](#_Toc99298340)
-
-[Internal Systems 23](#_Toc99298341)
-
-[Internal Systems Project 23](#_Toc99298342)
-
+- [SplashKit](#splashkit)
+  - [Operations – Migrating Arcana to SplashKit Project](#operations-–-migrating-arcana-to-splashkit-project)
+  - [Operations – Distribution Channels Project](#operations-–-distribution-channels-project)
+  - [Extensions Project](#extensions-project)
+  - [Applications – Arcade Machine Project](#applications-–-arcade-machine-project)
+  - [Applications – Build a Cool Game Project](#applications-–-build-a-cool-game-project)
+  - [Modules Project](#modules-project)
+- [DreamBig](#dreambig)
+  - [DreamBig Prototype Project](#dreambig-prototype-project)
+- [Internal Systems](#internal-systems)
+  - [Internal Systems Project](#internal-systems-project)
 # Leadership Team
 
 ![](Aspose.Words.7698171d-24c6-484d-8064-ccc609e55c08.003.png)
