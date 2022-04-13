@@ -1,12 +1,13 @@
-<style>body {text-align: justify}</style>
-
-T1 Report 2022: Week 3
-
-## Leadership & Co
+<style>body {text-align: left}</style>
 
 # Thoth Tech
 
-## Company Structure and Objectives for 2022 Trimester 1
+## Leadership & Co
+
+**_T1 Report 2022: Week 6_**
+
+<br>
+<br>
 
 ## Executive Summary
 
@@ -33,6 +34,8 @@ _Managing Director_
 Glory Lee,
 
 _Managing Director_
+
+<br>
 
 # Contents
 
@@ -69,20 +72,20 @@ _Managing Director_
 - [Internal Systems](#internal-systems)
   - [Internal Systems Project](#internal-systems-project)
 
-# Leadership Team
+<br>
 
-![](Aspose.Words.7698171d-24c6-484d-8064-ccc609e55c08.003.png)
+# Leadership Team
 
 ## Roles and Responsibilities
 
-|                       | **Role**                                                                                                                                                                                                                                     | **Responsibilities**                                                                                                                                                                                                                                                                                                                                                                                       | **Skills**                                                                                                                                                                                                                              |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Managing Director** | The role of the managing director is to oversee the Thoth Tech company executive leadership team to ensure they are running the company effectively and value is being added to the Thoth Tech products by the projects they are supporting. | <p>- Provide guidance to executive leadership team</p><p>- Provide high-level vision for the ongoing goals of the company</p><p>- Provide a consistent company strategy due to low retention</p>                                                                                                                                                                                                           | <p>- Leadership</p><p>- Communication</p><p>- Mentor</p><p>- Decision-making</p><p></p><p></p><p></p>                                                                                                                                   |
-| **Area Lead**         | The role of the Area lead is to drive their area focus across all products and projects of their area. They also organise, lead, guide, and support Product and Delivery leads achieve their project goals.                                  | <p>- Establish company structure, systems & processes</p><p>- Establish a leadership cadence</p><p>- Drive a focus on Technical Learning, Data, Documentation and Quality Assurance</p><p>- Support Product leads with product vision</p><p>- Support Delivery leads with their project</p><p>- Proactively identify blockers and opportunities</p>                                                        | <p>- Leadership</p><p>- Organisation</p><p>- Interpersonal Savvy</p><p>- Problem-Solving</p><p>- Collaborative</p><p>- Mentor</p><p>- Communication</p><p>- Presentation</p><p>- Stakeholder management</p><p></p><p></p><p></p><p></p> |
-| **Product Lead**      | The role of the Product lead is to lead and support delivery leads in projects related to their product to ensure ongoing success.                                                                                                           | <p>- Drive the product in the direction determined by the Managing Directors and Area Leads.</p><p>- Strong drive towards toward objectives with bias for action</p><p>- Proactively identify blockers and opportunities</p><p>- Support delivery leads where needed</p><p>- Make thoughtful decisions motivated by data and research</p><p>- Be transparent and accountable by visualising objectives</p> | <p>- Communication</p><p>- Empathy</p><p>- Interpersonal Savvy</p><p>- Collaborative</p><p>- Leadership</p><p>- Stakeholder management</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>                                      |
-| **Delivery Lead**     | The role of the Delivery lead is to lead, organise and support their project teams to ensure ongoing success.                                                                                                                                | <p>- Establish a team cadence</p><p>- Build rapport with all team members to foster a cohesive and collaborative environment</p><p>- Strong drive towards objectives with bias for action</p><p>- Proactively identify blockers and opportunities</p><p>- Communication on what the team is doing, their plans and what is needed</p>                                                                      | <p>- Communication</p><p>- Empathy</p><p>- Interpersonal Savvy</p><p>- Collaborative</p><p>- Leadership</p><p>- Stakeholder management</p><p></p><p></p><p></p><p></p><p></p><p></p>                                                    |
+|                       | **Role**                                                                                                                                                                                                                                     | **Responsibilities**                                                                                                                                                                                                                                                                                                                                                                           | **Skills**                                                                                                                                                                                |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Managing Director** | The role of the managing director is to oversee the Thoth Tech company executive leadership team to ensure they are running the company effectively and value is being added to the Thoth Tech products by the projects they are supporting. | <p>Provide guidance to executive leadership team</p><p>Provide high-level vision for the ongoing goals of the company</p><p>Provide a consistent company strategy due to low retention</p>                                                                                                                                                                                                     | <p>Leadership</p><p>Communication</p><p>Mentor</p><p>Decision-making</p>                                                                                                                  |
+| **Area Lead**         | The role of the Area lead is to drive their area focus across all products and projects of their area. They also organise, lead, guide, and support Product and Delivery leads achieve their project goals.                                  | Establish company structure, systems & processes</p><p>Establish a leadership cadence</p><p>Drive a focus on Technical Learning, Data, Documentation and Quality Assurance</p><p>Support Product leads with product vision</p><p>Support Delivery leads with their project</p><p>Proactively identify blockers and opportunities</p>                                                           | <p>Leadership</p><p>Organisation</p><p>Interpersonal Savvy</p><p>Problem-Solving</p><p>Collaborative</p><p>Mentor</p><p>Communication</p><p>Presentation</p><p>Stakeholder management</p> |
+| **Product Lead**      | The role of the Product lead is to lead and support delivery leads in projects related to their product to ensure ongoing success.                                                                                                           | <p>Drive the product in the direction determined by the Managing Directors and Area Leads.</p><p>Strong drive towards toward objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Support delivery leads where needed</p><p>Make thoughtful decisions motivated by data and research</p><p>Be transparent and accountable by visualising objectives</p> | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                                                            |
+| **Delivery Lead**     | The role of the Delivery lead is to lead, organise and support their project teams to ensure ongoing success.                                                                                                                                | <p>Establish a team cadence</p><p>Build rapport with all team members to foster a cohesive and collaborative environment</p><p>Strong drive towards objectives with bias for action</p><p>Proactively identify blockers and opportunities</p><p>Communication on what the team is doing, their plans and what is needed</p>                                                                    | <p>Communication</p><p>Empathy</p><p>Interpersonal Savvy</p><p>Collaborative</p><p>Leadership</p><p>Stakeholder management</p>                                                            |
 
-<style>body {text-align: justify}</style>
+<style>body {text-align: left}</style>
 
 # Trimester Goals and Objectives
 
@@ -131,6 +134,10 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 
 - Build the vision and strategy for the DreamBig product.
 - Create a DreamBig prototype as proof of concept.
+
+<br>
+
+<br>
 
 # Company Charter
 
@@ -193,6 +200,10 @@ We celebrate diverse perspectives and embrace uncomfortable ideas and conversati
 - Build everything with re-usability and iteration in mind.
 - User satisfaction is key.
 
+<br>
+
+<br>
+
 # Company Structure
 
 The Company is broken up based on product, with the area leads spread company wide. There is a tier system built into the company structure – directors, area leads, product leads, delivery leads, then team members. This structure is primarily about support, guidance, and feedback, rather than authority.
@@ -201,7 +212,9 @@ Each employee has chosen their own role title based on their interests, skills, 
 
 The company structure is linked [here](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERuLF9JWzz5HvF68OG7D_EgBQ14uMdrGKXuS2fvNEWE_WQ?e=ihX3Wt) and available on the next page.
 
-![](Aspose.Words.7698171d-24c6-484d-8064-ccc609e55c08.004.png)
+<br>
+
+<br>
 
 # Product Overview
 
@@ -214,6 +227,8 @@ OnTrack is a platform designed to facilitate student learning by helping them ac
 This approach provides students with a simple but effective way to demonstrate their achievements and learning outcomes with the assistance of teaching staff feedback throughout the unit. OnTrack is based on Doubtfire LMS and Thoth Tech is working towards creating new and enhanced features that improve the teaching and learning experience.
 
 **Product Lead:** Jordan Cameron Trainor
+
+<br>
 
 ### Front-End Migration Project
 
@@ -259,6 +274,8 @@ Team 7: Ishrat Jahan, Ricardo Ingles
 
 Team 8: Zheng Jiahao, Huang Yongqi
 
+<br>
+
 ### Deployment Project
 
 #### *Overview, Goals, and Objectives* 
@@ -293,8 +310,35 @@ Long term deliverables will be continuous maintenance, improvement, and testing 
 
 **Delivery Lead:** Jordan Cameron Trainor
 
-| <p>**Google Cloud**</p><p>**Cloud/DevOps Engineer:** </p><p>Joyce Cruz</p><p>**Back-end Developer:**</p><p>Sultan Hindi A Albishri</p><p></p> | <p>**Pipeline**</p><p>**DevOps Engineer:**</p><p>Mathew Perkins</p><p>Lachlan Cayzer</p><p></p> | <p>**Enhance Authentication**</p><p>**Full-stack Developer:**</p><p>Linden Hutchinson</p><p>**Back-end Developer:**</p><p>Nathan Sukamto</p><p>Sarah Nicole Dyson</p><p>XueTing Jing</p> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+**_Google CLoud_**
+
+**Cloud/DevOps Engineer:**
+Joyce Cruz
+
+**Back-end Developer:**
+Sultan Hindi A Albishri
+
+**_Pipeline_**
+
+**DevOps Engineer:**
+
+Mathew Perkins
+
+Lachlan Cayzer
+
+**_Enhance Authentication_**
+**Full-stack Developer:**
+Linden Hutchinson
+
+Back-end Developer:
+
+Nathan Sukamto
+
+Sarah Nicole Dyson
+
+XueTing Jing
+
+<br>
 
 ### Jupyter Notebook Support Project
 
@@ -324,7 +368,7 @@ Long term deliverables beyond this trimester will be the maintenance and improve
 
 #### _Project Members (5)_
 
-**Delivery Lead:** Matt Clark
+**Delivery Lead:** Ethan G. Keirs
 
 **DevOps & Back-end Developer:** Lachlan Foy
 
@@ -334,7 +378,9 @@ Long term deliverables beyond this trimester will be the maintenance and improve
 
 Chetan Nagar
 
-Ethan G. Keirs
+Matt Clark
+
+<br>
 
 ### Voice Verification Project
 
@@ -376,6 +422,8 @@ The long-term deliverables for this project will be maintenance and improvements
 Yujun Gao
 
 Yanjun Chen
+
+<br>
 
 ### Documentation Project
 
@@ -421,11 +469,17 @@ Parth Aneja
 
 Shivam Singh
 
+<br>
+
+<br>
+
 ## SplashKit
 
 SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ and allowing students new to coding to create satisfying programs in a short period of time. SplashKit enables beginning coders to quickly learn to construct fun and functional programs which they can be proud to showcase. SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ which enables students new to coding to create satisfying programs in a short period of time. SplashKit enables novice coders to quickly learn to construct fun and functional programs which they can be proud to showcase. It includes a large library of functions which can be utilized by the user to experiment and apply for their own application or game. This product is currently used by the students at Deakin University and aims to become a global educational toolkit. Currently the language used for development is C++ and the direction of the product is to improve and expand the capabilities to increase SplashKit accessibility.
 
 **Product Lead:** Yash Kondlekar
+
+<br>
 
 ### Operations – Migrating Arcana to SplashKit Project
 
@@ -470,6 +524,8 @@ Long-term:
 
 **Documentation & Software Developer:** Devesh Juggiah
 
+<br>
+
 ### Operations – Distribution Channels Project
 
 #### *Overview, Goals, and Objectives* 
@@ -510,8 +566,15 @@ Our expectation is that the information gathered will to turn these into long-te
 
 **Delivery Lead:** Aiden John Molluso
 
-| <p>**MacOS Specialist:**</p><p>Richard Douglas-Denton</p> | <p>**Software Developer:**</p><p>Lachlan Morgan</p><p>Trent Mizzi</p> |     |
-| :-------------------------------------------------------- | :-------------------------------------------------------------------- | :-- |
+**MacOS Specialist:** Richard Douglas-Denton
+
+**Software Developer:**
+
+Lachlan Morgan
+
+Trent Mizzi
+
+<br>
 
 ### Extensions Project
 
@@ -549,8 +612,25 @@ Long-term:
 
 **Delivery Lead:** Allan Farrell
 
-| <p>**Software Engineer:**</p><p>Ben Thomas</p><p>Jack Sievers</p><p>Sicheng Liu</p><p></p> | <p>**Software Developer:**</p><p>Norbert Pop</p><p>Dylan Medlin</p><p>Jingze Du</p><p>Timothy Wilbert</p><p></p> |     |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --- |
+**Software Engineer:**
+
+Ben Thomas
+
+Jack Sievers
+
+Sicheng Liu
+
+**Software Developer:**
+
+Norbert Pop
+
+Dylan Medlin
+
+Jingze Du
+
+Timothy Wilbert
+
+<br>
 
 ### Applications – Arcade Machine Project
 
@@ -602,6 +682,8 @@ Anthony George
 
 Sarah Gosling
 
+<br>
+
 ### Applications – Build a Cool Game Project
 
 #### _Overview, Goals, and Objectives_
@@ -635,6 +717,8 @@ Morgaine Barter
 Lily Lan
 
 Bella Chhour
+
+<br>
 
 ### Modules Project
 
@@ -677,8 +761,30 @@ Long term:
 
 **Delivery Lead:** Alex Hocking
 
-| <p>**Machine Learning**</p><p>**Machine Learning Developer:**</p><p>Harry Dentry</p><p>**Software Developer:** Ricky Dodd</p> | <p>**Physics** </p><p>**Software Developer:** </p><p>Daniel Robert Haysham</p><p>Kanna Srilakshmanan</p> | <p>**Data Analytics**</p><p>**Software Developer:** </p><p>Ryan Allan Lawrence</p><p>Timothy Moore</p><p>Kai Tao</p> |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+**Machine Learning**
+**Developer:**
+
+Harry Dentry
+
+**Physics**
+**Software Developer:**
+
+Daniel Robert Haysham
+
+Kanna Srilakshmanan
+
+**Data Analytics**
+**Software Developer:**
+
+Ryan Allan Lawrence
+
+Timothy Moore
+
+Kai Tao
+
+<br>
+
+<br>
 
 ## DreamBig
 
@@ -691,6 +797,8 @@ DreamBig is a new product innovation driven by the School of IT at Deakin. Dre
 - Customised paths for career starters, career changers and career advancers.
 
 **Product Lead:** Abigail Howe
+
+<br>
 
 ### DreamBig Prototype Project
 
@@ -725,8 +833,26 @@ Long-term:
 
 **Delivery Lead:** Nehanjajli Makineni
 
-| <p>**Back-end Integration Developer:** </p><p>Zac Brydon</p><p>**Database Engineer:**</p><p>Munatsi Matipana</p><p></p> | <p>**Documentation & Security Specialist:**</p><p>Harrison Paul Allwood</p><p>George Gkoumas</p><p></p> | <p>**Front-end Design:** </p><p>Guanyu Chen</p><p>Harry Lui</p><p></p> |
-| :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------- |
+**Back-end Integration Developer:**
+Zac Brydon
+
+**Database Engineer:**
+Munatsi Matipana
+
+**Documentation & Security Specialist:**
+
+Harrison Paul Allwood
+
+George Gkoumas
+
+**Front-end Design:**
+Guanyu Chen
+
+Harry Lui
+
+<br>
+
+<br>
 
 ## Internal Systems
 
@@ -776,4 +902,6 @@ Long-term:
 
 **Junior Back-end Developer:** Tushar
 
-Thoth Tech T1 Report | 24
+<br>
+
+<br>

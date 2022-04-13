@@ -9,5 +9,8 @@ A list of training can be seen below:
 - [Markdown Guide](markdown-guide.md)
 - [Writing Documentation](writing-documentation.md)
 - [Trello Guide](trello-guide.md)
+- [Changing Fork Location](changing-git-fork-location.md)
+- [Installing npm]
+- [Condfiguring Jenkins](configuringJenkins.md)
 - Product Epics
 - User Stories
