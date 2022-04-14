@@ -14,7 +14,7 @@
 
 ## What is Markdown?
 
-Markdown (md) is a markup language, similar to a .txt file, but with basic **in-text** formatiing
+Markdown (md) is a markup language, similar to a .txt file, but with basic **in-text** formating
 elements. Although it can produce similar outputs as a word processor, there are other benefits that Thoth Tech can leverage.
 
 ### Thoth Tech and Markdown
