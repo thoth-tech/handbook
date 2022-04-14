@@ -1,46 +1,43 @@
-#### Windows (using WSL2)
+# Ontrack Comprehensive Setup Guide
 
-1. Set up Windows Subsystem for Linux (WSL) and the Linux distribution. WSL allows Linux distributions to run on the Windows OS. Visit this [website](https://docs.microsoft.com/en-us/windows/wsl/install) for more information.
+## Windows (using WSL2)
+### Set up WSL2 
+The first step in setting up your development environment will be to set up Windows Subsystem for Linux (WSL) and Ubuntu. WSL allows Linux distributions to run within the Windows OS. Visit this [website](https://docs.microsoft.com/en-us/windows/wsl/install) for more information.
 
-Follow the instructions here.
-https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview
+To quickly set up WSL2 with Ubuntu, follow the tutorial on [ubuntu.com](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview), OR (to paraphrase):
 
-(to paraphrase):
-Run Windows PowerShell as administrator:
-
+1. Run Windows PowerShell as administrator and use the following command:
    ```powershell
    wsl --install -d ubuntu
    ```
+   This will set up WSL2 and ubuntu.
 
-This will set up WSL2 and ubuntu.
-Restart your computer.
+2. Restart your computer.
 
-Open Ubuntu (search for the app on your computer) and follow the first time setup instructions to create a username and password.
-note: if you experience errors here it is most likely because virtualization is disabled in your BIOS.
+3. Open Ubuntu (search for the app on your computer) and follow the first time setup instructions to create a username and password.
 
-to make sure you have the latest updates for Ubuntu, use the following commands:
+   **NOTE: If you experience errors during this step, it may be because virtualization is disabled in your BIOS. To fix this will be different depending on your computer/CPU.**
 
+4. To make sure you have the latest updates for Ubuntu, use the following commands:
    ```sh
    sudo apt update
    ```
-
-then
-
+   then
    ```sh
    sudo apt upgrade
    ```
 
-2. Download and install Docker Desktop
+### Download and install Docker Desktop
+...wip
 
-...
+### Set up the OnTrack repository (following [CONTRIBUTING.md]())
 
-3. Set up the OnTrack repository (following https://github.com/lachfoy/doubtfire-deploy/blob/main/CONTRIBUTING.md)
-
-On github, fork [doubtfire-deploy](), [doubtfire-api](), and [doubtfire-web]().
+On github, fork [doubtfire-deploy](), [doubtfire-api](), and [doubtfire-web](https://github.com/thoth-tech/doubtfire-web).
 Make sure to fork the THOTH TECH branch.
 
-Open your Ubuntu terminal and create a directory for Doubtfire.
+#### note: Should we still be following the fork workflow?
 
+Open your Ubuntu terminal and create a directory for Doubtfire.
    ```sh
    mkdir Doubtfire
    ```
@@ -51,12 +48,16 @@ cd into this directory
    ```
 
 clone your doubtfire-deploy
-
    ```sh
    git clone --recurse-submodules https://github.com/YOUR_USERNAME/doubtfire-deploy
    ```
 
+### How to checkout a branch
 
+...wip
 
+### Developing
+Once the previous steps have been completed
+code
 
-
+code .
