@@ -1,16 +1,16 @@
 # Ontrack Comprehensive Setup Guide
-
+- Windows
 ## Windows (using WSL2)
-### Set up WSL2 
+### Step 1: Set up WSL2 
 The first step in setting up your development environment will be to set up Windows Subsystem for Linux (WSL) and Ubuntu. WSL allows Linux distributions to run within the Windows OS. Visit this [website](https://docs.microsoft.com/en-us/windows/wsl/install) for more information.
 
 To quickly set up WSL2 with Ubuntu, follow the tutorial on [ubuntu.com](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview), OR (to paraphrase):
 
-1. Run Windows PowerShell as administrator and use the following command:
+1. Run Windows PowerShell as administrator (search "Powershell" in the windows search bar and right-click 'run as administrator') and use the following command:
    ```powershell
    wsl --install -d ubuntu
    ```
-   This will set up WSL2 and ubuntu.
+   This will set up WSL2 and the Ubuntu distribution.
 
 2. Restart your computer.
 
@@ -27,13 +27,16 @@ To quickly set up WSL2 with Ubuntu, follow the tutorial on [ubuntu.com](https://
    sudo apt upgrade
    ```
 
-### Download and install Docker Desktop
-...wip
+### Step 2: Download and install Docker Desktop
+Docker Desktop is a software that is used to simplify the development of Doubtfire/OnTrack. Docker removes the need to install native tools used within the project.
 
-### Set up the OnTrack repository (following [CONTRIBUTING.md]())
+1. Download Docker Desktop from the [Docker website](https://docs.docker.com/desktop/windows/install/).
+
+### Step 3: Set up the OnTrack repository (following [CONTRIBUTING.md]())
+Finally we can clone a local version of Doubtfire/OnTrack.
 
 On github, fork [doubtfire-deploy](), [doubtfire-api](), and [doubtfire-web](https://github.com/thoth-tech/doubtfire-web).
-Make sure to fork the THOTH TECH branch.
+**Make sure to fork the THOTH TECH branch.**
 
 #### note: Should we still be following the fork workflow?
 
@@ -52,12 +55,15 @@ clone your doubtfire-deploy
    git clone --recurse-submodules https://github.com/YOUR_USERNAME/doubtfire-deploy
    ```
 
-### How to checkout a branch
-
-...wip
+   WIP!!!!!
 
 ### Developing
-Once the previous steps have been completed
-code
+Developing using WSL2 and Visual Studio Code is simple. Once the previous steps have been completed, change into the root directory of the project you are developing (For example, `cd Doubtfire/doubtfire-deploy/doubtfire-api` to change into the doubtfire-api directory) and simply run the command:
+   
+   ```sh
+   code .
+   ```
+This will open VS Code in the directory that you are currently in.
+If prompted to install any recommended extensions (for example, "WSL - Remote"), you should do so.
 
-code .
+Once VS Code is open, you will have access to the full codebase of the project and be able to make changes.
