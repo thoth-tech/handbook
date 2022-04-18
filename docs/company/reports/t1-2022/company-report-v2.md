@@ -653,20 +653,11 @@ Additional features which may be considered later in the lifecycle of the projec
   - reviews
   - high scores and achievements.
 
-#### *Aims for Trimester* 
+### Include a forecast of the likely state for each project at the end of the trimester
+Things we have working so far: On startup of arcade machine the games are cloned from GitHub, these are displayed on a menu page and when selected open up the game in a new window on top of the arcade machine, when escape key is hit, user is taken back to games menu. We have a working grid layout and button class. 
+### Indicate any changes to plans for the project.
 
-The primary aim of this trimester is to develop a platform which supports the uploading, storage, and access to a growing library of games developed using the SplashKit SDK. Access to the game library will be offered through the platform where the user can configure settings and select and play their desired game. If time permits, a physical Arcade Machine will be designed and manufactured however the software platform is the primary focus for the trimester.
-
-#### *Deliverables* 
-
-Short-term:
-
-- Platform which can access, download, and play SplashKit games stored in a public library on the internet.
-- Production of a physical Arcade Machine which runs on the platform to showcase SplashKit games created by students during university open days.
-
-Long-term:
-
-- Arcade Machine and platform completed automated for uploading new games and self-maintaining.
+### Add any new projects that have started since 2.1P was created
 
 #### _Project Members (5)_
 
@@ -690,21 +681,14 @@ Sarah Gosling
 
 The project that the Build a Cool Game team has is to make games that can be showcased and played on the Arcade machine that is going to be virtually built. The goal is to make a game that uses all functions that SplashKit has to offer within game creation. The long-term goal will showcase that SplashKit can be extended upon as a game engine and can create games that can be played on different platforms. As SplashKit is widely used to create 2D games, it will be a good opportunity to showcase how SplashKit games can be extended and shown on a physical arcade machine.
 
-#### *Aims for Trimester* 
 
-The aim for this trimester is to work on game creation using SplashKit. This must incorporate all the functions that SplashKit has to make the games. This will showcase the creation tools that game developers can use to create a game from scratch so that it can be played on the arcade machine.
+### What's been achieved so far
 
-*Deliverables* 
-Short-term:
+### Include a forecast of the likely state for each project at the end of the trimester
 
-- Cool 2D games demonstrating all functionality of SplashKit. (Minimum 1 per team member)
-- A step-by-step article guide of How to create the Cool games produced (Document design decisions, process and how-to-guides)
-- Guide uploaded to the SplashKit.io website.
+### Indicate any changes to plans for the project.
 
-Long-term:
-
-- Documentation updates on how to create cool games of different types
-  - create templates for platformers and collection games.
+### Add any new projects that have started since 2.1P was created
 
 #### _Project Members (4)_
 
