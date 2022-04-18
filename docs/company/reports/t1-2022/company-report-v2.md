@@ -654,7 +654,9 @@ Additional features which may be considered later in the lifecycle of the projec
   - high scores and achievements.
 
 ### Include a forecast of the likely state for each project at the end of the trimester
-Things we have working so far: On startup of arcade machine the games are cloned from GitHub, these are displayed on a menu page and when selected open up the game in a new window on top of the arcade machine, when escape key is hit, user is taken back to games menu. We have a working grid layout and button class. 
+
+Things we have working so far: On startup of arcade machine the games are cloned from GitHub, these are displayed on a menu page and when selected open up the game in a new window on top of the arcade machine, when escape key is hit, user is taken back to games menu. We have a working grid layout and button class.
+
 ### Indicate any changes to plans for the project.
 
 ### Add any new projects that have started since 2.1P was created
@@ -680,7 +682,6 @@ Sarah Gosling
 #### _Overview, Goals, and Objectives_
 
 The project that the Build a Cool Game team has is to make games that can be showcased and played on the Arcade machine that is going to be virtually built. The goal is to make a game that uses all functions that SplashKit has to offer within game creation. The long-term goal will showcase that SplashKit can be extended upon as a game engine and can create games that can be played on different platforms. As SplashKit is widely used to create 2D games, it will be a good opportunity to showcase how SplashKit games can be extended and shown on a physical arcade machine.
-
 
 ### What's been achieved so far
 
