@@ -653,13 +653,21 @@ Additional features which may be considered later in the lifecycle of the projec
   - reviews
   - high scores and achievements.
 
-### Include a forecast of the likely state for each project at the end of the trimester
+### Achievments Made So Far
 
-Things we have working so far: On startup of arcade machine the games are cloned from GitHub, these are displayed on a menu page and when selected open up the game in a new window on top of the arcade machine, when escape key is hit, user is taken back to games menu. We have a working grid layout and button class.
+On startup of arcade machine the games are cloned from GitHub, these are displayed on a menu page and when selected open up the game in a new window on top of the arcade machine, when escape key is hit, user is taken back to games menu. We have a working grid layout and button class.
+
+### Forecast of the likely state for each project at the end of the trimester
+
+I believe we as a team see the software side of the arcade machine mostly completed, this being a working solution that has intro screens leading to a menu of options (play, options, exit), when play is clicked, the user is taken to a games menu where they can scroll through and select and play games. Users will have the option to change the display, audio, turn off music etc. The games menu can be displayed in a carousel or a tile layout.
 
 ### Indicate any changes to plans for the project.
 
-### Add any new projects that have started since 2.1P was created
+To date, there are no changes to the plans that have been set out. This may be subject to change as time goes on.
+
+### New projects that have started since 2.1P was created
+
+To date, there are no changes to the plans that have been set out. This may be subject to change as time goes on.
 
 #### _Project Members (5)_
 
@@ -685,11 +693,29 @@ The project that the Build a Cool Game team has is to make games that can be sho
 
 ### What's been achieved so far
 
+For the game Jump, background and player both appear on the screen, image assets created on photoshop and exported as PNG files (as the pixel size wanted for display in the window to avoid scaling)
+
+For the game Dicey Combat, background and one of the players (image assets) were created on Procreate. Created a complete plan for the game structure.
+
+For the game Tanks, the A.I for the tanks has been created and the assets are being worked on. The current state of the game is sitting around 40% complete. The game class has been created also meaning that there is a working demo.
+
 ### Include a forecast of the likely state for each project at the end of the trimester
+
+As a team, we are expecting to be completing the game structure and at least halfway through programming the 2 games.
+
+For the Game Jump, I want to have at least 1 level able to be completed (finished moving to the next level) this includes player input, sounds, animations and speed, gravity, and velocity for movement. While progress to date has been slow, I remain optimistic.
+
+For the Game Dicey Combat, We want to be able to move both players across the board with the right direction movement. As well as having the score board synchronized with the players’ winning or losing points.
+
+For the Game Tanks, The game will most likely be finished at the end of this trimester and will be improved upon after the initial main game is finished.
 
 ### Indicate any changes to plans for the project.
 
-### Add any new projects that have started since 2.1P was created
+The team's structure has shifted from four individual projects to three individual projects. This has allowed us to make more progress towards deliverables for the end of the trimester.
+
+### New projects that have started since 2.1P was created
+
+The game Tanks was a new project that was added by Nick as a way to demonstrate A.I in splashkit. This isn't a neccessary project but one so that we can allow for more demonstration of SplashKit to be shown.
 
 #### _Project Members (4)_
 
