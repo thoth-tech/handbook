@@ -715,7 +715,7 @@ The team's structure has shifted from four individual projects to three individu
 
 ### New projects that have started since 2.1P was created
 
-The game Tanks was a new project that was added by Nick as a way to demonstrate A.I in splashkit. This isn't a neccessary project but one so that we can allow for more demonstration of SplashKit to be shown.
+The game Tanks was a new project that was added by Nick as a way to demonstrate A.I in splashkit. This isn't a necessary project but one so that we can allow for more demonstration of SplashKit to be shown.
 
 #### _Project Members (4)_
 
