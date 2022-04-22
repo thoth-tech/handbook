@@ -1,5 +1,3 @@
-<style>body {text-align: left}</style>
-
 # Thoth Tech
 
 ## Leadership & Co
@@ -138,6 +136,69 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 <br>
 
 <br>
+
+### The Area Lead Project
+
+The Area Lead Team is committed to delievering the company-wide Trimester Goals and Objectives, as stated above. This project has been in progress since Week 0, however, was not included within The Q1 Company Report
+
+#### _Aims for Trimester_
+
+The aim for the trimester is for each of of the company-wide goals and objectives are completed or significantly progressed.
+
+#### _Deliverables_
+- Thoth Tech Handbook
+- Training
+- Processes
+- GitHub
+
+// Someone please fluff this
+
+#### _Project Members (4)_
+**Technical Lead:** Tan Le
+
+**Quality Assurance Lead:** Katrina Steen
+
+**Learning Lead:** Liz Lynch
+
+**Documentation and People Lead:** Talia Zidar
+
+<br>
+
+#### **_Project health_**
+
+Project is on track
+
+#### *Summary*
+
+Include a short description of the most important takeaways from your project status report here.
+
+#### *High-level overview*
+1. Objective 1:
+2. Objective 2:
+3. Objective 3:
+4. Objective 4:
+5. Objective 5:
+
+#### *Additional information and links*
+
+Link to relevant project details or higher-level project information that stakeholders might be curious about. May include links to relevant repositories, deliverables, SRS document, etc.
+
+#### *Blockers*
+
+#### *Challenges and Resolution*
+
+#### *Additional notes or highlights*
+
+Are there any additional things your team needs to know? What are the main next steps?
+
+#### *Forecast*
+
+#### *Expected state by End of T1*
+
+#### *Any changes to plans for the project*
+
+<br>
+
 
 # Company Charter
 
