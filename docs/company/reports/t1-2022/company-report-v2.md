@@ -146,6 +146,7 @@ The Area Lead Team is committed to delievering the company-wide Trimester Goals 
 The aim for the trimester is for each of of the company-wide goals and objectives are completed or significantly progressed.
 
 #### _Deliverables_
+
 - Thoth Tech Handbook
 - Training
 - Processes
@@ -154,6 +155,7 @@ The aim for the trimester is for each of of the company-wide goals and objective
 // Someone please fluff this
 
 #### _Project Members (4)_
+
 **Technical Lead:** Tan Le
 
 **Quality Assurance Lead:** Katrina Steen
@@ -168,37 +170,37 @@ The aim for the trimester is for each of of the company-wide goals and objective
 
 Project is on track
 
-#### *Summary*
+#### _Summary_
 
 Include a short description of the most important takeaways from your project status report here.
 
-#### *High-level overview*
+#### _High-level overview_
+
 1. Objective 1:
 2. Objective 2:
 3. Objective 3:
 4. Objective 4:
 5. Objective 5:
 
-#### *Additional information and links*
+#### _Additional information and links_
 
 Link to relevant project details or higher-level project information that stakeholders might be curious about. May include links to relevant repositories, deliverables, SRS document, etc.
 
-#### *Blockers*
+#### _Blockers_
 
-#### *Challenges and Resolution*
+#### _Challenges and Resolution_
 
-#### *Additional notes or highlights*
+#### _Additional notes or highlights_
 
 Are there any additional things your team needs to know? What are the main next steps?
 
-#### *Forecast*
+#### _Forecast_
 
-#### *Expected state by End of T1*
+#### _Expected state by End of T1_
 
-#### *Any changes to plans for the project*
+#### _Any changes to plans for the project_
 
 <br>
-
 
 # Company Charter
 
