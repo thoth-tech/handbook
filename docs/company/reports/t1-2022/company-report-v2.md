@@ -1,5 +1,3 @@
-<style>body {text-align: left}</style>
-
 # Thoth Tech
 
 ## Leadership & Co
@@ -136,6 +134,71 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 - Create a DreamBig prototype as proof of concept.
 
 <br>
+
+<br>
+
+### The Area Lead Project
+
+The Area Lead Team is committed to delievering the company-wide Trimester Goals and Objectives, as stated above. This project has been in progress since Week 0, however, was not included within The Q1 Company Report
+
+#### _Aims for Trimester_
+
+The aim for the trimester is for each of of the company-wide goals and objectives are completed or significantly progressed.
+
+#### _Deliverables_
+
+- Thoth Tech Handbook
+- Training
+- Processes
+- GitHub
+
+// Someone please fluff this
+
+#### _Project Members (4)_
+
+**Data and Technical Lead:** Tan Le
+
+**Quality Assurance Lead:** Katrina Steen
+
+**Learning Lead:** Liz Lynch
+
+**Documentation and People Lead:** Talia Zidar
+
+<br>
+
+#### **_Project health_**
+
+Project is on track
+
+#### _Summary_
+
+Include a short description of the most important takeaways from your project status report here.
+
+#### _High-level overview_
+
+1. Objective 1:
+2. Objective 2:
+3. Objective 3:
+4. Objective 4:
+5. Objective 5:
+
+#### _Additional information and links_
+
+Link to relevant project details or higher-level project information that stakeholders might be curious about. May include links to relevant repositories, deliverables, SRS document, etc.
+
+#### _Blockers_
+
+#### _Challenges and Resolution_
+
+#### _Additional notes or highlights_
+
+Are there any additional things your team needs to know? What are the main next steps?
+
+#### _Forecast_
+
+#### _Expected state by End of T1_
+
+#### _Any changes to plans for the project_
 
 <br>
 
@@ -278,17 +341,17 @@ Team 8: Zheng Jiahao, Huang Yongqi
 
 ### Deployment Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 The Deployment project aim is to create an employee-run deployment of OnTrack separated from the existing Deakin version and hosted on Google Cloud. Due to the scale of the project, there are three subgroups within the project which will focus on Google Cloud deployment, CI/CD pipeline, and enhanced authentication. The objective of the Thoth Tech hosted version of OnTrack is to allow the company to own the deployment cadence, conduct end-to-end testing, reduce risks leaking bugs upstream an innovate on new features. In addition, stakeholders will have a much more efficient setup, as well an improved process for future employees contributing to the project. The pipeline will be focused on improving software delivery with a CI/CD approach to speed up development and provide a level of quality assurance, whilst the authentication system will ensure security and privacy.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 - Deploy a student-run version of OnTrack hosted on Google Cloud. This version will be running in isolation, independently of the Deakin University version.
 - Create a CI/CD pipeline that automates the building, deployment, and validation of a of the Thoth Tech OnTrack to Google Cloud.
 - Enable an enhanced authentication for user login which securely transmits data and protects stakeholder privacy.
 
-#### *Deliverables* 
+#### _Deliverables_
 
 ##### **Google Cloud**
 
@@ -390,11 +453,11 @@ Currently, the OnTrack product has the functionality to accept audio submissions
 
 In the past there have been teams who have worked on a Speaker Verification Library to validate audio files, a Speaker Verification API to wrap the library, and a Ruby app to integrate Doubtfire LMS and the Speaker Verification API. The objective of this project is to finalise a proof of concept for the Voice Verification system, deploy it to the Thoth Tech OnTrack environment, and deliver technical documentation.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 The aim for this trimester is to work on understanding the work completed by previous teams, finish the voice verification feature, test the functionality, and create accurate documentation for the entirety of the Voice Verification system; architecture, deployment and how to user it.
 
-#### *Deliverables* 
+#### _Deliverables_
 
 The short-term deliverables for this project will be upskilling, understanding, improving, integrating, testing, deploying, and developing any gaps identified in the existing pieces of work completed for the Voice Verification feature. This includes:
 
@@ -483,7 +546,7 @@ SplashKit is an open-source Software Development Kit (SDK)​, created with the
 
 ### Operations – Migrating Arcana to SplashKit Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 The Programming Arcana is an open-source friendly programming textbook that teaches introductory programming concepts to those new to programming. From the programming Arcana’s GitHub, the guiding principles are:
 
@@ -494,7 +557,7 @@ The Programming Arcana is an open-source friendly programming textbook that teac
 
 The programming Arcana currently has two versions, 1.0.x and 2.0.x. Version 1.0.x uses Tex as its typesetting system. Version 2.0.x uses Markdown as its typesetting system. This version also uses NodeJS and React to deploy a website. Version 2.0.x is still in progress; therefore, goals include finishing the documents, creating different programming language examples, and migrating the programming Arcana into SplashKit which would allow the SplashKit users to view the programming Arcana as they are developing resulting in an enhanced learning experience.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 - Investigating intended output
 - Upskilling for SplashKit and C++
@@ -502,7 +565,7 @@ The programming Arcana currently has two versions, 1.0.x and 2.0.x. Version 1.0.
 - Create code examples
 - Migrate programming arcana into SplashKit
 
-#### *Deliverables* 
+#### _Deliverables_
 
 Short-term:
 
@@ -528,7 +591,7 @@ Long-term:
 
 ### Operations – Distribution Channels Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 SplashKit is a product that has been developed to abstract away the complexities of programming languages for novice programmers. However, the toolchains and development environments required to use SplashKit can be difficult and confusing to see tup for inexperienced users. Some aspects of these issues have already been eased using SplashKit’s current install script, but it’s been observed that the initial installation process for “skm" could be further simplified.
 
@@ -536,7 +599,7 @@ The Distribution Channel Team intends to improve the installation process of Spl
 
 The result of these improvements aims to be a single command or executable installation process that yields a working development environment for SplashKit on Windows, Linux or macOS ready for the user to start using SplashKit as quickly as possible. Decreasing the friction of the installation process aims to streamline the setup process for new users, potentially adding both product value to SplashKit – and confidence to new users.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 The main aims for the Distribution Channel Team this trimester:
 
@@ -545,7 +608,7 @@ The main aims for the Distribution Channel Team this trimester:
 - Report on future possibilities
 - Investigate issues with Mac M1 chip devices
 
-#### *Deliverables* 
+#### _Deliverables_
 
 Currently the deliverables planned for Sprint 1 will be to investigate the user and customer requirements in installing splash kit on Linux, Windows, and Mac OS (including the recent M1 chip). These deliverables are critical to the scoping of future deliverables and direction for our team as once completed, potential solutions can be determined, and tasks delegated accordingly.
 
@@ -578,13 +641,13 @@ Trent Mizzi
 
 ### Extensions Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 The SplashKit translator is a Ruby application that translates the original cpp library into a target language. Currently, the translator enables translation of the SplashKit library into Python (< 3.8), Pascal, Rust, and C#. The SplashKit Extensions project’s aim is to provide the SplashKit library interface in additional languages.
 
 Translating the SplashKit library into other languages provides the flexibility to teach other languages using SplashKit as well as increase the adoption of SplashKit. The project also ensures SplashKit’s continued relevance in a changing field.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 - Understand how the language translators works
 - Investigate changes in Python between 3.8x versions and earlier to identify which of these changes have caused current incompatibilities.
@@ -593,7 +656,7 @@ Translating the SplashKit library into other languages provides the flexibility 
 - Test all existing and new language translations.
 - Prepare team members for future semesters.
 
-#### *Deliverables* 
+#### _Deliverables_
 
 Short-term:
 
@@ -634,7 +697,7 @@ Timothy Wilbert
 
 ### Applications – Arcade Machine Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 The goal of this project is to create a physical arcade machine with accompanying software to showcase student games, developed with the [SplashKit](https://splashkit.io/) SDK. The machine will perform similarly to a Multi-Game Arcade Machine, allowing users to select a game from a local library of games. Our system ideally will instead have access to a growing library of SplashKit games publicly hosted on the internet. Objectives include:
 
@@ -653,11 +716,11 @@ Additional features which may be considered later in the lifecycle of the projec
   - reviews
   - high scores and achievements.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 The primary aim of this trimester is to develop a platform which supports the uploading, storage, and access to a growing library of games developed using the SplashKit SDK. Access to the game library will be offered through the platform where the user can configure settings and select and play their desired game. If time permits, a physical Arcade Machine will be designed and manufactured however the software platform is the primary focus for the trimester.
 
-#### *Deliverables* 
+#### _Deliverables_
 
 Short-term:
 
@@ -690,11 +753,11 @@ Sarah Gosling
 
 The project that the Build a Cool Game team has is to make games that can be showcased and played on the Arcade machine that is going to be virtually built. The goal is to make a game that uses all functions that SplashKit has to offer within game creation. The long-term goal will showcase that SplashKit can be extended upon as a game engine and can create games that can be played on different platforms. As SplashKit is widely used to create 2D games, it will be a good opportunity to showcase how SplashKit games can be extended and shown on a physical arcade machine.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 The aim for this trimester is to work on game creation using SplashKit. This must incorporate all the functions that SplashKit has to make the games. This will showcase the creation tools that game developers can use to create a game from scratch so that it can be played on the arcade machine.
 
-*Deliverables* 
+_Deliverables_
 Short-term:
 
 - Cool 2D games demonstrating all functionality of SplashKit. (Minimum 1 per team member)
@@ -722,19 +785,19 @@ Bella Chhour
 
 ### Modules Project
 
-#### Overview, Goals, and Objectives 
+#### Overview, Goals, and Objectives
 
 Across three modules, Physics, Data Analytics and Machine Learning, SplashKit aims to enrich and expand its functionality, to improve current features and extend its user base beyond game development. In the next two years, SplashKit aims to develop a full 2D physics engine that can be used by game developers, requiring the addition of a realistic and easy to use physics library. New capabilities to interact with, visualise, and analyse data are aiming to attract new users and provide data analytics functionalities for the existing user base.
 
 SplashKit’s current objective for Machine Learning is to develop an Artificial Intelligence framework that allows the inclusion of artificial co-op or opposition characters into SplashKit games, with a long-term goal to integrate with the Data Analytics module and to create a complete Machine Learning framework.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 This trimester, the team are aiming to finalise and publish the existing work completed for all three modules. The Physics and Data Analytics team are aiming to review and publish the existing elastic collision, impulse effect, and data frame code from past developers, whilst the Machine Learning team is expecting to use the example code from past developers as reference to build a brand-new system.
 
 The team aims to produce new functionality this trimester to the existing code, including extending the physics API to complete the handing of 2D sprite and object collisions, and implementing gravity. Data Analytics team plan to extend data frames to allow instance selection, standardisation, transformation, and feature selection. Machine Learning team aims to design a reinforcement learning algorithm that is capable of co-op or opposition AI in SplashKit games.
 
-#### *Deliverables* 
+#### _Deliverables_
 
 Short term:
 
@@ -802,7 +865,7 @@ DreamBig is a new product innovation driven by the School of IT at Deakin. Dre
 
 ### DreamBig Prototype Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 DreamBig is at its early inception. The customer needs and product requirements are still yet discovered and refined. The Prototype project is an attempt to explore the product-market fit. The process includes determining our target customer, identifying underserved customer needs, defining the product value proposition, specifying the MVP feature set, building, and testing the prototype with the customers.
 
@@ -862,11 +925,11 @@ The internal systems product is a new initiative driven mitigating the challenge
 
 ### Internal Systems Project
 
-#### *Overview, Goals, and Objectives* 
+#### _Overview, Goals, and Objectives_
 
 The goal for the Internal systems team is to research, scope, plan and prototype a web page that will house all necessary information for Thoth Tech. To achieve this the main objectives across the Internal Systems team will be to research different tools, technologies and processes and decide on what will best serve requirements and given team member skills whilst also allowing for expansion and adaptability in the future. The web page will create a centralised location for all the company’s information needed for its internal audience. This in turn will simplify the onboarding and resource sharing amongst the company and its everchanging audiences.
 
-#### *Aims for Trimester* 
+#### _Aims for Trimester_
 
 The aim this trimester is to plan out the architecture needed, design the page, and create documentation that will serve as a solid base for the progressive development of the web page.
 
