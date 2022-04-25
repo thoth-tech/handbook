@@ -63,7 +63,7 @@ Here are few tips when talking to your client:
 In bigger organisation and teams, it is a great idea do a more complete stakeholder analysis using
 power-interest matrix.
 
-[!power-interest-matrix](images/power-interest-matrix.jpg)
+![Power-interest matrix](images/power-interest-matrix.png)
 
 ## Talking to technical people & developers
 

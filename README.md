@@ -27,9 +27,6 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
-- Development
-  - [D/HD Workshop Notes](docs/learning/d-hd-workshop.md)
-  - [Training](docs/learning/training/training-toc.md)
 - Processes
   - Developer Operations
   - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
@@ -41,7 +38,8 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
     - Handover
     - Exit Survey
   - Learning & Development
-    - [Training](docs/learning/training/training-toc.md)
+    - [Training](docs/learning/training/index.md)
+    - [Useful Resources](docs/learning/useful-resources/index.md)
 - Products
   - [DreamBig](docs/products/dreambig/dreambig.md)
   - [OnTrack](docs/products/ontrack/ontrack.md)
