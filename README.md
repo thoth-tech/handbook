@@ -21,6 +21,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - Marketing
   - [Pitch](docs/pitch.md)
   - [Recruitment Ad](docs/recruitment-ad.md)
+  - [Data](docs/data/index.md)
   - Structure
 - [Communication](docs/communication/communication.md)
 - Leadership
