@@ -18,7 +18,6 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
-  - [Data](docs/data/index.md)
   - Structure
 - Marketing
   - [Pitch](docs/marketing/pitch.md)
@@ -28,6 +27,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
+- [Data](docs/data/index.md)
 - Processes
   - Developer Operations
   - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
