@@ -18,11 +18,11 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
-  - Marketing
-  - [Pitch](docs/pitch.md)
-  - [Recruitment Ad](docs/recruitment-ad.md)
   - [Data](docs/data/index.md)
   - Structure
+- Marketing
+  - [Pitch](docs/marketing/pitch.md)
+  - [Recruitment Ad](docs/marketing/recruitment-ad.md)
 - [Communication](docs/communication/communication.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
