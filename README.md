@@ -18,10 +18,10 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
-  - Marketing
+  - Structure
+- Marketing
   - [Pitch](docs/pitch.md)
   - [Recruitment Ad](docs/recruitment-ad.md)
-  - Structure
 - [Communication](docs/communication/communication.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
@@ -47,8 +47,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [OnTrack](docs/products/ontrack/ontrack.md)
   - [SplashKit](docs/products/splashkit/splashkit.md)
 - Projects
-  - T1 2022
-    - [Teams](docs/projects/t1-2022/teams.md)
+  - [T1 2022 Teams](docs/projects/t1-2022/teams.md)
     - [Thoth Tech Leadership](docs/projects/t1-2022/thoth-tech-leadership)
       - Retrospectives
       - [Weekly Announcements](docs/projects/t1-2022/thoth-tech-leadership/weekly-announcements/)
