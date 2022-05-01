@@ -162,13 +162,13 @@ as a sound understanding of our data sources and business KPIs.
 
 ## Quarterly Objectives
 
-For the period of Trimester 1/2020, we would like to focus on the following items:
+For the period of Trimester 1/2022, we would like to focus on the following items:
 
 - explore document project objectives, whether they are related to people, process or product.
-- define the measure of success related to those objectives.
-- brainstorm on the required data that can help to validate the above measures
+- define the key results that support those objectives.
+- brainstorm on the required data that can help to validate the above key results
 
 ```mermaid
 graph LR;
-  O[Objectives] --> M[Measure Of Success] --> D[Required Data]
+  O[Objectives] --> K[Key Results] --> D[Required Data]
 ```

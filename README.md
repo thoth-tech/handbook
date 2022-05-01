@@ -20,16 +20,14 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Roles](docs/company/roles.md)
   - Structure
 - Marketing
-  - [Pitch](docs/pitch.md)
-  - [Recruitment Ad](docs/recruitment-ad.md)
+  - [Pitch](docs/marketing/pitch.md)
+  - [Recruitment Ad](docs/marketing/recruitment-ad.md)
 - [Communication](docs/communication/communication.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
-- Development
-  - [D/HD Workshop Notes](docs/learning/d-hd-workshop.md)
-  - [Training](docs/learning/training/training-toc.md)
+- [Data](docs/data/index.md)
 - Processes
   - Developer Operations
   - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
@@ -41,7 +39,8 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
     - Handover
     - Exit Survey
   - Learning & Development
-    - [Training](docs/learning/training/training-toc.md)
+    - [Training](docs/learning/training/index.md)
+    - [Useful Resources](docs/learning/useful-resources/index.md)
 - Products
   - [DreamBig](docs/products/dreambig/dreambig.md)
   - [OnTrack](docs/products/ontrack/ontrack.md)
