@@ -60,9 +60,7 @@ By now you should have:
 We will expect the teams are working on:
 
 - Data and Testing strategy templates filled out this week ready to present in company report
-
 - Beginning work on projects if all up to date (this will be different for all teams)
-
 - Continuing your leadership/cohort contributions (D/HD students)
 
 Thank you for all your continuing work. If you have any questions, please reach out to the Delivery and Product leads first. For more serious enquires the Area Leads.
