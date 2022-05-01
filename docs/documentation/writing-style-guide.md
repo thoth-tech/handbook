@@ -21,7 +21,7 @@ Here at Thoth Tech, we aim for all our writing to meet these goals:
 While writing, it is important to:
 
 1. Know your audience
-2. Know you intention of the writing
+2. Know the intention of your writing
 3. Structure the writing
 4. Keep it simple
 5. Review and Edit
