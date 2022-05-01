@@ -8,15 +8,15 @@ Effective writing is clear, easy to read, and concise. Thoth Tech writing should
 
 Here at Thoth Tech, we aim for all our writing to meet these goals:
 
-**To Empower:** We want our people to have the knowledge to make the most of our products
+- **To Empower:** We want our people to have the knowledge to make the most of our products.
 
-**To Respect:** We want our people to feel included and accepted for who they are
+- **To Respect:** We want our people to feel included and accepted for who they are.
 
-**To Educate:** We want to assist our people in their learning and provide them with the information they need
+- **To Educate:** We want to assist our people in their learning and provide them with the information they need.
 
-**To Guide:** We want to lead our people in a thoughtful manner towards their goals
+- **To Guide:** We want to lead our people in a thoughtful manner towards their goals.
 
-**To be Honest:** We want to be truthful to our people and focus on our real strengths
+- **To be Honest:** We want to be truthful to our people and focus on our real strengths.
 
 While writing, it is important to:
 
@@ -50,31 +50,43 @@ Use h2 (##) or h3 (###) for subheadings. Choice depends on the layer.
 
 Information that is outside the scope of the content should be placed as a note if it necessary for the reader to understand.
 
-Content within a note should be separate from the content, short and to the point. A link to more information can be provided within the note section
+Content within a note should be separate from the main content, short, and to the point. A link to more information can be provided within the note section
 
 ## Hyperlinks
 
-Consider using hyperlinks (links) to ensure all information is relevant only to the article at hand
+Consider using hyperlinks (links) to ensure all information is relevant only to the article at hand.
 
-When an article references information that is out of scope, the reader can be linked to other information sources.
+When an article references information that is out of scope, the reader can be linked to other information sources. 
 
 For example:
 
-More information can be found here
+One reference for Australian spelling is the [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
 
 ## Lists
+The sentence leading into a list should eend in a colon (:).
+If each item in the list is a full sentence, capitalise the first letter and end each item with a full stop.
+Otherwise, if the items are fragements of a sentence, each item should start in lowercase. Use a full stop at the end of the last item.
 
-Put a colon at the end of the lead sentence.
+### Unordered/bullet list
+An unordered list should be used when the order of the items is not important. 
 
-Use a capital letter to start every dot point and a full stop at the end of the last dot point.
+To create an unordered list, you should:
+- end the leading sentence with a colon
+- end each item with no punctuation mark
+- not use a capital letter or full stop if the list items are not full sentences
+- end the last item with a full stop.
 
-To create a bullet list in markdown:
+To create unordered list items in markdown, use a dash (-).
 
-- Use a dash
+### Ordered/numbered list
+An ordered list should be used when the order of the items is important, for example, step-by-step instructions.
 
-To create a numbered list in markdown:
+Follow these steps to create an ordered list:
+1. You should always use a colon at the end of the leading sentence.
+2. Please put list items in the right order. 
+3. Check that items which are full sentences have capital letters and full stops.
 
-1. Use 1. The first number in the list will be the starting number
+To create an ordered list in markdown, use a number followed by a full stop (1.).
 
 ## Text formatting
 
@@ -106,7 +118,7 @@ The purpose of a sentence is to deliver a single message. The average sentence w
 
 A variety of sentence lengths will engage your reader.
 
-Put qualifying phrases, conditions, and explanations into separate sentence.
+Put qualifying phrases, conditions, and explanations into separate sentences.
 
 If you want to elaborate on the same point in a new sentence, use words like &#39;also&#39;, &#39;further&#39;, or &#39;however&#39;.
 
@@ -152,7 +164,7 @@ Use active voice when you want the writing to be simple, direct, clear, and easy
 
 Active voice emphasises the verb.
 
-Sentences are structured as subject \&gt; verb \&gt; object
+Sentences are structured as subject \> verb \> object
 
 Passive voice is used for feedback, preserving a relationship, and when the subject is unknown.
 
@@ -194,36 +206,37 @@ When writing code examples
 
 ## Writing steps
 
-- Format consistently
-- Use headings
-- Separate numbered entry for each step
-- Include actions that finalise a step
-- Use complete sentences
-- Use imperative verb form
-- Consistent sentence structure
-- Capitalise first word
-- Period after each step
-- Fit all steps on same screen
-- Single-step procedures
-- Make sure the customer knows where to look
-- Provide introductory step if needed
-- Simple instructions with \&gt; \&gt; (verify before use)
+You should:
+- format consistently
+- use headings
+- use a separate numbered entry for each step
+- include actions that finalise a step
+- use complete sentences
+- use imperative verb form
+- use consistent sentence structure
+- capitalise the first word of full sentences
+- use a full stop after each step
+- fit all steps on same screen
+- use single-step procedures
+- make sure the customer knows where to look
+- provide an introductory step if needed
+- use simple instructions with \> \> (verify before use).
 
 ## Punctuation
 
-|
-| **Symbol** | **Main use** |
+
+| **Symbol name** | **Symbol** | **Main use** |
 | ------------------ | ------------ | ---------------------------------------------- |
 | _Full stop_ | . | End a statement or command |
 | _Question mark_ | ? | Ends a direct question |
 | _Exclamation mark_ | ! | Ends an expression of emotion |
 | _Comma_ | , | Separates words and groups of words |
 | _Colon_ | : | Signals more information to come |
-| _Dash_ |  | An informal colon |
+| _Dash_ | &mdash; | An informal colon |
 | _Parentheses_ | ( ) | Enclose extra information |
 | _Brackets_ | [] | Enclose words by someone other than the author |
 | _Apostrophe_ | &#39; | Shows ownership or a contraction\* |
-| _Hyphen_ | - | Joins to words to make another word |
+| _Hyphen_ | - | Joins two words to make another word |
 | _Quotation marks_ | &#39; &#39; | Enclose spoken words |
 
 \*Avoid using contractions.
@@ -232,66 +245,64 @@ End of sentence punctuation does not need to be included in titles, headings, su
 
 ## Tone
 
-Write conversational
+Use a conversational tone.
 
-Avoid Contractions
+Avoid contractions.
 
-Get to the point
+Get to the point!
 
-Be brief
+Be brief.
 
-Oxford comma
+Use the Oxford comma.
 
-Edit out you can and there is, there are, there were.
+Edit out the terms 'you can', ' there is', 'there are', and 'there were'.
 
 ## Voice
 
-Use second person.
-
-For example:
+Use second person. For example:
 
 You go to the library.
 
 # Bias-free communication
 
-No gendered pronouns
+Do not use gendered pronouns.
 
-Avoid stereotype in scenarios
+Avoid stereotypes.
 
-Respect diversity
+Respect diversity.
 
-Be inclusive
+Be inclusive.
 
-Be conscious about country names
+Be conscious about country names.
 
-Do not generalise
+Do not generalise.
 
-No slang
+Do not use slang.
 
-No profane/derogatory terms
+Do not use profane/derogatory terms.
 
-No loaded terms (eg. Master/slave try primary/subordinate)
+Do not use loaded terms, for example, instead of Master and slave, try primary and subordinate.
 
-Focus on people, not disabilities
+Focus on people, not disabilities.
 
 # Global communication
 
-Short and simple
+Keep it short and simple.
 
-Lists and tables to reduce complexity
+Lists and tables reduce complexity.
 
-Include that and who
+Include 'that' and 'who'.
 
-Include the
+Include 'the'.
 
-Include verbs if necessary for clarity
+Include verbs, if necessary for clarity.
 
-Use sentence capitalisation
+Use sentence capitalisation.
 
-Use active voice
+Use active voice.
 
-Avoid linking more than three phrases
+Avoid linking more than three phrases.
 
-Use one word for a concept
+Use one word for a concept.
 
-Avoid -ing and -ed
+Avoid -ing and -ed endings.
