@@ -18,7 +18,7 @@ are written down and accessible to everyone in the company.
 1. All announcements to Thoth Tech general channel only
 2. Use channels for all general to major discussion
 3. Use chat / direct message for private or personal discussion
-4. Use GitHub PRs for feedback on code or documentation
+4. Use GitHub Pull Requests for feedback on code or documentation
 5. Use Trello for planning and assigning tasks
 6. Use meetings for synchronous discussion _(for private channels, record and store the meeting in the channel files)_
 7. Use whiteboard tools (Miro or MS) to collaborate in meetings
