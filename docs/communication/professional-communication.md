@@ -29,7 +29,7 @@ There are four basic skills that are intertwined with each communication type. T
 - writing
 - speaking
 
-Effective communication differs from professional communication. For communication to be professional it is important that it is:
+Effective communication differs from professional communication. For communication to be professional, it is important that it is:
 
 - complete
 - polite
