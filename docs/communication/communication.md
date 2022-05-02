@@ -1,6 +1,6 @@
 # Communication
 
-At Thoth Tech, our employees work remotely in various timezones and have
+At Thoth Tech, our employees work remotely in various time zones and have
 different commitments outside of work. It is important for us to practice
 clear communication in ways that help us stay connected and work more
 efficiently.

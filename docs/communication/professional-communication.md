@@ -66,6 +66,6 @@ There are many barriers to professional communication. However, like any other s
 6. Provide clear, direct, and accurate information to avoid miscommunication.
 7. Ask questions. Do them in a way that allows many people to see or respond.
 8. Use Pull Requests or public chat channels instead of direct messages.
-9. Handle conflicts with diplomacy and an open-mind.
+9. Handle conflicts with diplomacy and an open mind.
 10. Avoid controversial topics and gossip.
 11. Offer [praise](fearless-feedback.md#shoutouts) and [fearless feedback](fearless-feedback.md#fearless-feedback).
