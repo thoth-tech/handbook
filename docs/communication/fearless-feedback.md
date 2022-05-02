@@ -64,7 +64,7 @@ How you frame the feedback can influence the discussion. Feedback, especially ne
 
 **Will:** What will be done now? What are the next steps? Your opinion?
 
-It is important that you ask yourselves these questions. One should reflect and facilitate self-development and awarenessv before providing feedback.
+It is important that you ask yourselves these questions. One should reflect and facilitate self-development and awareness before providing feedback.
 
 Building relationships with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However rapport does not dismiss professionalism, feedback can be critical and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
 
