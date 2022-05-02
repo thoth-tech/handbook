@@ -30,7 +30,7 @@ Key takeaways:
 
 - Negative feedback should always be specific
 - General feedback for positive feedback is okay, but not ideal
-- Specifc feedback is the most impactful and the most productive
+- Specific feedback is the most impactful and the most productive
 - Specifics are the best way to ensure that feedback is taken on-board and helpful
 
 ## Feedback delivery
