@@ -68,4 +68,4 @@ There are many barriers to professional communication. However, like any other s
 8. Use Pull Requests or public chat channels instead of direct messages.
 9. Handle conflicts with diplomacy and an open-mind.
 10. Avoid controversial topics and gossip.
-11. Offer [praise](/docs/communication/fearless-feedback.md#shoutouts) and [fearless feedback](/docs/communication/fearless-feedback.md#fearless-feedback).
+11. Offer [praise](fearless-feedback.md#shoutouts) and [fearless feedback](fearless-feedback.md#fearless-feedback).
