@@ -1,4 +1,3 @@
-
 # Fearless feedback
 
 Fearless feedback is feedback which is direct, honest, timely, brief, constructive, and provided with good intention.
