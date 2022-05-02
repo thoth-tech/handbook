@@ -1,6 +1,4 @@
-# Communication <!-- omit in toc -->
-
-- [Guidelines](#guidelines)
+# Communication
 
 At Thoth Tech, our employees work remotely in various timezones and have
 different commitments outside of work. It is important for us to practice

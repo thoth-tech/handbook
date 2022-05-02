@@ -59,7 +59,7 @@ There are many barriers to professional communication. However, like any other s
 ## Professional communication at Thoth Tech
 
 1. Use formal or semi-formal language when contacting someone for the first time and try to build rapport.
-2. Be respectful of a person's time. We do not expect you to be avaliable all the time and neither should your peers.If you want someones attention schedule meetings in advance or give a heads up.
+2. Be respectful of a person's time. We do not expect you to be available all the time and neither should your peers. If you want someone's attention, schedule meetings in advance or give a heads up.
 3. All company data should be shareable by default.
 4. Use emoticons to brighten the mood but be sparing.
 5. Provide meaningful responses in an appropriate time frame.

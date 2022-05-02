@@ -35,9 +35,7 @@ Key takeaways:
 
 ## Feedback delivery
 
-When delivering feedback it is important to ask for permission beforehand. It is expected that some days are not going to be an appropriate times for feedback.
-
-Someone's willingness to listen and respect the feedback is a major part of the process. The outcome will not be productive if you or them are not willing to listen with an open-mind.
+When delivering feedback it is important to ask for permission beforehand. It is expected that some days are not going to be an appropriate times for feedback. Please do not deliver feedback when you or them are upset or angry. For feedback to be productive it is best to be level-headed. Willingness to listen and respect the feedback is a major part of the process. The outcome will not be productive if you or them are not willing to listen with an open-mind.
 
 It can be as simple as a quick message: "_Is now an okay time for some feedback?_" or "_Would you be willing to hear some feedback from me?_".
 
@@ -49,14 +47,23 @@ The environment can play a large role in the willingness and reaction to feedbac
 
 How you frame the feedback can influence the discussion. Feedback, especially negative feedback, is not a throughaway comment, it needs to be shaped around context and values. Different models for feedback exist, such as the Compliment Sandwich or the GROW model. Breaking the feedback into actionable sections can also help in understanding and plans going forwards.
 
+### Compliment Sandwich
+
+```mermaid
+  graph LR;
+  A[Positive] --> B[Negative] --> C[Postive]
+```
+
+The Compliment Sandwich wraps constructive critisim within praise. This can be useful for people who you do not have rapport or if you are new to giving feedback. It is an easy and less destructive model to provide feedback.
+
+### GROW model
+
 ```mermaid
   graph LR;
   G[Goal] --> R[Reality] --> O[Options] --> W[Will]
 ```
 
-### GROW model
-
-**Goal:** Whats your goal? What were you trying to achieve?
+**Goal:** What is your goal? What were you trying to achieve?
 
 **Reality:** What is the curent situation? Did you think that it worked well?
 
@@ -64,7 +71,7 @@ How you frame the feedback can influence the discussion. Feedback, especially ne
 
 **Will:** What will be done now? What are the next steps? Your opinion?
 
-It is important that you ask yourselves these questions. One should reflect and facilitate self-development and awareness before providing feedback.
+The GROW model is for deeper conversation around feedback. This framework naturally places feedback within the context of the team or project goals. It is also important that you ask yourself these questions. One should reflect and facilitate self-development and awareness before providing feedback.
 
 Building relationships with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However rapport does not dismiss professionalism, feedback can be critical and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
 
