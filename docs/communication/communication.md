@@ -25,7 +25,7 @@ are written down and accessible to everyone in the company.
 
 For more information:
 
-- [Professional communication](docs/../professional-communication.md#professional-communication)
-- [Fearless feedback](docs/../fearless-feedback.md#fearless-feedback)
-- [Shoutouts](/docs/communication/fearless-feedback.md#shoutouts)
-- [Writing Style Guide](README.md) <!-- TBC -->
+- [Professional communication](professional-communication.md)
+- [Fearless feedback](fearless-feedback.md)
+- [Shoutouts](fearless-feedback.md#shoutouts)
+- Writing Style Guide
