@@ -1,4 +1,9 @@
-# Professional communication
+# Professional communication <!-- omit in toc -->
+
+- [Why is professional communication important?](#why-is-professional-communication-important)
+- [What makes up professional communication?](#what-makes-up-professional-communication)
+- [How can you improve your communication skills?](#how-can-you-improve-your-communication-skills)
+- [Professional communication at Thoth Tech](#professional-communication-at-thoth-tech)
 
 Professional communication is important at Thoth Tech as it embodies our values. As we move into a hybrid framework, we must respect those both remote and face-to-face. Communication goes a long way to creating a respectful and supportive workplace culture.
 
