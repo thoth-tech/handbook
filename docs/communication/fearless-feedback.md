@@ -1,4 +1,11 @@
-# Fearless feedback
+# Fearless feedback <!-- omit in toc -->
+
+- [Feedback matrix](#feedback-matrix)
+- [Feedback delivery](#feedback-delivery)
+  - [Compliment Sandwich](#compliment-sandwich)
+  - [GROW model](#grow-model)
+  - [Shoutouts](#shoutouts)
+- [Key takeaways](#key-takeaways)
 
 Fearless feedback is feedback which is direct, honest, timely, brief, constructive, and provided with good intention.
 
@@ -43,6 +50,8 @@ Feedback is used to help someone improve and learn, it is not a criticism of a p
 
 Particularly when providing constructive feedback, it is important to always seek to understand the root cause and context for a situation. Never assume to know everything about a person and make judgements. Feedback is designed to provide opportunities and create conversations for improvement. Being open to listen to the whole context can allow you to provide more specific and productive feedback, which is more beneficial for the individual.
 
+Building relationships with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However rapport does not dismiss professionalism, feedback can be critical and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
+
 The environment can play a large role in the willingness and reaction to feedback. Creating a safe space allows for effective and professional communication. For one-on-one feedback, take it to a private space and make time for an active discussion around the feedback. Ensure that there are no non-verbal power imbalances within the discussion (e.g. You standing, and them sitting).
 
 How you frame the feedback can influence the discussion. Feedback, especially negative feedback, is not a throughaway comment, it needs to be shaped around context and values. Different models for feedback exist, such as the Compliment Sandwich or the GROW model. Breaking the feedback into actionable sections can also help in understanding and plans going forwards.
@@ -73,8 +82,6 @@ The Compliment Sandwich wraps constructive critisim within praise. This can be u
 
 The GROW model is for deeper conversation around feedback. This framework naturally places feedback within the context of the team or project goals. It is also important that you ask yourself these questions. One should reflect and facilitate self-development and awareness before providing feedback.
 
-Building relationships with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However rapport does not dismiss professionalism, feedback can be critical and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
-
 ### Shoutouts
 
 Recognition is a key transformative tactic. Showing appreciation to team members contributions influences engagement behaviour, and acknowledges to team members that their work is seen.
@@ -88,7 +95,7 @@ Recognition is a key transformative tactic. Showing appreciation to team members
 - Ask for permission
 - Assume positive intent
 - Seek to understand
+- Build rapport
 - Consider poisitioning
 - Consider framing
-- Build rapport
 - Be specific
