@@ -1,6 +1,5 @@
 # QA Process - Testing and Development
 
-<!-- no toc -->
 - [Testing and Development](#testing-and-development)
 - [Feature Development: where to start?](#feature-development-where-do-i-start)
 - [Test-Driven Development](#test-driven-development)
