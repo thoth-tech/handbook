@@ -4,16 +4,21 @@
 
 - [Feature Development: where to start?](#feature-development-where-do-i-start)
 
-- [Test-Driven Development](#test-driven-development)
-  - [Writing Appropriate Tests](#determining-appropriate-tests)
-  - [Writing a Failing Test Case](#writing-a-failing-test-case)
-  - [Writing Code to Pass a Test](#writing-code-to-pass-your-test)
-  - [Refactoring Code](#refactoring-code)
-- [Epics and User Stories](#epics-and-user-stories)
-  - [Epics](#epics)
-  - [User Stories](#user-stories)
-- [Software Requirements Specification](#software-requirements-specification-document)
-- [Testing Templates](#testing-templates)
+- [QA Process - Testing and Development](#qa-process---testing-and-development)
+- [Testing and Development](#testing-and-development)
+  - [Feature development: where do I start?](#feature-development-where-do-i-start)
+  - [How do I prove my code does what it's supposed to do?](#how-do-i-prove-my-code-does-what-its-supposed-to-do)
+    - [**Test Driven Development**](#test-driven-development)
+    - [**Determining appropriate tests**](#determining-appropriate-tests)
+      - [**Testing Tools**](#testing-tools)
+    - [**Writing a failing test case**](#writing-a-failing-test-case)
+    - [**Writing code to pass your test**](#writing-code-to-pass-your-test)
+    - [**Refactoring Code**](#refactoring-code)
+  - [Epics and User Stories](#epics-and-user-stories)
+    - [Epics](#epics)
+    - [User Stories](#user-stories)
+  - [Software Requirements Specification Document](#software-requirements-specification-document)
+  - [Testing Templates](#testing-templates)
 
 # Testing and Development
 
@@ -54,10 +59,10 @@ By utilising _test driven development (TDD)_, software requirements are embedded
 
 How does it work?
 
-1. Determine appropriate tests à
-2. Write a failing test case à
-3. Write code to pass the test à
-4. Refactor code à
+1. [Determine appropriate tests](#determining-appropriate-tests)
+2. [Write a failing test case](#writing-a-failing-test-case)
+3. [Write code to pass the test](#writing-code-to-pass-your-test)
+4. [Refactor code](#refactoring-code)
 
 ### **Determining appropriate tests**
 
@@ -240,6 +245,6 @@ _After completing the SRS, you’ll need to get it approved by key stakeholders.
 
 Several Markdown testing templates are available:
 
-- [Sample Test Strategy](templates/test-strategy-template.md))
+- [Sample Test Strategy](templates/test-strategy-template.md)
 - [Test Plan Template](templates/test-plan-template.md)
 - [Bug Report Template](templates/bug-report-template.md)
