@@ -22,7 +22,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Marketing
   - [Pitch](docs/marketing/pitch.md)
   - [Recruitment Ad](docs/marketing/recruitment-ad.md)
-- [Communication](docs/communication/communication.md)
+- [Communication Guide](docs/communication/index.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
@@ -46,8 +46,9 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [OnTrack](docs/products/ontrack/ontrack.md)
   - [SplashKit](docs/products/splashkit/splashkit.md)
 - Projects
-  - [T1 2022 Teams](docs/projects/t1-2022/teams.md)
-    - [Thoth Tech Leadership](docs/projects/t1-2022/thoth-tech-leadership)
+  - T1 2022
+    - [Teams](docs/projects/t1-2022/teams.md)
+      - [Thoth Tech Leadership](docs/projects/t1-2022/thoth-tech-leadership)
       - Retrospectives
       - [Weekly Announcements](docs/projects/t1-2022/thoth-tech-leadership/weekly-announcements/)
   - T2 2022
