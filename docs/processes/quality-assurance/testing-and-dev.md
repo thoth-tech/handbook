@@ -1,17 +1,20 @@
 # QA Process - Testing and Development
 <!-- no toc -->
-- [Testing and Development](#testing-and-development)
-- [Feature Development: where to start?](#feature-development-where-do-i-start)
-- [Test-Driven Development](#test-driven-development)
-  - [Writing Appropriate Tests](#determining-appropriate-tests)
-  - [Writing a Failing Test Case](#writing-a-failing-test-case)
-  - [Writing Code to Pass a Test](#writing-code-to-pass-your-test)
-  - [Refactoring Code](#refactoring-code)
-- [Epics and User Stories](#epics-and-user-stories)
-  - [Epics](#epics)
-  - [User Stories](#user-stories)
-- [Software Requirements Specification](#software-requirements-specification-document)
-- [Testing Templates](#testing-templates)
+- [QA Process - Testing and Development](#qa-process---testing-and-development)
+  - [Testing and Development](#testing-and-development)
+  - [Feature development: where do I start?](#feature-development-where-do-i-start)
+  - [How do I prove my code does what it's supposed to do?](#how-do-i-prove-my-code-does-what-its-supposed-to-do)
+    - [**Test Driven Development**](#test-driven-development)
+    - [**Determining appropriate tests**](#determining-appropriate-tests)
+      - [**Testing Tools**](#testing-tools)
+    - [**Writing a failing test case**](#writing-a-failing-test-case)
+    - [**Writing code to pass your test**](#writing-code-to-pass-your-test)
+    - [**Refactoring Code**](#refactoring-code)
+  - [Epics and User Stories](#epics-and-user-stories)
+    - [Epics](#epics)
+    - [User Stories](#user-stories)
+  - [Software Requirements Specification Document](#software-requirements-specification-document)
+  - [Testing Templates](#testing-templates)
 
 ## Testing and Development
 
