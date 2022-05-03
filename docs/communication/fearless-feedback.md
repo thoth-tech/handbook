@@ -3,6 +3,7 @@
 - [Feedback matrix](#feedback-matrix)
 - [Delivering feedback](#delivering-feedback)
   - [Compliment Sandwich](#compliment-sandwich)
+  - [AID model](#aid-model)
   - [GROW model](#grow-model)
   - [Shoutouts](#shoutouts)
 - [Receiving feedback](#receiving-feedback)
@@ -47,19 +48,19 @@ Key takeaways:
 
 ## Delivering feedback
 
-When delivering feedback, it is important to ask for permission beforehand. It is expected that some days are not going to be an appropriate time for feedback. Please do not deliver feedback when you or they are upset or angry. For feedback to be productive it is best to be level-headed. Willingness to listen and respect the feedback is a major part of the process. The outcome will not be productive if you or they are not willing to listen with an open-mind.
+When delivering feedback, it is important to **ask for permission beforehand**. It is expected that some days are not going to be an appropriate time for feedback. Please do not deliver feedback when you or they are upset or angry. For feedback to be productive it is best to be level-headed. Willingness to listen and respect the feedback is a major part of the process. The outcome will not be productive if you or they are not willing to listen with an open-mind.
 
-It can be as simple as a quick message: "_Is now an okay time for some feedback?_" or "_Would you be willing to hear some feedback from me?_".
+It can be as simple as a quick message: "_Is now an okay time for some feedback?_", "_Would you be willing to hear some feedback from me?_", or "_Are you open to some feedback from me?_".
 
-Feedback is used to help someone improve and learn, it is not a criticism of a person's skills or intelligence. Assuming positive intent, from both parties, in all feedback can reduce miscommunication or offence. However, this is a skill that takes time and practice.
+Feedback is used to help someone improve and learn, it is not a criticism of a person's skills or intelligence. **Assuming positive intent**, from both parties, in all feedback can reduce miscommunication or offence. However, this is a skill that takes time and practice.
 
-Particularly when providing constructive feedback, it is important to always seek to understand the root cause and context for a situation. Never assume to know everything about a person and make judgements. Feedback is designed to provide opportunities and create conversations for improvement. Being open to listen to the whole context can allow you to provide more specific and productive feedback, which is more beneficial for the individual.
+This is particularly important when providing constructive feedback, it is important to always **seek to understand** the root cause and context for a situation. Never assume to know everything about a person and make judgements. Feedback is designed to provide opportunities and create conversations for improvement. Being open to listen to the whole context can allow you to provide more specific and productive feedback, which is more beneficial for the individual.
 
-Building relationships with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However, rapport does not dismiss professionalism, feedback can be critical, and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
+**Building relationships** with each other can help facilitate the feedback process. The stronger your rapport the more honest the feedback. However, rapport does not dismiss professionalism, feedback can be critical, and it is important that it follows communication guideline and standards. Be proactive and ask for feedback from your peers, do not wait for someone to find you. If you ask for general feedback, you should expect a general response.
 
-The environment can play a influential role in the willingness and reaction to feedback. Creating a safe space allows for effective and professional communication. For one-on-one feedback, take it to a private space and be available for an active discussion around the feedback. Ensure that there are no non-verbal power imbalances within the discussion (e.g. You standing, and them sitting).
+The environment can play a influential role in the willingness and reaction to feedback. **Creating a safe space** allows for effective and professional communication. For one-on-one feedback, take it to a private space and be available for an active discussion around the feedback. Ensure that there are no non-verbal power imbalances within the discussion (e.g. You standing, and them sitting).
 
-How you frame the feedback can influence the discussion. Feedback, especially negative feedback, is not a trifle comment, it is shaped around context and values. Different models for feedback exist, such as the Compliment Sandwich or the GROW model. Breaking the feedback into actionable sections can also help in understanding and plans going forwards.
+How you **frame the feedback** can influence the discussion. Feedback, especially negative feedback, is not a trifle comment, it is shaped around context and values. Different models for feedback exist, such as the Compliment Sandwich, AID model, or the GROW model. Breaking the feedback into actionable sections can also help in understanding and plans going forwards.
 
 ### Compliment Sandwich
 
@@ -69,6 +70,21 @@ How you frame the feedback can influence the discussion. Feedback, especially ne
 ```
 
 The Compliment Sandwich wraps constructive criticism within praise. This can be useful for people who you do not have rapport or if you are new to giving feedback. It is an easy and less destructive model to provide feedback.
+
+### AID model
+
+```mermaid
+  graph LR;
+  A[Action] --> I[Impact] --> D[Development] & B[Desired Behaviour]
+```
+
+**Action:** the emphasis is on the actions, rather than the interpretation of it. All feedback relates to what is heard or observed, not intentions, characteristics, or personality.
+
+**Impact:** this acknowledges the impact of the end result or the process itself. When giving feedback mention why it is important that this action is changed or continued.
+
+**Development or Desired Behaviour:** the purpose of feedback is to provide learning opportunties or praise. Put emphasis on what is missing rather than what went wrong. Provide direction on how they can improve and plan a time to meet again to review.
+
+The AID model is a simple feedback model for both positive and negative moments. It focuses uses evidence to relate feedback into the context, rather than relying on rapport.
 
 ### GROW model
 
@@ -89,7 +105,7 @@ The GROW model is for deeper conversation around feedback. This framework natura
 
 ### Shoutouts
 
-Recognition is a key transformative tactic. Showing appreciation to team members contributions influences engagement behaviour and acknowledges to team members that their work is seen.
+Recognition is a key transformative tactic. Showing appreciation to team members contributions influences engagement behaviour and acknowledges to team members that their work is seen. This can be a way to build rapport, by showing you see all aspects of their contributons.
 
 1. Shout out to people that did a great job in our `Shoutouts!` MS Teams channel. Everyone in the company is in this channel so please do not be shy.
 1. Consider other channels where recognition can be acknowledged: team meetings, etc.
@@ -99,15 +115,17 @@ Recognition is a key transformative tactic. Showing appreciation to team members
 
 Receiving feedback follows similar principles to delivery, however, in this case it is the response that changes.
 
-Mentally prepare to receive the feedback. Ideally, you should have given permission or asked for the feedback. Be patient, now is the time to acknowledge and listen to the advice given. Develop a growth mindset. This will help you step back from the defence and accept feedback to improve and learn.
+**Mentally prepare to receive the feedback**. Ideally, you should have given permission or asked for the feedback. Reflect and ask yourself "_are you in a good mindset to receive feedbaack?_" when being asked permision. It is okay to say "_now is not the right time, but what about tomorrow morning?_".
 
-Again, you should always assume positive intent. Feedback is not a criticism on the work done, it is merely advice to improve and be even better next time around. Do not interrupt them as they are speaking. Listen to the whole story, rather than formulate challenges and excuses.
+Be patient, now is the time to acknowledge and listen to the advice given. **Develop a growth mindset**. This will help you step back from the defence and accept feedback to improve and learn. Again, you should always **assume positive intent**. Feedback is not a criticism on the work done, it is merely advice to improve and be even better next time around.
 
-The first response should be gratitude. Giving feedback takes courage and can be risky. People are often reluctant to share all their thoughts, creating a safe space can allow them to extract all feedback. Saying "_Thank you_" will put you in a constructive frame of mind. Gratitude demonstrates you are willing to listen and learn.
+**Use active listening skills**. Do not interrupt them as they are speaking. Listen to the whole story, rather than formulate challenges and excuses. Active listeners avoid interrputing, summarise the information, repeat back what they have heard, and observe body language. This will help with using a growth mindset, allowing you to focus on the person, rather than your own thoughts.
+
+The **first response should be gratitude**. Giving feedback takes courage and can be risky. People are often reluctant to share all their thoughts, creating a safe space can allow them to extract all feedback. Saying "_Thank you_" will put you in a constructive frame of mind. Gratitude demonstrates you are willing to listen and learn.
 
 <!-- WIP: If you are ever uncomfortable with a setting, say something. They may be unaware of the situation or feeling arising. Feedback should be a learning opportunity, not a -->
 
-If you want more specific information, take the time to restate what they have told you, and ask. Seeking to understand goes both ways. Even if you disagree with some of the message, there is always something to learn. Actively trying to understand another perspective can help you to reach their conclusions.
+If you want more specific information, take the time to restate what they have told you, and ask. **Seeking to understand** goes both ways. Even if you disagree with some of the message, there is always something to learn. Actively trying to understand another perspective can help you to reach their conclusions.
 
 Similar to delivering feedback, there are some frameworks you can employ.
 
@@ -155,6 +173,6 @@ The LADA model encourages the giver to freely convey their thoughts and you to d
 - Assume positive intent
 - Seek to understand
 - Build rapport
-- Consider positioning
+- Consider the environment
 - Consider framing
 - Be specific

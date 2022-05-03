@@ -5,18 +5,24 @@ scenarios which can be difficult to manage. In each scenario there are
 different outcomes and courses of action. Below are the learnings that
 came out of these scenarios.
 
-- [Conflict management](#conflict-management)
-- [Late on-boarding](#late-on-boarding)
+- [Company communication](#company-communication)
 - [Technical difficulties](#technical-difficulties)
+- [Swapping teams](#swapping-teams)
 - [Time zone management](#time-zone-management)
+- [Late on-boarding](#late-on-boarding)
+- [Conflict management](#conflict-management)
 - [Abuse or harassment](#abuse-or-harassment)
 
-## Conflict management
-
-## Late on-boarding
+## Company communication
 
 ## Technical difficulties
 
+## Swapping teams
+
 ## Time zone management
+
+## Late on-boarding
+
+## Conflict management
 
 ## Abuse or harassment

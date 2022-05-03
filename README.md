@@ -22,7 +22,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Marketing
   - [Pitch](docs/marketing/pitch.md)
   - [Recruitment Ad](docs/marketing/recruitment-ad.md)
-- [Communication](docs/communication/index.md)
+- [Communication Guide](docs/communication/index.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
