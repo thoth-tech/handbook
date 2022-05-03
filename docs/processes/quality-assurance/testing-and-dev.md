@@ -1,9 +1,8 @@
 # QA Process - Testing and Development
 
-[Testing and Development](#testing-and-development)
-
-- [Feature Development: where to start?](#feature-development-where-do-i-start)
 <!-- no toc -->
+- [Testing and Development](#testing-and-development)
+- [Feature Development: where to start?](#feature-development-where-do-i-start)
 - [Test-Driven Development](#test-driven-development)
   - [Writing Appropriate Tests](#determining-appropriate-tests)
   - [Writing a Failing Test Case](#writing-a-failing-test-case)
@@ -15,7 +14,7 @@
 - [Software Requirements Specification](#software-requirements-specification-document)
 - [Testing Templates](#testing-templates)
 
-# Testing and Development
+## Testing and Development
 
 Testing should be built into the software development process.
 
