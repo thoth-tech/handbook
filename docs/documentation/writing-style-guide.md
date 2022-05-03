@@ -1,22 +1,6 @@
 # Writing Style Guide
 
-Thoth Tech
-
-## Top tips for Thoth Tech writing
-
-Effective writing is clear, easy to read, and concise. Thoth Tech writing should follow the guidelines of plain English (Australian English).
-
-Here at Thoth Tech, we aim for all our writing to meet these goals:
-
-- **To Empower:** We want our people to have the knowledge to make the most of our products.
-
-- **To Respect:** We want our people to feel included and accepted for who they are.
-
-- **To Educate:** We want to assist our people in their learning and provide them with the information they need.
-
-- **To Guide:** We want to lead our people in a thoughtful manner towards their goals.
-
-- **To be Honest:** We want to be truthful to our people and focus on our real strengths.
+The writing style guide is designed to inform decision when writing on behalf of Thoth Tech. This is a live guide and will ensure consistency across all Thoth Tech communications.
 
 While writing, it is important to:
 
@@ -25,6 +9,36 @@ While writing, it is important to:
 3. Structure the writing
 4. Keep it simple
 5. Review and Edit
+
+- [Writing Style Guide](#writing-style-guide)
+  - [Formatting](#formatting)
+    - [Headings](#headings)
+    - [Subheadings](#subheadings)
+    - [Notes](#notes)
+    - [Hyperlinks](#hyperlinks)
+    - [Lists](#lists)
+      - [Unordered/bullet list](#unorderedbullet-list)
+      - [Ordered/numbered list](#orderednumbered-list)
+    - [Text formatting](#text-formatting)
+    - [Numbers](#numbers)
+    - [Sentences](#sentences)
+  - [Writing](#writing)
+    - [Acronyms](#acronyms)
+    - [Capitalisation](#capitalisation)
+    - [Verbs](#verbs)
+    - [Active voice](#active-voice)
+    - [Avoid nominalisation](#avoid-nominalisation)
+    - [Punctuation](#punctuation)
+    - [Tone](#tone)
+    - [Voice](#voice)
+  - [Types of writing](#types-of-writing)
+    - [Technical content](#technical-content)
+    - [Developers](#developers)
+    - [Writing instructions/steps](#writing-instructionssteps)
+  - [Bias-free communication](#bias-free-communication)
+  - [Global communication](#global-communication)
+
+---
 
 ## Formatting
 
@@ -189,55 +203,6 @@ For example:
 | Investigate | Investigation      |
 | Use         | utilisation        |
 
-### Technical content
-
-When writing technical content, always consider the audience's skill.
-
-Use industry specific terms when writing for a professional audience.
-
-Define technical terms in the context they are referred to.
-
-When appropriate, assume the reader understands the fundamentals. If you are unsure, provide a link to more thorough information.
-
-Use frequently used words where possible.
-
-If a term already exists, do not create a new word/phrase. Use these terms consistently throughout the article, and across Thoth Tech.
-
-### Developers
-
-When writing code examples...
-
-<!-- WIP -->
-
-### Writing instructions/steps
-
-Intructions are used when a reader is wanting to learn. Therefore, the steps must be clear, easy to understand, and follow.
-
-Emphasis should be placed on the main direction. Use **bold** to highlight key words or phrases which indicate the action or outcome.
-
-Make sure the reader knows where the action should take place before you describe the action. If necessary, provide an introductory step to highlight the area.
-
-Throughout step-by-step instructions, formating and language must be consistent. Capitalise the first word of full sentences, and full stop at the end.
-
-A separate numbered entry should be used for each step. Each step should be a complete sentence in imperative verb form, including actions that finalise the step.
-
-Limit the number of steps to seven, and fit all steps onto the same screen.
-
-For single-step procedures, follow the same format, but use an unordered list instead of ordered.
-
-When writing simple sequences, you can use `A > B > C` format. However, this should be used sparingly due to accessibility tool limitations.
-
-For example:
-
-#### **To create a group of tiles**
-
-1. On the Start screen, select the tiles you want to group together.
-1. Drag them to an open space. When a gray bar appears behind them, release the tiles to create the new group.
-
-#### **To move a group of tiles**
-
-- On the Start screen, zoom out and drag the group where you want.
-
 ### Punctuation
 
 | **Symbol name**    | **Symbol** | **Main use**                                   |
@@ -278,7 +243,56 @@ Use second person. For example:
 
 You go to the library.
 
-## Bias-free communication
+## Types of writing
+
+### Technical content <!-- WIP -->
+
+When writing technical content, always consider the audience's skill.
+
+Use industry specific terms when writing for a professional audience.
+
+Define technical terms in the context they are referred to.
+
+When appropriate, assume the reader understands the fundamentals. If you are unsure, provide a link to more thorough information.
+
+Use frequently used words where possible.
+
+If a term already exists, do not create a new word/phrase. Use these terms consistently throughout the article, and across Thoth Tech.
+
+### Developers <!-- WIP -->
+
+When writing code examples...
+
+### Writing instructions/steps
+
+Intructions are used when a reader is wanting to learn. Therefore, the steps must be clear, easy to understand, and follow.
+
+Emphasis should be placed on the main direction. Use **bold** to highlight key words or phrases which indicate the action or outcome.
+
+Make sure the reader knows where the action should take place before you describe the action. If necessary, provide an introductory step to highlight the area.
+
+Throughout step-by-step instructions, formating and language must be consistent. Capitalise the first word of full sentences, and full stop at the end.
+
+A separate numbered entry should be used for each step. Each step should be a complete sentence in imperative verb form, including actions that finalise the step.
+
+Limit the number of steps to seven, and fit all steps onto the same screen.
+
+For single-step procedures, follow the same format, but use an unordered list instead of ordered.
+
+When writing simple sequences, you can use `A > B > C` format. However, this should be used sparingly due to accessibility tool limitations.
+
+For example:
+
+**To create a group of tiles:**
+
+1. On the Start screen, select the tiles you want to group together.
+1. Drag them to an open space. When a gray bar appears behind them, release the tiles to create the new group.
+
+**To move a group of tiles:**
+
+- On the Start screen, zoom out and drag the group where you want.
+
+## Bias-free communication <!-- WIP -->
 
 Do not use gendered pronouns.
 
@@ -300,7 +314,7 @@ Do not use loaded terms, for example, instead of Master and slave, try primary a
 
 Focus on people, not disabilities.
 
-## Global communication
+## Global communication <!-- WIP -->
 
 Keep it short and simple.
 
