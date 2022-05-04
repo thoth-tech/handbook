@@ -1,9 +1,7 @@
 # QA Process - Testing and Development
 
-[Testing and Development](#testing-and-development)
-
+- [Testing and Development](#testing-and-development)
 - [Feature Development: where to start?](#feature-development-where-do-i-start)
-
 - [Test-Driven Development](#test-driven-development)
   - [Writing Appropriate Tests](#determining-appropriate-tests)
   - [Writing a Failing Test Case](#writing-a-failing-test-case)
@@ -15,7 +13,7 @@
 - [Software Requirements Specification](#software-requirements-specification-document)
 - [Testing Templates](#testing-templates)
 
-# Testing and Development
+## Testing and Development
 
 Testing should be built into the software development process.
 
@@ -54,10 +52,10 @@ By utilising _test driven development (TDD)_, software requirements are embedded
 
 How does it work?
 
-1. Determine appropriate tests à
-2. Write a failing test case à
-3. Write code to pass the test à
-4. Refactor code à
+1. [Determine appropriate tests](#determining-appropriate-tests)
+2. [Write a failing test case](#writing-a-failing-test-case)
+3. [Write code to pass the test](#writing-code-to-pass-your-test)
+4. [Refactor code](#refactoring-code)
 
 ### **Determining appropriate tests**
 
@@ -240,6 +238,6 @@ _After completing the SRS, you’ll need to get it approved by key stakeholders.
 
 Several Markdown testing templates are available:
 
-- [Sample Test Strategy](templates/test-strategy-template.md))
+- [Sample Test Strategy](templates/test-strategy-template.md)
 - [Test Plan Template](templates/test-plan-template.md)
 - [Bug Report Template](templates/bug-report-template.md)
