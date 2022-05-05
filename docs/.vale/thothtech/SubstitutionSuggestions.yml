@@ -1,0 +1,23 @@
+---
+# Suggestion: thothtech.SubstitutionSuggestions
+#
+# Suggests better options for frequently misused terms that are often - but not always - incorrect.
+# SubstitutionWarning.yml and Substitutions.yml also exist.
+#
+# For a list of all options, see https://errata-ai.github.io/vale/styles/
+extends: substitution
+message: 'Consider %s instead of "%s".'
+link: TBA
+level: suggestion
+ignorecase: true
+swap:
+  docs: '"documentation"'
+  e-mail: '"email"'
+  it is recommended: '"we recommend"'
+  navigate: go
+  OAuth2: '"OAuth 2.0"'
+  once that: '"after that"'
+  once the: '"after the"'
+  once you: '"after you"'
+  since: '"because" or "after"'
+  within: '"in"'

@@ -1,0 +1,13 @@
+---
+# Error: thothtech.InternalLinkExtension
+#
+# Checks that internal links have .md extenstion and not .html extension.
+#
+# For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
+extends: existence
+message: 'Link "%s" must use the .md file extension.'
+link: TBA
+level: error
+scope: raw
+raw:
+  - '\[.+\]\([\w\/\.-]+\.html[^)]*\)'
