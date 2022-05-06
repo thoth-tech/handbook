@@ -1,4 +1,4 @@
 {
-  "recommendations": ["esbenp.prettier-vscode"],
+  "recommendations": ["errata-ai.vale-server", "esbenp.prettier-vscode"],
   "unwantedRecommendations": []
 }
