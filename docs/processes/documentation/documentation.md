@@ -38,8 +38,8 @@ Further to this, we ask you consider the following:
     - Avoid jargon/slang​
         > Avoid jargons and slangs that a junior member may not understand. If you do use a abbreviation, be sure to describe it.
     - Active voice​
-        > Yes: Marti logged into the account.​
-        > No: The account was logged into by Marti.
+        - > Yes: Marti logged into the account.​
+        - > No: The account was logged into by Marti.
     -Write positively​
     -Second person​
 - Titles​
