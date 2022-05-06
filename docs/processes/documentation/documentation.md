@@ -30,27 +30,8 @@ When documenting, we recommend you consider the following when writing your docu
 - Consistent
 - Accessible
 
-Further to this, we ask you consider the following:
-
-- Tone: ​
-  - Causal, yet still formal​
-- Language: ​
-
-  - Avoid jargon/slang​
-    - Avoid jargons and slangs that a junior member may not understand. If you do use a abbreviation, be sure to describe it.
-  - Active voice​
-
-    > Yes: Marti logged into the account.​
-
-    > No: The account was logged into by Marti.
-
-    - Write positively​
-    - Second person​
-
-- Titles​
-- Screenshots and Images​
-- Delivery Speed​
+Further to this, we ask you consider reading the documentation upskilling guide on the [training centre](docs/../../../learning/training/writing-documentation.md)
 
 ## Contributing
 
-Please see the [contribution guidelines](https://github.com/thoth-tech/documentation/blob/main/CONTRIBUTING.md)
+Please see the [contribution guidelines](docs/processes/../../../quality-assurance/git-contribution-guide.md)
