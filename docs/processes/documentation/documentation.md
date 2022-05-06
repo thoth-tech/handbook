@@ -4,7 +4,7 @@ Documentation is one of the most important parts of any software epic. It is imp
 
 Documentation is the offical information that is provided by the company for users and contributors. Documentation should provide clarity around troubleshooting and provide users and those involved with a basic idea of what it is the platform does and how it works.
 
-The Thoth Tech documentation should all be stored in the documentation repositry within the company GitHub. All documentation should be stored in a .md format and anything to do with research, meeting minutes and updates, should be stored within the [documentation repositry] (https://github.com/thoth-tech/documentation).
+The Thoth Tech documentation should all be stored in the documentation repositry within the company GitHub. All documentation should be stored in a .md format and anything to do with research, meeting minutes and updates, should be stored within the [documentation repositry](https://github.com/thoth-tech/documentation).
 
 ## Why is it important?
 
@@ -46,4 +46,4 @@ Further to this, we ask you consider the following:
 
 ## Contributing
 
-Please see the [contribution guidelines] (https://github.com/thoth-tech/documentation/blob/main/CONTRIBUTING.md)
+Please see the [contribution guidelines](https://github.com/thoth-tech/documentation/blob/main/CONTRIBUTING.md)
