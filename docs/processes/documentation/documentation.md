@@ -48,4 +48,3 @@ Further to this, we ask you consider the following:
 
 ## Contributing
 Please see the [contribution guidelines] (https://github.com/thoth-tech/documentation/blob/main/CONTRIBUTING.md)
-
