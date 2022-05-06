@@ -35,6 +35,7 @@ Further to this, we ask you consider the following:
 - Tone: ​
   - Causal, yet still formal​
 - Language: ​
+
   - Avoid jargon/slang​
     - Avoid jargons and slangs that a junior member may not understand. If you do use a abbreviation, be sure to describe it.
   - Active voice​
@@ -45,6 +46,7 @@ Further to this, we ask you consider the following:
 
     - Write positively​
     - Second person​
+
 - Titles​
 - Screenshots and Images​
 - Delivery Speed​
