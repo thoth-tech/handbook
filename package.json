@@ -6,7 +6,7 @@
     "format": "prettier --write \"**/*.md\"",
     "format:check": "prettier --check \"**/*.md\"",
     "prose:check": "vale --minAlertLevel error docs",
-    "lint": "npm run format:check; npm run prose:check"
+    "lint": "npm run format:check && npm run prose:check"
   },
   "devDependencies": {
     "prettier": "^2.6.2"
