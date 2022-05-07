@@ -32,7 +32,9 @@ When documenting, we recommend you consider the following when writing your docu
 - Consistent
 - Accessible
 
-Further to this, we ask you consider reading the documentation upskilling guide on the [training centre](docs/../../../learning/training/writing-documentation.md)
+For more information:
+
+- [writing documentation guide](docs/../../../learning/training/writing-documentation.md)
 
 ## Contributing
 
