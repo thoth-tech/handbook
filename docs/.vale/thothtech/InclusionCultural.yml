@@ -14,3 +14,4 @@ swap:
   whitelist(?:ed|ing|s)?: allowlist
   master: primary, main
   slave: secondary
+  demilitarised zone: perimeter network

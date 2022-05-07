@@ -11,6 +11,7 @@ level: suggestion
 ignorecase: true
 swap:
   mankind: humanity, people
+  manpower: human effort, workforce
   he: they
   his: their
   she: they
