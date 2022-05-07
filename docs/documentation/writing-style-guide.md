@@ -1,4 +1,4 @@
-# Writing Style Guide
+# Writing Style Guide <!-- omit in toc -->
 
 The writing style guide is designed to inform decision when writing on behalf of Thoth Tech. This is a live guide and will ensure consistency across all Thoth Tech communications.
 
@@ -10,33 +10,34 @@ While writing, it is important to:
 4. Keep it simple
 5. Review and Edit
 
-- [Writing Style Guide](#writing-style-guide)
-  - [Formatting](#formatting)
-    - [Headings](#headings)
-    - [Subheadings](#subheadings)
-    - [Notes](#notes)
-    - [Hyperlinks](#hyperlinks)
-    - [Lists](#lists)
-      - [Unordered/bullet list](#unorderedbullet-list)
-      - [Ordered/numbered list](#orderednumbered-list)
-    - [Text formatting](#text-formatting)
-    - [Numbers](#numbers)
-    - [Sentences](#sentences)
-  - [Writing](#writing)
-    - [Acronyms](#acronyms)
-    - [Capitalisation](#capitalisation)
-    - [Verbs](#verbs)
-    - [Active voice](#active-voice)
-    - [Avoid nominalisation](#avoid-nominalisation)
-    - [Punctuation](#punctuation)
-    - [Tone](#tone)
-    - [Voice](#voice)
-  - [Types of writing](#types-of-writing)
-    - [Technical content](#technical-content)
-    - [Developers](#developers)
-    - [Writing instructions/steps](#writing-instructionssteps)
-  - [Bias-free communication](#bias-free-communication)
-  - [Global communication](#global-communication)
+## Table of contents <!-- omit in toc -->
+
+- [Formatting](#formatting)
+  - [Headings](#headings)
+  - [Subheadings](#subheadings)
+  - [Notes](#notes)
+  - [Hyperlinks](#hyperlinks)
+  - [Lists](#lists)
+    - [Unordered/bullet list](#unorderedbullet-list)
+    - [Ordered/numbered list](#orderednumbered-list)
+  - [Text formatting](#text-formatting)
+  - [Numbers](#numbers)
+  - [Sentences](#sentences)
+- [Writing](#writing)
+  - [Acronyms](#acronyms)
+  - [Capitalisation](#capitalisation)
+  - [Verbs](#verbs)
+  - [Active voice](#active-voice)
+  - [Avoid nominalisation](#avoid-nominalisation)
+  - [Punctuation](#punctuation)
+  - [Tone](#tone)
+  - [Voice](#voice)
+- [Types of writing](#types-of-writing)
+  - [Technical content](#technical-content)
+  - [Code examples](#code-examples)
+  - [Writing instructions/steps](#writing-instructionssteps)
+- [Bias-free communication](#bias-free-communication)
+- [Global communication](#global-communication)
 
 ---
 
@@ -74,7 +75,7 @@ When an article references information that is out of scope, the reader can be l
 
 For example:
 
-One reference for Australian spelling is the [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
+> One reference for Australian spelling is the [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
 
 ### Lists
 
@@ -121,25 +122,25 @@ Use words for one to nine and numerals for 10 and over
 
 For numbers over 999, use a comma for clarity
 
-25,000 or 3,000,000
+> 25,000 or 3,000,000
 
 Unless the number is paired with a symbol
 
-3 cm or 2.75
+> 3 cm or 2.75
 
 For complex numbers, use a combination
 
-2.5 million $57,800
+> 2.5 million $57,800
 
 ### Sentences
 
-The purpose of a sentence is to deliver a single message. The average sentence will have a length of 15-20 words.
+The purpose of a sentence is to deliver a single message. The average sentence will have a length of 15-20 words Thoth Tech has a maximum length of 25 words.
 
 A variety of sentence lengths will engage your reader.
 
 Put qualifying phrases, conditions, and explanations into separate sentences.
 
-If you want to elaborate on the same point in a new sentence, use words like &#39;also&#39;, &#39;further&#39;, or &#39;however&#39;.
+If you want to elaborate on the same point in a new sentence, use words like 'also', 'further', or 'however'.
 
 If there are multiple points in a single sentence, consider using several shorter sentences, dot points, colons, or notes.
 
@@ -161,7 +162,7 @@ If you use an acronym, always spell out the title at first use, followed by the 
 
 For example:
 
-This is the Quality Assurance (QA) process. For all QA information refer to this article.
+> This is the Quality Assurance (QA) process. For all QA information refer to this article.
 
 ### Capitalisation
 
@@ -225,43 +226,55 @@ End of sentence punctuation does not need to be included in titles, headings, su
 
 ### Tone
 
-Use a conversational tone.
-
-Avoid contractions.
-
-Get to the point!
-
-Be brief.
-
-Use the Oxford comma.
+Use a conversational tone. Be brief and go straight to the point.
 
 Edit out the terms 'you can', ' there is', 'there are', and 'there were'.
 
+Avoid contractions.
+
+Use the Oxford comma.
+
 ### Voice
 
-Use second person. For example:
+Use second person.
 
-You go to the library.
+For example:
+
+> You go to the library.
 
 ## Types of writing
 
-### Technical content <!-- WIP -->
+### Technical content
 
-When writing technical content, always consider the audience's skill.
+Technical content is the information about the underlying atchitecture, materials, and processes required to understand existing technology. Technical content typically requires some level of existing knowledge about the content.
 
-Use industry specific terms when writing for a professional audience.
+Technical content should include:
 
-Define technical terms in the context they are referred to.
+- Table of contents
+- Revision date
+- Version ID
 
-When appropriate, assume the reader understands the fundamentals. If you are unsure, provide a link to more thorough information.
+When writing technical content, always consider the audience's skill. Assume the reader understands the fundamentals, but never more than that. If you are unsure, provide a link to more thorough information.
 
-Use frequently used words where possible.
+Define technical terms in the context they are referred to and use frequently used words where possible.
 
-If a term already exists, do not create a new word/phrase. Use these terms consistently throughout the article, and across Thoth Tech.
+If a term already exists, do not create a new word/phrase. Use these terms consistently throughout the article, and across Thoth Tech. Use industry specific terms when writing for a professional audience.
 
-### Developers <!-- WIP -->
+### Code examples
 
-When writing code examples...
+Code examples serve a range of scenarios:
+
+- Simple, one-line examples
+- Short, self contained examples
+- Long samples with multiple features or best practice
+
+To create useful code examples you should identify tasks and scenarios for your audience.
+
+Create concise examples of key development tasks, easy to read and understand. Show the expected output within the code example.
+
+Create sustianable and secure code examples. Follow best practice.
+
+Ensure the code is easy to replicate and run. If possible, provide an option to copy the code directly from the page.
 
 ### Writing instructions/steps
 
@@ -283,55 +296,74 @@ When writing simple sequences, you can use `A > B > C` format. However, this sho
 
 For example:
 
-**To create a group of tiles:**
+> **To increase text size of a note:**
+>
+> 1. On the Whiteboard, select the notes you want to increase the size.
+> 2. From the toolbox, select the A+ icon until you reach the desired size. Click anywhere in the Whiteboard to deselect.
+>
+> **To move a note:**
+>
+> - On the Whiteboard, click and drag the note where you want.
 
-1. On the Start screen, select the tiles you want to group together.
-1. Drag them to an open space. When a gray bar appears behind them, release the tiles to create the new group.
+## Bias-free communication
 
-**To move a group of tiles:**
+When creating documentation, we have an obligation to respect all indivduals. At Thoth Tech we promote an inclusive and supportive environment. This extends to our communication.
 
-- On the Start screen, zoom out and drag the group where you want.
+We have a responsibility to respect diversity and promote inclusion through all our communication. As such we enforce the following guidelines for bias-free communication.
 
-## Bias-free communication <!-- WIP -->
+Use gender-neutral alternatives.
 
-Do not use gendered pronouns.
+| Gendered term | Substitute              |
+| ------------- | ----------------------- |
+| mankind       | humanity, people        |
+| manpower      | workforce, staff        |
+| manmade       | synthetic, manufactured |
 
-Avoid stereotypes.
+Do not use gendered-pronouns. Instead:
 
-Respect diversity.
+- Rewrite the sentence to use _they_, _their_, or _them_.
+- Refer to a person's role.
+- Use person or individual.
 
-Be inclusive.
+Exceptions include:
 
-Be conscious about country names.
+- if you are refering to a real person. Please use their prefered pronouns in this case.
+- direct quotations and titles of works
+- when gender is relevant. For example, diversity challenges. <!-- Would prefer a different example-->
 
-Do not generalise.
+When refering to accessibility challenges focus on people, not disabilities. For example: readers who have low vision or blind
 
-Do not use slang.
+When creating fictitious scenarios, include a diverse range of names and roles. Do not elude to stereotypes or generalisations and do not primarily write of Western ideals.
+
+When including country names, be conscious of political disputes and do not mix countries states or continents.
+
+Do not use slang or jargon as it can be confusing or offensive for the reader. Similarly, do not use loaded terms.
+
+| Loaded term        | Substitute             |
+| ------------------ | ---------------------- |
+| master             | primary, main          |
+| slave              | secondary, subordinate |
+| blacklist          | denylist               |
+| whitelist          | allowlist              |
+| hung               | stops responding       |
+| demilitarised zone | perimeter network      |
 
 Do not use profane/derogatory terms.
 
-Do not use loaded terms, for example, instead of Master and slave, try primary and subordinate.
+## Global communication
 
-Focus on people, not disabilities.
+Thoth Tech is an open-source company with a potentially global reach. We value education and creating learning opportunities.
 
-## Global communication <!-- WIP -->
+We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for gloabl communication.
 
-Keep it short and simple.
+Keep your writing short and simple, break a complex sentence into multiple simple sentences. Avoid linking more than three phrases.
 
-Lists and tables reduce complexity.
+Use lists and tables to reduce complexity.
 
-Include 'that' and 'who'.
+Include 'that', 'who', and 'the'. These can provide clarity in the sentence structure for the reader or translator.
 
-Include 'the'.
+Particularly for machine translation:
 
-Include verbs, if necessary for clarity.
-
-Use sentence capitalisation.
-
-Use active voice.
-
-Avoid linking more than three phrases.
-
-Use one word for a concept.
-
-Avoid -ing and -ed endings.
+- Use one word for a concept, and be consistent.
+- Avoid -ing and -ed endings.
+- Use only common abbreviations.
