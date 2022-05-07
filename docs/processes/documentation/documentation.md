@@ -1,6 +1,8 @@
 ## Introduction
 
-Documentation is one of the most important parts of any software epic. It is imperative to remember, you will not be working on the capstone projects forever and that there will be people taking your place within Thoth Tech.
+Thoth Tech prides itself on our ability to produce sustainable solutions, this can be achieved through documentation.
+Documentation is an important element in the software development life cycle. It continues throughout the entire project.
+It is imperative to remember, others will take over your projects or want to learn more about how it works and why. 
 
 Documentation is the offical information that is provided by the company for users and contributors. Documentation should provide clarity around troubleshooting and provide users and those involved with a basic idea of what it is the platform does and how it works.
 
