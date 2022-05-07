@@ -4,7 +4,7 @@ Thoth Tech prides itself on our ability to produce sustainable solutions, this c
 Documentation is an important element in the software development life cycle. It continues throughout the entire project.
 It is imperative to remember, others will take over your projects or want to learn more about how it works and why. 
 
-Documentation is the offical information that is provided by the company for users and contributors. Documentation should provide clarity around troubleshooting and provide users and those involved with a basic idea of what it is the platform does and how it works.
+Documentation is offical information, provided by the company for users and contributors. Documentation is written for specific audiences and provide knowledge on the platform.
 
 The Thoth Tech documentation should all be stored in the documentation repositry within the company GitHub. All documentation should be stored in a .md format and anything to do with research, meeting minutes and updates, should be stored within the [documentation repositry](https://github.com/thoth-tech/documentation).
 
