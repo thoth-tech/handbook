@@ -30,13 +30,66 @@ To run the tests locally, it's important to:
   important to use same configuration we use in CI pipelines, which can be
   different than the default configuration of the tool.
 
-### Installation
+### Local linters
 
-We use [prettier](#prettier) and [Vale](#vale) to check the documentation.
+To help adhere to the
+[documentation style guidelines](/docs/documetation/writing-style-guide.md), and
+improve the content added to documentation,
+[install documentation linters](#install-linters) and
+[integrate them with your code editor](#configure-editors).
 
-#### Install prerequisites
+At Thoth Tech, we mostly use:
 
-##### macOS
+- [Prettier](#prettier)
+- [Vale](#vale)
+
+#### Prettier
+
+[Prettier](https://prettier.io/) checks that Markdown syntax follows the
+[CommonMark](https://commonmark.org/) specifications.
+
+#### Vale
+
+[Vale](https://docs.errata.ai/vale/about/) is a grammar, style, and word usage
+linter for the English language. Vale's configuration is stored in the
+[`.vale.ini`](https://github.com/thoth-tech/handbook/blob/main/.vale.ini) file
+located in the root directory.
+
+Vale supports creating [custom tests](https://docs.errata.ai/vale/styles) that
+extend any of several types of checks, which we store in the `.vale/thothtech/`
+directory in the documentation directory.
+
+##### Vale result types
+
+Vale returns three types of results:
+
+- **Error** - For words or phrases with ambiguous meanings.
+- **Warning** - For writing style preferences.
+- **Suggestion** - For basic writing tenets and best practices.
+
+##### Vale readability score
+
+In
+[`ReadingLevel.yml`](https://github.com/thoth-tech/handbook/blob/main/docs/.vale/thothtech/ReadingLevel.yml),
+we have implemented
+[the Flesch-Kincaid grade level test](https://readable.com/readability/flesch-reading-ease-flesch-kincaid-grade-level/)
+to determine the readability of our documentation.
+
+As a general guideline, the lower the score, the more readable the
+documentation. For example, a page that scores `12` before a set of changes, and
+`9` after, indicates an iterative improvement to readability. The score is not
+an exact science, but is meant to help indicate the general complexity level of
+the page.
+
+The readability score is calculated based on the number of words per sentence,
+and the number of syllables per word. For more information, see
+[the Vale documentation](https://docs.errata.ai/vale/styles#metric).
+
+#### Installation
+
+##### Install prerequisites
+
+###### macOS
 
 1. Install [Homebrew](https://brew.sh/), which is a package manager for macOS
    that allows you to easily install programs and tools through the Terminal.
@@ -60,7 +113,7 @@ We use [prettier](#prettier) and [Vale](#vale) to check the documentation.
    npm install
    ```
 
-##### Windows (using WSL2)
+###### Windows (using WSL2)
 
 1. Set up Windows Subsystem for Linux (WSL) and the Linux distribution. WSL
    allows Linux distributions to run on the Windows OS. Visit this
@@ -73,7 +126,7 @@ We use [prettier](#prettier) and [Vale](#vale) to check the documentation.
 
 1. Follow instructions for [Linux](#linux)
 
-##### Linux
+###### Linux
 
 1. Install curl
 
