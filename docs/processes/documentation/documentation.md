@@ -19,7 +19,7 @@ Without documentation, there is no record of:
 - What project updates have been added
 - And more
 
-Thoth Tech documentation are not only used by the one respective team. The documentation can be accesed at anytime by any of the Thoth Tech company members just to see where a project is heading and what progress has been made. Additionally, should other teams wish, they may collaborate and think of intuitve ways in which to further improve the projects.
+Thoth Tech documentation is accessible to all.
 
 ## Guidelines
 
