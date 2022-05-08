@@ -1,0 +1,112 @@
+---
+# Error: thothtech.American
+#
+# Checks that British spelling is used instead of American spelling.
+#
+# For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
+extends: substitution
+message: 'Use the British spelling "%s" instead of the American "%s".'
+link: TBA
+level: error
+ignorecase: true
+swap:
+  eon: aeon
+  airplane: aeroplane
+  aging: ageing
+  aluminum: aluminium
+  anemia: anaemia
+  anesthesia: anaesthesia
+  analyze: analyse
+  annex: annexe
+  apologize: apologise
+  authorize: authorise
+  authorized: authorised
+  authorization: authorisation
+  authorizing: authorising
+  behavior: behaviour
+  buses: busses
+  caliber: calibre
+  categorize: categorise
+  categorized: categorised
+  categorizes: categorises
+  categorizing: categorising
+  center: centre
+  check: cheque
+  civilization: civilisation
+  civilize: civilise
+  color: colour
+  cozy: cosy
+  dependent: dependant
+  defense: defence
+  distill: distil
+  draft: draught
+  encyclopedia: encyclopaedia
+  inquiry: enquiry
+  enroll: enrol
+  enrollment: enrolment
+  enthrall: enthral
+  favorite: favourite
+  fiber: fibre
+  filet: fillet
+  flavor: flavour
+  furor: furore
+  fulfill: fulfil
+  gray: grey
+  humor: humour
+  honor: honour
+  initialed: initialled
+  initialing: initialling
+  instill: instil
+  jewelry: jewellery
+  labeling: labelling
+  labeled: labelled
+  labor: labour
+  libelous: libellous
+  license: licence
+  likable: likeable
+  livable: liveable
+  luster: lustre
+  maneuver: manoeuvre
+  marvelous: marvellous
+  meager: meagre
+  meter: metre
+  modeling: modelling
+  mustache: moustache
+  neighbor: neighbour
+  normalize: normalise
+  offense: offence
+  organize: organise
+  oriented: orientated
+  paralyze: paralyse
+  plow: plough
+  pretense: pretence
+  program: programme
+  pajamas: pyjamas
+  ratable: rateable
+  realize: realise
+  recognize: recognise
+  reconnoiter: reconnoitre
+  rumor: rumour
+  saber: sabre
+  salable: saleable
+  saltpeter: saltpetre
+  skeptic: sceptic
+  sepulcher: sepulchre
+  signaling: signalling
+  sizable: sizeable
+  skillful: skilful
+  somber: sombre
+  smolder: smoulder
+  specialty: speciality
+  specter: spectre
+  splendor: splendour
+  standardize: standardise
+  standardized: standardised
+  sulfur: sulphur
+  theater: theatre
+  traveled: travelled
+  traveler: traveller
+  traveling: travelling
+  unshakable: unshakeable
+  willful: wilful
+  yogurt: yoghurt

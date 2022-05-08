@@ -1,0 +1,29 @@
+---
+# Error: thothtech.Substitutions
+#
+# Checks for misused terms that should never be used atthothtech.
+# SubstitutionWarning.yml and SubstitionSuggestions.yml also exist.
+#
+# For a list of all options, see https://docs.errata.ai/vale/styles
+extends: substitution
+message: 'Use "%s" instead of "%s".'
+link: TBA
+level: error
+ignorecase: true
+swap:
+  codequality: code quality
+  disallow: prevent
+  param: parameter
+  params: parameters
+  styleguide: style guide
+  to login: to log in
+  can login: can log in
+  to log-in: to log in
+  can log-in: can log in
+  to signin: to sign in
+  can signin: can sign in
+  to sign-in: to sign in
+  can sign-in: can sign in
+  yaml: YAML
+  admin user: administrator
+  admin users: administrators
