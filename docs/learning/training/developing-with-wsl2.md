@@ -24,11 +24,11 @@ To quickly [set up WSL2 with Ubuntu](https://ubuntu.com/tutorials/install-ubuntu
    **NOTE: If you experience errors during this step, it may be because virtualization is disabled in your BIOS. To fix this will be different depending on your computer/CPU.**
 
 4. To make sure you have the latest updates for Ubuntu, use the following commands:
-   ```sh
+   ```shell
    sudo apt update
    ```
    then
-   ```sh
+   ```shell
    sudo apt upgrade
    ```
    You now have a Linux distribution running within Windows!
@@ -43,13 +43,13 @@ Docker Desktop is a software that is used to simplify the development of Doubtfi
 
 Open up your Ubuntu WSL2 terminal and create a directory to organize your Thoth Tech projects. In this case we could create a directory for all Thoth Tech repositories
 
-```sh
+```shell
 mkdir thoth-tech
 ```
 
 Then, cd into the newly created directory
 
-```sh
+```shell
 cd thoth-tech
 ```
 
@@ -60,7 +60,7 @@ Now we can clone a Thoth Tech repository in this directory. If we were working o
 Developing in WSL2 is extremely easy using Visual Studio Code.
 After creating a new branch for your project (following the [Thoth Tech git contribution guide]()), it is as simple as typing
 
-```sh
+```shell
 code .
 ```
 

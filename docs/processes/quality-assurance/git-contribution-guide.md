@@ -75,7 +75,7 @@ A programmer who is going to commence work on the Voice Verification component s
 
 This would be created and checked out by using the git command:
 
-```bash
+```shell
 git checkout -b feature/voice-verification-1.2-store-voice-input
 ```
 
@@ -87,7 +87,7 @@ Thoth Tech follows the same Git commit message format as required by the Doubtfi
 
 Each commit message consists of a header, a body, and a footer.
 
-```text
+```plaintext
 <header>
 <BLANK LINE>
 <body>
@@ -103,7 +103,7 @@ The **footer** is optional. The Commit Message Footer format describes the purpo
 
 Any line of the commit message should be 100 characters or fewer.
 
-```text
+```plaintext
 Commit Message Header
 <type>(<scope>): <short summary>
   │       │             │
@@ -115,7 +115,7 @@ Commit Message Header
   └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|test
 ```
 
-The `<type>` and ` <summary>`` fields are mandatory, the ( `<scope>`) field is optional.
+The `<type>` and `<summary>` fields are mandatory, the (`<scope>`) field is optional.
 
 The `<type>` must be one of the following:
 
@@ -148,7 +148,7 @@ Don't use the `-m` switch. Use a text editor to write your commit message instea
 
 If you are using the command line to write your commits, it is useful to set your git editor to make writing a commit body easier. You can use the following command to set your editor to Visual Studio Code, `nano`, `emacs`, `vim`, `atom`.
 
-```bash
+```shell
 git config --global core.editor "code --wait"
 git config --global core.editor nano
 git config --global core.editor emacs
@@ -189,7 +189,7 @@ is configured when creating a new GitHub repository.
 
 1. Synch repo and set up for your new feature branch (remember to use Thoth Tech [branching guidelines](#branching-guidelines) for naming the new branch; we have used the guideline example of _feature/voice-verification-1.2-store-voice-input_ for our workflow illustration):
 
-   ```bash
+   ```shell
    git checkout main
    git pull main
    git checkout -b feature/voice-verification-1.2-store-voice-input
@@ -197,7 +197,7 @@ is configured when creating a new GitHub repository.
 
 2. Make changes, commit (using comments format that follows [commit guidelines](#commit-guidelines)) and push to origin:
 
-   ```bash
+   ```shell
    git add .
    git commit
    git push -u origin feature/voice-verification-1.2-store-voice-input
@@ -209,13 +209,13 @@ is configured when creating a new GitHub repository.
 
 1. If the branch has already been created in the remote repository.
 
-   ```bash
+   ```shell
    git checkout feature/voice-verification-1.2-store-voice-input
    ```
 
 2. Pull in any new code from the default branch
 
-   ```bash
+   ```shell
    git pull origin main
    ```
 
@@ -229,7 +229,7 @@ Ideally, we should avoid having developers working on the same code. It creates 
 
 1. Please make sure you pull changes in the remote branch before starting your work.
 
-   ```bash
+   ```shell
    git pull origin feature/voice-verification-1.2-store-voice-input
    ```
 
