@@ -31,7 +31,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - Processes
   - Developer Operations
   - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
-  - [Documentation](docs/documentation/index.md)
+  - [Documentation](docs/processes/documentation/index.md)
 - People Operations
   - Recruiting
   - [Onboarding](docs/peopleops/onboarding/onboarding-process.md)
