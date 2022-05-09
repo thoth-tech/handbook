@@ -41,7 +41,7 @@ Docker Desktop is a software that is used to simplify the development of Doubtfi
 
 ## Step 3: Create a directory for Thoth Tech development
 
-Open up your Ubuntu WSL2 terminal and create a directory to organize your Thoth Tech projects. In this case we could create a directory for all Thoth Tech repositories
+Open up your Ubuntu WSL2 terminal and create a directory to organise your Thoth Tech projects. In this case we could create a directory for all Thoth Tech repositories
 
 ```shell
 mkdir thoth-tech

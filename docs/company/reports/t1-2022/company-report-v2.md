@@ -4,9 +4,6 @@
 
 **_T1 Report 2022: Week 6_**
 
-<br>
-<br>
-
 ## Executive Summary
 
 Thoth Tech (est. 2022) is a new software development company currently building from the ground up in Melbourne Australia. Thoth Tech’s mission is to build, operate, and deploy education technologies, creating tools that enhance education outcomes by empowering students, connecting them with tutors, and facilitating personalised learning experiences. We value our people, and we value excellence: We are people-focused, aim to produce sustainable products of excellent quality, and provide frameworks that provide a safe environment for learning and support of our team.
@@ -32,8 +29,6 @@ _Managing Director_
 Glory Lee,
 
 _Managing Director_
-
-<br>
 
 # Contents
 
@@ -69,8 +64,6 @@ _Managing Director_
   - [DreamBig Prototype Project](#dreambig-prototype-project)
 - [Internal Systems](#internal-systems)
   - [Internal Systems Project](#internal-systems-project)
-
-<br>
 
 # Leadership Team
 
@@ -133,17 +126,13 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 - Build the vision and strategy for the DreamBig product.
 - Create a DreamBig prototype as proof of concept.
 
-<br>
-
-<br>
-
 ### The Area Lead Project
 
 The Area Lead Team is committed to delievering the company-wide Trimester Goals and Objectives, as stated above. This project has been in progress since Week 0, however, was not included within The Q1 Company Report
 
 #### _Aims for Trimester_
 
-The aim for the trimester is for each of of the company-wide goals and objectives are completed or significantly progressed.
+The aim for the trimester is for each of the company-wide goals and objectives are completed or significantly progressed.
 
 #### _Deliverables_
 
@@ -163,8 +152,6 @@ The aim for the trimester is for each of of the company-wide goals and objective
 **Learning Lead:** Liz Lynch
 
 **Documentation and People Lead:** Talia Zidar
-
-<br>
 
 #### **_Project health_**
 
@@ -199,8 +186,6 @@ Are there any additional things your team needs to know? What are the main next 
 #### _Expected state by End of T1_
 
 #### _Any changes to plans for the project_
-
-<br>
 
 # Company Charter
 
@@ -263,10 +248,6 @@ We celebrate diverse perspectives and embrace uncomfortable ideas and conversati
 - Build everything with re-usability and iteration in mind.
 - User satisfaction is key.
 
-<br>
-
-<br>
-
 # Company Structure
 
 The Company is broken up based on product, with the area leads spread company wide. There is a tier system built into the company structure – directors, area leads, product leads, delivery leads, then team members. This structure is primarily about support, guidance, and feedback, rather than authority.
@@ -274,10 +255,6 @@ The Company is broken up based on product, with the area leads spread company wi
 Each employee has chosen their own role title based on their interests, skills, experience and what they want to develop.
 
 The company structure is linked [here](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERuLF9JWzz5HvF68OG7D_EgBQ14uMdrGKXuS2fvNEWE_WQ?e=ihX3Wt) and available on the next page.
-
-<br>
-
-<br>
 
 # Product Overview
 
@@ -290,8 +267,6 @@ OnTrack is a platform designed to facilitate student learning by helping them ac
 This approach provides students with a simple but effective way to demonstrate their achievements and learning outcomes with the assistance of teaching staff feedback throughout the unit. OnTrack is based on Doubtfire LMS and Thoth Tech is working towards creating new and enhanced features that improve the teaching and learning experience.
 
 **Product Lead:** Jordan Cameron Trainor
-
-<br>
 
 ### Front-End Migration Project
 
@@ -336,8 +311,6 @@ Team 6: Abdullah Abdulaziz M Algamdi, Grady Ramsay
 Team 7: Ishrat Jahan, Ricardo Ingles
 
 Team 8: Zheng Jiahao, Huang Yongqi
-
-<br>
 
 ### Deployment Project
 
@@ -401,8 +374,6 @@ Sarah Nicole Dyson
 
 XueTing Jing
 
-<br>
-
 ### Jupyter Notebook Support Project
 
 #### _Overview, Goals, and Objectives_
@@ -442,8 +413,6 @@ Long term deliverables beyond this trimester will be the maintenance and improve
 Chetan Nagar
 
 Matt Clark
-
-<br>
 
 ### Voice Verification Project
 
@@ -485,8 +454,6 @@ The long-term deliverables for this project will be maintenance and improvements
 Yujun Gao
 
 Yanjun Chen
-
-<br>
 
 ### Documentation Project
 
@@ -532,17 +499,11 @@ Parth Aneja
 
 Shivam Singh
 
-<br>
-
-<br>
-
 ## SplashKit
 
 SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ and allowing students new to coding to create satisfying programs in a short period of time. SplashKit enables beginning coders to quickly learn to construct fun and functional programs which they can be proud to showcase. SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ which enables students new to coding to create satisfying programs in a short period of time. SplashKit enables novice coders to quickly learn to construct fun and functional programs which they can be proud to showcase. It includes a large library of functions which can be utilized by the user to experiment and apply for their own application or game. This product is currently used by the students at Deakin University and aims to become a global educational toolkit. Currently the language used for development is C++ and the direction of the product is to improve and expand the capabilities to increase SplashKit accessibility.
 
 **Product Lead:** Yash Kondlekar
-
-<br>
 
 ### Operations – Migrating Arcana to SplashKit Project
 
@@ -586,8 +547,6 @@ Long-term:
 **Documentation, Software Developer, & Research Specialist:** Ray Guo
 
 **Documentation & Software Developer:** Devesh Juggiah
-
-<br>
 
 ### Operations – Distribution Channels Project
 
@@ -636,8 +595,6 @@ Our expectation is that the information gathered will to turn these into long-te
 Lachlan Morgan
 
 Trent Mizzi
-
-<br>
 
 ### Extensions Project
 
@@ -693,8 +650,6 @@ Jingze Du
 
 Timothy Wilbert
 
-<br>
-
 ### Applications – Arcade Machine Project
 
 #### _Overview, Goals, and Objectives_
@@ -745,8 +700,6 @@ Anthony George
 
 Sarah Gosling
 
-<br>
-
 ### Applications – Build a Cool Game Project
 
 #### _Overview, Goals, and Objectives_
@@ -780,8 +733,6 @@ Morgaine Barter
 Lily Lan
 
 Bella Chhour
-
-<br>
 
 ### Modules Project
 
@@ -845,10 +796,6 @@ Timothy Moore
 
 Kai Tao
 
-<br>
-
-<br>
-
 ## DreamBig
 
 DreamBig is a new product innovation driven by the School of IT at Deakin. DreamBig aims to provide a personalised roadmap integrated with Ontrack to support students to develop their professional identity across their course and improve their employability after graduation. In addition, it aims to provide a platform to help set realistic expectations for students graduating into the real world. In line with this vision, it is proposed to build a prototype that can help achieve the following goals:
@@ -860,8 +807,6 @@ DreamBig is a new product innovation driven by the School of IT at Deakin. Dre
 - Customised paths for career starters, career changers and career advancers.
 
 **Product Lead:** Abigail Howe
-
-<br>
 
 ### DreamBig Prototype Project
 
@@ -909,13 +854,10 @@ Harrison Paul Allwood
 George Gkoumas
 
 **Front-end Design:**
+
 Guanyu Chen
 
 Harry Lui
-
-<br>
-
-<br>
 
 ## Internal Systems
 
@@ -964,7 +906,3 @@ Long-term:
 **Junior Web Developer:** Manveen Kaur Bhullar
 
 **Junior Back-end Developer:** Tushar
-
-<br>
-
-<br>
