@@ -15,7 +15,7 @@ List the key objective that your project should focus on this Trimester.
 **Examples**
 
 - Onboard all new team members successfully
-- Deliver an exceptional training program
+- Deliver an exceptional training programme
 - Improve our team engagement and satisfaction score
 - Launch the new product features successfully
 
