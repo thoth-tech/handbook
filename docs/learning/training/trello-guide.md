@@ -77,7 +77,7 @@ For cards that have similar structure or tasks that will be repeated over and ov
 
 Member assignment to Trello cards allows team members and the delivery lead to know who is currently working on a specific card or task. This makes it easier to determine who to contact if new information arises for a task or if a specific card is a blocker for your own current card.
 
-To assign a person to a card, select the card you want to assign the person to to bring up its details.
+To assign a person to a card, select the card you want to assign the person to bring up its details.
 
 #### **If assigning yourself**
 

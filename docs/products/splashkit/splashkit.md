@@ -54,25 +54,25 @@ The following steps will provide the reader with a basic understanding of Splash
 
 4. How to test you code
    - Run this command line in msys2 64bit for installing cmake
-     ```sh
+     ```shell
      pacman -S git mingw-w64-x86_64-cmake mingw-w64-x86_64-toolchain mingw-w64-x86_64-ninja
      ```
    - Install option 3
    - Enter this command line in your msys2
-     ```sh
+     ```shell
      git clone --recursive -j2 https://github.com/SplashKit/SplashKit.git
      ```
    - It will copy SplashKit file to your choosen folder.
    - Use the `cd` command to find the find where the `Cmakelist.txt` is.
-     ```sh
+     ```shell
      cd /c/SplashKit/projects/cmake
      ```
    - Enter this command, generate files
-     ```sh
+     ```shell
      cmake -G "Ninja"
      ```
    - and then enter this command line
-     ```sh
+     ```shell
      ninja
      ```
 
@@ -114,19 +114,19 @@ SplashKit comprises of 4 sections:
 
 SplashKit duplicates a version of the Source Code onto your device. This is accessed here:
 
-```sh
+```shell
 C:\msys64\home\<user>\.SplashKit
 ```
 
-This is how SplashKit Manager (SKM) can create projects with preconfigured files. For c++ projects, these can be accessed here:
+This is how SplashKit Manager (SKM) can create projects with preconfigured files. For C++ projects, these can be accessed here:
 
-```sh
+```shell
 C:\msys64\home\<user>\.SplashKit\new\c++\files
 ```
 
 SplashKit is a library which includes a variety of functionality detailed on the website. Each file is referred to as a module, which groups the functions by use. The function code and headers of SplashKit can be accessed here:
 
-```sh
+```shell
 C:\msys64\home\<user>\.SplashKit\source
 ```
 

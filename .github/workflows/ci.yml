@@ -21,3 +21,9 @@ jobs:
         run: npm install
       - name: Prettier
         run: npm run format:check
+      - name: Vale
+        run: |
+          sudo apt update
+          sudo apt install snapd
+          sudo snap install vale --edge
+          npm run prose:check
