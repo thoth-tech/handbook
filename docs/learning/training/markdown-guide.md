@@ -89,11 +89,12 @@ The hidden content is revealed inline. For example, this code:
 
 ```markdown
 <details>
-<summary markdown="span">This is the summary text, click me to expand</summary>
+<summary>This is the summary text, click me to expand</summary>
 
 This is the detailed text.
 
-You can learn more about expected usage of this approach in the [ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
+You can learn more about expected usage of this approach in the
+[ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
 
 </details>
 ```
@@ -101,19 +102,14 @@ You can learn more about expected usage of this approach in the [ThothTech markd
 results in:
 
 <details>
-<summary markdown="span">This is the summary text, click me to expand</summary>
+<summary>This is the summary text, click me to expand</summary>
 
 This is the detailed text.
 
-You can learn more about expected usage of this approach in the [ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
+You can learn more about expected usage of this approach in the
+[ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
 
 </details>
-
-To add markdown in the collapsed heading, be sure to add:
-
-```
-<details markdown="1">
-```
 
 ## Using VS Code to preview Markdown
 
