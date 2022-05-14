@@ -94,7 +94,7 @@ The hidden content is revealed inline. For example, this code:
 This is the detailed text.
 
 You can learn more about expected usage of this approach in the
-[ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
+[Thoth Tech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
 
 </details>
 ```
@@ -107,7 +107,7 @@ results in:
 This is the detailed text.
 
 You can learn more about expected usage of this approach in the
-[ThothTech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
+[Thoth Tech markdown guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/markdown-guide.md).
 
 </details>
 
