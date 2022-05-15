@@ -17,7 +17,6 @@
   - [Refactoring Code](#refactoring-code)
 - [Testing Templates](#testing-templates)
 
-
 ## Testing and Development
 
 Testing should be built into the software development process.
@@ -150,7 +149,7 @@ For each product/feature, using the required specifications, flesh out the expec
 
 ### Test Strategy
 
-You need to consider _how_ you are going to test your scenarios as part of this process – considering matters such as what [testing tools] you will use, what platforms tests will be performed on, any release processes, and what deliverables will you need to produce. This should be considered as part of your Test Strategy – a deliverable which should be produced as part of the QA process. Other documents that may be produced as part of the QA process include a Test Plan and Bug Reports.
+You need to consider _how_ you are going to test your scenarios as part of this process – considering matters such as what [testing tools](#testing-tools) you will use, what platforms tests will be performed on, any release processes, and what deliverables will you need to produce. This should be considered as part of your Test Strategy – a deliverable which should be produced as part of the QA process. Other documents that may be produced as part of the QA process include a Test Plan and Bug Reports.
 
 Templates have been provided for sample [Test Strategy](templates/test-strategy-template.md), [Test Plan](templates/test-plan-template.md) and [Bug Report](templates/bug-report-template.md) documents.
 
@@ -164,15 +163,15 @@ Using testing tools makes tests easier to write and easier for future developers
 
 Testing tools include:
 
-- Jasmine (for javascript unit testing)
-- Cypress (javascript end-to-end testing)
+- [Jasmine](https://jasmine.github.io) (for javascript unit testing)
+- [Cypress](https://www.cypress.io/) (javascript end-to-end testing)
 - Minitest (for Rails)
 - [Catch2](https://github.com/catchorg/Catch2/tree/v2.x) (for C/C++)
 - Junit (for Java)
 - Nunit (for .Net languages, such as C#, F#, Visual Basic)
-- Karma (a testing tool for automation that utilises other testing frameworks)
+- [Karma](https://karma-runner.github.io/latest/index.html) (a testing tool for automation that utilises other testing frameworks)
 
-But there are many more. Look for what is currently available and popular in your language. Currently, proposals have been put forward considering Jasmine and Karma for relevant unit testing and Cypress for end-to-end testing in the OnTrack space.
+But there are many more. Look for what is currently available and popular in your language. Currently, proposals have been put forward for utilising [Jasmine](https://jasmine.github.io) and [Karma](https://karma-runner.github.io/latest/index.html) for relevant unit testing and automation and [Cypress](https://www.cypress.io/) for end-to-end testing in the OnTrack space.
 
 ## How do I prove my code does what it's supposed to do?
 
