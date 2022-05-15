@@ -21,12 +21,13 @@ It covers key areas including:
 - [Software Requirements Specification Document](testing-and-dev.md#software-requirements-specification-document)
 
 - [Testing and Development](testing-and-dev.md#testing-and-development)
-- [Test Strategy](testing-and-dev.md#test-strategy)
 
-- [Test Plans](testing-and-dev.md#making-a-test-plan)
-- [Testing Tools](testing-and-dev.md#testing-tools)
-- [Test Driven Development](testing-and-dev.md#test-driven-development)
-- [Testing Templates](testing-and-dev.md#testing-templates)
+  - [Test Strategy](testing-and-dev.md#test-strategy)
+
+  - [Test Plans](testing-and-dev.md#making-a-test-plan)
+  - [Testing Tools](testing-and-dev.md#testing-tools)
+  - [Test Driven Development](testing-and-dev.md#test-driven-development)
+  - [Testing Templates](testing-and-dev.md#testing-templates)
 
 ## Git Contribution Guide
 
