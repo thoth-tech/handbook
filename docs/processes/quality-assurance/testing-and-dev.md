@@ -1,15 +1,13 @@
 # QA Process - Testing and Development <!-- omit in toc -->
-
-- [Testing and Development](#testing-and-development)
 - [Feature development: where do I start?](#feature-development-where-do-i-start)
 - [Epics and User Stories](#epics-and-user-stories)
   - [Epics](#epics)
   - [User Stories](#user-stories)
 - [Software Requirements Specification Document](#software-requirements-specification-document)
+- [Testing and Development](#testing-and-development)
   - [Making a Test Plan](#making-a-test-plan)
   - [Test Strategy](#test-strategy)
   - [Testing Tools](#testing-tools)
-- [How do I prove my code does what it's supposed to do?](#how-do-i-prove-my-code-does-what-its-supposed-to-do)
 - [Test Driven Development](#test-driven-development)
   - [Determining appropriate tests](#determining-appropriate-tests)
   - [Writing a failing test case](#writing-a-failing-test-case)
@@ -17,13 +15,7 @@
   - [Refactoring Code](#refactoring-code)
 - [Testing Templates](#testing-templates)
 
-## Testing and Development
-
-Testing should be built into the software development process.
-
-Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) (TDD) approach.
-
-But you might be wondering, before jumping into coding and planning tests for a new feature, _where do you begin_?
+You might be wondering, before jumping into coding and planning tests for a new feature, _where do you begin_?
 
 ## Feature development: where do I start?
 
@@ -142,6 +134,9 @@ Further references include Perforce's [How to Write an SRS Document](https://www
 
 _After completing the SRS, you’ll need to get it approved by key stakeholders. This will require everyone to review the latest version of the document_
 
+## Testing and Development
+
+Testing should be built into the software development process. Thoth-Tech advocates for a [Test Driven Development](#test-driven-development) (TDD) approach. In any event, all coding projects should consider and record their [Test Plan](#making-a-test-plan) and [Test Strategy](#test-strategy) and produce these as project deliverables.
 
 ### Making a Test Plan
 
@@ -173,7 +168,7 @@ Testing tools include:
 
 But there are many more. Look for what is currently available and popular in your language. Currently, proposals have been put forward for utilising [Jasmine](https://jasmine.github.io) and [Karma](https://karma-runner.github.io/latest/index.html) for relevant unit testing and automation and [Cypress](https://www.cypress.io/) for end-to-end testing in the OnTrack space.
 
-## How do I prove my code does what it's supposed to do?
+## How do I prove my code does what it's supposed to do? <!-- omit in toc -->
 
 ## Test Driven Development
 
