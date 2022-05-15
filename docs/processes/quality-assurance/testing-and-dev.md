@@ -1,4 +1,5 @@
 # QA Process - Testing and Development <!-- omit in toc -->
+
 - [Feature development: where do I start?](#feature-development-where-do-i-start)
 - [Epics and User Stories](#epics-and-user-stories)
   - [Epics](#epics)
@@ -25,6 +26,7 @@ You might be wondering, before jumping into coding and planning tests for a new 
 - Consider how best to mitigate risk or look for alternate solutions.
 - Determine functional and non-functional requirements.
 - Determine acceptance criteria.
+
   - What are the metrics for success?
   - What's in/out of scope?
 
@@ -32,7 +34,6 @@ You might be wondering, before jumping into coding and planning tests for a new 
 - Plan your testing by defining your Test Strategy and Test Plan:
   - Using your specifications, fleshout the expected behaviour for different use case scenarios; these will provide scenarios to be tested in your [Test Plan](#making-a-test-plan).
   - Determine _how_ you are going to test your scenarios and describe this in your [Test Strategy](#test-strategy).
-
 
 ## Epics and User Stories
 
@@ -150,7 +151,7 @@ Templates have been provided for sample [Test Strategy](templates/test-strategy-
 
 While manual testing may be conducted initially, moving towards automated tests allows for better efficiency, ease of code checks and is the preferred method to allow automatic test incorporation into the deployment pipeline. Testing and processes, like many other in the Agile model, are not static, and can (and should) be improved on successive iterations. This may include iterating existing processes for testing releases as well as automating more functionality.
 
-Thoth-Tech encourages a [test driven development](#test-driven-development) approach, in which testing is intertwined with softward development. If your software coding has begun in advance of testing considerations, then you should still formulate a Testing Strategy, including a Test Plan, to verify that your code successfully meets requirements. 
+Thoth-Tech encourages a [test driven development](#test-driven-development) approach, in which testing is intertwined with softward development. If your software coding has begun in advance of testing considerations, then you should still formulate a Testing Strategy, including a Test Plan, to verify that your code successfully meets requirements.
 
 ### Testing Tools
 

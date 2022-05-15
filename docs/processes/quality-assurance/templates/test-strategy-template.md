@@ -16,7 +16,7 @@ Relevant links and helpful information about the project and its tech stack
 
 - GitHubproject: \<github link\>
 - Jasmine is used as a unit testing framework [https://jasmine.github.io/](https://jasmine.github.io/)
-- Cypress is used for end-to-end testing [https://www.cypress.io/](https://www.cypress.io/) 
+- Cypress is used for end-to-end testing [https://www.cypress.io/](https://www.cypress.io/)
 - Karma is used for testing automation [https://karma-runner.github.io/latest/index.html](https://karma-runner.github.io/latest/index.html)
 - App is built using Node.js: [http://nodejs.org/](http://nodejs.org/)
 
