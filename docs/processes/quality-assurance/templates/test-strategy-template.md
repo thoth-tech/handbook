@@ -15,8 +15,10 @@ Relevant links and helpful information about the project and its tech stack
 ### **Examples**
 
 - GitHubproject: \<github link\>
-- JEST is used [https://jestjs.io/](https://jestjs.io/)
-- App built using Node.js: [http://nodejs.org/](http://nodejs.org/)
+- Jasmine is used as a unit testing framework [https://jasmine.github.io/](https://jasmine.github.io/)
+- Cypress is used for end-to-end testing [https://www.cypress.io/](https://www.cypress.io/) 
+- Karma is used for testing automation [https://karma-runner.github.io/latest/index.html](https://karma-runner.github.io/latest/index.html)
+- App is built using Node.js: [http://nodejs.org/](http://nodejs.org/)
 
 ## **QA Deliverables**
 
@@ -46,9 +48,8 @@ What types of tests exist for this project?
 
 ### **Examples**
 
-- There are unit tests, 80% coverage, written in Mocha and Chai
+- There are unit tests, 80% coverage, written in Jasmine
 - Written during development—by developers
-- Integration tests are also written in Mocha and Chai
 - Automated UI tests for high-level workflows
 
 _Based on template from_ [_Programming Foundations: Software Testing/QA_](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?autoSkip=true&autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A57f7e27c3dd559e018dfe994&resume=false&u=2104084) _with Meaghan Lewis on LinkedIn Learning_
