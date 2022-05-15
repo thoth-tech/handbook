@@ -16,14 +16,16 @@ The [Testing and Development processes document](testing-and-dev.md) explains th
 
 It covers key areas including:
 
-- [Feature Development: where to start?](testing-and-dev.md#feature-development-where-do-i-start)
-
-- [Test-Driven Development](testing-and-dev.md#test-driven-development)
-
+- [Feature development: where do I start?](testing-and-dev.md#feature-development-where-do-i-start)
 - [Epics and User Stories](testing-and-dev.md#epics-and-user-stories)
+- [Software Requirements Specification Document](testing-and-dev.md#software-requirements-specification-document)
 
-- [Software Requirements Specification](testing-and-dev.md#software-requirements-specification-document)
+- [Testing and Development](testing-and-dev.md#testing-and-development)
+- [Test Strategy](testing-and-dev.md#test-strategy)
 
+- [Test Plans](testing-and-dev.md#making-a-test-plan)
+- [Testing Tools](testing-and-dev.md#testing-tools)
+- [Test Driven Development](testing-and-dev.md#test-driven-development)
 - [Testing Templates](testing-and-dev.md#testing-templates)
 
 ## Git Contribution Guide
@@ -32,12 +34,12 @@ The [Git Contributions Guide](git-contribution-guide.md) concerns processes rela
 
 Key areas are:
 
-[Contributing to Repositories: How To](git-contribution-guide.md#contributing-to-repositories-how-to)
+- [Contributing to Repositories: How To](git-contribution-guide.md#contributing-to-repositories-how-to)
 
-[Branching Guidelines](git-contribution-guide.md#branching-guidelines)
+- [Branching Guidelines](git-contribution-guide.md#branching-guidelines)
 
-[Commit Guidelines](git-contribution-guide.md#commit-guidelines)
+- [Commit Guidelines](git-contribution-guide.md#commit-guidelines)
+  - [Commit Message Format](git-contribution-guide.md#message-format)
+- [Code Review Guidelines](git-contribution-guide.md#code-review-guidelines)
 
-[Code Review Guidelines](git-contribution-guide.md#code-review-guidelines)
-
-[Git Workflow Summary](git-contribution-guide.md#git-workflow-summary)
+- [Git Workflow Summary](git-contribution-guide.md#git-workflow-summary)
