@@ -74,12 +74,13 @@
   establish better communication process.
 - We should try to focus more on documentation.
 - Leadership
-  - Tim stood in a lot of time to help. Trello experience and agile planning. Harry is proactive.
-  - I personally want to get more technical. Interested in coding solutions and design. Data
-    analytics and ML for T2.
+  - Tim stood in a lot of time to help. Trello experience and agile planning.
+  - Harry is proactive. However, he would like to remain technical.
 - Ideas
   - Junior can join and get more mentorship.
   - Clearer description/expectation on roles.
+  - Balance technical learning and leadership responsibilities was particularly hard. Could we have
+    leadership dedicated for technical track? For example, technical lead/staff engineer.
 
 ## DreamBig
 
