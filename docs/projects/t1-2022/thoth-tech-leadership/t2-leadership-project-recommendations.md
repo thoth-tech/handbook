@@ -56,6 +56,31 @@
 
 ## SplashKit
 
+### Extensions
+
+- Touch base with Andrew to get more insights on the deliverables
+- Set up regular cadence with Andrew to surface any blockers early on
+- Require better documentation to help understand what is done and what is not yet completed
+- Leadership
+  - Jack and Ben are good, highly engaged, and self-started. They help to lead retrospective.
+
+## Modules
+
+- Machine Learning: Harry is doing really well. AI agent, change rewards, temporal differences.
+  Working on documentation. Might get all complete this Trimester.
+- Data Analytics: focus on new instance selection, standardisation, visual plots.
+- Physics: work on the extension code after addressing existing code issues
+- Blocker: full-time work commitment. Keeping up with delivery across small sub-teams. We needs to
+  establish better communication process.
+- We should try to focus more on documentation.
+- Leadership
+  - Tim stood in a lot of time to help. Trello experience and agile planning. Harry is proactive.
+  - I personally want to get more technical. Interested in coding solutions and design. Data
+    analytics and ML for T2.
+- Ideas
+  - Junior can join and get more mentorship.
+  - Clearer description/expectation on roles.
+
 ## DreamBig
 
 ## Internal Systems
