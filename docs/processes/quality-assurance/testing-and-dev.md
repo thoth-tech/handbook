@@ -1,4 +1,4 @@
-# QA Process - Testing and Development <!-- omit in toc -->
+# QA Process - Software Development and Testing <!-- omit in toc -->
 
 - [Feature development: where do I start?](#feature-development-where-do-i-start)
 - [Epics and User Stories](#epics-and-user-stories)
