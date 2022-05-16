@@ -2,7 +2,7 @@
 
 [Why/What is QA?](#whywhat-is-quality-assurance)
 
-[Testing and Development](#testing-and-development)
+[Software Development and Testing](#software-development-and-testing)
 
 [Git Contribution Guide](#git-contribution-guide)
 
@@ -10,9 +10,9 @@
 
 Quality Assurance (QA) is defined as a procedure to ensure the quality of software products or services provided to the customers by an organisation. Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products.
 
-## Testing and Development
+## Software Development and Testing
 
-The [Testing and Development processes document](testing-and-dev.md) explains the test driven development (TDD) process and contains information relating to feature development using this approach. As it makes testing part of the approach, it is best to be familiar with this document before you start coding.
+The [Testing and Development processes document](testing-and-dev.md) contains information and resources relating to the software conception and development process and documentation. It also explains the test driven development (TDD) process and contains information relating to feature development using this approach. As it makes testing part of the approach, it is best to be familiar with this document before you start coding.
 
 It covers key areas including:
 
