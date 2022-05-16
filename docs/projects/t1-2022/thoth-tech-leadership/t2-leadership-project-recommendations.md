@@ -1,8 +1,9 @@
 #T1 Leadership Project Recommendation for T2
 
 ##General recommendations:
+
 - Clear messaging early on
-- Grade aims in onboarding form for team splits 
+- Grade aims in onboarding form for team splits
 - Clear messaging from the beginning around general delivery schedule + self driven expectations
 - Partnering experienced seniors with juniors where possible
 - Balance of High achieving students to drive the delivery
@@ -10,6 +11,7 @@
 ##OnTrack
 
 ###Front-end Migrations
+
 - Upskilling links - migration guide
 - Front end experience, javascript/typescript
 - Utilising seniors early on
@@ -28,7 +30,7 @@
 ###Jupiter Notebook:
 
 - Skills: good understanding of the programming language python so they can learn ruby-on-rails quickly. The work that i would expect them to do has many similarities to that of python and i feel that if they understand python they will have no difficulty understanding ruby.
-- Size: 2-3 students 
+- Size: 2-3 students
 - Other options available if the next trimester team finishes early or if they get to many people such as other conversion types. This is the same as how this trimester the Jupyter Notebook Support team not only did the Jupyter Notebook to pdf conversion but also microsoft word to pdf.
 
 ###Voice Verification:
@@ -46,12 +48,8 @@
 ##Internal Systems
 
 ###Static Company Website
+
 - 6 - 8 people + delivery lead - will help with engagement
-- Javascript 
+- Javascript
 - QA focus + skills
-- Skills needed: Front end - Gatsby - react, backend: javascript  + typescript
-
-
-
-
-
+- Skills needed: Front end - Gatsby - react, backend: javascript + typescript
