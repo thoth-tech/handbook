@@ -1,14 +1,21 @@
 # Setup new GitHub repository
 
-Everyone at Thoth Tech has permission to create new GitHub repositories. To ensure that we adhere to
-the
-[Git Contribution guide](https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/git-contribution-guide.md),
-we suggest to implement the following GitHub settings.
+Everyone at Thoth Tech has permission to create new GitHub repositories. To adhere to the
+[Git Contribution guide](../../processes/quality-assurance/git-contribution-guide.md), we suggest to
+implement the following GitHub settings:
+
+- [Delete merged branches automatically](#delete-merge-branches-automatically): enabled
+- [Access control](#access-control): role-based with least privilege
+- [Branch protection](#branch-protection): enabled
+
+You can find these settings under the repository settings page.
+
+![repository settings](images/repository-settings.png)
 
 ## Delete merged branches automatically
 
-This setting helps to reduce the number of branches that are already merged to the default
-branch. On large repository, this improves code checkout time and reduce disk storage.
+This setting helps to reduce the number of branches that are already merged to the default branch.
+On large repository, this improves code checkout time and reduce disk storage.
 
 1. Go to the `Settings > General` page. For example,
    `https://github.com/thoth-tech/handbook/settings`.
@@ -18,7 +25,7 @@ branch. On large repository, this improves code checkout time and reduce disk st
 
 ![delete merged branches](images/delete-merged-branches.png)
 
-## Access
+## Access control
 
 To reduce accidental deletion and risk of compromised accounts, we would like to keep elevated
 permissions to a smallest number of individual as possible. Generally, roles are assigned as
@@ -51,7 +58,7 @@ prohibited.
 1. Enable `Require a pull request before merging`
    1. Enable `Require approvals`
    1. Select `Required number of approvals before merging` according to the
-      [Code Review guidelines](https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/git-contribution-guide.md#required-approvals).
+      [Code Review guidelines](../../processes/quality-assurance/git-contribution-guide.md#required-approvals).
 1. Enable `Include administrators` so everyone is subjected to the above rules when contributing
    code to the repository.
 1. Select `Create`
