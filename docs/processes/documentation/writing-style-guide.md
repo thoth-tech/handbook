@@ -354,7 +354,7 @@ Do not use profane/derogatory terms.
 
 Thoth Tech is an open-source company with a potentially global reach. We value education and creating learning opportunities.
 
-We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for gloabl communication.
+We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for global communication.
 
 Keep your writing short and simple, break a complex sentence into multiple simple sentences. Avoid linking more than three phrases.
 
