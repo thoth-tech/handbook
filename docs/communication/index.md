@@ -27,4 +27,4 @@ For more information:
 - [Fearless feedback](fearless-feedback.md)
 - [Shoutouts](fearless-feedback.md#shoutouts)
 - [Scenarios](scenarios.md)
-- [Writing Style Guide](docs/../../processes/documentation/writing-style-guide.md)
+- [Writing Style Guide](../processes/documentation/writing-style-guide.md)
