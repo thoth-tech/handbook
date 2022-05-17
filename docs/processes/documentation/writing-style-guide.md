@@ -79,9 +79,9 @@ For example:
 
 ### Lists
 
-The sentence leading into a list should eend in a colon (:).
+The sentence leading into a list should end in a colon (:).
 If each item in the list is a full sentence, capitalise the first letter and end each item with a full stop.
-Otherwise, if the items are fragements of a sentence, each item should start in lowercase. Use a full stop at the end of the last item.
+Otherwise, if the items are fragments of a sentence, each item should start in lowercase. Use a full stop at the end of the last item.
 
 #### Unordered/bullet list
 
@@ -92,7 +92,7 @@ To create an unordered list, you should:
 - end the leading sentence with a colon
 - end each item with no punctuation mark
 - not use a capital letter or full stop if the list items are not full sentences
-- nnd the last item with a full stop.
+- end the last item with a full stop.
 
 To create unordered list items in markdown, use a dash (-).
 
@@ -246,7 +246,7 @@ For example:
 
 ### Technical content
 
-Technical content is the information about the underlying atchitecture, materials, and processes required to understand existing technology. Technical content typically requires some level of existing knowledge about the content.
+Technical content is the information about the underlying architecture, materials, and processes required to understand existing technology. Technical content typically requires some level of existing knowledge about the content.
 
 Technical content should include:
 
@@ -265,26 +265,26 @@ If a term already exists, do not create a new word/phrase. Use these terms consi
 Code examples serve a range of scenarios:
 
 - Simple, one-line examples
-- Short, self contained examples
+- Short, self-contained examples
 - Long samples with multiple features or best practice
 
-To create useful code examples you should identify tasks and scenarios for your audience.
+To create useful code examples, you should identify tasks and scenarios for your audience.
 
 Create concise examples of key development tasks, easy to read and understand. Show the expected output within the code example.
 
-Create sustianable and secure code examples. Follow best practice.
+Create sustainable and secure code examples. Follow best practice.
 
 Ensure the code is easy to replicate and run. If possible, provide an option to copy the code directly from the page.
 
 ### Writing instructions/steps
 
-Intructions are used when a reader is wanting to learn. Therefore, the steps must be clear, easy to understand, and follow.
+Instructions are used when a reader wants to learn. Therefore, the steps must be clear, easy to understand, and follow.
 
 Emphasis should be placed on the main direction. Use **bold** to highlight key words or phrases which indicate the action or outcome.
 
 Make sure the reader knows where the action should take place before you describe the action. If necessary, provide an introductory step to highlight the area.
 
-Throughout step-by-step instructions, formating and language must be consistent. Capitalise the first word of full sentences, and full stop at the end.
+Throughout step-by-step instructions, formatting and language must be consistent. Capitalise the first word of full sentences, and full stop at the end.
 
 A separate numbered entry should be used for each step. Each step should be a complete sentence in imperative verb form, including actions that finalise the step.
 
@@ -307,7 +307,7 @@ For example:
 
 ## Bias-free communication
 
-When creating documentation, we have an obligation to respect all indivduals. At Thoth Tech we promote an inclusive and supportive environment. This extends to our communication.
+When creating documentation, we have an obligation to respect all individuals. At Thoth Tech we promote an inclusive and supportive environment. This extends to our communication.
 
 We have a responsibility to respect diversity and promote inclusion through all our communication. As such we enforce the following guidelines for bias-free communication.
 
@@ -319,7 +319,7 @@ Use gender-neutral alternatives.
 | manpower      | workforce, staff        |
 | manmade       | synthetic, manufactured |
 
-Do not use gendered-pronouns. Instead:
+Do not use gendered pronouns. Instead:
 
 - Rewrite the sentence to use _they_, _their_, or _them_.
 - Refer to a person's role.
@@ -327,11 +327,11 @@ Do not use gendered-pronouns. Instead:
 
 Exceptions include:
 
-- if you are refering to a real person. Please use their prefered pronouns in this case.
+- if you are referring to a real person. Please use their preferred pronouns in this case.
 - direct quotations and titles of works
 - when gender is relevant. For example, diversity challenges. <!-- Would prefer a different example-->
 
-When refering to accessibility challenges focus on people, not disabilities. For example: readers who have low vision or blind
+When referring to accessibility challenges focus on people, not disabilities. For example: readers who have low vision or blind
 
 When creating fictitious scenarios, include a diverse range of names and roles. Do not elude to stereotypes or generalisations and do not primarily write of Western ideals.
 
@@ -354,7 +354,7 @@ Do not use profane/derogatory terms.
 
 Thoth Tech is an open-source company with a potentially global reach. We value education and creating learning opportunities.
 
-We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for gloabl communication.
+We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for global communication.
 
 Keep your writing short and simple, break a complex sentence into multiple simple sentences. Avoid linking more than three phrases.
 
@@ -364,6 +364,6 @@ Include 'that', 'who', and 'the'. These can provide clarity in the sentence stru
 
 Particularly for machine translation:
 
-- Use one word for a concept, and be consistent.
+- Use one word for a concept and be consistent.
 - Avoid -ing and -ed endings.
 - Use only common abbreviations.
