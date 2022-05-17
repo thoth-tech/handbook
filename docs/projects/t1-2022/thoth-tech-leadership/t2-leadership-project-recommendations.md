@@ -3,11 +3,23 @@
 ## General recommendations
 
 - Clear messaging early on
-- Grade aims in onboarding form for team splits
 - Clear messaging from the beginning around general delivery schedule + self driven expectations
 - Weekly written team progress reports to Area Leads
 - Partnering experienced seniors with juniors where possible
 - Balance of High achieving students to drive the delivery
+- Product Lead + Area lead merged
+- Addition of more area leads
+- QA team
+- Documentation team part of Internal Systems
+- Delivery lead training in week 0
+
+Implement recommendations from T1 Delivery leads
+
+## Onboarding form improvements:
+
+- skill confidence (1-5) eg. programming, troubleshooting, documentation, project collaboration etc
+- do you want to work towards leadership?
+- Grade aims in onboarding form for team splits
 
 ## OnTrack
 
