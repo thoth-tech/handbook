@@ -181,7 +181,8 @@ approval process for your team.
 
 The required approvals rules can be set via the [branch protection rule](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule).
 All the leads should have access to change these settings and should ensure this
-is configured when creating a new GitHub repository.
+is configured when creating a new GitHub repository. For more information on how
+to set this up correctly, see this [guide](https://github.com/thoth-tech/handbook/blob/main/docs/learning/useful-resources/setup-new-github-repository.md).
 
 ## Git Workflow Summary
 
