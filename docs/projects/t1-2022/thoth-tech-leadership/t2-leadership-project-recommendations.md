@@ -104,3 +104,10 @@ Implement recommendations from T1 Delivery leads
 - JavaScript
 - QA focus + skills
 - Skills needed: Front end - Gatsby - React, backend: JavaScript + TypeScript
+
+## DreamBig Prototype
+
+- T2 will be working on user evaluation of the UI prototype to be completed in this trimester.
+- Also high priority will be given to coding the prototype of the application, using the same tech stack as Ontrack.
+- 8 people (hope to keeep current juniors (4) and perhaps onboard 4 more people).
+- Looking for skills in React, node js (and ruby rails or Angular knowledge be great).
