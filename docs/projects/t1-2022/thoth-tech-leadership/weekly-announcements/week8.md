@@ -1,4 +1,4 @@
-#Week 8 Announcement
+# Week 8 Announcement
 
 Good Evening Thoth Tech
 
