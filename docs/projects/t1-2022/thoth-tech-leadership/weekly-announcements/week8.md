@@ -4,7 +4,7 @@ Good Evening Thoth Tech
 
 It’s your friendly neighbourhood leadership team here.
 
-##RECAP:
+## RECAP:
 
 - Thank you to the 31 responses in the Onboarding feedback form. This will be invaluable information for next trimester. We are happy to report a 4/5 stars for on-boarding, hopefully next tri it will reach a 5/5 experience.
 - By now you should have all reviewed the all company meeting where we reviewed what we have achieved so far, what we still need to achieve and what new resources have become available since the beginning of trimester.
