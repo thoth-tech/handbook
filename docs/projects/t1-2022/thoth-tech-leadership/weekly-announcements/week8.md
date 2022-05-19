@@ -9,7 +9,7 @@ It’s your friendly neighbourhood leadership team here.
 - Thank you to the 31 responses in the Onboarding feedback form. This will be invaluable information for next trimester. We are happy to report a 4/5 stars for on-boarding, hopefully next tri it will reach a 5/5 experience.
 - By now you should have all reviewed the all company meeting where we reviewed what we have achieved so far, what we still need to achieve and what new resources have become available since the beginning of trimester.
 
-##TO DO:
+## TO DO:
 
 - As we approach the end of the trimester, we are moving into Delivery and Documentation mode. If you are lost or need help - PLEASE REACH OUT. We can’t support you if you don’t let us know you need help.
 - As you should now be aware from the company meeting, there is a new documentation repo. Please begin putting your research and development notes into the corresponding folder. This is expected to be completed in time for handover (Week 11) and will require you to create PRs in .md format. If you start now you will have no issues. Remember to add people from your project and docs team to review the Pull Request.
