@@ -1,4 +1,4 @@
-#Getting Started at Thoth Tech
+# Getting Started at Thoth Tech
 
 - Products
 - Onboarding 
