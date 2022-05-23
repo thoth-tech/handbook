@@ -79,10 +79,11 @@ Implement recommendations from T1 Delivery leads
 - Touch base with Andrew to get more insights on the deliverables
 - Set up regular cadence with Andrew to surface any blockers early on
 - Require better documentation to help understand what is done and what is not yet completed
+- Skills: Ruby is essential
 - Leadership
   - Jack and Ben are good, highly engaged, and self-started. They help to lead retrospective.
 
-## Modules
+### Modules
 
 - Machine Learning: Harry is doing really well. AI agent, change rewards, temporal differences.
   Working on documentation. Might get all complete this Trimester.
@@ -100,7 +101,14 @@ Implement recommendations from T1 Delivery leads
   - Balance technical learning and leadership responsibilities was particularly hard. Could we have
     leadership dedicated for technical track? For example, technical lead/staff engineer.
 
-## DreamBig
+### Applications
+
+- Spliting team into two individual but highly collaborative projects.
+- Arcade machine needs hardware and software.
+- Cool games needs people who are familar with SplashKit coding.
+- May need to start thinking about security.
+- Graphic designers will be helpful for free, high quality graphics.
+- Team size: 5-7 each.
 
 ## Internal Systems
 
@@ -110,6 +118,12 @@ Implement recommendations from T1 Delivery leads
 - JavaScript
 - QA focus + skills
 - Skills needed: Front end - Gatsby - React, backend: JavaScript + TypeScript
+
+### Governance, Risk, and Compliance
+
+TBC
+
+## DreamBig
 
 ### DreamBig Prototype
 
