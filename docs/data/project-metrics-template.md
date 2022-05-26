@@ -6,7 +6,9 @@ A high-level summary of the project goals.
 
 ### Example
 
-This document outlines project objectives, including those related to people, delivery and product. It aims to provide a systematic and quantifiable set of key results that could guide us to build better teams, deliver more efficiently and delight our users.
+This document outlines project objectives, including those related to people, delivery and product.
+It aims to provide a systematic and quantifiable set of key results that could guide us to build
+better teams, deliver more efficiently and delight our users.
 
 ## Objective 1
 
@@ -21,11 +23,13 @@ List the key objective that your project should focus on this Trimester.
 
 ### Key Results
 
-Define the key results (KR) that support the above objective. Please make sure these KRs are specific, measurable and time-bound. They typically include hard numbers.
+Define the key results (KR) that support the above objective. Please make sure these KRs are
+specific, measurable and time-bound. They typically include hard numbers.
 
 **Examples**
 
-If the objective is to successfully launch a new product feature by the end of Trimester 1, then the key results are:
+If the objective is to successfully launch a new product feature by the end of Trimester 1, then the
+key results are:
 
 - Interview at least 10 prospective users and get their initial feedback
 - Specify all major user flows
