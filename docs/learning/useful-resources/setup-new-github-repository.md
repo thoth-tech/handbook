@@ -39,28 +39,29 @@ The administrators or repository creators can ensure the above roles assignment.
 
 1. Go to the `Settings > Access` page. For example,
    `https://github.com/thoth-tech/handbook/settings/access`.
-1. Select `Add teams`
-1. Type the team name and assign the roles as stated above
-1. Repeat for the rest of the teams
+1. Select `Add teams`.
+1. Type the team name and assign the roles as stated above.
+1. Repeat for the rest of the teams.
 
 ![team access](images/team-access.png)
 
 ## Branch protection
 
 We recommend feature branch strategy and Pull request workflow for code development. This ensures
-high code quality, knowledge sharing and collaboration. Pushing to default branch must be
-prohibited.
+code quality, knowledge sharing and collaboration. Pushing to the default branch must be prohibited.
 
 1. Go to the `Settings > Branches` page. For example,
    `https://github.com/thoth-tech/handbook/settings/branches`.
-1. Select `Add rule`
+1. Select `Add rule`.
 1. Type the name of the default branch in the `Branch name pattern` text box. For example, `main`.
-1. Enable `Require a pull request before merging`
-   1. Enable `Require approvals`
+1. Enable `Require a pull request before merging`.
+   1. Enable `Require approvals`.
    1. Select `Required number of approvals before merging` according to the
       [Code Review guidelines](../../processes/quality-assurance/git-contribution-guide.md#required-approvals).
-1. Enable `Include administrators` so everyone is subjected to the above rules when contributing
+1. Enable `Require status checks to pass before merging`.
+   1. Ensure `Requires branches to be up to date before merging` **is disabled**.
+1. Enable `Include administrators` so everyone is subjected to the above rules when contributing.
    code to the repository.
-1. Select `Create`
+1. Select `Create`.
 
 ![branch protection](images/branch-protection.png)
