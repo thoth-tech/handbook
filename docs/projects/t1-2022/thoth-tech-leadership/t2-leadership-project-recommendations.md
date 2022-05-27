@@ -25,8 +25,8 @@ Implement recommendations from T1 Delivery leads
 ## QA recommendations
 
 - promote compliance
-- encourage creation of testing tools and framework resources (installation, guides, how-tos) to
-  be shared across the company for teams with similar tech/languages (and document expanded resources
+- encourage creation of testing tools and framework resources (installation, guides, how-tos) to be
+  shared across the company for teams with similar tech/languages (and document expanded resources
   for this in the handbook).
 - may wish to have different QA team members (in event of a QA team being created) focusing on
   different products/tech to assist in ability to liaise/support across teams with similar products
@@ -139,6 +139,7 @@ Implement recommendations from T1 Delivery leads
 ### DreamBig Prototype
 
 - T2 will be working on user evaluation of the UI prototype to be completed in this trimester.
-- Also high priority will be given to coding the prototype of the application, using the same tech stack as Ontrack.
+- Also high priority will be given to coding the prototype of the application, using the same tech
+  stack as Ontrack.
 - 8 people (hope to keeep current juniors (4) and perhaps onboard 4 more people).
 - Looking for skills in React, node js (and ruby rails or Angular knowledge be great).
