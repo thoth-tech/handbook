@@ -12,6 +12,7 @@
 - QA team
 - Documentation team part of Internal Systems
 - Delivery lead training in week 0
+- Teach and push GitHub use early on
 
 Implement recommendations from T1 Delivery leads
 
@@ -66,7 +67,8 @@ Implement recommendations from T1 Delivery leads
 
 ### Documentation
 
-- Move toward a Document Control role, having ownership over documentation and product documents.
+- Moved to Interal Systems (become company wide voice).
+- Change to a Document Control role, having ownership over documentation and product documents.
 - Size: 6-10 students, sub teams for each product
 - Skills: good understanding of English language, understanding of markdown, strong engagement,
   strong communication, and experience with GitHub
@@ -121,7 +123,12 @@ Implement recommendations from T1 Delivery leads
 
 ### Governance, Risk, and Compliance
 
-TBC
+- Skills: good communication and research skills, understanding of risk management.
+- Bachelor of Cyber Security
+- Not a Coding role but still highly technical.
+- Could expand the epic toward ethical hacking and pentration testing of products. Main voice of
+security throughout the company.
+- Team size: 5-6.
 
 ## DreamBig
 
