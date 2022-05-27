@@ -177,8 +177,8 @@ Product assumptions have 2 main criteria: risk and difficulty. As an entrepreneu
 on the riskiest assumptions first but as a product owner (or you working in a squad with limited
 resources and skills) you should consider both factors.
 
-**Large companies’ mentality:** You are working on many many things, so the design team and dev team
-have to ration their time to decide what the task in hand is going to be.
+**Large companies’ mentality:** You are working on many things, so the design team and dev team have
+to ration their time to decide what the task in hand is going to be.
 
 **Risks**: how risky the assumption is to potential feature or product as a whole. Remember some can
 sink the ship and some change its course.

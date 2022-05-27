@@ -4,22 +4,43 @@
 
 **_T1 Report 2022: Week 6_**
 
-<br>
-<br>
-
 ## Executive Summary
 
-Thoth Tech (est. 2022) is a new software development company currently building from the ground up in Melbourne Australia. Thoth Tech’s mission is to build, operate, and deploy education technologies, creating tools that enhance education outcomes by empowering students, connecting them with tutors, and facilitating personalised learning experiences. We value our people, and we value excellence: We are people-focused, aim to produce sustainable products of excellent quality, and provide frameworks that provide a safe environment for learning and support of our team.
+Thoth Tech (est. 2022) is a new software development company currently building from the ground up
+in Melbourne Australia. Thoth Tech’s mission is to build, operate, and deploy education
+technologies, creating tools that enhance education outcomes by empowering students, connecting them
+with tutors, and facilitating personalised learning experiences. We value our people, and we value
+excellence: We are people-focused, aim to produce sustainable products of excellent quality, and
+provide frameworks that provide a safe environment for learning and support of our team.
 
-This report is for stakeholders, investors, and employees, and will outline the company structure, charter, objectives – both short and long term, and explore each product’s goals in depth.
+This report is for stakeholders, investors, and employees, and will outline the company structure,
+charter, objectives – both short and long term, and explore each product’s goals in depth.
 
-Within the first third of 2022, Thoth Tech has recruited approximately 92 employees including four area leads, three product leads and eleven delivery leads. There will be another recruitment phase during the other two thirds of the year and an expected exit rate of 50 percent, with the potential for internships throughout the company.
+Within the first third of 2022, Thoth Tech has recruited approximately 92 employees including four
+area leads, three product leads and eleven delivery leads. There will be another recruitment phase
+during the other two thirds of the year and an expected exit rate of 50 percent, with the potential
+for internships throughout the company.
 
-Along with recruitment, Thoth Tech has taken onboard three external products, two live and well-established products – _OnTrack_ and _SplashKit_ – and _DreamBig_, a in development product which will leverage the OnTrack technology stack. Thoth Tech will also be creating our internal architecture and platform for employees throughout this third of the year, referred to as the _Internal System_ project.
+Along with recruitment, Thoth Tech has taken onboard three external products, two live and
+well-established products – _OnTrack_ and _SplashKit_ – and _DreamBig_, a in development product
+which will leverage the OnTrack technology stack. Thoth Tech will also be creating our internal
+architecture and platform for employees throughout this third of the year, referred to as the
+_Internal System_ project.
 
-Both the OnTrack and SplashKit products have been identified as requiring extensions and additional features to improve the quality and usability of the product. OnTrack is a platform designed to facilitate student learning and reducing the pressure of achieving unrealistic grades. The focus is on providing a tailored learning experience, using tasks and a portfolio assessment. This product is live and is currently being upgraded to newer technology stacks and improving security and documentation. SplashKit is currently a 2D game development Software Development Kit used to teach object-oriented coding to beginners. It has been identified that SplashKit can be expanded to explore other areas and languages. The DreamBig product is in response to a need identified by Deakin, to provide a personalised development roadmaps to enhance students’ employability.
+Both the OnTrack and SplashKit products have been identified as requiring extensions and additional
+features to improve the quality and usability of the product. OnTrack is a platform designed to
+facilitate student learning and reducing the pressure of achieving unrealistic grades. The focus is
+on providing a tailored learning experience, using tasks and a portfolio assessment. This product is
+live and is currently being upgraded to newer technology stacks and improving security and
+documentation. SplashKit is currently a 2D game development Software Development Kit used to teach
+object-oriented coding to beginners. It has been identified that SplashKit can be expanded to
+explore other areas and languages. The DreamBig product is in response to a need identified by
+Deakin, to provide a personalised development roadmaps to enhance students’ employability.
 
-Due to a partnership with the School of IT at Deakin University, Thoth Tech and the subsequent products are funded, supported, and leveraged by Deakin. However, all contributions by Thoth Tech members are acknowledged due to the Open-Source nature of the company. Deakin provides ground zero end-user testing and focus groups for product improvements.
+Due to a partnership with the School of IT at Deakin University, Thoth Tech and the subsequent
+products are funded, supported, and leveraged by Deakin. However, all contributions by Thoth Tech
+members are acknowledged due to the Open-Source nature of the company. Deakin provides ground zero
+end-user testing and focus groups for product improvements.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -32,8 +53,6 @@ _Managing Director_
 Glory Lee,
 
 _Managing Director_
-
-<br>
 
 # Contents
 
@@ -70,8 +89,6 @@ _Managing Director_
 - [Internal Systems](#internal-systems)
   - [Internal Systems Project](#internal-systems-project)
 
-<br>
-
 # Leadership Team
 
 ## Roles and Responsibilities
@@ -103,7 +120,8 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 - Establish a handover and Offboarding process.
 - Establish an internal website for centralised documentation visibility.
 
-**Objective 2: Create a safe, supportive, and collaborative company culture that empowers our employees to learn and develop their skills.**
+**Objective 2: Create a safe, supportive, and collaborative company culture that empowers our
+employees to learn and develop their skills.**
 
 - Create a company culture where feedback is welcome, and success is celebrated.
 - Support development of chosen skills in every team member.
@@ -128,22 +146,22 @@ This trimester, Thoth Tech has set out to achieve the following objectives:
 - Move Ontrack front-end away from legacy technologies.
 - Analyse, update, improve and create retrospective OnTrack documentation.
 
-**Objective 5: Create the DreamBig prototype as a new product that adds value to the Thoth Tech company**
+**Objective 5: Create the DreamBig prototype as a new product that adds value to the Thoth Tech
+company**
 
 - Build the vision and strategy for the DreamBig product.
 - Create a DreamBig prototype as proof of concept.
 
-<br>
-
-<br>
-
 ### The Area Lead Project
 
-The Area Lead Team is committed to delievering the company-wide Trimester Goals and Objectives, as stated above. This project has been in progress since Week 0, however, was not included within The Q1 Company Report
+The Area Lead Team is committed to delievering the company-wide Trimester Goals and Objectives, as
+stated above. This project has been in progress since Week 0, however, was not included within The
+Q1 Company Report
 
 #### _Aims for Trimester_
 
-The aim for the trimester is for each of of the company-wide goals and objectives are completed or significantly progressed.
+The aim for the trimester is for each of the company-wide goals and objectives are completed or
+significantly progressed.
 
 #### _Deliverables_
 
@@ -164,8 +182,6 @@ The aim for the trimester is for each of of the company-wide goals and objective
 
 **Documentation and People Lead:** Talia Zidar
 
-<br>
-
 #### **_Project health_**
 
 Project is on track
@@ -184,7 +200,8 @@ Include a short description of the most important takeaways from your project st
 
 #### _Additional information and links_
 
-Link to relevant project details or higher-level project information that stakeholders might be curious about. May include links to relevant repositories, deliverables, SRS document, etc.
+Link to relevant project details or higher-level project information that stakeholders might be
+curious about. May include links to relevant repositories, deliverables, SRS document, etc.
 
 #### _Blockers_
 
@@ -200,11 +217,11 @@ Are there any additional things your team needs to know? What are the main next 
 
 #### _Any changes to plans for the project_
 
-<br>
-
 # Company Charter
 
-The Thoth Tech charter is a crucial tool for guiding our team, navigating decisions, establishing boundaries, and aligning the team on how we work together. It defines how as a company we work together to achieve success.
+The Thoth Tech charter is a crucial tool for guiding our team, navigating decisions, establishing
+boundaries, and aligning the team on how we work together. It defines how as a company we work
+together to achieve success.
 
 Our charter comprises of the following:
 
@@ -217,23 +234,32 @@ Our charter comprises of the following:
 
 ## Mission
 
-Our mission is to build, operate and deploy world class education technologies. This is achieved by creating accessible tools that enhance education outcomes by empowering students, connecting them with tutors and facilitating personalised learning experiences.
+Our mission is to build, operate and deploy world class education technologies. This is achieved by
+creating accessible tools that enhance education outcomes by empowering students, connecting them
+with tutors and facilitating personalised learning experiences.
 
 ## Values
 
-Our values describe how we work, what we represent, and guide us to be the kind of company and team members we want to be. When we live up to these values we will:
+Our values describe how we work, what we represent, and guide us to be the kind of company and team
+members we want to be. When we live up to these values we will:
 
 **Be people-focused**
 
-We expect the best from each other, give each other the benefit of the doubt, encourage each other to take initiative to improve ourselves and the company, and provide direct and constructive help to each other. We collaborate with kindness while being respectful of each other.
+We expect the best from each other, give each other the benefit of the doubt, encourage each other
+to take initiative to improve ourselves and the company, and provide direct and constructive help to
+each other. We collaborate with kindness while being respectful of each other.
 
 **Uphold sustainable excellence**
 
-We create working, maintainable, and understandable software that is enjoyable and easy to use. We strive to do it in a way that is sustainable for our team members and for our environment.
+We create working, maintainable, and understandable software that is enjoyable and easy to use. We
+strive to do it in a way that is sustainable for our team members and for our environment.
 
 **Be inclusive and supportive**
 
-We celebrate diverse perspectives and embrace uncomfortable ideas and conversations. We facilitate an environment in which all team members feel psychologically safe enough to make requests for what they need to do their job. We learn through failures while continually working to make things better.
+We celebrate diverse perspectives and embrace uncomfortable ideas and conversations. We facilitate
+an environment in which all team members feel psychologically safe enough to make requests for what
+they need to do their job. We learn through failures while continually working to make things
+better.
 
 ## Team Culture
 
@@ -263,55 +289,79 @@ We celebrate diverse perspectives and embrace uncomfortable ideas and conversati
 - Build everything with re-usability and iteration in mind.
 - User satisfaction is key.
 
-<br>
-
-<br>
-
 # Company Structure
 
-The Company is broken up based on product, with the area leads spread company wide. There is a tier system built into the company structure – directors, area leads, product leads, delivery leads, then team members. This structure is primarily about support, guidance, and feedback, rather than authority.
+The Company is broken up based on product, with the area leads spread company wide. There is a tier
+system built into the company structure – directors, area leads, product leads, delivery leads, then
+team members. This structure is primarily about support, guidance, and feedback, rather than
+authority.
 
-Each employee has chosen their own role title based on their interests, skills, experience and what they want to develop.
+Each employee has chosen their own role title based on their interests, skills, experience and what
+they want to develop.
 
-The company structure is linked [here](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERuLF9JWzz5HvF68OG7D_EgBQ14uMdrGKXuS2fvNEWE_WQ?e=ihX3Wt) and available on the next page.
-
-<br>
-
-<br>
+The company structure is linked
+[here](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERuLF9JWzz5HvF68OG7D_EgBQ14uMdrGKXuS2fvNEWE_WQ?e=ihX3Wt)
+and available on the next page.
 
 # Product Overview
 
-Thoth Tech currently has two existing products, OnTrack and SplashKit, which are open source and live to users. Thoth Tech also has two products in development, a third external product called DreamBig, and an Internal Systems product for Thoth Tech employees. Each product is being developed during this trimester.
+Thoth Tech currently has two existing products, OnTrack and SplashKit, which are open source and
+live to users. Thoth Tech also has two products in development, a third external product called
+DreamBig, and an Internal Systems product for Thoth Tech employees. Each product is being developed
+during this trimester.
 
 ## OnTrack
 
-OnTrack is a platform designed to facilitate student learning by helping them achieve their unit learning outcomes and goals. It reduces pressure on achieving unrealistic grades, and importance on tailored content learning using tasks and a portfolio assessment.
+OnTrack is a platform designed to facilitate student learning by helping them achieve their unit
+learning outcomes and goals. It reduces pressure on achieving unrealistic grades, and importance on
+tailored content learning using tasks and a portfolio assessment.
 
-This approach provides students with a simple but effective way to demonstrate their achievements and learning outcomes with the assistance of teaching staff feedback throughout the unit. OnTrack is based on Doubtfire LMS and Thoth Tech is working towards creating new and enhanced features that improve the teaching and learning experience.
+This approach provides students with a simple but effective way to demonstrate their achievements
+and learning outcomes with the assistance of teaching staff feedback throughout the unit. OnTrack is
+based on Doubtfire LMS and Thoth Tech is working towards creating new and enhanced features that
+improve the teaching and learning experience.
 
 **Product Lead:** Jordan Cameron Trainor
-
-<br>
 
 ### Front-End Migration Project
 
 #### _Overview, Goals, and Objectives_
 
-The Front-end migration project aims to modernise the existing components that use CoffeeScript and Bootstrap, towards the cutting-edge framework, Angular with Typescript. CoffeeScript has become dated and lacks the functionality, security, and support that more modern frameworks provide. Angular, which is supported by Google, allows developers to leverage its component-based architecture to quickly create dynamic single-page applications. It is built using TypeScript, which ensures greater security as the language supports types and allows for early bug detection. Other features include templating, two-way binding, dependency injection, and extending HTML syntax without relying on third-party libraries. Moving to Angular will continue to uphold the integrity of OnTrack. TypeScript is accepted by a larger community base and includes more advanced and scalable features. Once migrations are completed, it’s possible to add more advanced and quicker features to OnTrack.
+The Front-end migration project aims to modernise the existing components that use CoffeeScript and
+Bootstrap, towards the cutting-edge framework, Angular with Typescript. CoffeeScript has become
+dated and lacks the functionality, security, and support that more modern frameworks provide.
+Angular, which is supported by Google, allows developers to leverage its component-based
+architecture to quickly create dynamic single-page applications. It is built using TypeScript, which
+ensures greater security as the language supports types and allows for early bug detection. Other
+features include templating, two-way binding, dependency injection, and extending HTML syntax
+without relying on third-party libraries. Moving to Angular will continue to uphold the integrity of
+OnTrack. TypeScript is accepted by a larger community base and includes more advanced and scalable
+features. Once migrations are completed, it’s possible to add more advanced and quicker features to
+OnTrack.
 
 #### _Aims for Trimester_
 
-The aim for the trimester is for each of the eight teams within the project to migrate at least one existing component and build experience to enable accelerated progress in future trimesters by supporting future team members.
+The aim for the trimester is for each of the eight teams within the project to migrate at least one
+existing component and build experience to enable accelerated progress in future trimesters by
+supporting future team members.
 
 #### _Deliverables_
 
-The Front-End migration team has taken a divide and conquer approach by allocating two people into a sub-team to ensure the amount of work is well distributed. This will allow for easier communication, teamwork, and workflow for more efficient progress.
+The Front-End migration team has taken a divide and conquer approach by allocating two people into a
+sub-team to ensure the amount of work is well distributed. This will allow for easier communication,
+teamwork, and workflow for more efficient progress.
 
-Based on existing documentation, there are 183 components remaining to migrate, however this may not be accurately updated. An analysis will be completed to ensure this is updated.
+Based on existing documentation, there are 183 components remaining to migrate, however this may not
+be accurately updated. An analysis will be completed to ensure this is updated.
 
-The trimester deliverables will be developing and delivering at least eight migrated components. However, the long-term project deliverables are to ensure all future teams are supported and set up for success to migrate all remaining components prior to CoffeeScript support being removed.
+The trimester deliverables will be developing and delivering at least eight migrated components.
+However, the long-term project deliverables are to ensure all future teams are supported and set up
+for success to migrate all remaining components prior to CoffeeScript support being removed.
 
-The functionality of the migrated components will be identical to the old ones, with a user interface design that fits in with the new OnTrack theme. Testing of these components must also be considered and implemented to ensure that the components will function as expected for students and faculty.
+The functionality of the migrated components will be identical to the old ones, with a user
+interface design that fits in with the new OnTrack theme. Testing of these components must also be
+considered and implemented to ensure that the components will function as expected for students and
+faculty.
 
 #### _Project Members (18)_
 
@@ -337,35 +387,57 @@ Team 7: Ishrat Jahan, Ricardo Ingles
 
 Team 8: Zheng Jiahao, Huang Yongqi
 
-<br>
-
 ### Deployment Project
 
 #### _Overview, Goals, and Objectives_
 
-The Deployment project aim is to create an employee-run deployment of OnTrack separated from the existing Deakin version and hosted on Google Cloud. Due to the scale of the project, there are three subgroups within the project which will focus on Google Cloud deployment, CI/CD pipeline, and enhanced authentication. The objective of the Thoth Tech hosted version of OnTrack is to allow the company to own the deployment cadence, conduct end-to-end testing, reduce risks leaking bugs upstream an innovate on new features. In addition, stakeholders will have a much more efficient setup, as well an improved process for future employees contributing to the project. The pipeline will be focused on improving software delivery with a CI/CD approach to speed up development and provide a level of quality assurance, whilst the authentication system will ensure security and privacy.
+The Deployment project aim is to create an employee-run deployment of OnTrack separated from the
+existing Deakin version and hosted on Google Cloud. Due to the scale of the project, there are three
+subgroups within the project which will focus on Google Cloud deployment, CI/CD pipeline, and
+enhanced authentication. The objective of the Thoth Tech hosted version of OnTrack is to allow the
+company to own the deployment cadence, conduct end-to-end testing, reduce risks leaking bugs
+upstream an innovate on new features. In addition, stakeholders will have a much more efficient
+setup, as well an improved process for future employees contributing to the project. The pipeline
+will be focused on improving software delivery with a CI/CD approach to speed up development and
+provide a level of quality assurance, whilst the authentication system will ensure security and
+privacy.
 
 #### _Aims for Trimester_
 
-- Deploy a student-run version of OnTrack hosted on Google Cloud. This version will be running in isolation, independently of the Deakin University version.
-- Create a CI/CD pipeline that automates the building, deployment, and validation of a of the Thoth Tech OnTrack to Google Cloud.
-- Enable an enhanced authentication for user login which securely transmits data and protects stakeholder privacy.
+- Deploy a student-run version of OnTrack hosted on Google Cloud. This version will be running in
+  isolation, independently of the Deakin University version.
+- Create a CI/CD pipeline that automates the building, deployment, and validation of a of the Thoth
+  Tech OnTrack to Google Cloud.
+- Enable an enhanced authentication for user login which securely transmits data and protects
+  stakeholder privacy.
 
 #### _Deliverables_
 
 ##### **Google Cloud**
 
-Short term deliverables will be to Design and document the architecture overview and overall deployment, work collaboratively with relevant teams to automate the build, test, and deployment of OnTrack using a CI/CD pipeline, work collaboratively with relevant teams to allow for secure authentication for users of OnTrack and build a secure platform for the OnTrack deployment to be hosted on Google Cloud
+Short term deliverables will be to Design and document the architecture overview and overall
+deployment, work collaboratively with relevant teams to automate the build, test, and deployment of
+OnTrack using a CI/CD pipeline, work collaboratively with relevant teams to allow for secure
+authentication for users of OnTrack and build a secure platform for the OnTrack deployment to be
+hosted on Google Cloud
 
-Long term deliverables will be to host multiple environments (such as Production, Development, and potentially Test/Staging) of the OnTrack deployment in Google Cloud, as well as review further expansion to run multi-tenanted environments for Deakin University and other organisations within Google Cloud.
+Long term deliverables will be to host multiple environments (such as Production, Development, and
+potentially Test/Staging) of the OnTrack deployment in Google Cloud, as well as review further
+expansion to run multi-tenanted environments for Deakin University and other organisations within
+Google Cloud.
 
 ##### **Pipeline**
 
-The short-term deliverable is that there will be an automated build CI/CD pipeline in production building and deploying OnTrack on to the Google Cloud platform and ensuring it is documented for long term usage and maintenance.
+The short-term deliverable is that there will be an automated build CI/CD pipeline in production
+building and deploying OnTrack on to the Google Cloud platform and ensuring it is documented for
+long term usage and maintenance.
 
 ##### **Enhance Authentication**
 
-Short term deliverables will be focusing on the empathise, define, and ideate stages - by giving more time to designing the possible solution, the team can produce a better answer. When the blueprint is out, the team will use the rest of the time to work on making the prototypes. Creating LDAP (Lightweight Directory Access Protocol) servers and testing them.
+Short term deliverables will be focusing on the empathise, define, and ideate stages - by giving
+more time to designing the possible solution, the team can produce a better answer. When the
+blueprint is out, the team will use the rest of the time to work on making the prototypes. Creating
+LDAP (Lightweight Directory Access Protocol) servers and testing them.
 
 Long term deliverables will be continuous maintenance, improvement, and testing of the solution.
 
@@ -375,11 +447,9 @@ Long term deliverables will be continuous maintenance, improvement, and testing 
 
 **_Google CLoud_**
 
-**Cloud/DevOps Engineer:**
-Joyce Cruz
+**Cloud/DevOps Engineer:** Joyce Cruz
 
-**Back-end Developer:**
-Sultan Hindi A Albishri
+**Back-end Developer:** Sultan Hindi A Albishri
 
 **_Pipeline_**
 
@@ -389,9 +459,7 @@ Mathew Perkins
 
 Lachlan Cayzer
 
-**_Enhance Authentication_**
-**Full-stack Developer:**
-Linden Hutchinson
+**_Enhance Authentication_** **Full-stack Developer:** Linden Hutchinson
 
 Back-end Developer:
 
@@ -401,33 +469,43 @@ Sarah Nicole Dyson
 
 XueTing Jing
 
-<br>
-
 ### Jupyter Notebook Support Project
 
 #### _Overview, Goals, and Objectives_
 
-In the current version of the OnTrack product there is no support for submitting Jupyter Notebook ‘.ipynb’ files directly to OnTrack. As a result of this limitation, student users must export their Jupyter Notebook file as an HTML document, and then use a PDF converter to create a PDF suitable for uploading to OnTrack. This results in an inefficient, poor, and frustrating user experience.
+In the current version of the OnTrack product there is no support for submitting Jupyter Notebook
+‘.ipynb’ files directly to OnTrack. As a result of this limitation, student users must export their
+Jupyter Notebook file as an HTML document, and then use a PDF converter to create a PDF suitable for
+uploading to OnTrack. This results in an inefficient, poor, and frustrating user experience.
 
-The goal of this project is to solve this issue by allowing students to upload .ipynb files directly to OnTrack and utilise OnTrack’s PDF conversion pipeline to handle automatically converting the file to PDF format for the faculty staff to view.
+The goal of this project is to solve this issue by allowing students to upload .ipynb files directly
+to OnTrack and utilise OnTrack’s PDF conversion pipeline to handle automatically converting the file
+to PDF format for the faculty staff to view.
 
-The objective of this project is to help make using OnTrack a more efficient process and improve ease of use for students and staff involved in tasks that use Jupyter Notebook.
+The objective of this project is to help make using OnTrack a more efficient process and improve
+ease of use for students and staff involved in tasks that use Jupyter Notebook.
 
 #### _Aims for Trimester_
 
-For this trimester the Jupyter Notebook Support project team will review the existing work on this feature and create a plan to fully deliver the Jupyter Notebook file to PDF conversion feature.
+For this trimester the Jupyter Notebook Support project team will review the existing work on this
+feature and create a plan to fully deliver the Jupyter Notebook file to PDF conversion feature.
 
 #### _Deliverables_
 
-The deliverables for this project will be the introduction of PDF conversion functionality for ‘.ipynb’ files into OnTrack, as well as documentation on the feature and a user guide on how to utilise the feature.
+The deliverables for this project will be the introduction of PDF conversion functionality for
+‘.ipynb’ files into OnTrack, as well as documentation on the feature and a user guide on how to
+utilise the feature.
 
 - Give OnTrack the ability to accept ‘.ipynb’ files directly.
 - Have fully functioning ‘.ipynb’ to PDF conversion support integrated to Ontrack.
-- Have a proper user guide documentation for anyone to follow and get familiar with the implemented feature.
+- Have a proper user guide documentation for anyone to follow and get familiar with the implemented
+  feature.
 - Keep track of how often the feature is being used as well as any failed conversions in a log.
-- To make sure that the code the team write for this feature does not affect any existing features or dependencies.
+- To make sure that the code the team write for this feature does not affect any existing features
+  or dependencies.
 
-Long term deliverables beyond this trimester will be the maintenance and improvement of this feature.
+Long term deliverables beyond this trimester will be the maintenance and improvement of this
+feature.
 
 #### _Project Members (5)_
 
@@ -443,30 +521,39 @@ Chetan Nagar
 
 Matt Clark
 
-<br>
-
 ### Voice Verification Project
 
 #### _Overview, Goals, and Objectives_
 
-Currently, the OnTrack product has the functionality to accept audio submissions, but no verification system. Voice Verification for the online audio submissions will help mitigate cheating attempts and plagiarism.
+Currently, the OnTrack product has the functionality to accept audio submissions, but no
+verification system. Voice Verification for the online audio submissions will help mitigate cheating
+attempts and plagiarism.
 
-In the past there have been teams who have worked on a Speaker Verification Library to validate audio files, a Speaker Verification API to wrap the library, and a Ruby app to integrate Doubtfire LMS and the Speaker Verification API. The objective of this project is to finalise a proof of concept for the Voice Verification system, deploy it to the Thoth Tech OnTrack environment, and deliver technical documentation.
+In the past there have been teams who have worked on a Speaker Verification Library to validate
+audio files, a Speaker Verification API to wrap the library, and a Ruby app to integrate Doubtfire
+LMS and the Speaker Verification API. The objective of this project is to finalise a proof of
+concept for the Voice Verification system, deploy it to the Thoth Tech OnTrack environment, and
+deliver technical documentation.
 
 #### _Aims for Trimester_
 
-The aim for this trimester is to work on understanding the work completed by previous teams, finish the voice verification feature, test the functionality, and create accurate documentation for the entirety of the Voice Verification system; architecture, deployment and how to user it.
+The aim for this trimester is to work on understanding the work completed by previous teams, finish
+the voice verification feature, test the functionality, and create accurate documentation for the
+entirety of the Voice Verification system; architecture, deployment and how to user it.
 
 #### _Deliverables_
 
-The short-term deliverables for this project will be upskilling, understanding, improving, integrating, testing, deploying, and developing any gaps identified in the existing pieces of work completed for the Voice Verification feature. This includes:
+The short-term deliverables for this project will be upskilling, understanding, improving,
+integrating, testing, deploying, and developing any gaps identified in the existing pieces of work
+completed for the Voice Verification feature. This includes:
 
 - A Proof-of-Concept integration of Speaker Verification on Doubtfire.
 - Enrolment: Students can register their voice
 - Verification: When a task submission is received, verify the attached voice file
 - Deployed to the Thoth Tech OnTrack instance
 
-There will also be the deliverable of creating documentation to ensure that the architecture, deployment, and user guides for recording voice samples for enrolment and verification.
+There will also be the deliverable of creating documentation to ensure that the architecture,
+deployment, and user guides for recording voice samples for enrolment and verification.
 
 The long-term deliverables for this project will be maintenance and improvements of this feature.
 
@@ -486,15 +573,21 @@ Yujun Gao
 
 Yanjun Chen
 
-<br>
-
 ### Documentation Project
 
 #### _Overview_
 
-The Documentation project objective is to create documentation for the Thoth Tech company and its products, including OnTrack. The current state of documentation of Thoth Tech’s products’ is poor; with previous design decisions, updates and feature implementations not accurately documented or maintained. By clearly documenting the products Thoth Tech’s employees will be set up for success to hit the ground running when joining the company and a team. Additionally, the products’ end users, which include university students and educators, will find it easy to learn and use the products with simple and accessible documentation at hand.
+The Documentation project objective is to create documentation for the Thoth Tech company and its
+products, including OnTrack. The current state of documentation of Thoth Tech’s products’ is poor;
+with previous design decisions, updates and feature implementations not accurately documented or
+maintained. By clearly documenting the products Thoth Tech’s employees will be set up for success to
+hit the ground running when joining the company and a team. Additionally, the products’ end users,
+which include university students and educators, will find it easy to learn and use the products
+with simple and accessible documentation at hand.
 
-The objective of the team is to create a smooth onboarding process and simplify the process of creating and managing documentation across the Thoth Tech products, for all teams. Having good documentation for the future trimesters will result in higher productivity and increasing progress.
+The objective of the team is to create a smooth onboarding process and simplify the process of
+creating and managing documentation across the Thoth Tech products, for all teams. Having good
+documentation for the future trimesters will result in higher productivity and increasing progress.
 
 The goals of the documentation project are to:
 
@@ -506,13 +599,24 @@ The goals of the documentation project are to:
 
 #### _Aims for Trimester_
 
-The documentation team’s aim for the trimester is to ensure everything related to Thoth Tech is efficiently and accurately documented moving forward. By collating existing documentation, analysing gaps, collaborating with development teams’, and creating new documentation, the contributions made by the documentation team will set up future team leaders and members who decide to join Thoth Tech for success.
+The documentation team’s aim for the trimester is to ensure everything related to Thoth Tech is
+efficiently and accurately documented moving forward. By collating existing documentation, analysing
+gaps, collaborating with development teams’, and creating new documentation, the contributions made
+by the documentation team will set up future team leaders and members who decide to join Thoth Tech
+for success.
 
 #### _Deliverables_
 
-The first short-term deliverable for this project is to establish documentation guidelines and processes for all teams within the company to create and organise documentation for use, operation, maintenance, design, test, and access. This will ensure accountability and compliance to documentation standards and that documentation is highly accessible. The second deliverable for this project is to analyse the Ontrack repository for relevant documentation that needs to be updated, improved, or created if none exists already. This includes design documentation, requirement documentation, user documentation for development and user guides.
+The first short-term deliverable for this project is to establish documentation guidelines and
+processes for all teams within the company to create and organise documentation for use, operation,
+maintenance, design, test, and access. This will ensure accountability and compliance to
+documentation standards and that documentation is highly accessible. The second deliverable for this
+project is to analyse the Ontrack repository for relevant documentation that needs to be updated,
+improved, or created if none exists already. This includes design documentation, requirement
+documentation, user documentation for development and user guides.
 
-The long-term deliverables are to ensure that all documentation is kept up to date with changes made to the products, and to perform the same analysis and work on the SplashKit product.
+The long-term deliverables are to ensure that all documentation is kept up to date with changes made
+to the products, and to perform the same analysis and work on the SplashKit product.
 
 #### _Project Members (7)_
 
@@ -532,30 +636,42 @@ Parth Aneja
 
 Shivam Singh
 
-<br>
-
-<br>
-
 ## SplashKit
 
-SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ and allowing students new to coding to create satisfying programs in a short period of time. SplashKit enables beginning coders to quickly learn to construct fun and functional programs which they can be proud to showcase. SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead required for truly technical coding​ which enables students new to coding to create satisfying programs in a short period of time. SplashKit enables novice coders to quickly learn to construct fun and functional programs which they can be proud to showcase. It includes a large library of functions which can be utilized by the user to experiment and apply for their own application or game. This product is currently used by the students at Deakin University and aims to become a global educational toolkit. Currently the language used for development is C++ and the direction of the product is to improve and expand the capabilities to increase SplashKit accessibility.
+SplashKit is an open-source Software Development Kit (SDK)​, created with the purpose of reducing
+the overhead required for truly technical coding​ and allowing students new to coding to create
+satisfying programs in a short period of time. SplashKit enables beginning coders to quickly learn
+to construct fun and functional programs which they can be proud to showcase. SplashKit is an
+open-source Software Development Kit (SDK)​, created with the purpose of reducing the overhead
+required for truly technical coding​ which enables students new to coding to create satisfying
+programs in a short period of time. SplashKit enables novice coders to quickly learn to construct
+fun and functional programs which they can be proud to showcase. It includes a large library of
+functions which can be utilized by the user to experiment and apply for their own application or
+game. This product is currently used by the students at Deakin University and aims to become a
+global educational toolkit. Currently the language used for development is C++ and the direction of
+the product is to improve and expand the capabilities to increase SplashKit accessibility.
 
 **Product Lead:** Yash Kondlekar
-
-<br>
 
 ### Operations – Migrating Arcana to SplashKit Project
 
 #### _Overview, Goals, and Objectives_
 
-The Programming Arcana is an open-source friendly programming textbook that teaches introductory programming concepts to those new to programming. From the programming Arcana’s GitHub, the guiding principles are:
+The Programming Arcana is an open-source friendly programming textbook that teaches introductory
+programming concepts to those new to programming. From the programming Arcana’s GitHub, the guiding
+principles are:
 
 - Transferable concepts are more important than language specifics
 - Build concepts on top of known concepts as much as possible
 - Focus on procedural programming initially, with a view to transitioning to objects
 - Build programs that make it easy to see what is happening in the code
 
-The programming Arcana currently has two versions, 1.0.x and 2.0.x. Version 1.0.x uses Tex as its typesetting system. Version 2.0.x uses Markdown as its typesetting system. This version also uses NodeJS and React to deploy a website. Version 2.0.x is still in progress; therefore, goals include finishing the documents, creating different programming language examples, and migrating the programming Arcana into SplashKit which would allow the SplashKit users to view the programming Arcana as they are developing resulting in an enhanced learning experience.
+The programming Arcana currently has two versions, 1.0.x and 2.0.x. Version 1.0.x uses Tex as its
+typesetting system. Version 2.0.x uses Markdown as its typesetting system. This version also uses
+NodeJS and React to deploy a website. Version 2.0.x is still in progress; therefore, goals include
+finishing the documents, creating different programming language examples, and migrating the
+programming Arcana into SplashKit which would allow the SplashKit users to view the programming
+Arcana as they are developing resulting in an enhanced learning experience.
 
 #### _Aims for Trimester_
 
@@ -587,30 +703,42 @@ Long-term:
 
 **Documentation & Software Developer:** Devesh Juggiah
 
-<br>
-
 ### Operations – Distribution Channels Project
 
 #### _Overview, Goals, and Objectives_
 
-SplashKit is a product that has been developed to abstract away the complexities of programming languages for novice programmers. However, the toolchains and development environments required to use SplashKit can be difficult and confusing to see tup for inexperienced users. Some aspects of these issues have already been eased using SplashKit’s current install script, but it’s been observed that the initial installation process for “skm" could be further simplified.
+SplashKit is a product that has been developed to abstract away the complexities of programming
+languages for novice programmers. However, the toolchains and development environments required to
+use SplashKit can be difficult and confusing to see tup for inexperienced users. Some aspects of
+these issues have already been eased using SplashKit’s current install script, but it’s been
+observed that the initial installation process for “skm" could be further simplified.
 
-The Distribution Channel Team intends to improve the installation process of SplashKit for new users across all three major operating systems; Windows, Linux and macOS.
+The Distribution Channel Team intends to improve the installation process of SplashKit for new users
+across all three major operating systems; Windows, Linux and macOS.
 
-The result of these improvements aims to be a single command or executable installation process that yields a working development environment for SplashKit on Windows, Linux or macOS ready for the user to start using SplashKit as quickly as possible. Decreasing the friction of the installation process aims to streamline the setup process for new users, potentially adding both product value to SplashKit – and confidence to new users.
+The result of these improvements aims to be a single command or executable installation process that
+yields a working development environment for SplashKit on Windows, Linux or macOS ready for the user
+to start using SplashKit as quickly as possible. Decreasing the friction of the installation process
+aims to streamline the setup process for new users, potentially adding both product value to
+SplashKit – and confidence to new users.
 
 #### _Aims for Trimester_
 
 The main aims for the Distribution Channel Team this trimester:
 
-- Research the existing installation process, the SplashKit management tool “skm”, and possible methods of improved installation on all three major operating systems.
-- Research and report on current known issues with respect to the installation of SplashKit on all three major operating systems.
+- Research the existing installation process, the SplashKit management tool “skm”, and possible
+  methods of improved installation on all three major operating systems.
+- Research and report on current known issues with respect to the installation of SplashKit on all
+  three major operating systems.
 - Report on future possibilities
 - Investigate issues with Mac M1 chip devices
 
 #### _Deliverables_
 
-Currently the deliverables planned for Sprint 1 will be to investigate the user and customer requirements in installing splash kit on Linux, Windows, and Mac OS (including the recent M1 chip). These deliverables are critical to the scoping of future deliverables and direction for our team as once completed, potential solutions can be determined, and tasks delegated accordingly.
+Currently the deliverables planned for Sprint 1 will be to investigate the user and customer
+requirements in installing splash kit on Linux, Windows, and Mac OS (including the recent M1 chip).
+These deliverables are critical to the scoping of future deliverables and direction for our team as
+once completed, potential solutions can be determined, and tasks delegated accordingly.
 
 The current deliverables intended for completion prior to the conclusion of sprint 1 are as follows:
 
@@ -623,7 +751,8 @@ The current deliverables intended for completion prior to the conclusion of spri
   - Could containerisation containing all dependencies be streamlined enough for users?
   - Can the dependencies be installed in one downloadable bash/PowerShell script?
 
-Our expectation is that the information gathered will to turn these into long-term deliverables and break those down into deliverables for the upcoming Sprint 2 and 3.
+Our expectation is that the information gathered will to turn these into long-term deliverables and
+break those down into deliverables for the upcoming Sprint 2 and 3.
 
 #### _Project Members (4)_
 
@@ -637,20 +766,24 @@ Lachlan Morgan
 
 Trent Mizzi
 
-<br>
-
 ### Extensions Project
 
 #### _Overview, Goals, and Objectives_
 
-The SplashKit translator is a Ruby application that translates the original cpp library into a target language. Currently, the translator enables translation of the SplashKit library into Python (< 3.8), Pascal, Rust, and C#. The SplashKit Extensions project’s aim is to provide the SplashKit library interface in additional languages.
+The SplashKit translator is a Ruby application that translates the original cpp library into a
+target language. Currently, the translator enables translation of the SplashKit library into Python
+(< 3.8), Pascal, Rust, and C#. The SplashKit Extensions project’s aim is to provide the SplashKit
+library interface in additional languages.
 
-Translating the SplashKit library into other languages provides the flexibility to teach other languages using SplashKit as well as increase the adoption of SplashKit. The project also ensures SplashKit’s continued relevance in a changing field.
+Translating the SplashKit library into other languages provides the flexibility to teach other
+languages using SplashKit as well as increase the adoption of SplashKit. The project also ensures
+SplashKit’s continued relevance in a changing field.
 
 #### _Aims for Trimester_
 
 - Understand how the language translators works
-- Investigate changes in Python between 3.8x versions and earlier to identify which of these changes have caused current incompatibilities.
+- Investigate changes in Python between 3.8x versions and earlier to identify which of these changes
+  have caused current incompatibilities.
 - Get SplashKit successfully working on the latest Python version (3.10.x).
 - Develop a new language translation for the Translator.
 - Test all existing and new language translations.
@@ -660,12 +793,15 @@ Translating the SplashKit library into other languages provides the flexibility 
 
 Short-term:
 
-- Documentation of the installation/setup of the SplashKit translator for development (Windows/Linux).
+- Documentation of the installation/setup of the SplashKit translator for
+  development (Windows/Linux).
 - Documentation of the installation/setup and operation of the SplashKit translator.
 - Documentation of the process to test each of the language translations.
 - At least 1 working language extension for SplashKit.
-- SplashKit translated into Python compatible with version 3.10.x and backwards compatible (if possible).
-- Project decisions documentation to provide evidence-based decision-making history for future teams.
+- SplashKit translated into Python compatible with version 3.10.x and backwards compatible (if
+  possible).
+- Project decisions documentation to provide evidence-based decision-making history for future
+  teams.
 
 Long-term:
 
@@ -693,23 +829,27 @@ Jingze Du
 
 Timothy Wilbert
 
-<br>
-
 ### Applications – Arcade Machine Project
 
 #### _Overview, Goals, and Objectives_
 
-The goal of this project is to create a physical arcade machine with accompanying software to showcase student games, developed with the [SplashKit](https://splashkit.io/) SDK. The machine will perform similarly to a Multi-Game Arcade Machine, allowing users to select a game from a local library of games. Our system ideally will instead have access to a growing library of SplashKit games publicly hosted on the internet. Objectives include:
+The goal of this project is to create a physical arcade machine with accompanying software to
+showcase student games, developed with the [SplashKit](https://splashkit.io/) SDK. The machine will
+perform similarly to a Multi-Game Arcade Machine, allowing users to select a game from a local
+library of games. Our system ideally will instead have access to a growing library of SplashKit
+games publicly hosted on the internet. Objectives include:
 
 - Software which supports the ability to:
   - Upload games to the Arcade Machine
   - Select and play games on the Arcade Machine
 - The development of:
-  - A vetting process which validates and reviews games for explicit/unacceptable content before addition
+  - A vetting process which validates and reviews games for explicit/unacceptable content before
+    addition
   - A user guide walking through the process of uploading games to the system.
   - Documentation
 
-Additional features which may be considered later in the lifecycle of the project include the development and deployment of a website which:
+Additional features which may be considered later in the lifecycle of the project include the
+development and deployment of a website which:
 
 - Supports the uploading of games
 - Stores and displays:
@@ -718,14 +858,20 @@ Additional features which may be considered later in the lifecycle of the projec
 
 #### _Aims for Trimester_
 
-The primary aim of this trimester is to develop a platform which supports the uploading, storage, and access to a growing library of games developed using the SplashKit SDK. Access to the game library will be offered through the platform where the user can configure settings and select and play their desired game. If time permits, a physical Arcade Machine will be designed and manufactured however the software platform is the primary focus for the trimester.
+The primary aim of this trimester is to develop a platform which supports the uploading, storage,
+and access to a growing library of games developed using the SplashKit SDK. Access to the game
+library will be offered through the platform where the user can configure settings and select and
+play their desired game. If time permits, a physical Arcade Machine will be designed and
+manufactured however the software platform is the primary focus for the trimester.
 
 #### _Deliverables_
 
 Short-term:
 
-- Platform which can access, download, and play SplashKit games stored in a public library on the internet.
-- Production of a physical Arcade Machine which runs on the platform to showcase SplashKit games created by students during university open days.
+- Platform which can access, download, and play SplashKit games stored in a public library on the
+  internet.
+- Production of a physical Arcade Machine which runs on the platform to showcase SplashKit games
+  created by students during university open days.
 
 Long-term:
 
@@ -745,23 +891,28 @@ Anthony George
 
 Sarah Gosling
 
-<br>
-
 ### Applications – Build a Cool Game Project
 
 #### _Overview, Goals, and Objectives_
 
-The project that the Build a Cool Game team has is to make games that can be showcased and played on the Arcade machine that is going to be virtually built. The goal is to make a game that uses all functions that SplashKit has to offer within game creation. The long-term goal will showcase that SplashKit can be extended upon as a game engine and can create games that can be played on different platforms. As SplashKit is widely used to create 2D games, it will be a good opportunity to showcase how SplashKit games can be extended and shown on a physical arcade machine.
+The project that the Build a Cool Game team has is to make games that can be showcased and played on
+the Arcade machine that is going to be virtually built. The goal is to make a game that uses all
+functions that SplashKit has to offer within game creation. The long-term goal will showcase that
+SplashKit can be extended upon as a game engine and can create games that can be played on different
+platforms. As SplashKit is widely used to create 2D games, it will be a good opportunity to showcase
+how SplashKit games can be extended and shown on a physical arcade machine.
 
 #### _Aims for Trimester_
 
-The aim for this trimester is to work on game creation using SplashKit. This must incorporate all the functions that SplashKit has to make the games. This will showcase the creation tools that game developers can use to create a game from scratch so that it can be played on the arcade machine.
+The aim for this trimester is to work on game creation using SplashKit. This must incorporate all
+the functions that SplashKit has to make the games. This will showcase the creation tools that game
+developers can use to create a game from scratch so that it can be played on the arcade machine.
 
-_Deliverables_
-Short-term:
+_Deliverables_ Short-term:
 
 - Cool 2D games demonstrating all functionality of SplashKit. (Minimum 1 per team member)
-- A step-by-step article guide of How to create the Cool games produced (Document design decisions, process and how-to-guides)
+- A step-by-step article guide of How to create the Cool games produced (Document design decisions,
+  process and how-to-guides)
 - Guide uploaded to the SplashKit.io website.
 
 Long-term:
@@ -781,21 +932,35 @@ Lily Lan
 
 Bella Chhour
 
-<br>
-
 ### Modules Project
 
 #### Overview, Goals, and Objectives
 
-Across three modules, Physics, Data Analytics and Machine Learning, SplashKit aims to enrich and expand its functionality, to improve current features and extend its user base beyond game development. In the next two years, SplashKit aims to develop a full 2D physics engine that can be used by game developers, requiring the addition of a realistic and easy to use physics library. New capabilities to interact with, visualise, and analyse data are aiming to attract new users and provide data analytics functionalities for the existing user base.
+Across three modules, Physics, Data Analytics and Machine Learning, SplashKit aims to enrich and
+expand its functionality, to improve current features and extend its user base beyond game
+development. In the next two years, SplashKit aims to develop a full 2D physics engine that can be
+used by game developers, requiring the addition of a realistic and easy to use physics library. New
+capabilities to interact with, visualise, and analyse data are aiming to attract new users and
+provide data analytics functionalities for the existing user base.
 
-SplashKit’s current objective for Machine Learning is to develop an Artificial Intelligence framework that allows the inclusion of artificial co-op or opposition characters into SplashKit games, with a long-term goal to integrate with the Data Analytics module and to create a complete Machine Learning framework.
+SplashKit’s current objective for Machine Learning is to develop an Artificial Intelligence
+framework that allows the inclusion of artificial co-op or opposition characters into SplashKit
+games, with a long-term goal to integrate with the Data Analytics module and to create a complete
+Machine Learning framework.
 
 #### _Aims for Trimester_
 
-This trimester, the team are aiming to finalise and publish the existing work completed for all three modules. The Physics and Data Analytics team are aiming to review and publish the existing elastic collision, impulse effect, and data frame code from past developers, whilst the Machine Learning team is expecting to use the example code from past developers as reference to build a brand-new system.
+This trimester, the team are aiming to finalise and publish the existing work completed for all
+three modules. The Physics and Data Analytics team are aiming to review and publish the existing
+elastic collision, impulse effect, and data frame code from past developers, whilst the Machine
+Learning team is expecting to use the example code from past developers as reference to build a
+brand-new system.
 
-The team aims to produce new functionality this trimester to the existing code, including extending the physics API to complete the handing of 2D sprite and object collisions, and implementing gravity. Data Analytics team plan to extend data frames to allow instance selection, standardisation, transformation, and feature selection. Machine Learning team aims to design a reinforcement learning algorithm that is capable of co-op or opposition AI in SplashKit games.
+The team aims to produce new functionality this trimester to the existing code, including extending
+the physics API to complete the handing of 2D sprite and object collisions, and implementing
+gravity. Data Analytics team plan to extend data frames to allow instance selection,
+standardisation, transformation, and feature selection. Machine Learning team aims to design a
+reinforcement learning algorithm that is capable of co-op or opposition AI in SplashKit games.
 
 #### _Deliverables_
 
@@ -805,11 +970,14 @@ Short term:
 - Verified existing code documented and pushed to SplashKit repository.
 - New feature documentation (user guides)
 - Physics:
-  - Physics artefact enhancing collisions between sprites and objects, and gravity that acts on them.
+  - Physics artefact enhancing collisions between sprites and objects, and gravity that acts on
+    them.
 - Data Analytics:
-  - Deliver new code that enables instance selection, standardisation, transformation, and feature selection on the existing Data Frames.
+  - Deliver new code that enables instance selection, standardisation, transformation, and feature
+    selection on the existing Data Frames.
 - Machine Learning:
-  - Design and prototype a reinforcement learning algorithm, providing evidence of research and design, that will be capable of training co-op and villain characters in SplashKit games.
+  - Design and prototype a reinforcement learning algorithm, providing evidence of research and
+    design, that will be capable of training co-op and villain characters in SplashKit games.
 
 Long term:
 
@@ -818,26 +986,24 @@ Long term:
 - Implementing new features
   - Implement sinking objects and projectile motion (Physics team)
   - Implement visual plotting and statistics (Data Analytics team)
-  - Implement function approximation to the designed reinforcement learning algorithm (Machine Learning team)
+  - Implement function approximation to the designed reinforcement learning algorithm (Machine
+    Learning team)
 
 #### _Project Members (8)_
 
 **Delivery Lead:** Alex Hocking
 
-**Machine Learning**
-**Developer:**
+**Machine Learning** **Developer:**
 
 Harry Dentry
 
-**Physics**
-**Software Developer:**
+**Physics** **Software Developer:**
 
 Daniel Robert Haysham
 
 Kanna Srilakshmanan
 
-**Data Analytics**
-**Software Developer:**
+**Data Analytics** **Software Developer:**
 
 Ryan Allan Lawrence
 
@@ -845,13 +1011,14 @@ Timothy Moore
 
 Kai Tao
 
-<br>
-
-<br>
-
 ## DreamBig
 
-DreamBig is a new product innovation driven by the School of IT at Deakin. DreamBig aims to provide a personalised roadmap integrated with Ontrack to support students to develop their professional identity across their course and improve their employability after graduation. In addition, it aims to provide a platform to help set realistic expectations for students graduating into the real world. In line with this vision, it is proposed to build a prototype that can help achieve the following goals:
+DreamBig is a new product innovation driven by the School of IT at Deakin. DreamBig aims to provide
+a personalised roadmap integrated with Ontrack to support students to develop their professional
+identity across their course and improve their employability after graduation. In addition, it aims
+to provide a platform to help set realistic expectations for students graduating into the real
+world. In line with this vision, it is proposed to build a prototype that can help achieve the
+following goals:
 
 - Multi-dimensional visualisation of each student's growing professional identity
 - Used within curriculum to encourage engagement.
@@ -861,17 +1028,20 @@ DreamBig is a new product innovation driven by the School of IT at Deakin. Dre
 
 **Product Lead:** Abigail Howe
 
-<br>
-
 ### DreamBig Prototype Project
 
 #### _Overview, Goals, and Objectives_
 
-DreamBig is at its early inception. The customer needs and product requirements are still yet discovered and refined. The Prototype project is an attempt to explore the product-market fit. The process includes determining our target customer, identifying underserved customer needs, defining the product value proposition, specifying the MVP feature set, building, and testing the prototype with the customers.
+DreamBig is at its early inception. The customer needs and product requirements are still yet
+discovered and refined. The Prototype project is an attempt to explore the product-market fit. The
+process includes determining our target customer, identifying underserved customer needs, defining
+the product value proposition, specifying the MVP feature set, building, and testing the prototype
+with the customers.
 
 #### _Aims for Trimester_
 
-Research will be conducted to investigate customer needs and prioritise high-value features. These will form the minimum viable product (MVP). As part of this work, the following will be established:
+Research will be conducted to investigate customer needs and prioritise high-value features. These
+will form the minimum viable product (MVP). As part of this work, the following will be established:
 
 - High-level UX and UI approach
 - Documentation of user flows
@@ -896,11 +1066,9 @@ Long-term:
 
 **Delivery Lead:** Nehanjajli Makineni
 
-**Back-end Integration Developer:**
-Zac Brydon
+**Back-end Integration Developer:** Zac Brydon
 
-**Database Engineer:**
-Munatsi Matipana
+**Database Engineer:** Munatsi Matipana
 
 **Documentation & Security Specialist:**
 
@@ -909,17 +1077,17 @@ Harrison Paul Allwood
 George Gkoumas
 
 **Front-end Design:**
+
 Guanyu Chen
 
 Harry Lui
 
-<br>
-
-<br>
-
 ## Internal Systems
 
-The internal systems product is a new initiative driven mitigating the challenge of the Thoth Tech company turning over half its employees every four months. The aim of this is to provide an accessible centralized location to display key company information and documentation which is sourced from the Thoth Tech repo.
+The internal systems product is a new initiative driven mitigating the challenge of the Thoth Tech
+company turning over half its employees every four months. The aim of this is to provide an
+accessible centralized location to display key company information and documentation which is
+sourced from the Thoth Tech repo.
 
 **Product Lead:** Abigail Howe
 
@@ -927,15 +1095,24 @@ The internal systems product is a new initiative driven mitigating the challenge
 
 #### _Overview, Goals, and Objectives_
 
-The goal for the Internal systems team is to research, scope, plan and prototype a web page that will house all necessary information for Thoth Tech. To achieve this the main objectives across the Internal Systems team will be to research different tools, technologies and processes and decide on what will best serve requirements and given team member skills whilst also allowing for expansion and adaptability in the future. The web page will create a centralised location for all the company’s information needed for its internal audience. This in turn will simplify the onboarding and resource sharing amongst the company and its everchanging audiences.
+The goal for the Internal systems team is to research, scope, plan and prototype a web page that
+will house all necessary information for Thoth Tech. To achieve this the main objectives across the
+Internal Systems team will be to research different tools, technologies and processes and decide on
+what will best serve requirements and given team member skills whilst also allowing for expansion
+and adaptability in the future. The web page will create a centralised location for all the
+company’s information needed for its internal audience. This in turn will simplify the onboarding
+and resource sharing amongst the company and its everchanging audiences.
 
 #### _Aims for Trimester_
 
-The aim this trimester is to plan out the architecture needed, design the page, and create documentation that will serve as a solid base for the progressive development of the web page.
+The aim this trimester is to plan out the architecture needed, design the page, and create
+documentation that will serve as a solid base for the progressive development of the web page.
 
-An understanding will be built of components required and the privacy and privileges needed by different users. A prototype will also be built that will showcase the design and functionality.
+An understanding will be built of components required and the privacy and privileges needed by
+different users. A prototype will also be built that will showcase the design and functionality.
 
-Git will be used to manage team contributions to the development of the web page and guidelines will be created for the testing structure utilised.
+Git will be used to manage team contributions to the development of the web page and guidelines will
+be created for the testing structure utilised.
 
 #### Deliverables
 
@@ -964,7 +1141,3 @@ Long-term:
 **Junior Web Developer:** Manveen Kaur Bhullar
 
 **Junior Back-end Developer:** Tushar
-
-<br>
-
-<br>

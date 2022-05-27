@@ -17,11 +17,14 @@
 
 ## What is Documentation
 
-> “Documentation is one of the most important parts of a software project” – Eric Holscher, co-founder of Write the Docs.
+> “Documentation is one of the most important parts of a software project” – Eric Holscher,
+> co-founder of Write the Docs.
 
-Documentation is official information provided by the company for our users and contributors. It is the preferred method of technical support and should provide instant clarity for many issues.
+Documentation is official information provided by the company for our users and contributors. It is
+the preferred method of technical support and should provide instant clarity for many issues.
 
-Within Thoth Tech, all documentation will be written in markdown. You can find the guide [here](markdown-guide.md).
+Within Thoth Tech, all documentation will be written in markdown. You can find the guide
+[here](markdown-guide.md).
 
 ### Why is Documentation important?
 
@@ -32,8 +35,9 @@ Without documentation there is no record of:
 - What processes are
 - How users use the tool
 
-**Consider:**
-As a new recruit to Thoth Tech, wouldn’t you have loved documents on how to install, set up, and contribute to our Products? Or easy to access guidance on what features were to be created, improved, or removed?
+**Consider:** As a new recruit to Thoth Tech, wouldn’t you have loved documents on how to install,
+set up, and contribute to our Products? Or easy to access guidance on what features were to be
+created, improved, or removed?
 
 ### Who uses documentation?
 
@@ -41,7 +45,8 @@ The type of document can affect who uses it.
 
 Thus, it is important to think about the intended audience of when writing documentation.
 
-**Consider:** If a tool is made for primary school children odds are they won’t know what the #FFFFFF coloured button is.
+**Consider:** If a tool is made for primary school children odds are they won’t know what the
+#FFFFFF coloured button is.
 
 The people who will use Thoth Tech documents are:
 
@@ -76,20 +81,16 @@ The people who will use Thoth Tech documents are:
 
 ## Goals of Documentation
 
-**Empower:**
-We want our people to have the knowledge to make the most of our products
+**Empower:** We want our people to have the knowledge to make the most of our products
 
-**Respect:**
-We want our people to feel included and accepted for who they are
+**Respect:** We want our people to feel included and accepted for who they are
 
-**Educate:**
-We want to assist our people in their learning and provide them with the information they need
+**Educate:** We want to assist our people in their learning and provide them with the information
+they need
 
-**Guide:**
-We want to lead our people in a thoughtful manner towards their goals
+**Guide:** We want to lead our people in a thoughtful manner towards their goals
 
-**Honest:**
-We want to be truthful to our people and focus on our real strengths
+**Honest:** We want to be truthful to our people and focus on our real strengths
 
 ---
 
@@ -129,7 +130,8 @@ In **passive voice**, the subject of the sentence has the action done to it.
 
 > **Yes:** Marti logged into the account.<div> **No:** The account was logged into by Marti.
 
-_One exception_ is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
+_One exception_ is when you want to specifically emphasize the action over the subject. In some
+cases, this is fine.
 
 > Your account was flagged by our Abuse team.
 
@@ -137,7 +139,8 @@ _One exception_ is when you want to specifically emphasize the action over the s
 
 Someone reading technical content is usually looking to answer a specific question.
 
-We don’t want to overload our audience with unnecessary information, choices, or complex ideas or phrases when we don’t have to.
+We don’t want to overload our audience with unnecessary information, choices, or complex ideas or
+phrases when we don’t have to.
 
 Guidelines:
 
@@ -157,7 +160,8 @@ Consider the following:
 - Could someone quickly scan this document and understand the material?
 - If someone can’t see the colours, images or video, is the message still clear?
 - Is the markup clean and structured?
-- Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
+- Mobile devices with accessibility features are increasingly becoming core communication tools,
+  does this work well on them?
 
 ---
 

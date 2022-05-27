@@ -13,7 +13,8 @@
 - Be a collaborator
 - Be transparent and accountable - visualisation of objectives
 - Communicate of what we are doing, what our plans are, and what we need
-- Owen stakeholder management - translating high level to low level and vice versa to communicate progress
+- Owen stakeholder management - translating high level to low level and vice versa to communicate
+  progress
 - Own risk and issues management.
 
 ## Product Lead
