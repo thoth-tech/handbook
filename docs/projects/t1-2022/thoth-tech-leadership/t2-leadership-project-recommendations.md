@@ -127,7 +127,7 @@ Implement recommendations from T1 Delivery leads
 - Bachelor of Cyber Security
 - Not a Coding role but still highly technical.
 - Could expand the epic toward ethical hacking and pentration testing of products. Main voice of
-security throughout the company.
+  security throughout the company.
 - Team size: 5-6.
 
 ## DreamBig
