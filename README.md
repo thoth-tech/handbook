@@ -35,9 +35,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 - People Operations
   - Recruiting
   - [Onboarding](docs/peopleops/onboarding/onboarding-process.md)
-  - Offboarding
-    - Handover
-    - Exit Survey
+  - [Offboarding](docs/peopleops/offboarding/offboarding-process.md)
   - Learning & Development
     - [Training](docs/learning/training/index.md)
     - [Useful Resources](docs/learning/useful-resources/index.md)
