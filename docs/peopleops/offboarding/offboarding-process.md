@@ -30,14 +30,20 @@ handover document is uploaded to the relevant
 ## Exit Survey
 
 Exiting seniors should undertake the
-[Senior Exit Interview](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9mRQ8baZZ01Ep6tAGY0fXmNUNDZUSVM3R0UzRDc3UDgxQkdCVVIzVUNHWS4u)
+[Senior Exit Interview](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9mRQ8baZZ01Ep6tAGY0fXmNUNDZUSVM3R0UzRDc3UDgxQkdCVVIzVUNHWS4u)\*
 survey so that feedback can be collected and assessed to allow the Thoth Tech leadership to see what
 went well and what opportunities for improvement may exist.
 
 Juniors should complete the
-[What do you want to do next?](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9pCshblNu_9FhxlIpGGIxEhUQ1RHNk5IWEs1SVlBSE1QOUxNMERQUFFTUy4u)
+[What do you want to do next?](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9pCshblNu_9FhxlIpGGIxEhUQ1RHNk5IWEs1SVlBSE1QOUxNMERQUFFTUy4u)\*
 form to give the leadership team (current and incoming) an opportunity to reassess the member's role
 and to plan for projects and team and role allocation for the next trimester.
+
+\*
+[Senior Exit Survey](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9mRQ8baZZ01Ep6tAGY0fXmNUNDZUSVM3R0UzRDc3UDgxQkdCVVIzVUNHWS4u)
+and Junior
+[What do you want to do next?](https://forms.office.com/Pages/DesignPage.aspx?origin=NeoPortalPage#FormId=7Hgj0IgW1UaFQBwotfRw9pCshblNu_9FhxlIpGGIxEhUQ1RHNk5IWEs1SVlBSE1QOUxNMERQUFFTUy4u)
+forms last updated: **T1 2022**
 
 ## Remove Accounts & Access
 
