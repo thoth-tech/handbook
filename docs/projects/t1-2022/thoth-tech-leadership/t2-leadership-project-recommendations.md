@@ -16,7 +16,7 @@
 
 Implement recommendations from T1 Delivery leads
 
-## Onboarding form improvements:
+## Onboarding form improvements
 
 - skill confidence (1-5) eg. programming, troubleshooting, documentation, project collaboration etc
 - do you want to work towards leadership?
@@ -25,8 +25,12 @@ Implement recommendations from T1 Delivery leads
 ## QA recommendations
 
 - promote compliance
-- encourage creation of testing tools and framework resources (installation, guides, how-tos) to be shared across the company for teams with similar tech/languages (and document expanded resources for this in the handbook).
-- may wish to have different QA team members (in event of a QA team being created) focusing on different products/tech to assist in ability to liaise/support across teams with similar products and so knowledge and test strategy approaches can be shared across teams.
+- encourage creation of testing tools and framework resources (installation, guides, how-tos) to
+  be shared across the company for teams with similar tech/languages (and document expanded resources
+  for this in the handbook).
+- may wish to have different QA team members (in event of a QA team being created) focusing on
+  different products/tech to assist in ability to liaise/support across teams with similar products
+  and so knowledge and test strategy approaches can be shared across teams.
 
 ## OnTrack
 
