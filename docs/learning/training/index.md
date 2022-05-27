@@ -5,8 +5,6 @@ technical development.
 
 A list of training can be seen below:
 
-## Training
-
 - Installing npm
 - Product Epics
 - User Stories
