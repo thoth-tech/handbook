@@ -1,11 +1,11 @@
 # Offboarding process
 
-Handover and offboarding of employees is an important process for a number of reasons:
+Thoth Tech understands the importance of handover and offboarding. Reasons include:
 
 - data security and risk management;
 - efficient organisation and company administration;
 - a chance to get final feedback and review from exiting members; and
-- a opportunity to put the company in a strong position to continue developing projects that run
+- a opportunity to place the company in a strong position to continue developing projects that run
   across capstone trimesters.
 
 ## Update and correctly store all relevant documents
