@@ -11,7 +11,12 @@ Handover and offboarding of employees is an important process for a number of re
 ## Update and correctly store all relevant documents
 
 Ensure that all projects' documentation and processes are up-to-date and have been stored in the
-correct location of the relevant [Thoth Tech repository](https://github.com/thoth-tech) on GitHub.
+correct location of the relevant [Thoth Tech repository](https://github.com/thoth-tech) on GitHub:
+
+- Documentation to [Documentation](https://github.com/thoth-tech/documentation) repository
+- Processes to [Handbook](https://github.com/thoth-tech/documentation)
+- Code to relevant project repository
+
 Documentation should be clear enough for subsequent members to easily follow, understand and, as
 necessary, continue work on projects.
 
