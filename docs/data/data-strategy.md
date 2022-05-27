@@ -79,8 +79,8 @@ MDA has the following characteristics:
   - Real-time Data
   - Third Party Feeds
 
-We must not acquire all of the above capabilities. In fact, these are driven by the company's
-short and long term needs.
+We must not acquire all of the above capabilities. In fact, these are driven by the company's short
+and long term needs.
 
 ## Data Governance
 
@@ -98,9 +98,9 @@ graph LR
   C[Data Creation] --> P[Data Processing] --> S[Data Storage] --> U[Data Usage] --> A[Data Archiving] --> D[Data Destruction]
 ```
 
-Data Governance must bring together people, processes and technology to govern data throughout
-its life cycle. It is not a trivial task and requires collaboration across the organisation. For
-Thoth Tech, we propose the adoption of the Data Governance Framework by Evren et al. (2021)
+Data Governance must bring together people, processes and technology to govern data throughout its
+life cycle. It is not a trivial task and requires collaboration across the organisation. For Thoth
+Tech, we propose the adoption of the Data Governance Framework by Evren et al. (2021)
 
 ![data governance over life cycle](images/data-governance-over-life-cycle.jpq)
 

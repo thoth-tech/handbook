@@ -20,8 +20,8 @@ If you followed the onboarding instructions, it should return something like thi
 
     https://github.com/[YOUR_GITHUB_USERNAME]/splashkit-core.git
 
-This link should point to the fork you made of the base repository on GitHub.
-Now we'll check if you forked from the right repository...
+This link should point to the fork you made of the base repository on GitHub. Now we'll check if you
+forked from the right repository...
 
 **3. Navigate to your fork on GitHub via the GitHub web interface**
 
@@ -31,8 +31,8 @@ The URL should look something like this:
 
 **4. Check where it's forked from**
 
-This is right under the repository name in the top left of the page.
-It should look something like this:
+This is right under the repository name in the top left of the page. It should look something like
+this:
 
     forked from **thoth-tech**/splashkit-core
 
@@ -42,7 +42,8 @@ And _should not_ look like this:
 
 # I forked from the wrong repo; how do I change it?
 
-If you forked from the wrong repo and you haven’t made any commits, then the easiest option is to start over. If you have made commits you will need to change the fork location like this...
+If you forked from the wrong repo and you haven’t made any commits, then the easiest option is to
+start over. If you have made commits you will need to change the fork location like this...
 
 **1. Fork the correct repo (the Thoth Tech one) via the GitHub web interface**
 

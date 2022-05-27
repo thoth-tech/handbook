@@ -8,8 +8,9 @@
 
 ## What is Markdown?
 
-Markdown (`.md`) is a markup language, similar to a `.txt` file, but with basic **in-text** formating
-elements. Although it can produce similar outputs as a word processor, there are other benefits that Thoth Tech can leverage.
+Markdown (`.md`) is a markup language, similar to a `.txt` file, but with basic **in-text**
+formating elements. Although it can produce similar outputs as a word processor, there are other
+benefits that Thoth Tech can leverage.
 
 ### Thoth Tech and Markdown
 
@@ -33,7 +34,8 @@ It's simple to specify a file as Markdown. Simply name it with the extension `.m
 
 ### How do I format a Markdown file?
 
-[The Markdown Guide](https://www.markdownguide.org) is an excellent online resource providing at-a-glance formatting examples.
+[The Markdown Guide](https://www.markdownguide.org) is an excellent online resource providing
+at-a-glance formatting examples.
 
 Commonly used formatting options include the following:
 
@@ -57,10 +59,11 @@ Commonly used formatting options include the following:
 
 ### Diagrams
 
-You can generate diagrams and flowcharts from text by using [Mermaid](https://mermaid-js.github.io/mermaid/#/).
+You can generate diagrams and flowcharts from text by using
+[Mermaid](https://mermaid-js.github.io/mermaid/#/).
 
-The [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) helps you learn Mermaid and debug
-issues in your Mermaid code. Use it to identify and resolve issues in your diagrams.
+The [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) helps you learn Mermaid
+and debug issues in your Mermaid code. Use it to identify and resolve issues in your diagrams.
 
 To generate a diagram or flowchart, write your text inside the mermaid block:
 
@@ -84,8 +87,8 @@ graph TD
 
 #### Collapse
 
-A collapsed content section is used to hide information until a user chooses to reveal it with a click or tap on the summary text.
-The hidden content is revealed inline. For example, this code:
+A collapsed content section is used to hide information until a user chooses to reveal it with a
+click or tap on the summary text. The hidden content is revealed inline. For example, this code:
 
 ```markdown
 <details>
@@ -119,13 +122,15 @@ VS Code has built in support for previewing Markdown files.
 
 To open your **current tab** in **Markdown preview**, use _shift + command + v_.
 
-To create a **split screen view** (allowing you to edit your Markdown file in one screen while previewing in another, side-by-side), press _command + k_, release the keys, then press _v_.
+To create a **split screen view** (allowing you to edit your Markdown file in one screen while
+previewing in another, side-by-side), press _command + k_, release the keys, then press _v_.
 
 ### Windows Users
 
 To open your **current tab** in **Markdown preview**, use _shift + ctrl + v_.
 
-To create a **split screen view** (allowing you to edit your Markdown file in one screen while previewing in another, side-by-side), press _ctrl + k_, release the keys, then press _v_.
+To create a **split screen view** (allowing you to edit your Markdown file in one screen while
+previewing in another, side-by-side), press _ctrl + k_, release the keys, then press _v_.
 
 ## Markdown Templates
 

@@ -1,6 +1,7 @@
 # Writing Style Guide <!-- omit in toc -->
 
-The writing style guide is designed to inform decision when writing on behalf of Thoth Tech. This is a live guide and will ensure consistency across all Thoth Tech communications.
+The writing style guide is designed to inform decision when writing on behalf of Thoth Tech. This is
+a live guide and will ensure consistency across all Thoth Tech communications.
 
 While writing, it is important to:
 
@@ -45,7 +46,8 @@ While writing, it is important to:
 
 ### Headings
 
-Headings should be clear and concise. All content should relate to the heading or provide links to other information sources.
+Headings should be clear and concise. All content should relate to the heading or provide links to
+other information sources.
 
 Article headings should not be in a question format.
 
@@ -53,9 +55,11 @@ Use h1 (#) for article headings.
 
 ### Subheadings
 
-Subheadings are used to highlight a specific paragraph or area of content. All content should apply to this specific subheading.
+Subheadings are used to highlight a specific paragraph or area of content. All content should apply
+to this specific subheading.
 
-Avoid multi-tiered subheadings, use a maximum of three layers as a guide. If you need more than three layers, consider creating a separate article.
+Avoid multi-tiered subheadings, use a maximum of three layers as a guide. If you need more than
+three layers, consider creating a separate article.
 
 Subheadings can be in a question format where appropriate.
 
@@ -63,25 +67,30 @@ Use h2 (##) or h3 (###) for subheadings. Choice depends on the layer.
 
 ### Notes
 
-Information that is outside the scope of the content should be placed as a note if it necessary for the reader to understand.
+Information that is outside the scope of the content should be placed as a note if it necessary for
+the reader to understand.
 
-Content within a note should be separate from the main content, short, and to the point. A link to more information can be provided within the note section
+Content within a note should be separate from the main content, short, and to the point. A link to
+more information can be provided within the note section
 
 ### Hyperlinks
 
 Consider using hyperlinks (links) to ensure all information is relevant only to the article at hand.
 
-When an article references information that is out of scope, the reader can be linked to other information sources.
+When an article references information that is out of scope, the reader can be linked to other
+information sources.
 
 For example:
 
-> One reference for Australian spelling is the [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
+> One reference for Australian spelling is the
+> [Macquarie Dictionary](https://www.macquariedictionary.com.au/).
 
 ### Lists
 
-The sentence leading into a list should end in a colon (:).
-If each item in the list is a full sentence, capitalise the first letter and end each item with a full stop.
-Otherwise, if the items are fragments of a sentence, each item should start in lowercase. Use a full stop at the end of the last item.
+The sentence leading into a list should end in a colon (:). If each item in the list is a full
+sentence, capitalise the first letter and end each item with a full stop. Otherwise, if the items
+are fragments of a sentence, each item should start in lowercase. Use a full stop at the end of the
+last item.
 
 #### Unordered/bullet list
 
@@ -98,7 +107,8 @@ To create unordered list items in markdown, use a dash (-).
 
 #### Ordered/numbered list
 
-An ordered list should be used when the order of the items is important, for example, step-by-step instructions.
+An ordered list should be used when the order of the items is important, for example, step-by-step
+instructions.
 
 Follow these steps to create an ordered list:
 
@@ -134,19 +144,23 @@ For complex numbers, use a combination
 
 ### Sentences
 
-The purpose of a sentence is to deliver a single message. The average sentence will have a length of 15-20 words Thoth Tech has a maximum length of 25 words.
+The purpose of a sentence is to deliver a single message. The average sentence will have a length of
+15-20 words Thoth Tech has a maximum length of 25 words.
 
 A variety of sentence lengths will engage your reader.
 
 Put qualifying phrases, conditions, and explanations into separate sentences.
 
-If you want to elaborate on the same point in a new sentence, use words like 'also', 'further', or 'however'.
+If you want to elaborate on the same point in a new sentence, use words like 'also', 'further', or
+'however'.
 
-If there are multiple points in a single sentence, consider using several shorter sentences, dot points, colons, or notes.
+If there are multiple points in a single sentence, consider using several shorter sentences, dot
+points, colons, or notes.
 
 Maintain order in paragraphs.
 
-If a sentence establishes an order, explain each item in the same order. This will help with flow and consistency.
+If a sentence establishes an order, explain each item in the same order. This will help with flow
+and consistency.
 
 Avoid repetition and redundancy.
 
@@ -222,7 +236,8 @@ For example:
 
 \*Avoid using contractions.
 
-End of sentence punctuation does not need to be included in titles, headings, subheadings, UI titles, and lists.
+End of sentence punctuation does not need to be included in titles, headings, subheadings, UI
+titles, and lists.
 
 ### Tone
 
@@ -246,7 +261,9 @@ For example:
 
 ### Technical content
 
-Technical content is the information about the underlying architecture, materials, and processes required to understand existing technology. Technical content typically requires some level of existing knowledge about the content.
+Technical content is the information about the underlying architecture, materials, and processes
+required to understand existing technology. Technical content typically requires some level of
+existing knowledge about the content.
 
 Technical content should include:
 
@@ -254,11 +271,16 @@ Technical content should include:
 - Revision date
 - Version ID
 
-When writing technical content, always consider the audience's skill. Assume the reader understands the fundamentals, but never more than that. If you are unsure, provide a link to more thorough information.
+When writing technical content, always consider the audience's skill. Assume the reader understands
+the fundamentals, but never more than that. If you are unsure, provide a link to more thorough
+information.
 
-Define technical terms in the context they are referred to and use frequently used words where possible.
+Define technical terms in the context they are referred to and use frequently used words where
+possible.
 
-If a term already exists, do not create a new word/phrase. Use these terms consistently throughout the article, and across Thoth Tech. Use industry specific terms when writing for a professional audience.
+If a term already exists, do not create a new word/phrase. Use these terms consistently throughout
+the article, and across Thoth Tech. Use industry specific terms when writing for a professional
+audience.
 
 ### Code examples
 
@@ -270,36 +292,45 @@ Code examples serve a range of scenarios:
 
 To create useful code examples, you should identify tasks and scenarios for your audience.
 
-Create concise examples of key development tasks, easy to read and understand. Show the expected output within the code example.
+Create concise examples of key development tasks, easy to read and understand. Show the expected
+output within the code example.
 
 Create sustainable and secure code examples. Follow best practice.
 
-Ensure the code is easy to replicate and run. If possible, provide an option to copy the code directly from the page.
+Ensure the code is easy to replicate and run. If possible, provide an option to copy the code
+directly from the page.
 
 ### Writing instructions/steps
 
-Instructions are used when a reader wants to learn. Therefore, the steps must be clear, easy to understand, and follow.
+Instructions are used when a reader wants to learn. Therefore, the steps must be clear, easy to
+understand, and follow.
 
-Emphasis should be placed on the main direction. Use **bold** to highlight key words or phrases which indicate the action or outcome.
+Emphasis should be placed on the main direction. Use **bold** to highlight key words or phrases
+which indicate the action or outcome.
 
-Make sure the reader knows where the action should take place before you describe the action. If necessary, provide an introductory step to highlight the area.
+Make sure the reader knows where the action should take place before you describe the action. If
+necessary, provide an introductory step to highlight the area.
 
-Throughout step-by-step instructions, formatting and language must be consistent. Capitalise the first word of full sentences, and full stop at the end.
+Throughout step-by-step instructions, formatting and language must be consistent. Capitalise the
+first word of full sentences, and full stop at the end.
 
-A separate numbered entry should be used for each step. Each step should be a complete sentence in imperative verb form, including actions that finalise the step.
+A separate numbered entry should be used for each step. Each step should be a complete sentence in
+imperative verb form, including actions that finalise the step.
 
 Limit the number of steps to seven, and fit all steps onto the same screen.
 
 For single-step procedures, follow the same format, but use an unordered list instead of ordered.
 
-When writing simple sequences, you can use `A > B > C` format. However, this should be used sparingly due to accessibility tool limitations.
+When writing simple sequences, you can use `A > B > C` format. However, this should be used
+sparingly due to accessibility tool limitations.
 
 For example:
 
 > **To increase text size of a note:**
 >
 > 1. On the Whiteboard, select the notes you want to increase the size.
-> 2. From the toolbox, select the A+ icon until you reach the desired size. Click anywhere in the Whiteboard to deselect.
+> 2. From the toolbox, select the A+ icon until you reach the desired size. Click anywhere in the
+>    Whiteboard to deselect.
 >
 > **To move a note:**
 >
@@ -307,9 +338,11 @@ For example:
 
 ## Bias-free communication
 
-When creating documentation, we have an obligation to respect all individuals. At Thoth Tech we promote an inclusive and supportive environment. This extends to our communication.
+When creating documentation, we have an obligation to respect all individuals. At Thoth Tech we
+promote an inclusive and supportive environment. This extends to our communication.
 
-We have a responsibility to respect diversity and promote inclusion through all our communication. As such we enforce the following guidelines for bias-free communication.
+We have a responsibility to respect diversity and promote inclusion through all our communication.
+As such we enforce the following guidelines for bias-free communication.
 
 Use gender-neutral alternatives.
 
@@ -329,15 +362,20 @@ Exceptions include:
 
 - if you are referring to a real person. Please use their preferred pronouns in this case.
 - direct quotations and titles of works
-- when gender is relevant. For example, diversity challenges. <!-- Would prefer a different example-->
+- when gender is relevant. For example, diversity challenges.
+  <!-- Would prefer a different example-->
 
-When referring to accessibility challenges focus on people, not disabilities. For example: readers who have low vision or blind
+When referring to accessibility challenges focus on people, not disabilities. For example: readers
+who have low vision or blind
 
-When creating fictitious scenarios, include a diverse range of names and roles. Do not elude to stereotypes or generalisations and do not primarily write of Western ideals.
+When creating fictitious scenarios, include a diverse range of names and roles. Do not elude to
+stereotypes or generalisations and do not primarily write of Western ideals.
 
-When including country names, be conscious of political disputes and do not mix countries states or continents.
+When including country names, be conscious of political disputes and do not mix countries states or
+continents.
 
-Do not use slang or jargon as it can be confusing or offensive for the reader. Similarly, do not use loaded terms.
+Do not use slang or jargon as it can be confusing or offensive for the reader. Similarly, do not use
+loaded terms.
 
 | Loaded term        | Substitute             |
 | ------------------ | ---------------------- |
@@ -352,15 +390,20 @@ Do not use profane/derogatory terms.
 
 ## Global communication
 
-Thoth Tech is an open-source company with a potentially global reach. We value education and creating learning opportunities.
+Thoth Tech is an open-source company with a potentially global reach. We value education and
+creating learning opportunities.
 
-We have a responsibility to write and communicate in a way that is accessible via a translator, this is a part of our global citizenship. As such we enforce the following guidelines for global communication.
+We have a responsibility to write and communicate in a way that is accessible via a translator, this
+is a part of our global citizenship. As such we enforce the following guidelines for global
+communication.
 
-Keep your writing short and simple, break a complex sentence into multiple simple sentences. Avoid linking more than three phrases.
+Keep your writing short and simple, break a complex sentence into multiple simple sentences. Avoid
+linking more than three phrases.
 
 Use lists and tables to reduce complexity.
 
-Include 'that', 'who', and 'the'. These can provide clarity in the sentence structure for the reader or translator.
+Include 'that', 'who', and 'the'. These can provide clarity in the sentence structure for the reader
+or translator.
 
 Particularly for machine translation:
 
