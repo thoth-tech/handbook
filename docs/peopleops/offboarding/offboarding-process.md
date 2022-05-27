@@ -51,6 +51,7 @@ For all exiting members:
 
 - [ ] Remove Thoth Tech [GitHub](https://github.com/orgs/thoth-tech/teams) access
 - [ ] Remove from Thoth Tech [Trello](https://trello.com) boards
+- [ ] Remove from company Teams Channels
 - [ ] Cancel/remove any recurring team meetings
 - [ ] Remove Thoth Tech [Miro](https://miro.com) access
 - [ ] Remove any Thoth Tech [Form](https://forms.office.com/) access
