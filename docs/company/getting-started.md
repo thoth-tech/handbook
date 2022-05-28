@@ -2,7 +2,7 @@
 
 Welcome to Thoth Tech!
 
-If you are reading this Getting Started Guide, then you have just enrolled in the Thoth Tech Company and we welcome you! 
+If you are reading this Getting Started Guide, then you have just enrolled in the Thoth Tech Company and we welcome you!
 
 This guide is a place to introduce you to the company and all the resources availible to help get you onboarded, introduce you to the comapny and products, and skilled up to tackle the Trimester ahead.
 
@@ -26,7 +26,7 @@ Now that you have familiarised yourself with the comapny, products and existing 
 
 You should now be onboarded, so the next step while you wait to be allocated to your project is to familiarise yourself with the training and support materials that have been created so far. You should now
 
-The first place to start would be with the [Communication](docs/../../communication/index.md) folder. This currently contains detailed information on how to communicate professionally, how  to provide and receive fearless feedback, some information about how to provide recognition to others and a writing style guide.
+The first place to start would be with the [Communication](docs/../../communication/index.md) folder. This currently contains detailed information on how to communicate professionally, how to provide and receive fearless feedback, some information about how to provide recognition to others and a writing style guide.
 
 There are also a variety of other training resources in the [Training](docs/training) folder that provide insight into achieving a D/HD grade, a markdown guide, how to use trello and other resources.
 
