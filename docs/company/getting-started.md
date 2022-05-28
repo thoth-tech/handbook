@@ -16,7 +16,7 @@ Thoth Tech currently maintains and develops three external products: [OnTrack](d
 
 ## Projects
 
-Before you complete your onboarding form, it is recommended that you have a look at the final [Company Report](ENTER LINK HERE) from T1 2022. You can also have a look at previous reports in this folder. This will give you a good sense of what projects are currently being worked on, what skils they require, and what is needing to be completed this trimester. Please note, there may be new projects availible to be started this trimester.
+Before you complete your onboarding form, it is recommended that you have a look at the final [Company Report](ENTER LINK HERE) from T1 2022. You can also have a look at previous reports in this folder. This will give you a good sense of what projects are currently being worked on, what skills they require, and what is needing to be completed this trimester. Please note, there may be new projects availible to be started this trimester.
 
 ## Onboarding
 
