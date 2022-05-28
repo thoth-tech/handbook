@@ -12,7 +12,7 @@ The best place to start to familiarise yourself with Thoth Tech is the [company 
 
 ## What are our products?
 
-Thoth Tech currently maintains and develops three external products. [OnTrack](docs/product/ontrack/ontrack.md), [SplashKit](docs//../../products/splashkit/splashkit.md) and [DreamBig](docs/product/dreambig/dreambig.md). Thoth Tech also has one internal product that is being worked on currently, called Internal Systems.
+Thoth Tech currently maintains and develops three external products: [OnTrack](docs/product/ontrack/ontrack.md), [SplashKit](docs//../../products/splashkit/splashkit.md) and [DreamBig](docs/product/dreambig/dreambig.md). Thoth Tech also has one internal product that is being worked on currently, called Internal Systems.
 
 ## Projects
 
