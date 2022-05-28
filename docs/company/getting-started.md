@@ -8,7 +8,7 @@ This guide is a place to introduce you to the company and all the resources avai
 
 ## Who are we?
 
-The best place to start to familiarise yourself with Thoth Tech is the [company charter](docs/company/../../charter.md). This is an important guide for understanding the mission and values of the company which informs the way that the company runs and is crucial to ensuring your experience is the best it can be.
+The best place to start to familiarise yourself with Thoth Tech is the [company charter](docs/company/../../charter.md). This is important for understanding the mission and values of the company which inform the way the company runs. Understanding and employing this charter is crucial to ensuring your, and others, experience is the best it can be.
 
 ## What are our products?
 
