@@ -18,7 +18,7 @@
 - Provides a sense of fulfillment
 ## Key Mentoring Skills
 
-- Communication
+- Communication (see guide on [Fearless Feedback](docs/../fearless-feedback.md))
 - Interpersonal saavy 
 - Leadership 
 - Confidence
@@ -26,6 +26,7 @@
 - Identifying Goals
 - Active Listening 
 - Asking permission
+- Empathy
   
 ## Mentoring models
 
