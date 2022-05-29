@@ -20,7 +20,7 @@ Before you complete your onboarding form, it is recommended that you have a look
 
 ## Onboarding
 
-Now that you have familiarised yourself with the comapny, products and existing projects - the next step is for you to fill out the onboarding form so that your Senior Leadership team can allocate you a project to work on. The link for this onboarding form can be found [here](ENTER LINK HERE).
+Now that you have familiarised yourself with the company, products and existing projects - the next step is for you to fill out the onboarding form so that your Senior Leadership team can allocate you a project to work on. The link for this onboarding form can be found [here](ENTER LINK HERE).
 
 ## Training
 
