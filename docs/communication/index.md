@@ -25,6 +25,7 @@ For more information:
 
 - [Professional communication](professional-communication.md)
 - [Fearless feedback](fearless-feedback.md)
+- [Mentoring](mentoring.md)
 - [Shoutouts](fearless-feedback.md#shoutouts)
 - [Scenarios](scenarios.md)
 - [Writing Style Guide](../processes/documentation/writing-style-guide.md)
