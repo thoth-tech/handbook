@@ -83,7 +83,7 @@ attainable within a certain time-frame such as the Capstone project.
    - Breakthrough common assumptions by asking questions and digging deeper.
 7. Share your journey.
    - Be open to being vulnerable and sharing your own mistakes and failures.
-   - This builds trust and relatibilty.
+   - This builds trust and relatability.
 8. Celebrate their achievements.
    - taking the time to highlight and celebrate successes and achievements helps build a mentee's
      confidence and keeps them motivated
