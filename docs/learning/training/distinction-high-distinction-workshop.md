@@ -45,8 +45,8 @@ team's work.
 
 At this level, you will assist in building the pieces needed by your team to complete the puzzle. It
 would help if you had support to complete your work to an acceptable standard or get the tasks done
-on time. Luckily, you have a team that will provide you with that support; make sure you don't let
-them down.
+on time. Luckily, you have a team that will provide you with that support; make sure you are doing
+them proud.
 
 ### Credit
 
