@@ -54,7 +54,7 @@ Show you are a responsible team member to receive a credit.
 
 At this level you will be building the pieces needed by your team to complete the puzzle. You work
 at this level if you are a responsible team member. You can follow instructions from your lead and
-deliver the designated work at an acceptable standard in the allocated timeframe. You must show:
+deliver the designated work at an acceptable standard in the allocated timeframe. You must:
 
 - Show clear contributions
 - Be engaged and present
