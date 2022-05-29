@@ -53,7 +53,7 @@
 Defining goals with these parameters can help ensure that your objectives are realistic and
 attainable within a certain time-frame such as the Capstone project.
 
-**S**pecific **M**easurable **A**cheivable **R**elevant **T**imebound
+**S**pecific **M**easurable **A**chievable **R**elevant **T**imebound
 
 ## Guide to being a Successful Mentor
 
