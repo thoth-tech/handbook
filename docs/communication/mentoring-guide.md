@@ -71,7 +71,7 @@ attainable within a certain time-frame such as the Capstone project.
    - Get to know your mentee on a deeper level will how you build and strong relationship, and
      understanding them as person and how they interact with others.
 4. Build trust and rapport.
-   - Vulnerability is key to a successful mentoship. Fostering a safe environment through trust and
+   - Vulnerability is key to a successful mentorship. Fostering a safe environment through trust and
      rapport will help you assess core issues, challenges and opportunities beyond circumstance.
 5. Know when to give advice.
    - Not all feedback is helpful feedback, learning to know the difference is important.
