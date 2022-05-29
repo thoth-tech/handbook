@@ -63,7 +63,7 @@ attainable within a certain time-frame such as the Capstone project.
    - How does taking on a mentorship role strengthen you as a leader in your personal and
      professional life?
 2. Set expectations together in the very beginning.
-   - How often do you have availibility?
+   - How often do you have availability?
    - How hands-on can you be yourself?
    - What resources can you provide?
    - Is there a time limit on the relationship?
