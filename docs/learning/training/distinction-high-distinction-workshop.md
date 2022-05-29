@@ -56,9 +56,9 @@ At this level you will be building the pieces needed by your team to complete th
 at this level if you are a responsible team member. You can follow instructions from your lead and
 deliver the designated work at an acceptable standard in the allocated timeframe. You must show:
 
-- Clear contributions
+- Show clear contributions
 - Be engaged and present
-- Responsible
+- Be responsible
 
 ### Distinction
 
