@@ -27,7 +27,7 @@ pipeline
 
 ## Current Tech Stack
 
-Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, TypeScript, Bootstrap, CoffeeScript, Python, Cpp.
+Ruby on Rails, Rabbit MQ, Docker, Angular, C/C++, TypeScript, Bootstrap, CoffeeScript, Python.
 
 ## Recruiting
 

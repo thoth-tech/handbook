@@ -19,9 +19,6 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
   - Structure
-- Marketing
-  - [Pitch](docs/marketing/pitch.md)
-  - [Recruitment Ad](docs/marketing/recruitment-ad.md)
 - [Communication Guide](docs/communication/index.md)
 - Leadership
   - [Epic Example](docs/leadership/epic-example.md)
@@ -33,7 +30,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Quality Assurance](docs/processes/quality-assurance/quality-assurance-overview.md)
   - [Documentation](docs/processes/documentation/index.md)
 - People Operations
-  - Recruiting
+  - [Recruiting](docs/peopleops/recruiting/index.md)
   - [Onboarding](docs/peopleops/onboarding/onboarding-process.md)
   - [Offboarding](docs/peopleops/offboarding/offboarding-process.md)
   - Learning & Development
