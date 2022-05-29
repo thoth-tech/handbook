@@ -60,7 +60,7 @@ attainable within a certain time-frame such as the Capstone project.
 1. Understand what you want out of the relationship.
    - Do you view the relationship as bi-directional where you learn from them as much as they learn
      from you?
-   - How does taking on a mentorship role strangthen you as a leader in your personal and
+   - How does taking on a mentorship role strengthen you as a leader in your personal and
      professional life?
 2. Set expectations together in the very beginning.
    - How often do you have availibility?
