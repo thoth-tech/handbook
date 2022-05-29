@@ -88,7 +88,7 @@ attainable within a certain time-frame such as the Capstone project.
    - taking the time to highlight and celebrate successes and achievements helps build a mentee's
      confidence and keeps them motivated
 9. Seek out resources to help your mentee grow.
-   - Greate mentors look out for or create situations to help their mentees get closer to their
+   - Great mentors look out for or create situations to help their mentees get closer to their
      goals.
    - Helps mentee develop ownership over something
 10. Be sure you have the bandwidth.
