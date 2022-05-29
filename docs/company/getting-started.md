@@ -4,7 +4,7 @@ Welcome to Thoth Tech!
 
 If you are reading this Getting Started Guide, then you have just enrolled in the Thoth Tech Company and we welcome you!
 
-This guide is a place to introduce you to the company and all the resources availible to help get you onboarded, introduce you to the comapny and products, and skilled up to tackle the Trimester ahead.
+This guide is a place to introduce you to the company and all the resources available to help get you onboarded, introduce you to the company and products, and skilled up to tackle the Trimester ahead.
 
 ## Who are we?
 
