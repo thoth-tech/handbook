@@ -2,20 +2,20 @@
 
 ## Why is mentoring important?
 
-- Aligns with the values set out in the Thoth Tech company mission and chartering
-- Supporting professional and personal development
-- Helps achieve company goals
-- Empowering growth in others
+- Align with the values set out in the Thoth Tech company mission and chartering
+- Support professional and personal development
+- Help achieve company goals
+- Empower growth in others
 - Mentors serve as a source of knowledge and support
-- Helping set goals
-- Helping keep mentees accountable to their goals
-- Helping motivate and encourage to persist through challenges
-- Creating connections and networking
-- Creating trust and rapport
-- Offering safe honest fearless feedback
-- Strengthens knowledge
+- Help set goals
+- Help keep mentees accountable to their goals
+- Help motivate and encourage to persist through challenges
+- Create connections and networking
+- Create trust and rapport
+- Offer safe honest fearless feedback
+- Strengthen knowledge
 - Help you gain new perspectives
-- Provides a sense of fulfillment
+- Provide a sense of fulfilment
 
 ## Key Mentoring Skills
 
