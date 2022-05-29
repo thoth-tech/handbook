@@ -769,8 +769,7 @@ in managing members joining the trimester late.
 - [PR list (Thoth Tech Handbook Repo)](https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed)
   (All PRs in this handbook are either created or reviewed by Area Leads)
 
-|  |
-|  |
+| | | |
 
 # Product Overview
 
@@ -2281,7 +2280,7 @@ in the future.
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Created the documentation repository in Thoth Tech GitHub | Shivam Singh and Talia Zidar                                                                             |
 | Repository Analysis                                       | James Micallef, Shivam Singh, Manisha Jyoti, Faqi Rehman, Kosta Constantinou, Md Fahim Mizi, Parth Aneja |
-|  |
+|                                                           |
 
 ##### Project Recommendations
 
