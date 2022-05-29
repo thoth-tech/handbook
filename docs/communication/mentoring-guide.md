@@ -16,59 +16,67 @@
 - Strengthens knowledge
 - Help you gain new perspectives
 - Provides a sense of fulfillment
+
 ## Key Mentoring Skills
 
 - Communication (see guide on [Fearless Feedback](docs/../fearless-feedback.md))
-- Interpersonal saavy 
-- Leadership 
+- Interpersonal saavy
+- Leadership
 - Confidence
 - Understanding resources
 - Identifying Goals
-- Active Listening 
+- Active Listening
 - Asking permission
 - Empathy
-  
+
 ## Mentoring models
 
-### One on One Mentoring 
+### One on One Mentoring
+
 - Regular check ins
 - One on one tutorials or conversations
-### Peer Mentoring 
+
+### Peer Mentoring
+
 - Empowering others to share their knowledge
 - Partnering up Seniors with Juniors as buddies
 - Partnering up someone skilled in an area to support someone less skilled needing help
-### Group mentoring 
-- Workshops 
-- Tutorials 
+
+### Group mentoring
+
+- Workshops
+- Tutorials
 - How-to guides
 
 ### SMART goal model
 
-Defining goals with these parameters can help ensure that your objectives are realistic and attainable within a certain time-frame such as the Capstone project.
+Defining goals with these parameters can help ensure that your objectives are realistic and
+attainable within a certain time-frame such as the Capstone project.
 
-**S**pecific
-**M**easurable
-**A**cheivable
-**R**elevant
-**T**imebound
+**S**pecific **M**easurable **A**cheivable **R**elevant **T**imebound
 
 ## Guide to being a Successful Mentor
 
 1. Understand what you want out of the relationship.
-   - Do you view the relationship as bi-directional where you learn from them as much as they learn from you?
-   - How does taking on a mentorship role strangthen you as a leader in your personal and professional life?
+   - Do you view the relationship as bi-directional where you learn from them as much as they learn
+     from you?
+   - How does taking on a mentorship role strangthen you as a leader in your personal and
+     professional life?
 2. Set expectations together in the very beginning.
    - How often do you have availibility?
    - How hands-on can you be yourself?
    - What resources can you provide?
    - Is there a time limit on the relationship?
 3. Take a genuine interest in your mentee as a person.
-   - Get to know your mentee on a deeper level will how you build and strong relationship, and understanding them as person and how they interact with others.
+   - Get to know your mentee on a deeper level will how you build and strong relationship, and
+     understanding them as person and how they interact with others.
 4. Build trust and rapport.
-   - Vulnerability is key to a successful mentoship. Fostering a safe environment through trust and rapport will help you assess core issues, challenges and opportunities beyond circumstance.
+   - Vulnerability is key to a successful mentoship. Fostering a safe environment through trust and
+     rapport will help you assess core issues, challenges and opportunities beyond circumstance.
 5. Know when to give advice.
    - Not all feedback is helpful feedback, learning to know the difference is important.
-   - Sometimes taking some time to ensure you have the right information, experience or emotional state will help you come back with a clear and valuable response.
+   - Sometimes taking some time to ensure you have the right information, experience or emotional
+     state will help you come back with a clear and valuable response.
 6. Don’t assume anything about your mentee – ask.
    - Everyone has bias.
    - Bias clouds our judgement whether you are conscious of it or not.
@@ -77,11 +85,13 @@ Defining goals with these parameters can help ensure that your objectives are re
    - Be open to being vulnerable and sharing your own mistakes and failures.
    - This builds trust and relatibilty.
 8. Celebrate their achievements.
-   - taking the time to highlight and celebrate successes and achievements helps build a mentee's confidence and keeps them motivated
-9.  Seek out resources to help your mentee grow.
-    - Greate mentors look out for or create situations to help their mentees get closer to their goals.
-    - Helps mentee develop ownership over something 
+   - taking the time to highlight and celebrate successes and achievements helps build a mentee's
+     confidence and keeps them motivated
+9. Seek out resources to help your mentee grow.
+   - Greate mentors look out for or create situations to help their mentees get closer to their
+     goals.
+   - Helps mentee develop ownership over something
 10. Be sure you have the bandwidth.
     - Be honest with yourself about the amount of time and expertise you are willing to give.
-    - Helps you manage your own workload and person life without guilt or stretching yourself too thin.
-
+    - Helps you manage your own workload and person life without guilt or stretching yourself too
+      thin.
