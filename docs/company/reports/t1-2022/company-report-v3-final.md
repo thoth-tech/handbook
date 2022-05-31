@@ -62,13 +62,11 @@ _Managing Director_
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives)
     - [Aims for Trimester](#aims-for-trimester)
     - [Deliverables](#deliverables)
-      - [Short-term](#short-term)
-      - [Long-term](#long-term)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress)
     - [Leadership Projects Forecast](#leadership-projects-forecast)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress)
 - [OnTrack](#ontrack)
-  - [OnTrack Product Projects Forecast](#ontrack-product-projects-forecast)
+    - [OnTrack Product Projects Forecast](#ontrack-product-projects-forecast)
   - [Front-End Migration Project](#front-end-migration-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-1)
     - [Aims for Trimester](#aims-for-trimester-1)
@@ -80,14 +78,8 @@ _Managing Director_
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-2)
     - [Aims for Trimester](#aims-for-trimester-2)
     - [Deliverables](#deliverables-2)
-      - [Google Cloud](#google-cloud)
-      - [Pipeline Build](#pipeline-build)
-      - [Enhance Authentication](#enhance-authentication)
     - [Project Members (9)](#project-members9)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-2)
-      - [Google Cloud](#google-cloud-1)
-      - [Pipeline Build](#pipeline-build-1)
-      - [Enhance Authentication](#enhance-authentication-1)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-2)
   - [Jupyter Notebook Support Project](#jupyter-notebook-support-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-3)
@@ -111,13 +103,11 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-5)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-5)
 - [SplashKit](#splashkit)
-  - [Splash Product Projects Forecast](#splash-product-projects-forecast)
+    - [SplashKit Product Projects Forecast](#splashkit-product-projects-forecast)
   - [Operations – Migrating Arcana to SplashKit Project](#operations--migrating-arcana-to-splashkit-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-5)
     - [Aims for Trimester](#aims-for-trimester-6)
     - [Deliverables](#deliverables-6)
-    - [Short-term](#short-term-9)
-      - [Long-term](#long-term-7)
     - [Project Members (3)](#project-members3)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-6)
     - [Project End of Trimester Progress – Migrate Arcana to Splashkit](#project-end-of-trimester-progress--migrate-arcana-to-splashkit)
@@ -152,13 +142,11 @@ _Managing Director_
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-10)
     - [Aims for Trimester](#aims-for-trimester-11)
     - [Deliverables](#deliverables-10)
-      - [Short-term](#short-term-15)
-      - [Long-term](#long-term-13)
     - [Project Members (8)](#project-members-8)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-11)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-9)
 - [DreamBig](#dreambig)
-  - [DreamBig Prototype Project Forecast](#dreambig-prototype-project-forecast)
+    - [DreamBig Prototype Project Forecast](#dreambig-prototype-project-forecast)
   - [DreamBig Prototype Project](#dreambig-prototype-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-11)
     - [Aims for Trimester](#aims-for-trimester-12)
@@ -167,7 +155,7 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-12)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-10)
 - [Internal Systems](#internal-systems)
-  - [Internal Systems Product Project Forecast](#internal-systems-product-project-forecast)
+    - [Internal Systems Product Project Forecast](#internal-systems-product-project-forecast)
   - [Internal Systems Project](#internal-systems-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-12)
     - [Aims for Trimester](#aims-for-trimester-13)
@@ -3218,7 +3206,7 @@ the product is to improve and expand the capabilities to increase SplashKit acce
 
 **Product Lead:** Yash Kondlekar
 
-#### Splash Product Projects Forecast
+#### SplashKit Product Projects Forecast
 
 <img src="media/image6.png" style="width:6.93548in;height:6.93548in" />
 
@@ -3254,7 +3242,7 @@ Arcana as they are developing resulting in an enhanced learning experience.
 
 #### Deliverables 
 
-#### Short-term
+##### Short-term
 
 - Work on documentation for programming arcana
 - Complete a few code examples using SplashKit
@@ -3390,19 +3378,18 @@ Complete the translation of existing SwinGame code to Splashkit. Apply a code f
 <li><p>Code format config file created, GitHub action CI created,
 document updated. </p></li>
 </ul></td>
-<td><p><a
-href="https://github.com/splashkit/programming-arcana/tree/master/topics">programming-arcana/tree/master/topics</a> </p>
-<p> </p>
-<p><a
+<td><a
+href="https://github.com/splashkit/programming-arcana/tree/master/topics">programming-arcana/tree/master/topics</a>
+<a
 href="https://github.com/thoth-tech/programming-arcana/pull/1">PR1</a>,
 <a
 href="https://github.com/thoth-tech/programming-arcana/pull/4">PR2</a>,
 <a
 href="https://github.com/thoth-tech/programming-arcana/pull/5">PR3</a>,
 <a
-href="https://github.com/thoth-tech/programming-arcana/pull/6">PR4</a> </p>
-<p><a
-href="https://github.com/thoth-tech/programming-arcana/pull/2">PR1</a> </p></td>
+href="https://github.com/thoth-tech/programming-arcana/pull/6">PR4</a>
+<a
+href="https://github.com/thoth-tech/programming-arcana/pull/2">PR1</a></td>
 </tr>
 </tbody>
 </table>
@@ -3506,19 +3493,12 @@ once completed, potential solutions can be determined, and tasks delegated accor
 The current deliverables intended for completion prior to the conclusion of sprint 1 are as follows:
 
 - Investigate core compilation process on Linux.
-
   - Investigate simple one-step executable to install
-
 - Investigate existing installation for MAC
-
   - Is it possible for this to be simpler?
-
   - Would the user benefit for a more streamlined approach?
-
 - Investigate existing installation for Windows?
-
   - Could containerisation containing all dependencies be streamlined enough for users?
-
   - Can the dependencies be installed in one downloadable bash/PowerShell script?
 
 Our expectation is that the information gathered will to turn these into Long-term and break those
@@ -3526,27 +3506,8 @@ down into deliverables for the upcoming Sprint 2 and 3.
 
 #### Project Members (4)
 
-**Delivery Lead:** Aiden John Molluso
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>MacOS Specialist:</strong></p>
-<p>Richard Douglas-Denton</p></th>
-<th><p><strong>Software Developer:</strong></p>
-<p>Lachlan Morgan</p>
-<p>Trent Mizzi</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+**Delivery Lead:** Aiden John Molluso **MacOS Specialist:** Richard Douglas-Denton **Software
+Developer:** Lachlan Morgan, Trent Mizzi
 
 #### Project Mid-Trimester Progress
 
@@ -3639,19 +3600,15 @@ review and merge)</p>
 
 ##### Additional information and links
 
-[SKM repository](https://github.com/thoth-tech/skm)
-
-[Splashkit-core repository](https://github.com/thoth-tech/splashkit-core)
-
-[SplashKit Operations Trello Board](https://trello.com/b/uDYt4NJB/splashkit-operations)
+- [SKM repository](https://github.com/thoth-tech/skm)
+- [Splashkit-core repository](https://github.com/thoth-tech/splashkit-core)
+- [SplashKit Operations Trello Board](https://trello.com/b/uDYt4NJB/splashkit-operations)
 
 **_References_**
 
-\[1\] <https://chocolatey.org/>
-
-\[2\] <https://github.com/thoth-tech/skm/pull/3>
-
-\[3\] <https://github.com/thoth-tech/splashkit-core/pull/1>
+- \[1\] <https://chocolatey.org/>
+- \[2\] <https://github.com/thoth-tech/skm/pull/3>
+- \[3\] <https://github.com/thoth-tech/splashkit-core/pull/1>
 
 ##### Blockers
 
@@ -3767,7 +3724,7 @@ Since the last report Linux and MacOS installers have been refined and made into
 installers. Windows install methods have been researched and continue to be worked on to create a
 solution.
 
-##### Long-term
+###### Long-term
 
 Deliverables required next semester are to confirm with product owners as to what direction they
 prefer regarding package managers. Once decided the incumbents are to review the prototype
@@ -4173,7 +4130,7 @@ request form was completed and submitted. </td>
 
 ###### Long-term 
 
-###### **In Progress Tasks **
+###### In Progress Tasks
 
 <table>
 <colgroup>
@@ -4699,9 +4656,9 @@ The Cool Games team has progressed with each team member’s respective delivera
 and documented. Although delayed in the first weeks, each respective member has been working and
 completing parts of their project at great speed.
 
-##### High-level overview Games Team\*\* \*\* 
+##### High-level overview Games Team
 
-##### **Tanks Game**
+###### Tanks Game
 
 <table>
 <colgroup>
@@ -4741,7 +4698,7 @@ resolutions. </p></li>
 </tbody>
 </table>
 
-##### **Jump Game**
+###### Jump Game
 
 <table>
 <colgroup>
@@ -4777,7 +4734,7 @@ resolutions. </p></li>
 </tbody>
 </table>
 
-##### Dicey Combat
+###### Dicey Combat
 
 <table>
 <colgroup>
@@ -4813,13 +4770,10 @@ resolutions. </p></li>
 
 ##### Additional information and links 
 
-[Cool Game Team Trello Board](https://trello.com/b/ZqLqB2VB/cool-game-team)
-
-[SRS Document](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Applications/Systems-Req.md)
-
-[Jump Repository](https://github.com/thoth-tech/Jump)
-
-[Tanks Repository](https://github.com/thoth-tech/Tanks/tree/main/Tanks)
+- [Cool Game Team Trello Board](https://trello.com/b/ZqLqB2VB/cool-game-team)
+- [SRS Document](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Applications/Systems-Req.md)
+- [Jump Repository](https://github.com/thoth-tech/Jump)
+- [Tanks Repository](https://github.com/thoth-tech/Tanks/tree/main/Tanks)
 
 ##### Blockers 
 
@@ -4837,14 +4791,11 @@ The highlights of the Applications team include:
 
 - The Games teams working together to consolidate and build high quality games that will be playable
   on the hardware arcade
-
 - For the game **Jump**, background, and player both appear on the screen, image assets created on
   photoshop and exported as PNG files (as the pixel size wanted for display in the window to avoid
   scaling)
-
 - For the game **Dicey Combat**, background and one of the players (image assets) were created on
   Procreate. Created a complete plan for the game structure.
-
 - For the game **Tanks**, the A.I for the tanks has been created and the assets are being worked on.
   The current state of the game is sitting around 40% complete. The game class has been created also
   meaning that there is a working demo.
@@ -4939,11 +4890,8 @@ being created are compliant with the aims established this trimester.
 
 - Dicey Combat has been set back due to technological issues and will not be continued until next
   trimester.
-
 - Jump has been created and a basic scene with characters implemented.
-
 - Fighter game has been completed as a prototype and will be continued next trimester.
-
 - Tanks has been lost and is being rebuilt due to hard drive failures.
 
 ###### Long-term
@@ -4969,21 +4917,16 @@ Teams should begin work on the How-to Article series outlining how to replicate 
 be uploaded to the splashkit.io website, including:
 
 - Fight
-
 - Jump
-
 - Dicey Combat
-
 - Tanks
 
 All current games still require further development. Currently there is no functionality, level
 design, or difficulty increase. The games are in the following status:
 
 - Fight: add another fighter (and their cell sheet), add sound effects
-
 - Jump: needs the platforms in with collisions to land on the platforms and to end game if hero
   falls.
-
 - Dicey Combat: program roll and pass buttons, create a starting screen (or more than 1 if needed)
   explaining how to play the game. That includes the Thoth tech logo and creator name/s and student
   ID.
@@ -4998,13 +4941,10 @@ Data was lost due to a computer malfunction, as such the development of two game
 
 ##### Links
 
-[https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/Applications](https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/Applications)
-
-[https://trello.com/c/fDkzRSgx/16-dicey-combat-designing-the-draft-image-assets](https://trello.com/c/fDkzRSgx/16-dicey-combat-designing-the-draft-image-assets)
-
-[https://trello.com/c/YR4ed8lx/20-game-creation-jump-handle-player-input](https://trello.com/c/YR4ed8lx/20-game-creation-jump-handle-player-input)
-
-[https://trello.com/c/7RzExBga/17-dicey-combat-players-collisions](https://trello.com/c/7RzExBga/17-dicey-combat-players-collisions)
+- [https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/Applications](https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/Applications)
+- [https://trello.com/c/fDkzRSgx/16-dicey-combat-designing-the-draft-image-assets](https://trello.com/c/fDkzRSgx/16-dicey-combat-designing-the-draft-image-assets)
+- [https://trello.com/c/YR4ed8lx/20-game-creation-jump-handle-player-input](https://trello.com/c/YR4ed8lx/20-game-creation-jump-handle-player-input)
+- [https://trello.com/c/7RzExBga/17-dicey-combat-players-collisions](https://trello.com/c/7RzExBga/17-dicey-combat-players-collisions)
 
 ### Modules Project
 
@@ -5065,33 +5005,13 @@ reinforcement learning algorithm that is capable of co-op or opposition AI in Sp
 
 #### Project Members (8)
 
-**Delivery Lead:** Alex Hocking
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Machine Learning</strong></p>
-<p><strong>Machine Learning Developer:</strong></p>
-<p>Harry Dentry</p></th>
-<th><p><strong>Physics</strong></p>
-<p><strong>Software Developer:</strong></p>
-<p>Daniel Robert Haysham</p>
-<p>Kanna Srilakshmanan</p></th>
-<th><p><strong>Data Analytics</strong></p>
-<p><strong>Software Developer:</strong></p>
-<p>Ryan Allan Lawrence</p>
-<p>Timothy Moore</p>
-<p>Kai Tao</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+- **Delivery Lead:** Alex Hocking
+- \*\*Machine Learning
+  - **Machine Learning Developer:** Harry Dentry
+- **Physics**
+  - **Software Developer:** Daniel Robert Haysham, Kanna Srilakshmanan
+- **Data Analytics**
+  - **Software Developer:** Ryan Allan Lawrence, Timothy Moore, Kai Tao
 
 #### Project Mid-Trimester Progress
 
@@ -5214,9 +5134,9 @@ testing </p></li>
 
 ##### Blockers
 
-Ricky Dodd (_Machine Learning, Software Developer_) is no longer a member of Thoth Tech. This
-position has been backfilled by Linden Hutchinson (_OnTrack Deployment, Full Stack Developer_) and
-Yash Kondlekar (_SplashKit Product Lead_).
+Ricky Dodd (Machine Learning, Software Developer) is no longer a member of Thoth Tech. This position
+has been backfilled by Linden Hutchinson (OnTrack Deployment, Full Stack Developer) and Yash
+Kondlekar (SplashKit Product Lead).
 
 ##### Testing Strategy
 
@@ -5582,7 +5502,7 @@ Long-term:
 - **Delivery Lead:** Nehanjajli Makineni
 - **Back-end Integration Developer:** Zac Brydon
 - **Database Engineer:** Munatsi Matipana
-- **Documentation and Security Specialist:** Harrison Paul Allwood and George Gkoumas
+- **Documentation and Security Specialist:** Harrison Paul Allwood, George Gkoumas
 - **Front-end Design:** Guanyu Chen, Harry Lui
 
 #### Project Mid-Trimester Progress
