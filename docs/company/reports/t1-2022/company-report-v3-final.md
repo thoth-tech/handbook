@@ -16,7 +16,7 @@ during the other two thirds of the year and an expected exit rate of 50 percent,
 for internships throughout the company.
 
 Along with recruitment, Thoth Tech has taken onboard three external products, two live and
-well-established products – **OnTrack** and **SplashKit** – and **DreamBig\_** a in development
+well-established products – **OnTrack** and **SplashKit** – and **DreamBig** a in development
 product which will leverage the OnTrack technology stack. Thoth Tech will also be creating our
 internal architecture and platform for employees throughout this third of the year, referred to as
 the **Internal Systems** project.
@@ -66,7 +66,7 @@ _Managing Director_
     - [Leadership Projects Forecast](#leadership-projects-forecast)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress)
 - [OnTrack](#ontrack)
-    - [OnTrack Product Projects Forecast](#ontrack-product-projects-forecast)
+  - [OnTrack Product Projects Forecast](#ontrack-product-projects-forecast)
   - [Front-End Migration Project](#front-end-migration-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-1)
     - [Aims for Trimester](#aims-for-trimester-1)
@@ -103,7 +103,7 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-5)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-5)
 - [SplashKit](#splashkit)
-    - [SplashKit Product Projects Forecast](#splashkit-product-projects-forecast)
+  - [SplashKit Product Projects Forecast](#splashkit-product-projects-forecast)
   - [Operations – Migrating Arcana to SplashKit Project](#operations--migrating-arcana-to-splashkit-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-5)
     - [Aims for Trimester](#aims-for-trimester-6)
@@ -146,7 +146,7 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-11)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-9)
 - [DreamBig](#dreambig)
-    - [DreamBig Prototype Project Forecast](#dreambig-prototype-project-forecast)
+  - [DreamBig Prototype Project Forecast](#dreambig-prototype-project-forecast)
   - [DreamBig Prototype Project](#dreambig-prototype-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-11)
     - [Aims for Trimester](#aims-for-trimester-12)
@@ -155,7 +155,7 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-12)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-10)
 - [Internal Systems](#internal-systems)
-    - [Internal Systems Product Project Forecast](#internal-systems-product-project-forecast)
+  - [Internal Systems Product Project Forecast](#internal-systems-product-project-forecast)
   - [Internal Systems Project](#internal-systems-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-12)
     - [Aims for Trimester](#aims-for-trimester-13)
@@ -6271,28 +6271,12 @@ Videos.
 - [Documentation team showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/OnTrack/thothtech-ontrack-documentation-showcase.mp4?csf=1&web=1&e=MQxgLK)
 - [Internal Systems team showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/Internal-Sytems/thothtech-internal-systems-showcase.mp4?csf=1&web=1&e=2Cf64E)
 - [DreamBig project showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/DreamBig/thothtech-dreambig-project-showcase.mp4?csf=1&web=1&e=0pfuKC)
-- [DreamBig prototype
-  showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/DreamBig/thothtech-dreambig-proto#
-  Executive Summary
-
-Thoth Tech (est. 2022) is a new software development company currently building from the ground up
-in Melbourne Australia. Thoth Tech’s mission is to build, operate, and deploy education
-technologies, creating tools that enhance education outcomes by empowering students, connecting them
-with tutors, and facilitating personalised learning experiences. We value our people, and we value
-excellence: We are people-focused, aim to produce sustainable products of excellent quality, and
-provide frameworks that provide a safe environment for learning and support of our team.
-
-This report is for stakeholders, investors, and employees, and will outline the company structure,
-charter, objectives – both short and long term, and explore each product’s goals in depth.
-
-Within the first third of 2022, Thoth Tech has recruited approximately 92 employees including four
-area leads, three product leads and eleven delivery leads. There will be another recruitment phase
-during the other two thirds of the year and an expected exit rate of 50 percent, with the potential
-for internships throughout the company.
-
-Along with recruitment, Thoth Tech has taken onboard three external products, two live and
-well-established products –
-
+- [DreamBig prototype showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/DreamBig/thothtech-dreambig-prototype-showcase.mp4?csf=1&web=1&e=In6py6)
+- [Extensions team showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-extensions-showcase.mp4?csf=1&web=1&e=yIwrzf)
+- [Modules team showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-modules-showcase.mp4?csf=1&web=1&e=8iugBz)
+- [Operations team showcase](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-operations-showcase.mp4?csf=1&web=1&e=UJStkV)
+- [Applications team – Arcade Machine software demo](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-applications-arcade-demo.mp4?csf=1&web=1&e=YgA75b)
+- [Applications team – Fighting game demo](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-applications-fighting-game-demo.mp4?csf=1&web=1&e=5qm442)
 - [Applications team – Jump game demo](https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/SplashKit/thothtech-splashkit-applications-jump-game-demo.mp4?csf=1&web=1&e=YNlWc6)
 
 ## Appendix
