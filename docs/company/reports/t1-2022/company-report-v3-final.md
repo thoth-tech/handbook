@@ -96,7 +96,7 @@ _Managing Director_
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-4)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-4)
   - [Documentation Project](#documentation-project)
-    - [Overview](#overview)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-5)
     - [Aims for Trimester](#aims-for-trimester-5)
     - [Deliverables](#deliverables-5)
     - [Project Members (7)](#project-members-7)
@@ -105,72 +105,72 @@ _Managing Director_
 - [SplashKit](#splashkit)
   - [SplashKit Product Projects Forecast](#splashkit-product-projects-forecast)
   - [Operations – Migrating Arcana to SplashKit Project](#operations--migrating-arcana-to-splashkit-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-5)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-6)
     - [Aims for Trimester](#aims-for-trimester-6)
     - [Deliverables](#deliverables-6)
     - [Project Members (3)](#project-members3)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-6)
-    - [Project End of Trimester Progress – Migrate Arcana to Splashkit](#project-end-of-trimester-progress--migrate-arcana-to-splashkit)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-6)
   - [Operations – Distribution Channels Project](#operations--distribution-channels-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-6)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-7)
     - [Aims for Trimester](#aims-for-trimester-7)
     - [Deliverables](#deliverables-7)
     - [Project Members (4)](#project-members4)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-7)
-    - [Project End of Trimester Progress – Distributions Channels](#project-end-of-trimester-progress--distributions-channels)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-7)
   - [Extensions Project](#extensions-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-7)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-8)
     - [Aims for Trimester](#aims-for-trimester-8)
     - [Deliverables](#deliverables-8)
     - [Project Members (8)](#project-members8)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-8)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-6)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-8)
   - [Applications – Arcade Machine Project](#applications--arcade-machine-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-8)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-9)
     - [Aims for Trimester](#aims-for-trimester-9)
     - [Deliverables](#deliverables-9)
     - [Project Members (5)](#project-members5)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-9)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-7)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-9)
   - [Applications – Build a Cool Game Project](#applications--build-a-cool-game-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-9)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-10)
     - [Aims for Trimester](#aims-for-trimester-10)
     - [Deliverables](#deliverables-10)
     - [Project Members (4)](#project-members4-1)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-10)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-8)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-10)
   - [Modules Project](#modules-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-10)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-11)
     - [Aims for Trimester](#aims-for-trimester-11)
     - [Deliverables](#deliverables-11)
     - [Project Members (8)](#project-members-8)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-11)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-9)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-11)
 - [DreamBig](#dreambig)
   - [DreamBig Prototype Project Forecast](#dreambig-prototype-project-forecast)
   - [DreamBig Prototype Project](#dreambig-prototype-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-11)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-12)
     - [Aims for Trimester](#aims-for-trimester-12)
     - [Deliverables](#deliverables-12)
     - [Project Members (7)](#project-members-7-1)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-12)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-10)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-12)
 - [Internal Systems](#internal-systems)
   - [Internal Systems Product Project Forecast](#internal-systems-product-project-forecast)
   - [Internal Systems Project](#internal-systems-project)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-12)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-13)
     - [Aims for Trimester](#aims-for-trimester-13)
     - [Deliverables](#deliverables-13)
     - [Project Members (4)](#project-members4-2)
-    - [Mid-Trimester Progress](#mid-trimester-progress)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-11)
-  - [Government, Risk and Compliance](#government-risk-and-compliance)
-    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-13)
+    - [Project Mid-Trimester Progress](#project-mid-trimester-progress-13)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-13)
+  - [Governance, Risk and Compliance](#governance-risk-and-compliance)
+    - [Overview, Goals, and Objectives](#overview-goals-and-objectives-14)
     - [Aims for Trimester](#aims-for-trimester-14)
     - [Deliverables](#deliverables-14)
     - [Project Members (4)](#project-members-4)
-    - [Project Mid-Trimester Progress](#project-mid-trimester-progress-13)
-    - [Project End of Trimester Progress](#project-end-of-trimester-progress-12)
+    - [Project Mid-Trimester Progress](#project-mid-trimester-progress-14)
+    - [Project End of Trimester Progress](#project-end-of-trimester-progress-14)
 - [Showcase Videos](#showcase-videos)
 - [Appendix](#appendix)
 
@@ -181,18 +181,12 @@ _Managing Director_
 ## Roles and Responsibilities
 
 <table>
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 29%" />
-<col style="width: 31%" />
-<col style="width: 25%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th></th>
-<th><strong>Role</strong></th>
-<th><strong>Responsibilities</strong></th>
-<th><strong>Skills</strong></th>
+<th>Role</th>
+<th>Responsibilities</th>
+<th>Skills</th>
 </tr>
 </thead>
 <tbody>
@@ -596,17 +590,12 @@ Short-term by the mid-trimester break.
 
 ##### High-level overview
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 32%" />
-<col style="width: 33%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -732,12 +721,6 @@ company objectives can be successfully carried forward into future trimesters.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 28%" />
-<col style="width: 25%" />
-<col style="width: 21%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -875,10 +858,6 @@ achieved the following:
 ##### Team Key Achievements 
 
 <table>
-<colgroup>
-<col style="width: 60%" />
-<col style="width: 39%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Achievement </th>
@@ -1030,75 +1009,38 @@ in managing members joining the trimester late.
 ##### Links: 
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><ul>
-<li><a href="https://github.com/thoth-tech/handbook">Thoth-Tech
-Handbook</a>  
+<li><a href="https://github.com/thoth-tech/handbook">Thoth-Tech Handbook</a>  
 <ul>
-<li><a
-href="https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md">Company
-Charter</a>  </li>
-<li><a
-href="https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md">Communication
-Guide</a>  </li>
-<li><a
-href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md">Quality
-Assurance Overview</a>  </li>
-<li><a
-href="https://github.com/thoth-tech/handbook/blob/main/docs/data/data-strategy.md">Data
-Strategy</a>  </li>
+<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md">Company Charter</a></li>
+<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md">Communication Guide</a></li>
+<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md">Quality Assurance Overview</a></li>
+<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/data/data-strategy.md">Data Strategy</a></li>
 </ul></li>
-<li><a
-href="https://trello.com/b/9jms2uly/thoth-leadership">Thoth-Tech
-Leadership Trello Board</a>  </li>
+<li><a href="https://trello.com/b/9jms2uly/thoth-leadership">Thoth-Tech Leadership Trello Board</a></li>
 <li>All workshop recordings  
 <ul>
-<li><a
-href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EVQNqqrUceBGqbyJZJngL-UBcqfXQxOuuxUNB2CszP9zew?e=zpysKY">Company-wide
-meeting</a>  </li>
-<li><a
-href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/ESlcEp9QlkpAuzF7wWU_9OUB1XNwkaF2RFbdXZ1fiNdnXA?e=60bO3w">D/HD
-Workshop</a>  </li>
-<li><a
-href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EU-YLlYtlkVErKiZnxcyU08BV9aUUGa3i1Bah6rRhnWrtg?e=pr2yIB">GitHub
-Repos Q&amp;A</a>  </li>
-<li><a
-href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EeWt4zp0a7BLvE_I9lsPCxYBfIV_pSNRACesr1tqGQaqdg?e=7cTbM4">Quality
-Assurance Q&amp;A</a>  </li>
-<li><a
-href="https://deakin365.sharepoint.com/:v:/s/ThothTech2-Leadership/EQDksW01djxApiu0sYTpjcEBrd4znkVqhVXGhfgGF3Nhxw?e=TNUB8c">Documentation
-Workshop</a>  </li>
+<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EVQNqqrUceBGqbyJZJngL-UBcqfXQxOuuxUNB2CszP9zew?e=zpysKY">Company-wide meeting</a></li>
+<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/ESlcEp9QlkpAuzF7wWU_9OUB1XNwkaF2RFbdXZ1fiNdnXA?e=60bO3w">D/HD Workshop</a></li>
+<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EU-YLlYtlkVErKiZnxcyU08BV9aUUGa3i1Bah6rRhnWrtg?e=pr2yIB">GitHub Repos Q&A</a></li>
+<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EeWt4zp0a7BLvE_I9lsPCxYBfIV_pSNRACesr1tqGQaqdg?e=7cTbM4">Quality Assurance Q&amp;A</a></li>
+<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2-Leadership/EQDksW01djxApiu0sYTpjcEBrd4znkVqhVXGhfgGF3Nhxw?e=TNUB8c">Documentation Workshop</a></li>
 </ul></li>
 </ul></th>
 <th><ul>
 <li>Miro board  
 <ul>
-<li><a
-href="https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450">Company
-Structure</a>  </li>
-<li><a
-href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a>  </li>
-<li><a
-href="https://miro.com/app/board/uXjVOHw0M_4=/?share_link_id=475081156944">Company
-Values</a>  </li>
-<li><a
-href="https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516">Meeting
-Planner</a>  </li>
-<li><a
-href="https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802">Proposed
-Branching Structure</a></li>
-<li><a href="https://miro.com/app/board/uXjVO2m3z0Q=/">Proposed T2
-leadership</a> </li>
+<li><a href="https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450">Company Structure</a></li>
+<li><a href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a></li>
+<li><a href="https://miro.com/app/board/uXjVOHw0M_4=/?share_link_id=475081156944">Company Values</a></li>
+<li><a href="https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516">Meeting Planner</a></li>
+<li><a href="https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802">Proposed Branching Structure</a></li>
+<li><a href="https://miro.com/app/board/uXjVO2m3z0Q=/">Proposed T2 leadership</a></li>
 </ul></li>
-<li><a
-href="https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed">PR
-list (Thoth Tech Handbook Repo)</a> (All PRs in this handbook are
-either created or reviewed by Area Leads)  </li>
+<li><a href="https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed">PR list (Thoth Tech Handbook Repo)</a>
+(All PRs in this handbook are either created or reviewed by Area Leads)</li>
 </ul></th>
 </tr>
 </thead>
@@ -1128,7 +1070,7 @@ improve the teaching and learning experience.
 
 **Product Lead:** Jordan Cameron Trainor
 
-#### OnTrack Product Projects Forecast
+### OnTrack Product Projects Forecast
 
 <img src="media/image5.png" style="width:7.27885in;height:6.98062in" />
 
@@ -1278,12 +1220,6 @@ collaboratively complied update functions and section of the OnTrack front end.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 3%" />
-<col style="width: 36%" />
-<col style="width: 41%" />
-<col style="width: 18%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th></th>
@@ -1299,8 +1235,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </td>
 <td></td>
 <td>migrate/admin-notification</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/22">PR
-#22</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/22">PR #22</a></td>
 </tr>
 <tr class="even">
 <td rowspan="5">
@@ -1308,26 +1243,22 @@ collaboratively complied update functions and section of the OnTrack front end.
 </td>
 <td>./src/app/visualisations/progress-burndown-chart.coffee</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/36">PR
-#36</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/36">PR #36</a></td>
 </tr>
 <tr class="odd">
 <td>./src/app/visualisations/student-task-status-pie-chart.coffee</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/36">PR
-#36</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/36">PR #36</a></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>./src/app/admin/modals/rollover-teaching-period-modal/rollover-teaching-period-modal.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/42">PR
-#42</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/42">PR #42</a></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td>./src/app/common/modals/confirmation-modal/confirmation-modal.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/41">PR
-#41</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/41">PR #41</a></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1341,14 +1272,12 @@ collaboratively complied update functions and section of the OnTrack front end.
 </td>
 <td></td>
 <td>./src/app/tasks/project-tasks-list/project-tasks-list.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/34">PR
-#34</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/34">PR #34</a></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>./src/app/admin/modals/user-settings-modal/user-settings-modal.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/11">PR
-#11</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/11">PR #11</a></td>
 </tr>
 <tr class="odd">
 <td rowspan="7">
@@ -1361,38 +1290,32 @@ collaboratively complied update functions and section of the OnTrack front end.
 <tr class="even">
 <td></td>
 <td>grade-icon</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/18">PR
-#18</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/18">PR #18</a></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td>grade-task-modal</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/1">PR
-#1</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/1">PR #1</a></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>fix: scroll into view error</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/37">PR
-#37</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/37">PR #37</a></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td>refactor: remove task-sheet-viewer component</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/9">PR
-#9</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/9">PR #9</a></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>docs: update contributing.md doc</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-deploy/pull/2">PR
-#2</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-deploy/pull/2">PR #2</a></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td>fix: update urls in .gitmodules</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-deploy/pull/1">PR
-#1</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-deploy/pull/1">PR #1</a></td>
 </tr>
 <tr class="even">
 <td rowspan="2">
@@ -1400,14 +1323,12 @@ collaboratively complied update functions and section of the OnTrack front end.
 </td>
 <td></td>
 <td>./src/app/projects/states/dashboard/directives/task-dashboard/directives/task-outcomes-card/task-outcomes-card.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/12">PR
-#12</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/12">PR #12</a></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td>./src/app/projects/states/dashboard/directives/task-dashboard/directives/task-status-card/task-status-card.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/29">PR
-#29</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/29">PR #29</a></td>
 </tr>
 <tr class="even">
 <td rowspan="5">
@@ -1415,33 +1336,28 @@ collaboratively complied update functions and section of the OnTrack front end.
 </td>
 <td></td>
 <td>./src/app/groups/group-member-contribution-assigner</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/38">PR
-#38</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/38">PR #38</a></td>
 </tr>
 <tr class="odd">
 <td>./src/app/tasks/modals/upload-submission-modal-coffee</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/13">PR
-#13</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/13">PR #13</a></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>./src/app/common/file-uploader/file-uploader.coffee</td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/30">PR
-#30</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/30">PR #30</a></td>
 </tr>
 <tr class="odd">
 <td>./src/app/tasks/task-submission-viewer/task-
 submission-viewer.coffee.</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/4">PR
-#4</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/4">PR #4</a></td>
 </tr>
 <tr class="even">
 <td>./src/app/tasks/tasks.coffee</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/4">PR
-#4</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/4">PR #4</a></td>
 </tr>
 <tr class="odd">
 <td rowspan="6">
@@ -1449,8 +1365,7 @@ submission-viewer.coffee.</td>
 </td>
 <td>./src/app/admin/modals/create-unit-modal/create-unit-modal.coffee</td>
 <td></td>
-<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/24">PR
-#24</a></td>
+<td><a href="https://github.com/thoth-tech/doubtfire-web/pull/24">PR #24</a></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1620,57 +1535,31 @@ needed for the completion of the Deployment team deliverables.
 Project progress is satisfactory and as per initial plan. Team completed all the upskill tasks and
 now started working on preparing Docker images for deployment on google platform.
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 32%" />
-<col style="width: 33%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>
-Docker Compose script for doubtfire-web container image
-</li>
-<li>
-Proxy Settings requirements
-</li>
-<li>
-Email service for email notifications
-</li>
+<li>Docker Compose script for doubtfire-web container image</li>
+<li>Proxy Settings requirements</li>
+<li>Email service for email notifications</li>
 </ul></td>
 <td><ul>
-<li>
-Docker Compose script for doubtfire-api container image
-</li>
-<li>
-Project Documentation
-</li>
-<li>
-Setup Google Cloud Account for OnTrack Project
-</li>
+<li>Docker Compose script for doubtfire-api container image</li>
+<li>Project Documentation</li>
+<li>Setup Google Cloud Account for OnTrack Project</li>
 </ul></td>
 <td><ul>
-<li>
-Upskill tasks (Google Cloud and services, deployments, Docker
-containers)
-</li>
-<li>
-Project plan
-</li>
-<li>
-Create Account/Enable Access to google cloud for the team.
-</li>
-<li>
-Completed high level diagram of Google cloud deployment
-</li>
+<li>Upskill tasks (Google Cloud and services, deployments, Docker containers)</li>
+<li>Project plan</li>
+<li>Create Account/Enable Access to google cloud for the team.</li>
+<li>Completed high level diagram of Google cloud deployment</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1720,16 +1609,11 @@ when any future iterations/features need to be added, it will be easy to update.
 ###### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 39%" />
-<col style="width: 28%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -1760,9 +1644,8 @@ tool</li>
 
 ###### Additional Information Links
 
-[Deployment Trello Board](https://trello.com/b/dI1yx9A1/deployment)
-
-[Deployment SRS](https://deakin365.sharepoint.com/:w:/r/sites/ThothTech2-Deployment/_layouts/15/Doc.aspx?sourcedoc=%7BE0B4E2ED-6EB7-49D5-B3AB-03486F1FF61B%7D&file=Software%20Requirements%20Specification.docx&wdLOR=c06A8DDDD-448A-3940-9814-E3D63690A23C&action=default&mobileredirect=true)
+- [Deployment Trello Board](https://trello.com/b/dI1yx9A1/deployment)
+- [Deployment SRS](https://deakin365.sharepoint.com/:w:/r/sites/ThothTech2-Deployment/_layouts/15/Doc.aspx?sourcedoc=%7BE0B4E2ED-6EB7-49D5-B3AB-03486F1FF61B%7D&file=Software%20Requirements%20Specification.docx&wdLOR=c06A8DDDD-448A-3940-9814-E3D63690A23C&action=default&mobileredirect=true)
 
 ###### Blockers 
 
@@ -1801,16 +1684,11 @@ evidence the work which we will undertake in future.
 ###### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 39%" />
-<col style="width: 28%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -1883,12 +1761,6 @@ The most important takeaways from the status report of the Google Cloud team are
 ##### High-level overview 
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 11%" />
-<col style="width: 24%" />
-<col style="width: 40%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -1970,8 +1842,8 @@ Key achievements: the team successfully deployed a functional instance of OnTrac
 <table>
 <thead>
 <tr class="header">
-<th><strong>Achievements</strong></th>
-<th><strong>Contributor</strong></th>
+<th>Achievements</th>
+<th>Contributor</th>
 </tr>
 </thead>
 <tbody>
@@ -2084,14 +1956,10 @@ members to contribute to the project with ease and confidence.
 Key achievement: Successfully built Google Kubernetes Engine cluster on the Google Cloud Platform
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Achievements</strong></th>
-<th><strong>Contributor</strong></th>
+<th>Achievements</th>
+<th>Contributor</th>
 </tr>
 </thead>
 <tbody>
@@ -2121,6 +1989,7 @@ Cloud Platform
 <td>Mathew Perkin and Lachlan Cayzer</td>
 </tr>
 </tbody>
+
 **Enhance Authentication **
 
 ##### Summary
@@ -2139,12 +2008,6 @@ The most important takeaways from the status report of the Enhance Authenticatio
 ##### High-level overview 
 
 <table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 22%" />
-<col style="width: 27%" />
-<col style="width: 24%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -2211,14 +2074,10 @@ Key Achievement: Solution defined with development in progress and solution anal
 created
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Achievements</strong></th>
-<th><strong>Contributor</strong></th>
+<th>Achievements</th>
+<th>Contributor</th>
 </tr>
 </thead>
 <tbody>
@@ -2356,8 +2215,8 @@ Jupyter Notebook and a Word document into a pdf, documentation, and the creation
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -2478,12 +2337,6 @@ accompanying documentation.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 22%" />
-<col style="width: 27%" />
-<col style="width: 39%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
@@ -2564,8 +2417,8 @@ Key achievements: Working conversions to pdf, the docker environments, and the d
 <table>
 <thead>
 <tr class="header">
-<th><strong>Achievements</strong></th>
-<th><strong>Contributor</strong></th>
+<th>Achievements</th>
+<th>Contributor</th>
 </tr>
 </thead>
 <tbody>
@@ -2607,9 +2460,8 @@ NA
 
 ##### Links  
 
-[Project epic](https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/Jupyter-Notebook-Epic-T1-2022.md)
-
-[User stories](https://trello.com/b/3lWJEuDQ/jupyter-sypport)
+- [Project epic](https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/Jupyter-Notebook-Epic-T1-2022.md)
+- [User stories](https://trello.com/b/3lWJEuDQ/jupyter-sypport)
 
 ### Voice Verification Project
 
@@ -2675,16 +2527,11 @@ system to the local OnTrack instance. This will be dependent on the deployment t
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 35%" />
-<col style="width: 33%" />
-<col style="width: 31%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -2752,12 +2599,6 @@ This trimester has set up the foundation for future development teams.
 #####  High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 25%" />
-<col style="width: 18%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -2857,7 +2698,7 @@ NA
 
 ### Documentation Project
 
-#### Overview
+#### Overview, Goals, and Objectives
 
 The Documentation project objective is to create documentation for the Thoth Tech company and its
 products, including OnTrack. The current state of documentation of Thoth Tech’s products’ is poor;
@@ -2934,8 +2775,8 @@ Next steps are to complete the repository analysis and produce the report of rec
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -3142,7 +2983,7 @@ the product is to improve and expand the capabilities to increase SplashKit acce
 
 **Product Lead:** Yash Kondlekar
 
-#### SplashKit Product Projects Forecast
+### SplashKit Product Projects Forecast
 
 <img src="media/image6.png" style="width:6.93548in;height:6.93548in" />
 
@@ -3214,16 +3055,11 @@ Arcana
 ##### High-Level Overview
 
 <table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 46%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -3260,7 +3096,7 @@ will continue working in Operations. Refer to the product forecast.
 - [Programming Arcana Repository](https://github.com/thoth-tech/programming-arcana)
 - [PDF Programming Arcana](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2-SplashKitOperationsTeam/Shared%20Documents/SplashKit%20Operations%20Team/ProgramArcana?csf=1&web=1&e=aZqTLk)
 
-#### Project End of Trimester Progress – Migrate Arcana to Splashkit
+#### Project End of Trimester Progress
 
 ##### Project health
 
@@ -3474,8 +3310,8 @@ readme documentation. However, this would not achieve the goal of a single-click
 <thead>
 <tr class="header">
 <th>Backlog</th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -3538,7 +3374,7 @@ Deciding on a solution specific to Windows installation with approval from key s
 The expectation is that the project will be completed by the end of trimester, excluding changes
 required to the splashkit.io website installation instructions. Refer to the product forecast.
 
-#### Project End of Trimester Progress – Distributions Channels 
+#### Project End of Trimester Progress
 
 ##### Project health
 
@@ -3649,10 +3485,6 @@ request are required.
 ##### Key Team Achievements  
 
 <table>
-<colgroup>
-<col style="width: 60%" />
-<col style="width: 39%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Achievement</th>
@@ -3788,9 +3620,9 @@ researching alternative libraries, and completing the Rust extension.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -3933,10 +3765,6 @@ This trimester the team started with the following aims:
 ###### Short-term 
 
 <table>
-<colgroup>
-<col style="width: 27%" />
-<col style="width: 72%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Deliverable </th>
@@ -4035,42 +3863,42 @@ href="https://trello.com/c/2d8COBUg/27-complete-rust-language-extension">https:/
 <table>
 <thead>
 <tr class="header">
-<th>Task </th>
-<th>Trello link </th>
+<th>Task</th>
+<th>Trello link</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Fix symlinks for Windows </td>
+<td>Fix symlinks for Windows</td>
 <td><p>The symlink files used by the SplashKit translator do not work
 correctly in Windows after pulling from GitHub. This issue needs to be
-investigated and fixed. </p>
+investigated and fixed.</p>
 <p><a
 href="https://trello.com/c/lNnTviht/32-fix-symlinks-for-windows">https://trello.com/c/lNnTviht/32-fix-symlinks-for-windows</a> </p></td>
 </tr>
 <tr class="even">
 <td>Provide progress/status updates to terminal when running the
-translator </td>
+translator</td>
 <td><p>The translator appears idle for some time when operating and can
 take a significant amount of time. A progress indicator would help users
-understand that the application is still processing. </p>
+understand that the application is still processing.</p>
 <p><a
 href="https://trello.com/c/blr2SGHh/31-provided-progress-status-updates-to-terminal-when-running-translator">https://trello.com/c/blr2SGHh/31-provided-progress-status-updates-to-terminal-when-running-translator</a> </p></td>
 </tr>
 <tr class="odd">
-<td>Create Ruby language extension </td>
+<td>Create Ruby language extension</td>
 <td><p>Ruby is a functional programming language that the team need to
 learn as the translator project is written in Ruby. This makes is a
-great candidate for translating SplashKit into. </p>
+great candidate for translating SplashKit into.</p>
 <p><a
-href="https://trello.com/c/Xw8pfXD2/29-create-ruby-language-extension">https://trello.com/c/Xw8pfXD2/29-create-ruby-language-extension</a> </p></td>
+href="https://trello.com/c/Xw8pfXD2/29-create-ruby-language-extension">https://trello.com/c/Xw8pfXD2/29-create-ruby-language-extension</a></p></td>
 </tr>
 <tr class="even">
-<td>Create Go language extension </td>
+<td>Create Go language extension</td>
 <td><p>The Go programming language is a feature rich, easily readable
-language and is very rarely updated or changed. </p>
+language and is very rarely updated or changed.</p>
 <p><a
-href="https://trello.com/c/tYqxZ40k/28-create-go-language-extension">https://trello.com/c/tYqxZ40k/28-create-go-language-extension</a> </p></td>
+href="https://trello.com/c/tYqxZ40k/28-create-go-language-extension">https://trello.com/c/tYqxZ40k/28-create-go-language-extension</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -4206,9 +4034,9 @@ the software and documentation for delivery for the end of the trimester.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4230,16 +4058,16 @@ all other parts of the software.</li>
 </ul></td>
 <td><ul>
 <li>An introductory Splash Screen and loading screen, accompanied
-with graphics and sound </li>
-<li>Configuration data text file template and interpreter </li>
+with graphics and sound</li>
+<li>Configuration data text file template and interpreter</li>
 <li>Grid class for development of structured user-interfaces using a
-grid style layout. </li>
+grid style layout.</li>
 <li>Options menu allowing the user to select audio level and change
-music tracks </li>
+music tracks</li>
 <li>Main menu screen</li>
 <li>Games menu screen to displaying the available games</li>
-<li>The games can be played once launched </li>
-<li>An event handler/selector/cursor class for user input </li>
+<li>The games can be played once launched</li>
+<li>An event handler/selector/cursor class for user input</li>
 <li>Options class</li>
 </ul></td>
 </tr>
@@ -4330,14 +4158,9 @@ it is a complex project.
 <li>Linking cells </li>
 </ul></td>
 <td><ul>
-<li><a
-href="https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/%20Applications%20">Documentation
-Applications</a></li>
-<li><a
-href="https://github.com/thoth-tech/arcade-machine%20%20">arcade-machine
-Repo</a></li>
-<li><a href="https://github.com/thoth-tech/arcade-games">arcade-games
-Repo</a></li>
+<li><a href="https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/%20Applications%20">Documentation Applications</a></li>
+<li><a href="https://github.com/thoth-tech/arcade-machine%20%20">arcade-machine Repo</a></li>
+<li><a href="https://github.com/thoth-tech/arcade-games">arcade-games Repo</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -4460,9 +4283,9 @@ completing parts of their project at great speed.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4478,12 +4301,12 @@ completing parts of their project at great speed.
 </ul></td>
 <td><ul>
 <li>Progressing on level editor: bug fixing and issue
-resolutions. </li>
+resolutions.</li>
 <li>A.I Fixes</li>
 </ul></td>
 <td><ul>
 <li>Created the Brain of the A.I.</li>
-<li>Created Terrain Generation for the levels. </li>
+<li>Created Terrain Generation for the levels.</li>
 <li>Basic design of the game is created and playable.</li>
 </ul></td>
 </tr>
@@ -4495,9 +4318,9 @@ resolutions. </li>
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4513,9 +4336,9 @@ resolutions. </li>
 <li>Player Input</li>
 </ul></td>
 <td><ul>
-<li>Background created </li>
-<li>Player model appears on the screen  </li>
-<li>Asset Creation completed </li>
+<li>Background created</li>
+<li>Player model appears on the screen</li>
+<li>Asset Creation completed</li>
 </ul></td>
 </tr>
 </tbody>
@@ -4526,9 +4349,9 @@ resolutions. </li>
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4541,10 +4364,10 @@ resolutions. </li>
 <li>User Article Series</li>
 </ul></td>
 <td><ul>
-<li>Assets are being created  </li>
+<li>Assets are being created</li>
 </ul></td>
 <td><ul>
-<li>Main structure planning completed for the game </li>
+<li>Main structure planning completed for the game</li>
 </ul></td>
 </tr>
 </tbody>
@@ -4630,8 +4453,7 @@ looking forward to addressing this most next semester.
 <li>Pseudocode for Dicey Combat</li>
 <li>Dicey Combat - Creating dice roll</li>
 </ul></td>
-<td><ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-<li>Individual Research on Sound Effects</li>
+<td><ul><li>Individual Research on Sound Effects</li>
 <li>Documentation on future game</li>
 <li>Game Creation - Jump Handle Player input</li>
 </ul></td>
@@ -4780,7 +4602,7 @@ reinforcement learning algorithm that is capable of co-op or opposition AI in Sp
 #### Project Members (8)
 
 - **Delivery Lead:** Alex Hocking
-- \*\*Machine Learning
+- **Machine Learning**
   - **Machine Learning Developer:** Harry Dentry
 - **Physics**
   - **Software Developer:** Daniel Robert Haysham, Kanna Srilakshmanan
@@ -4806,9 +4628,9 @@ standards of both code and documentation.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4864,9 +4686,9 @@ code </li>
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -4939,10 +4761,10 @@ performance, and adding neural networks.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
-<th><strong>PR/Relevant documentation links</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
@@ -5029,10 +4851,10 @@ and plotting functionality required in the longer term.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
-<th><strong>PR/Relevant documentation links</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
@@ -5109,10 +4931,10 @@ has begun, but a significant dependency on Box2D will require many methods needi
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
-<th><strong>PR/Relevant documentation links</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
@@ -5198,7 +5020,7 @@ following goals:
 
 **Product Lead:** Abigail Howe
 
-#### DreamBig Prototype Project Forecast
+### DreamBig Prototype Project Forecast
 
 <img src="media/image7.png" style="width:6.86606in;height:3.54931in" />
 
@@ -5265,9 +5087,9 @@ completed by sprint two.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -5296,8 +5118,8 @@ NA
 
 ##### Additional links
 
-- [DreamBig Trello Board](https://trello.com/b/5hGRqxJO/dreambig-prototype) - _Wireframe sets will
-  be linked in the Trello board card._
+- [DreamBig Trello Board](https://trello.com/b/5hGRqxJO/dreambig-prototype) - Wireframe sets will be
+  linked in the Trello board card.
 - [Individual research documentation](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2-DreamBigPrototypeTeam/Shared%20Documents/DreamBig%20Prototype%20Team/Sprint%201%20documentation/Individual%20Research?csf=1&web=1&e=cSE3m3)
 
 ##### Forecast
@@ -5333,42 +5155,37 @@ extend due to changing tutor requirements.
 <table>
 <thead>
 <tr class="header">
-<th>Backlog </th>
-<th>In Progress </th>
-<th>Completed </th>
-<th>PR/Relevant documentation links </th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
 <li>Coding tech model</li>
-<li>UI prototype user evaluation </li>
-<li>UI design prototype demo to board </li>
-<li>Next phase documentation </li>
+<li>UI prototype user evaluation</li>
+<li>UI design prototype demo to board</li>
+<li>Next phase documentation</li>
 </ul></td>
 <td><ul>
-<li>Final clean up on reflections wireframes </li>
-<li>Project documentations </li>
-<li>UI prototyping </li>
-<li>UML diagrams creation/documentation </li>
+<li>Final clean up on reflections wireframes</li>
+<li>Project documentations</li>
+<li>UI prototyping</li>
+<li>UML diagrams creation/documentation</li>
 </ul></td>
 <td><ul>
-<li>User stories </li>
-<li>Features list </li>
+<li>User stories</li>
+<li>Features list</li>
 <li>Wireframes for login, first home page, edit profile and add
-activities page. </li>
-<li>Individual research </li>
+activities page.</li>
+<li>Individual research</li>
 </ul></td>
-<td><ul><li
-href="https://www.figma.com/file/ccUGpRo28eDydJeHGmf6aA/prototype?node-id=161%3A88">Figma</a></li>
-<li
-href="https://github.com/thoth-tech/documentation/pull/58">Documentations
-PR</a></li>
-<li
-href="https://trello.com/b/5hGRqxJO/dreambig-prototype">Trello</a></li>
-<li
-href="https://github.com/thoth-tech/documentation/pull/64">PR#64</a></li></ul></td>
+<td><ul><li><a href="https://www.figma.com/file/ccUGpRo28eDydJeHGmf6aA/prototype?node-id=161%3A88">Figma</a></li>
+<li><a href="https://github.com/thoth-tech/documentation/pull/58">Documentations PR</a></li>
+<li><a href="https://trello.com/b/5hGRqxJO/dreambig-prototype">Trello</a></li>
+<li><a href="https://github.com/thoth-tech/documentation/pull/64">PR#64</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -5444,7 +5261,6 @@ forward to onboarding 4 more team members.
 ##### Project Recommendations
 
 - Technical skills will be imperative for the next phase of the project
-
 - The project should begin work on creating a technical product aligned with the UI created in this
   trimester
 
@@ -5454,9 +5270,8 @@ No new blockers have been identified.
 
 ##### Links
 
-- Git documentation: <https://github.com/thoth-tech/documentation/tree/main/docs/DreamBig>
-- ERD:
-  <https://lucid.app/lucidchart/515a1c6d-0ce2-47b6-88f7-fd04ec3957b1/edit?page=0_0&invitationId=inv_b3dfcee3-3b63-43e6-9fca-40d150f868f0>
+- [Git documentation](https://github.com/thoth-tech/documentation/tree/main/docs/DreamBig)
+- [Entity Relationship Diagram](https://lucid.app/lucidchart/515a1c6d-0ce2-47b6-88f7-fd04ec3957b1/edit?page=0_0&invitationId=inv_b3dfcee3-3b63-43e6-9fca-40d150f868f0)
 
 ## Internal Systems
 
@@ -5467,7 +5282,7 @@ sourced from the Thoth Tech repo.
 
 **Product Lead:** Abigail Howe
 
-#### Internal Systems Product Project Forecast
+### Internal Systems Product Project Forecast
 
 <img src="media/image8.png" style="width:7.26806in;height:5.13333in"
 alt="A picture containing chart Description automatically generated" />
@@ -5499,7 +5314,7 @@ be created for the testing structure utilised.
 
 #### Deliverables
 
-**Short-term**
+##### Short-term
 
 - Documentation on proposed architecture and development processes
 - Design for web interface
@@ -5508,7 +5323,7 @@ be created for the testing structure utilised.
 - Documentation on Test Case creation and Management
 - Working prototype
 
-**Long-term**
+##### Long-term
 
 - Customisable user privileges and privilege-based viewing
 - Simple to use and accessible UI
@@ -5522,7 +5337,7 @@ be created for the testing structure utilised.
 - **Junior Web Developer:** Manveen Kaur Bhullar
 - **Junior Back-end Developer:** Tushar
 
-#### Mid-Trimester Progress 
+#### Project Mid-Trimester Progress 
 
 ##### Project health 
 
@@ -5543,9 +5358,9 @@ development and working through additional tools to supplement Jekyll or Gatsby.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -5614,39 +5429,39 @@ development next trimester.
 <table>
 <thead>
 <tr class="header">
-<th>Backlog </th>
-<th>In Progress </th>
-<th>Completed </th>
-<th>PR/Relevant documentation links </th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>QA and Testing Strategies  </li>
-<li>Integrate Git Actions </li>
+<li>QA and Testing Strategies</li>
+<li>Integrate Git Actions</li>
 <li>Develop Scalable File Management Process</li>
 </ul></td>
 <td><ul>
-<li>Decide on Hosting platform </li>
-<li>Develop the Static Site </li>
+<li>Decide on Hosting platform</li>
+<li>Develop the Static Site</li>
 </ul></td>
 <td><ul>
-<li>Research into technologies </li>
-<li>Git Hub Repo Created </li>
-<li>Technologies Documentation  </li>
-<li>SRS Document (Draft) </li>
-<li>Design Research  </li>
-<li>Spike Testing Jekyll </li>
-<li>Spike Testing Gatsby  </li>
-<li>Document Migration to Git </li>
-<li>Create User Stories </li>
+<li>Research into technologies</li>
+<li>Git Hub Repo Created</li>
+<li>Technologies Documentation</li>
+<li>SRS Document (Draft)</li>
+<li>Design Research</li>
+<li>Spike Testing Jekyll</li>
+<li>Spike Testing Gatsby</li>
+<li>Document Migration to Git</li>
+<li>Create User Stories</li>
 </ul></td>
-<td><p><a href="https://github.com/thoth-tech/Internal-Systems">Internal
-Systems Repository</a></p>
-<p><a
+<td><ul><li><a href="https://github.com/thoth-tech/Internal-Systems">Internal
+Systems Repository</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/tree/main/docs/Internal%20Systems">Documentation
-Repository</a></p></td>
+Repository</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -5736,7 +5551,7 @@ GatsbyJS early on.
 - Trello:
   [https://trello.com/b/Y3chllnR/internal-systems](https://trello.com/b/Y3chllnR/internal-systems)
 
-### Government, Risk and Compliance
+### Governance, Risk and Compliance
 
 #### Overview, Goals, and Objectives
 
@@ -5754,7 +5569,7 @@ procedures.
 
 #### Deliverables
 
-**Short-term:**
+##### Short-term
 
 This trimester, the project team will be researching and producing privacy policies for Thoth Tech
 products:
@@ -5763,7 +5578,7 @@ products:
 - Document data collected from client and how it is used
 - Develop procedure to communicate data breaches and cyber attacks
 
-**Long-term:**
+##### Long-term
 
 In the long-term, this project is aiming to enhance security across the business and will expand to:
 
@@ -5797,9 +5612,9 @@ data, cookies and how to communicate with a user.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Backlog</strong></th>
-<th><strong>In Progress</strong></th>
-<th><strong>Completed</strong></th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 </tr>
 </thead>
 <tbody>
@@ -5809,7 +5624,7 @@ data, cookies and how to communicate with a user.
 <li>Analyse risks in each product</li>
 </ul></td>
 <td><ul>
-<li>External research into similar companies’ practices</li>
+<li>External research into similar companies' practices</li>
 </ul></td>
 <td><ul>
 <li>Basic research into each product</li>
