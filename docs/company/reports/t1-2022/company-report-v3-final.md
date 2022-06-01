@@ -135,13 +135,14 @@ _Managing Director_
   - [Applications – Build a Cool Game Project](#applications--build-a-cool-game-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-9)
     - [Aims for Trimester](#aims-for-trimester-10)
+    - [Deliverables](#deliverables-10)
     - [Project Members (4)](#project-members4-1)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-10)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-8)
   - [Modules Project](#modules-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-10)
     - [Aims for Trimester](#aims-for-trimester-11)
-    - [Deliverables](#deliverables-10)
+    - [Deliverables](#deliverables-11)
     - [Project Members (8)](#project-members-8)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-11)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-9)
@@ -150,7 +151,7 @@ _Managing Director_
   - [DreamBig Prototype Project](#dreambig-prototype-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-11)
     - [Aims for Trimester](#aims-for-trimester-12)
-    - [Deliverables](#deliverables-11)
+    - [Deliverables](#deliverables-12)
     - [Project Members (7)](#project-members-7-1)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-12)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-10)
@@ -159,14 +160,14 @@ _Managing Director_
   - [Internal Systems Project](#internal-systems-project)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-12)
     - [Aims for Trimester](#aims-for-trimester-13)
-    - [Deliverables](#deliverables-12)
+    - [Deliverables](#deliverables-13)
     - [Project Members (4)](#project-members4-2)
     - [Mid-Trimester Progress](#mid-trimester-progress)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-11)
   - [Government, Risk and Compliance](#government-risk-and-compliance)
     - [Overview, Goals, and Objectives](#overview-goals-and-objectives-13)
     - [Aims for Trimester](#aims-for-trimester-14)
-    - [Deliverables](#deliverables-13)
+    - [Deliverables](#deliverables-14)
     - [Project Members (4)](#project-members-4)
     - [Project Mid-Trimester Progress](#project-mid-trimester-progress-13)
     - [Project End of Trimester Progress](#project-end-of-trimester-progress-12)
@@ -203,27 +204,27 @@ effectively and value is being added to the Thoth Tech products by the
 projects they are supporting.</td>
 <td><ul>
 <li>
-<p>Provide guidance to executive leadership team</p>
+Provide guidance to executive leadership team
 </li>
 <li>
-<p>Provide high-level vision for the ongoing goals of the company</p>
+Provide high-level vision for the ongoing goals of the company
 </li>
 <li>
-<p>Provide a consistent company strategy due to low retention</p>
+Provide a consistent company strategy due to low retention
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Leadership</p>
+Leadership
 </li>
 <li>
-<p>Communication</p>
+Communication
 </li>
 <li>
-<p>Mentor</p>
+Mentor
 </li>
 <li>
-<p>Decision-making</p>
+Decision-making
 </li>
 </ul></td>
 </tr>
@@ -234,52 +235,52 @@ products and projects of their area. They also organise, lead, guide,
 and support Product and Delivery leads achieve their project goals.</td>
 <td><ul>
 <li>
-<p>Establish company structure, systems &amp; processes</p>
+Establish company structure, systems &amp; processes
 </li>
 <li>
-<p>Establish a leadership cadence</p>
+Establish a leadership cadence
 </li>
 <li>
-<p>Drive a focus on Technical Learning, Data, Documentation and Quality
-Assurance</p>
+Drive a focus on Technical Learning, Data, Documentation and Quality
+Assurance
 </li>
 <li>
-<p>Support Product leads with product vision</p>
+Support Product leads with product vision
 </li>
 <li>
-<p>Support Delivery leads with their project</p>
+Support Delivery leads with their project
 </li>
 <li>
-<p>Proactively identify blockers and opportunities</p>
+Proactively identify blockers and opportunities
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Leadership</p>
+Leadership
 </li>
 <li>
-<p>Organisation</p>
+Organisation
 </li>
 <li>
-<p>Interpersonal Savvy</p>
+Interpersonal Savvy
 </li>
 <li>
-<p>Problem-Solving</p>
+Problem-Solving
 </li>
 <li>
-<p>Collaborative</p>
+Collaborative
 </li>
 <li>
-<p>Mentor</p>
+Mentor
 </li>
 <li>
-<p>Communication</p>
+Communication
 </li>
 <li>
-<p>Presentation</p>
+Presentation
 </li>
 <li>
-<p>Stakeholder management</p>
+Stakeholder management
 </li>
 </ul></td>
 </tr>
@@ -289,43 +290,43 @@ Assurance</p>
 in projects related to their product to ensure ongoing success.</td>
 <td><ul>
 <li>
-<p>Drive the product in the direction determined by the Managing
-Directors and Area Leads.</p>
+Drive the product in the direction determined by the Managing
+Directors and Area Leads.
 </li>
 <li>
-<p>Strong drive towards toward objectives with bias for action</p>
+Strong drive towards toward objectives with bias for action
 </li>
 <li>
-<p>Proactively identify blockers and opportunities</p>
+Proactively identify blockers and opportunities
 </li>
 <li>
-<p>Support delivery leads where needed</p>
+Support delivery leads where needed
 </li>
 <li>
-<p>Make thoughtful decisions motivated by data and research</p>
+Make thoughtful decisions motivated by data and research
 </li>
 <li>
-<p>Be transparent and accountable by visualising objectives</p>
+Be transparent and accountable by visualising objectives
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Communication</p>
+Communication
 </li>
 <li>
-<p>Empathy</p>
+Empathy
 </li>
 <li>
-<p>Interpersonal Savvy</p>
+Interpersonal Savvy
 </li>
 <li>
-<p>Collaborative</p>
+Collaborative
 </li>
 <li>
-<p>Leadership</p>
+Leadership
 </li>
 <li>
-<p>Stakeholder management</p>
+Stakeholder management
 </li>
 </ul></td>
 </tr>
@@ -335,41 +336,41 @@ Directors and Area Leads.</p>
 project teams to ensure ongoing success.</td>
 <td><ul>
 <li>
-<p>Establish a team cadence</p>
+Establish a team cadence
 </li>
 <li>
-<p>Build rapport with all team members to foster a cohesive and
-collaborative environment</p>
+Build rapport with all team members to foster a cohesive and
+collaborative environment
 </li>
 <li>
-<p>Strong drive towards objectives with bias for action</p>
+Strong drive towards objectives with bias for action
 </li>
 <li>
-<p>Proactively identify blockers and opportunities</p>
+Proactively identify blockers and opportunities
 </li>
 <li>
-<p>Communication on what the team is doing, their plans and what is
-needed</p>
+Communication on what the team is doing, their plans and what is
+needed
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Communication</p>
+Communication
 </li>
 <li>
-<p>Empathy</p>
+Empathy
 </li>
 <li>
-<p>Interpersonal Savvy</p>
+Interpersonal Savvy
 </li>
 <li>
-<p>Collaborative</p>
+Collaborative
 </li>
 <li>
-<p>Leadership</p>
+Leadership
 </li>
 <li>
-<p>Stakeholder management</p>
+Stakeholder management
 </li>
 </ul></td>
 </tr>
@@ -611,43 +612,43 @@ Short-term by the mid-trimester break.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Create Offboarding process</p></li>
-<li><p>Develop talent, establish, and onboard leadership team for
-T2</p></li>
-<li><p>Develop roadmap for T2</p></li>
-<li><p>Improve diversity in leadership roles (across Senior Leadership,
-Product and Delivery leaders)</p></li>
-<li><p>Continue to drive the values and culture established in T1
-2022</p></li>
-<li><p>Iterate and improve the existing processes created in T1
-2022</p></li>
-<li><p>Ensure resources and training are provided to deliver the company
-goals and objectives</p></li>
+<li>Create Offboarding process</li>
+<li>Develop talent, establish, and onboard leadership team for
+T2</li>
+<li>Develop roadmap for T2</li>
+<li>Improve diversity in leadership roles (across Senior Leadership,
+Product and Delivery leaders)</li>
+<li>Continue to drive the values and culture established in T1
+2022</li>
+<li>Iterate and improve the existing processes created in T1
+2022</li>
+<li>Ensure resources and training are provided to deliver the company
+goals and objectives</li>
 </ul></td>
 <td><ul>
-<li><p>Build a company that lives by Company values</p></li>
-<li><p>Document all processes created in handbook</p></li>
-<li><p>Provide training and resources to support the Thoth Tech project
-teams</p></li>
-<li><p>Add value to OnTrack, DreamBig and SplashKit by supporting
-project teams to help achieve their deliverables</p></li>
-<li><p>Build relevant and crucial skills within the company</p></li>
-<li><p>Provide training and resources to support the Thoth Tech project
-teams</p></li>
+<li>Build a company that lives by Company values</li>
+<li>Document all processes created in handbook</li>
+<li>Provide training and resources to support the Thoth Tech project
+teams</li>
+<li>Add value to OnTrack, DreamBig and SplashKit by supporting
+project teams to help achieve their deliverables</li>
+<li>Build relevant and crucial skills within the company</li>
+<li>Provide training and resources to support the Thoth Tech project
+teams</li>
 </ul></td>
 <td><ul>
-<li><p>Crafted and documented company mission statement, charter, and
-values</p></li>
-<li><p>Create Company organisation structure</p></li>
-<li><p>Allocated teams and projects for OnTrack, SplashKit, DreamBig and
-Internal Products</p></li>
-<li><p>Define leadership roles and responsibilities</p></li>
-<li><p>Create branching structure and approval process.</p></li>
-<li><p>Create Quality Assurance policy and process.</p></li>
-<li><p>Testing, development processes and supportive references</p></li>
-<li><p>Create Onboarding process.</p></li>
-<li><p>Establish Thoth Tech Handbook Repo</p></li>
-<li><p>Create Data Strategy</p></li>
+<li>Crafted and documented company mission statement, charter, and
+values</li>
+<li>Create Company organisation structure</li>
+<li>Allocated teams and projects for OnTrack, SplashKit, DreamBig and
+Internal Products</li>
+<li>Define leadership roles and responsibilities</li>
+<li>Create branching structure and approval process.</li>
+<li>Create Quality Assurance policy and process.</li>
+<li>Testing, development processes and supportive references</li>
+<li>Create Onboarding process.</li>
+<li>Establish Thoth Tech Handbook Repo</li>
+<li>Create Data Strategy</li>
 </ul></td>
 </tr>
 </tbody>
@@ -748,81 +749,81 @@ company objectives can be successfully carried forward into future trimesters.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Continue to drive the values and culture established in T1
-2022</p></li>
-<li><p>Improve diversity in leadership roles (across Senior Leadership,
-Product and Delivery leaders)  </p></li>
-<li><p>Iterate and improve the existing processes created in T1
-2022 </p></li>
+<li>Continue to drive the values and culture established in T1
+2022</li>
+<li>Improve diversity in leadership roles (across Senior Leadership,
+Product and Delivery leaders)  </li>
+<li>Iterate and improve the existing processes created in T1
+2022 </li>
 </ul></td>
 <td><ul>
-<li><p>Provide training and resources to support the Thoth Tech project
-teams (<em>ongoing</em>) </p></li>
-<li><p>Add value to Ontrack, DreamBig and SplashKit by supporting
+<li>Provide training and resources to support the Thoth Tech project
+teams (<em>ongoing</em>) </li>
+<li>Add value to Ontrack, DreamBig and SplashKit by supporting
 project teams to help achieve their
-deliverables (<em>ongoing</em>) </p></li>
-<li><p>Ensure resources and training are provided to deliver the company
-goals and objectives (<em>ongoing</em>) </p></li>
+deliverables (<em>ongoing</em>) </li>
+<li>Ensure resources and training are provided to deliver the company
+goals and objectives (<em>ongoing</em>) </li>
 </ul></td>
 <td><ul>
-<li><p>Craft and document company mission statement, charter, and
-values  </p></li>
-<li><p>Define leadership roles and responsibilities</p></li>
-<li><p>Create Company organisation structure  </p></li>
-<li><p>Allocated teams and projects for OnTrack, SplashKit, DreamBig and
-Internal Products</p></li>
-<li><p>Establish Thoth Tech Handbook Repo and document all processes
-created.</p></li>
-<li><p>Create Quality Assurance policy and process. </p></li>
-<li><p>Create branching structure and approval process. </p></li>
-<li><p>Testing, development processes and supportive
-references </p></li>
-<li><p>Create Data Strategy</p></li>
-<li><p>Create Onboarding process.  </p></li>
-<li><p>Build a company that lives by Company values </p></li>
-<li><p>Leadership recommendations for T2</p></li>
-<li><p>Handover, offboarding process and Showcase completed</p></li>
+<li>Craft and document company mission statement, charter, and
+values  </li>
+<li>Define leadership roles and responsibilities</li>
+<li>Create Company organisation structure  </li>
+<li>Allocated teams and projects for OnTrack, SplashKit, DreamBig and
+Internal Products</li>
+<li>Establish Thoth Tech Handbook Repo and document all processes
+created.</li>
+<li>Create Quality Assurance policy and process. </li>
+<li>Create branching structure and approval process. </li>
+<li>Testing, development processes and supportive
+references </li>
+<li>Create Data Strategy</li>
+<li>Create Onboarding process.  </li>
+<li>Build a company that lives by Company values </li>
+<li>Leadership recommendations for T2</li>
+<li>Handover, offboarding process and Showcase completed</li>
 </ul></td>
 <td><ul>
-<li><p><a
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md">Company
 Charter</a>, <br />
 <a
-href="https://github.com/thoth-tech/handbook/blob/main/docs/company/roles.md">Roles</a></p></li>
-<li><p><a
+href="https://github.com/thoth-tech/handbook/blob/main/docs/company/roles.md">Roles</a></li>
+<li><a
 href="https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450">Company
-Structure</a> (Miro)</p></li>
-<li><p><a
-href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a> (Miro)</p></li>
-<li><p><a href="https://github.com/thoth-tech/handbook">Thoth-Tech
-Handbook</a></p></li>
-<li><p><a
+Structure</a> (Miro)</li>
+<li><a
+href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a> (Miro)</li>
+<li><a href="https://github.com/thoth-tech/handbook">Thoth-Tech
+Handbook</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/learning/training/index.md">Training
-Documentation</a> </p></li>
-<li><p><a
+Documentation</a> </li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md">Quality
 Assurance Overview</a>, <a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/git-contribution-guide.md#branching-guidelines">Branching
-Guidelines</a></p></li>
-<li><p><a
+Guidelines</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/testing-and-dev.md">Testing
-and Development</a></p></li>
-<li><p><a
+and Development</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/data/index.md">Data
-and Data Strategy</a></p></li>
-<li><p><a
+and Data Strategy</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/peopleops/onboarding/onboarding-process.md">Onboarding
-process</a></p></li>
-<li><p><a
+process</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/projects/t1-2022/thoth-tech-leadership/t2-leadership-project-recommendations.md">T2
-Leadership Recommendations</a></p></li>
-<li><p><a
+Leadership Recommendations</a></li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/peopleops/offboarding/offboarding-process.md">Offboarding
-Process</a></p></li>
-<li><p><a
-href="https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/Thoth%20Tech%20Showcase%20Video.mp4?csf=1&amp;web=1&amp;e=7ma00Z">Showcase</a></p></li>
+Process</a></li>
+<li><a
+href="https://deakin365.sharepoint.com/:v:/r/sites/ThothTech2/Shared%20Documents/General/Company%20OnTrack%20Tasks/Showcase%20Videos/Thoth%20Tech%20Showcase%20Video.mp4?csf=1&amp;web=1&amp;e=7ma00Z">Showcase</a></li>
 </ul>
-<p> </p></td>
+ </td>
 </tr>
 </tbody>
 </table>
@@ -886,13 +887,13 @@ achieved the following:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Company creation and structuring: </p>
+<td>Company creation and structuring: 
 <ul>
-<li><p>Created Company organisation structure </p></li>
-<li><p>Defined leadership roles and responsibilities​ </p></li>
-<li><p>Onboarded 100 team members​ </p></li>
-<li><p>Allocated team members to projects based on requested products
-and skills​ </p></li>
+<li>Created Company organisation structure </li>
+<li>Defined leadership roles and responsibilities​ </li>
+<li>Onboarded 100 team members​ </li>
+<li>Allocated team members to projects based on requested products
+and skills​ </li>
 </ul></td>
 <td>Liz Lynch, Talia Zidar, Katrina Steen, Tan Le </td>
 </tr>
@@ -903,75 +904,75 @@ documented. </td>
 Katrina Steen </td>
 </tr>
 <tr class="odd">
-<td><p>Quality Assurance policy and process:​ </p>
+<td>Quality Assurance policy and process:​ 
 <ul>
-<li><p>Created branching structure and approval process. ​ </p></li>
-<li><p>Created testing, development processes and supportive
-references​ </p></li>
+<li>Created branching structure and approval process. ​ </li>
+<li>Created testing, development processes and supportive
+references​ </li>
 </ul></td>
 <td>Katrina Steen </td>
 </tr>
 <tr class="even">
-<td><p>Data Strategy: </p>
+<td>Data Strategy: 
 <ul>
-<li><p>Created Data Strategy and Metrics Template​ </p></li>
-<li><p>Created Testing Strategy Template​</p></li>
+<li>Created Data Strategy and Metrics Template​ </li>
+<li>Created Testing Strategy Template​</li>
 </ul></td>
 <td>Tan Le </td>
 </tr>
 <tr class="odd">
-<td><p>Communication guidelines:</p>
+<td>Communication guidelines:
 <ul>
-<li><p>Established communication guideline for Thoth Tech</p></li>
-<li><p>Created Professional Communication Guide</p></li>
-<li><p>Created Company Writing Style Guide</p></li>
+<li>Established communication guideline for Thoth Tech</li>
+<li>Created Professional Communication Guide</li>
+<li>Created Company Writing Style Guide</li>
 </ul></td>
 <td>Talia Zidar</td>
 </tr>
 <tr class="even">
-<td><p>Training and mentoring sessions: </p>
+<td>Training and mentoring sessions: 
 <ul>
-<li><p>GitHub Workshop (Tan) </p></li>
-<li><p>QA Workshop (Katrina) </p></li>
-<li><p>Documentation Workshop​ (Talia) </p></li>
-<li><p>D/HD Student Workshop​ (Liz) </p></li>
-<li><p>Leadership Conference (Liz) </p></li>
-<li><p>Leadership Retrospective demo (Katrina) </p></li>
+<li>GitHub Workshop (Tan) </li>
+<li>QA Workshop (Katrina) </li>
+<li>Documentation Workshop​ (Talia) </li>
+<li>D/HD Student Workshop​ (Liz) </li>
+<li>Leadership Conference (Liz) </li>
+<li>Leadership Retrospective demo (Katrina) </li>
 </ul></td>
 <td>Liz Lynch, Talia Zidar, Katrina Steen, Tan Le (led as
 specified) </td>
 </tr>
 <tr class="odd">
-<td><p>​Training guide creation and feedback collection </p>
+<td>​Training guide creation and feedback collection 
 <ul>
-<li><p>Learning feedback survey​ (Tan) </p></li>
-<li><p>Markup Guide (Talia &amp; Katrina) </p></li>
-<li><p>PR template (Liz) </p></li>
-<li><p>Epic template (Liz) </p></li>
-<li><p>User Stories, SRS, testing templates (Katrina) </p></li>
-<li><p>Getting Start Guide (Liz)</p></li>
-<li><p>Mentoring Guide (Liz)</p></li>
+<li>Learning feedback survey​ (Tan) </li>
+<li>Markup Guide (Talia &amp; Katrina) </li>
+<li>PR template (Liz) </li>
+<li>Epic template (Liz) </li>
+<li>User Stories, SRS, testing templates (Katrina) </li>
+<li>Getting Start Guide (Liz)</li>
+<li>Mentoring Guide (Liz)</li>
 </ul></td>
 <td>Liz Lynch, Talia Zidar, Katrina Steen, Tan Le (as specified) </td>
 </tr>
 <tr class="even">
-<td><p>Capstone Cohort Guest Presentations and sessions arranged: </p>
+<td>Capstone Cohort Guest Presentations and sessions arranged: 
 <ul>
-<li><p>Kirsty McDonald: <em>Women in Tech</em> (Liz) </p></li>
-<li><p>Daniel Yong: <em>Industry Insight</em> (Talia &amp;
-Katrina) </p></li>
-<li><p>Leadership Conference (Liz) </p></li>
+<li>Kirsty McDonald: <em>Women in Tech</em> (Liz) </li>
+<li>Daniel Yong: <em>Industry Insight</em> (Talia &amp;
+Katrina) </li>
+<li>Leadership Conference (Liz) </li>
 </ul></td>
 <td>Liz Lynch, Talia Zidar, Katrina Steen (as specified) </td>
 </tr>
 <tr class="odd">
-<td><p>Handover and Offboarding completed: </p>
+<td>Handover and Offboarding completed: 
 <ul>
-<li><p>Showcase </p></li>
-<li><p>T2 Roadmap Planning </p></li>
-<li><p>Offboarding Process (Katrina), surveys (Liz) </p></li>
-<li><p>Handover Process </p></li>
-<li><p>T2 leadership development </p></li>
+<li>Showcase </li>
+<li>T2 Roadmap Planning </li>
+<li>Offboarding Process (Katrina), surveys (Liz) </li>
+<li>Handover Process </li>
+<li>T2 leadership development </li>
 </ul></td>
 <td>Liz Lynch, Talia Zidar, Katrina Steen, Tan Le </td>
 </tr>
@@ -1036,68 +1037,68 @@ in managing members joining the trimester late.
 <thead>
 <tr class="header">
 <th><ul>
-<li><p><a href="https://github.com/thoth-tech/handbook">Thoth-Tech
-Handbook</a>  </p>
+<li><a href="https://github.com/thoth-tech/handbook">Thoth-Tech
+Handbook</a>  
 <ul>
-<li><p><a
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md">Company
-Charter</a>  </p></li>
-<li><p><a
+Charter</a>  </li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md">Communication
-Guide</a>  </p></li>
-<li><p><a
+Guide</a>  </li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md">Quality
-Assurance Overview</a>  </p></li>
-<li><p><a
+Assurance Overview</a>  </li>
+<li><a
 href="https://github.com/thoth-tech/handbook/blob/main/docs/data/data-strategy.md">Data
-Strategy</a>  </p></li>
+Strategy</a>  </li>
 </ul></li>
-<li><p><a
+<li><a
 href="https://trello.com/b/9jms2uly/thoth-leadership">Thoth-Tech
-Leadership Trello Board</a>  </p></li>
-<li><p>All workshop recordings  </p>
+Leadership Trello Board</a>  </li>
+<li>All workshop recordings  
 <ul>
-<li><p><a
+<li><a
 href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EVQNqqrUceBGqbyJZJngL-UBcqfXQxOuuxUNB2CszP9zew?e=zpysKY">Company-wide
-meeting</a>  </p></li>
-<li><p><a
+meeting</a>  </li>
+<li><a
 href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/ESlcEp9QlkpAuzF7wWU_9OUB1XNwkaF2RFbdXZ1fiNdnXA?e=60bO3w">D/HD
-Workshop</a>  </p></li>
-<li><p><a
+Workshop</a>  </li>
+<li><a
 href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EU-YLlYtlkVErKiZnxcyU08BV9aUUGa3i1Bah6rRhnWrtg?e=pr2yIB">GitHub
-Repos Q&amp;A</a>  </p></li>
-<li><p><a
+Repos Q&amp;A</a>  </li>
+<li><a
 href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EeWt4zp0a7BLvE_I9lsPCxYBfIV_pSNRACesr1tqGQaqdg?e=7cTbM4">Quality
-Assurance Q&amp;A</a>  </p></li>
-<li><p><a
+Assurance Q&amp;A</a>  </li>
+<li><a
 href="https://deakin365.sharepoint.com/:v:/s/ThothTech2-Leadership/EQDksW01djxApiu0sYTpjcEBrd4znkVqhVXGhfgGF3Nhxw?e=TNUB8c">Documentation
-Workshop</a>  </p></li>
+Workshop</a>  </li>
 </ul></li>
 </ul></th>
 <th><ul>
-<li><p>Miro board  </p>
+<li>Miro board  
 <ul>
-<li><p><a
+<li><a
 href="https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450">Company
-Structure</a>  </p></li>
-<li><p><a
-href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a>  </p></li>
-<li><p><a
+Structure</a>  </li>
+<li><a
+href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a>  </li>
+<li><a
 href="https://miro.com/app/board/uXjVOHw0M_4=/?share_link_id=475081156944">Company
-Values</a>  </p></li>
-<li><p><a
+Values</a>  </li>
+<li><a
 href="https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516">Meeting
-Planner</a>  </p></li>
-<li><p><a
+Planner</a>  </li>
+<li><a
 href="https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802">Proposed
-Branching Structure</a>       </p></li>
-<li><p><a href="https://miro.com/app/board/uXjVO2m3z0Q=/">Proposed T2
-leadership</a> </p></li>
+Branching Structure</a></li>
+<li><a href="https://miro.com/app/board/uXjVO2m3z0Q=/">Proposed T2
+leadership</a> </li>
 </ul></li>
-<li><p><a
+<li><a
 href="https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed">PR
 list (Thoth Tech Handbook Repo)</a> (All PRs in this handbook are
-either created or reviewed by Area Leads)  </p></li>
+either created or reviewed by Area Leads)  </li>
 </ul></th>
 </tr>
 </thead>
@@ -1294,7 +1295,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 <tbody>
 <tr class="odd">
 <td>
-<p><strong>Group 1</strong></p>
+<strong>Group 1</strong>
 </td>
 <td></td>
 <td>migrate/admin-notification</td>
@@ -1303,7 +1304,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </tr>
 <tr class="even">
 <td rowspan="5">
-<p><strong>Group 2</strong></p>
+<strong>Group 2</strong>
 </td>
 <td>./src/app/visualisations/progress-burndown-chart.coffee</td>
 <td></td>
@@ -1336,7 +1337,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </tr>
 <tr class="odd">
 <td rowspan="2">
-<p><strong>Group 3</strong></p>
+<strong>Group 3</strong>
 </td>
 <td></td>
 <td>./src/app/tasks/project-tasks-list/project-tasks-list.coffee</td>
@@ -1351,7 +1352,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </tr>
 <tr class="odd">
 <td rowspan="7">
-<p><strong>Group 4</strong></p>
+<strong>Group 4</strong>
 </td>
 <td>plagiarism-report-modal.coffee</td>
 <td></td>
@@ -1395,7 +1396,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </tr>
 <tr class="even">
 <td rowspan="2">
-<p><strong>Group 5</strong></p>
+<strong>Group 5</strong>
 </td>
 <td></td>
 <td>./src/app/projects/states/dashboard/directives/task-dashboard/directives/task-outcomes-card/task-outcomes-card.coffee</td>
@@ -1410,7 +1411,7 @@ collaboratively complied update functions and section of the OnTrack front end.
 </tr>
 <tr class="even">
 <td rowspan="5">
-<p><strong>Group 6</strong></p>
+<strong>Group 6</strong>
 </td>
 <td></td>
 <td>./src/app/groups/group-member-contribution-assigner</td>
@@ -1444,7 +1445,7 @@ submission-viewer.coffee.</td>
 </tr>
 <tr class="odd">
 <td rowspan="6">
-<p><strong>Group 7</strong></p>
+<strong>Group 7</strong>
 </td>
 <td>./src/app/admin/modals/create-unit-modal/create-unit-modal.coffee</td>
 <td></td>
@@ -1479,7 +1480,7 @@ submission-viewer.coffee.</td>
 </tr>
 <tr class="odd">
 <td>
-<p><strong>Group 8</strong></p>
+<strong>Group 8</strong>
 </td>
 <td></td>
 <td>./src/app/projects/states/portfolio/directives/portfolio-welcome-step/portfolio-welcome-step.coffee</td>
@@ -1586,37 +1587,15 @@ be continuous maintenance, improvement, and testing of the solution.
 
 #### Project Members (9)
 
-**Delivery Lead:** Jordan Cameron Trainor
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Google Cloud</strong></p>
-<p><strong>Cloud/DevOps Engineer:</strong></p>
-<p>Joyce Cruz</p>
-<p><strong>Back-end Developer:</strong></p>
-<p>Sultan Hindi A Albishri</p></th>
-<th><p><strong>Pipeline</strong></p>
-<p><strong>DevOps Engineer:</strong></p>
-<p>Mathew Perkins</p>
-<p>Lachlan Cayzer</p></th>
-<th><p><strong>Enhance Authentication</strong></p>
-<p><strong>Full-stack Developer:</strong></p>
-<p>Linden Hutchinson</p>
-<p><strong>Back-end Developer:</strong></p>
-<p>Nathan Sukamto</p>
-<p>Sarah Nicole Dyson</p>
-<p>XueTing Jing</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+- **Delivery Lead:** Jordan Cameron Trainor
+- **Google Cloud:**
+  - **Cloud/DevOps Engineer:** Joyce Cruz
+  - **Back-end Developer:** Sultan Hindi A Albishri
+- **Pipeline:**
+  - **DevOps Engineer:** Mathew Perkins, Lachlan Cayzer
+- **Enhance Authentication:**
+  - **Full-stack Developer:** Linden Hutchinson
+  - **Back-end Developer:** Nathan Sukamto, Sarah Nicole Dyson, XueTing Jing
 
 #### Project Mid-Trimester Progress
 
@@ -1658,39 +1637,39 @@ now started working on preparing Docker images for deployment on google platform
 <tr class="odd">
 <td><ul>
 <li>
-<p>Docker Compose script for doubtfire-web container image</p>
+Docker Compose script for doubtfire-web container image
 </li>
 <li>
-<p>Proxy Settings requirements</p>
+Proxy Settings requirements
 </li>
 <li>
-<p>Email service for email notifications</p>
-</li>
-</ul></td>
-<td><ul>
-<li>
-<p>Docker Compose script for doubtfire-api container image</p>
-</li>
-<li>
-<p>Project Documentation</p>
-</li>
-<li>
-<p>Setup Google Cloud Account for OnTrack Project</p>
+Email service for email notifications
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Upskill tasks (Google Cloud and services, deployments, Docker
-containers)</p>
+Docker Compose script for doubtfire-api container image
 </li>
 <li>
-<p>Project plan</p>
+Project Documentation
 </li>
 <li>
-<p>Create Account/Enable Access to google cloud for the team.</p>
+Setup Google Cloud Account for OnTrack Project
+</li>
+</ul></td>
+<td><ul>
+<li>
+Upskill tasks (Google Cloud and services, deployments, Docker
+containers)
 </li>
 <li>
-<p>Completed high level diagram of Google cloud deployment</p>
+Project plan
+</li>
+<li>
+Create Account/Enable Access to google cloud for the team.
+</li>
+<li>
+Completed high level diagram of Google cloud deployment
 </li>
 </ul></td>
 </tr>
@@ -1756,24 +1735,24 @@ when any future iterations/features need to be added, it will be easy to update.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Investigate Drone CI as pipeline platform</p></li>
-<li><p>investigate GitHub actions as CI/CD pipeline platform,</p></li>
-<li><p>Learn CI/CD pipeline tool</p></li>
-<li><p>Investigate Argo CD as deployment platform</p></li>
-<li><p>investigate notifying the docker containers of a new version.
-(e.g., Webhooks, daily cron jobs.),</p></li>
-<li><p>build diagram of build pipeline</p></li>
-<li><p>Test Mock Deployment</p></li>
-<li><p>Validate Deployment Pipeline.</p></li>
+<li>Investigate Drone CI as pipeline platform</li>
+<li>investigate GitHub actions as CI/CD pipeline platform,</li>
+<li>Learn CI/CD pipeline tool</li>
+<li>Investigate Argo CD as deployment platform</li>
+<li>investigate notifying the docker containers of a new version.
+(e.g., Webhooks, daily cron jobs.),</li>
+<li>build diagram of build pipeline</li>
+<li>Test Mock Deployment</li>
+<li>Validate Deployment Pipeline.</li>
 </ul></td>
 <td><ul>
-<li><p>Learn GCP Cloud Build</p></li>
-<li><p>Learn GCP Cloud Run</p></li>
+<li>Learn GCP Cloud Build</li>
+<li>Learn GCP Cloud Run</li>
 </ul></td>
 <td><ul>
-<li><p>Research into GCP cloud build and cloud run as pipeline
-tool</p></li>
-<li><p>Tech spike for which CI/CD to use with GCP</p></li>
+<li>Research into GCP cloud build and cloud run as pipeline
+tool</li>
+<li>Tech spike for which CI/CD to use with GCP</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1837,24 +1816,24 @@ evidence the work which we will undertake in future.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Extend API for authentication user management</p></li>
-<li><p>Front-end pages for Authentication User management</p></li>
-<li><p>Develop and implement LDAP/Devise Server</p></li>
-<li><p>Test LDAP/Devise server</p></li>
-<li><p>Add LDAP/Devise server to Docker container mix</p></li>
-<li><p>Migrate relevant Coffeescript component to Typescript (consulting
-with front-end migration team)</p></li>
+<li>Extend API for authentication user management</li>
+<li>Front-end pages for Authentication User management</li>
+<li>Develop and implement LDAP/Devise Server</li>
+<li>Test LDAP/Devise server</li>
+<li>Add LDAP/Devise server to Docker container mix</li>
+<li>Migrate relevant Coffeescript component to Typescript (consulting
+with front-end migration team)</li>
 </ul></td>
 <td><ul>
-<li><p>Upskilling Docker</p></li>
-<li><p>Upskilling LDAP Servers</p></li>
-<li><p>Upskilling Ruby on Rails</p></li>
-<li><p>Upskill Devise Token Auth and Angular Token</p></li>
-<li><p>Upskilling Devise</p></li>
+<li>Upskilling Docker</li>
+<li>Upskilling LDAP Servers</li>
+<li>Upskilling Ruby on Rails</li>
+<li>Upskill Devise Token Auth and Angular Token</li>
+<li>Upskilling Devise</li>
 </ul></td>
 <td><ul>
-<li><p>Research on Devise</p></li>
-<li><p>Research on LDAP server</p></li>
+<li>Research on Devise</li>
+<li>Research on LDAP server</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1921,45 +1900,45 @@ The most important takeaways from the status report of the Google Cloud team are
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Configure email service for email notification</p></li>
-<li><p>Integrate with CI/CD pipelines to automate deployment into
-GCP </p></li>
-<li><p>Configure LDAP user authentication for OnTrack </p></li>
-<li><p>Ensure the security posture of OnTrack in GCP </p></li>
-<li><p>Obtaining a domain name for the GCP deployment</p></li>
+<li>Configure email service for email notification</li>
+<li>Integrate with CI/CD pipelines to automate deployment into
+GCP </li>
+<li>Configure LDAP user authentication for OnTrack </li>
+<li>Ensure the security posture of OnTrack in GCP </li>
+<li>Obtaining a domain name for the GCP deployment</li>
 </ul></td>
 <td> </td>
 <td><ul>
-<li><p>GCP Design &amp; Documentation</p></li>
-<li><p>Write Docker Script to prepare docker container for
-doubtfire</p></li>
-<li><p>High Level Diagram - GCP &amp; CICD </p></li>
-<li><p>Request GCP Access </p></li>
-<li><p>Configure Proxy for doubtfire-API and Doubtfire-web
-containers </p></li>
-<li><p>Generate certificate and key for https access to the application,
-and network setup to route public traffic to the host </p></li>
+<li>GCP Design &amp; Documentation</li>
+<li>Write Docker Script to prepare docker container for
+doubtfire</li>
+<li>High Level Diagram - GCP &amp; CICD </li>
+<li>Request GCP Access </li>
+<li>Configure Proxy for doubtfire-API and Doubtfire-web
+containers </li>
+<li>Generate certificate and key for https access to the application,
+and network setup to route public traffic to the host </li>
 </ul></td>
 <td><ul>
-<li><p><a
+<li><a
 href="https://miro.com/app/board/uXjVO0h8ZSE=/?share_link_id=62396987373">Miro
-board</a></p></li>
-<li><p><a
+board</a></li>
+<li><a
 href="https://github.com/thoth-tech/doubtfire-deploy-GCP/pull/5/commits">PR
-#5 Commits</a></p></li>
-<li><p>Access location: <a
-href="https://34.129.127.168/">https://34.129.127.168</a></p></li>
-<li><p>Trello board card: <a
-href="https://trello.com/c/yBlba3PQ/65-write-docker-script-to-prepare-docker-container-for-ontrack-doubtfire">https://trello.com/c/yBlba3PQ/65-write-docker-script-to-prepare-docker-container-for-ontrack-doubtfire</a></p></li>
-<li><p><a
+#5 Commits</a></li>
+<li>Access location: <a
+href="https://34.129.127.168/">https://34.129.127.168</a></li>
+<li>Trello board card: <a
+href="https://trello.com/c/yBlba3PQ/65-write-docker-script-to-prepare-docker-container-for-ontrack-doubtfire">https://trello.com/c/yBlba3PQ/65-write-docker-script-to-prepare-docker-container-for-ontrack-doubtfire</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Deployment/Google%20Cloud/Index.md">Google
-Cloud Documentation</a></p></li>
-<li><p><a
+Cloud Documentation</a></li>
+<li><a
 href="https://miro.com/app/board/uXjVO0h8ZSE=/?share_link_id=62396987373">Google
-Cloud Miro Board - Doubtfire</a></p></li>
-<li><p><a
+Cloud Miro Board - Doubtfire</a></li>
+<li><a
 href="https://miro.com/app/board/uXjVO64xoQw=/?share_link_id=57734801709">Google
-Cloud Miro Board – CI/CD</a></p></li>
+Cloud Miro Board – CI/CD</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1989,10 +1968,6 @@ achieve the Long-term.
 Key achievements: the team successfully deployed a functional instance of OnTrack running on GCP.
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Achievements</strong></th>
@@ -2001,11 +1976,11 @@ Key achievements: the team successfully deployed a functional instance of OnTrac
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Documentation</p>
+<td>Documentation
 <ul>
-<li><p>High-level architecture diagram</p></li>
-<li><p>Project requirements and plan</p></li>
-<li><p>Research</p></li>
+<li>High-level architecture diagram</li>
+<li>Project requirements and plan</li>
+<li>Research</li>
 </ul></td>
 <td>Joyce Cruz and Sultan Hindi A Albishri</td>
 </tr>
@@ -2014,12 +1989,12 @@ Key achievements: the team successfully deployed a functional instance of OnTrac
 <td>Sultan Hindi A Albishri</td>
 </tr>
 <tr class="odd">
-<td><p>Functional Google Cloud deployment:</p>
+<td>Functional Google Cloud deployment:
 <ul>
-<li><p>Team access to Deakin Google Cloud account</p></li>
-<li><p>Create initial Virtual Machine instance</p></li>
-<li><p>Configuring proxy settings</p></li>
-<li><p>Employed QA and Testing strategy</p></li>
+<li>Team access to Deakin Google Cloud account</li>
+<li>Create initial Virtual Machine instance</li>
+<li>Configuring proxy settings</li>
+<li>Employed QA and Testing strategy</li>
 </ul></td>
 <td>Joyce Cruz and Sultan Hindi A Albishri</td>
 </tr>
@@ -2041,12 +2016,6 @@ The most important takeaways from the status report of the Pipeline team were th
 ##### High-level overview 
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 25%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
@@ -2058,33 +2027,33 @@ The most important takeaways from the status report of the Pipeline team were th
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Build a pseudo code version of the pipeline</p></li>
-<li><p>Validate Deployment Pipeline </p></li>
-<li><p>Bring together completed OnTrack build pipeline implementing
-everything into a final deployment ready product</p></li>
-<li><p>Build diagram of build pipeline </p></li>
-<li><p>Create automated deployment of Ontrack using Jenkins
-pipeline </p></li>
-<li><p>Implement tests with build pipeline </p></li>
-<li><p>Look into notifying the docker containers of an updated version
-e.g., Webhooks, daily cron jobs etc </p></li>
+<li>Build a pseudo code version of the pipeline</li>
+<li>Validate Deployment Pipeline </li>
+<li>Bring together completed OnTrack build pipeline implementing
+everything into a final deployment ready product</li>
+<li>Build diagram of build pipeline </li>
+<li>Create automated deployment of Ontrack using Jenkins
+pipeline </li>
+<li>Implement tests with build pipeline </li>
+<li>Look into notifying the docker containers of an updated version
+e.g., Webhooks, daily cron jobs etc </li>
 </ul></td>
 <td><ul>
-<li><p>Test Mock Deployment</p></li>
-<li><p>Learn CI/CD pipeline tool </p></li>
-<li><p>Configure HTTPS/Load balancer for Jenkins </p></li>
+<li>Test Mock Deployment</li>
+<li>Learn CI/CD pipeline tool </li>
+<li>Configure HTTPS/Load balancer for Jenkins </li>
 </ul></td>
 <td><ul>
-<li><p>Learn GCP Cloud Run</p></li>
-<li><p>Investigate Drone CI as pipeline platform </p></li>
-<li><p>Investigate Github actions as CI/CD pipeline platorm </p></li>
-<li><p>Deploy Jenkins to GCP</p></li>
-<li><p>Investigate Argo CD as deployment platform (look into OnTrack on
-Kubernetes hosting) </p></li>
-<li><p>Deploy Jenkins on GKE </p></li>
-<li><p>Assess the best CI/CD to use with GCP</p></li>
-<li><p>Look into GCP cloud build and cloud run as pipeline
-tool </p></li>
+<li>Learn GCP Cloud Run</li>
+<li>Investigate Drone CI as pipeline platform </li>
+<li>Investigate Github actions as CI/CD pipeline platorm </li>
+<li>Deploy Jenkins to GCP</li>
+<li>Investigate Argo CD as deployment platform (look into OnTrack on
+Kubernetes hosting) </li>
+<li>Deploy Jenkins on GKE </li>
+<li>Assess the best CI/CD to use with GCP</li>
+<li>Look into GCP cloud build and cloud run as pipeline
+tool </li>
 </ul></td>
 <td> <a
 href="http://34.129.4.185:50000/login?from=%2F">http://34.129.4.185:50000/login?from=%2F</a> </td>
@@ -2127,27 +2096,27 @@ Key achievement: Successfully built Google Kubernetes Engine cluster on the Goog
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Research into Pipelines to make informed choice</p>
+<td>Research into Pipelines to make informed choice
 <ul>
-<li><p>Drone</p></li>
-<li><p>Argo</p></li>
-<li><p>Jenkins</p></li>
+<li>Drone</li>
+<li>Argo</li>
+<li>Jenkins</li>
 </ul></td>
 <td>Mathew Perkin and Lachlan Cayzer</td>
 </tr>
 <tr class="even">
-<td><p>Successfully built Google Kubernetes Engine cluster on the Google
-Cloud Platform</p>
+<td>Successfully built Google Kubernetes Engine cluster on the Google
+Cloud Platform
 <ul>
-<li><p>Used to host Jenkins</p></li>
-<li><p>Collaborated with Pipeline Build team</p></li>
+<li>Used to host Jenkins</li>
+<li>Collaborated with Pipeline Build team</li>
 </ul></td>
 <td>Mathew Perkin and Lachlan Cayzer</td>
 </tr>
 <tr class="odd">
-<td><p>Domain name</p>
+<td>Domain name
 <ul>
-<li><p>Begin process to obtain user-friendly domain name</p></li>
+<li>Begin process to obtain user-friendly domain name</li>
 </ul></td>
 <td>Mathew Perkin and Lachlan Cayzer</td>
 </tr>
@@ -2187,28 +2156,28 @@ The most important takeaways from the status report of the Enhance Authenticatio
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Frontend Pages for Authentication User Management 2.0</p></li>
-<li><p>Develop and Implement LDAP/Devise Server 4.0 </p></li>
-<li><p>Test LDAP/Devise server 4.1 </p></li>
-<li><p>Add LDAP/Devise server to Docker container mix 4.2 </p></li>
+<li>Frontend Pages for Authentication User Management 2.0</li>
+<li>Develop and Implement LDAP/Devise Server 4.0 </li>
+<li>Test LDAP/Devise server 4.1 </li>
+<li>Add LDAP/Devise server to Docker container mix 4.2 </li>
 </ul></td>
 <td><ul>
-<li><p>Extend API for Authentication User Management 1.0 </p></li>
+<li>Extend API for Authentication User Management 1.0 </li>
 </ul></td>
 <td><ul>
-<li><p>Research LDAP/Devise 3.0 </p></li>
-<li><p>Test changing user password in local DB </p></li>
-<li><p>Develop Testing Strategy 5.0</p></li>
-<li><p>Analysis of current &amp; proposed authentication systems
-5.1 </p></li>
+<li>Research LDAP/Devise 3.0 </li>
+<li>Test changing user password in local DB </li>
+<li>Develop Testing Strategy 5.0</li>
+<li>Analysis of current &amp; proposed authentication systems
+5.1 </li>
 </ul></td>
 <td><ul>
-<li><p><a
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Deployment/Enhanced%20Authentication/Research%20%26%20Findings/LDAP-and-devise-research-documentation.md">Research
-LDAP/Devise 3.0</a></p></li>
-<li><p><a
+LDAP/Devise 3.0</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Deployment/Enhanced%20Authentication/testing-strategy-enhance-authentication.md">testing
-strategy document</a></p></li>
+strategy document</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -2254,27 +2223,27 @@ created
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Added new functionality to the code</p>
+<td>Added new functionality to the code
 <ul>
-<li><p>Changing user password API *</p></li>
+<li>Changing user password API *</li>
 </ul></td>
-<td><p>Nathan Sukamto and Linden Hutchinson</p>
-<p>*Nathan Sukamto</p></td>
+<td>Nathan Sukamto and Linden Hutchinson
+*Nathan Sukamto</td>
 </tr>
 <tr class="even">
-<td><p>Documentation</p>
+<td>Documentation
 <ul>
-<li><p>Developing the team testing strategy</p></li>
-<li><p>Report comparing the current and proposed authentication systems
-for OnTrack</p></li>
-<li><p>Research on the topics of Devise and LDAP servers.</p></li>
+<li>Developing the team testing strategy</li>
+<li>Report comparing the current and proposed authentication systems
+for OnTrack</li>
+<li>Research on the topics of Devise and LDAP servers.</li>
 </ul></td>
 <td>Sarah Nicole Dyson</td>
 </tr>
 <tr class="odd">
-<td><p>In progress: LDAP docker</p>
+<td>In progress: LDAP docker
 <ul>
-<li><p>Build and test</p></li>
+<li>Build and test</li>
 </ul></td>
 <td>XueTing Jing</td>
 </tr>
@@ -2340,11 +2309,11 @@ feature and create a plan to fully deliver the Jupyter Notebook file to PDF conv
 #### Deliverables
 
 The deliverables for this project will be the introduction of PDF conversion functionality for
-‘.ipynb’ files into OnTrack, as well as documentation on the feature and a user guide on how to
+`.ipynb` files into OnTrack, as well as documentation on the feature and a user guide on how to
 utilise the feature.
 
-- Give OnTrack the ability to accept ‘.ipynb’ files directly.
-- Have fully functioning ‘.ipynb’ to PDF conversion support integrated to Ontrack.
+- Give OnTrack the ability to accept `.ipynb` files directly.
+- Have fully functioning `.ipynb` to PDF conversion support integrated to Ontrack.
 - Have a proper user guide documentation for anyone to follow and get familiar with the implemented
   feature.
 - Keep track of how often the feature is being used as well as any failed conversions in a log.
@@ -2356,17 +2325,10 @@ feature.
 
 #### Project Members (5)
 
-**Delivery Lead:** Ethan G. Keirs
-
-**DevOps & Back-end Developer:** Lachlan Foy
-
-**Back-end Developer & Technical Writer:** Jordan Litsas
-
-**Back-end Developer:**
-
-Chetan Nagar
-
-Matt Clark
+- **Delivery Lead:** Ethan G. Keirs
+- **DevOps & Back-end Developer:** Lachlan Foy
+- **Back-end Developer & Technical Writer:** Jordan Litsas
+- **Back-end Developer:** Chetan Nagar, Matt Clark
 
 #### Project Mid-Trimester Progress
 
@@ -2391,11 +2353,6 @@ Jupyter Notebook and a Word document into a pdf, documentation, and the creation
 ###### High-Level Overview
 
 <table>
-<colgroup>
-<col style="width: 35%" />
-<col style="width: 33%" />
-<col style="width: 31%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
@@ -2407,70 +2364,70 @@ Jupyter Notebook and a Word document into a pdf, documentation, and the creation
 <tr class="odd">
 <td><ul>
 <li>
-<p>Testing of Jupyter Notebook conversion</p>
+Testing of Jupyter Notebook conversion
 </li>
 <li>
-<p>Testing of Word document conversion</p>
+Testing of Word document conversion
 </li>
 <li>
-<p>Create prototype that will convert a Jupyter Notebook and a Word
+Create prototype that will convert a Jupyter Notebook and a Word
 document into a pdf. This will be done with two buttons that will
 trigger their respective functionalities, which will be implemented
-through back-end command line commands. </p>
+through back-end command line commands. 
 </li>
 <li>
-<p>Investigate further conversions from the existing libraries</p>
-</li>
-</ul></td>
-<td><ul>
-<li>
-<p>Code for converting a Jupyter Notebook file (.ipynb) into PDF
-format </p>
-</li>
-<li>
-<p>Code for converting a word document (.docx) into PDF format. This is
-being done by creating a Java CLI application to convert .docx to .pdf
-with Apache POI</p>
-</li>
-<li>
-<p>Project Documentation</p>
-</li>
-<li>
-<p>Create Docker container that can run nbconvert to pdf at command
-line</p>
-</li>
-<li>
-<p>Docker Compose for a multi-container</p>
-</li>
-<li>
-<p>Investigate front end repository to identify where changes will need
-to be made</p>
+Investigate further conversions from the existing libraries
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>Upskilling (Ruby On Rails, Docker containers, GitHub usage)</p>
+Code for converting a Jupyter Notebook file (`.ipynb`) into PDF
+format 
 </li>
 <li>
-<p>SRS (Software Requirement Specification) document</p>
+Code for converting a word document (`.docx`) into PDF format. This is
+being done by creating a Java CLI application to convert `.docx` to `.pdf`
+with Apache POI
 </li>
 <li>
-<p>User stories</p>
+Project Documentation
 </li>
 <li>
-<p>Investigate doubtfire-api repository for where code will need to be
-modified</p>
+Create Docker container that can run nbconvert to pdf at command
+line
 </li>
 <li>
-<p>Install Prerequisite Software</p>
+Docker Compose for a multi-container
 </li>
 <li>
-<p>Clone doubtfire repository</p>
+Investigate front end repository to identify where changes will need
+to be made
+</li>
+</ul></td>
+<td><ul>
+<li>
+Upskilling (Ruby On Rails, Docker containers, GitHub usage)
 </li>
 <li>
-<p>Expansion of the excel workbook to include personalised stats for all
+SRS (Software Requirement Specification) document
+</li>
+<li>
+User stories
+</li>
+<li>
+Investigate doubtfire-api repository for where code will need to be
+modified
+</li>
+<li>
+Install Prerequisite Software
+</li>
+<li>
+Clone doubtfire repository
+</li>
+<li>
+Expansion of the excel workbook to include personalised stats for all
 team members about all activities they have completed and the amount of
-time for each.</p>
+time for each.
 </li>
 </ul></td>
 </tr>
@@ -2479,11 +2436,9 @@ time for each.</p>
 
 ##### Additional information and links
 
-[Jupyter Support Trello Board](ttps://trello.com/b/3lWJEuDQ/jupyter-sypport)
-
-[Prototype Repository](https://github.com/thoth-tech/jupyter-notebook-prototype)
-
-[SRS document](https://github.com/thoth-tech/documentation/pull/22)
+- [Jupyter Support Trello Board](ttps://trello.com/b/3lWJEuDQ/jupyter-sypport)
+- [Prototype Repository](https://github.com/thoth-tech/jupyter-notebook-prototype)
+- [SRS document](https://github.com/thoth-tech/documentation/pull/22)
 
 ##### Blockers
 
@@ -2531,9 +2486,9 @@ accompanying documentation.
 </colgroup>
 <thead>
 <tr class="header">
-<th>Backlog </th>
-<th>In Progress </th>
-<th>Completed </th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
 <th>PR/Relevant documentation links </th>
 </tr>
 </thead>
@@ -2541,42 +2496,42 @@ accompanying documentation.
 <tr class="odd">
 <td></td>
 <td><ul>
-<li><p>Docker Documentation and Research document </p></li>
+<li>Docker Documentation and Research document </li>
 </ul></td>
 <td><ul>
-<li><p>SRS (Software Requirement Specification) document </p></li>
-<li><p>Jupyter Notebook Documentation Index </p></li>
-<li><p>Conversion prototype and test file </p></li>
-<li><p>Jupyter Notebook to PDF conversion</p></li>
-<li><p>Microsoft word to PDF Conversion </p></li>
-<li><p>Jupyter Notebook Team Prototype Docker Containers</p></li>
-<li><p>Docker flowchart </p></li>
+<li>SRS (Software Requirement Specification) document </li>
+<li>Jupyter Notebook Documentation Index </li>
+<li>Conversion prototype and test file </li>
+<li>Jupyter Notebook to PDF conversion</li>
+<li>Microsoft word to PDF Conversion </li>
+<li>Jupyter Notebook Team Prototype Docker Containers</li>
+<li>Docker flowchart </li>
 </ul></td>
-<td><p><a
+<td><ul><li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/Prototype%20SRS%20(Software%20Requirements%20Specification).md">Software
-Requirement Specification document link</a> </p>
-<p><a
+Requirement Specification document link</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/tree/main/docs/OnTrack/Jupyter%20Notebook/Meeting%20Minutes">All
-meeting minute documents link</a></p>
-<p><a
+meeting minute documents link</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/Index.md">Jupyter
-Notebook Documentation Index link</a> </p>
-<p><a
-href="https://github.com/thoth-tech/jupyter-notebook-prototype">https://github.com/thoth-tech/jupyter-notebook-prototype</a> </p>
-<p><a
+Notebook Documentation Index link</a> </li>
+<li><a
+href="https://github.com/thoth-tech/jupyter-notebook-prototype">https://github.com/thoth-tech/jupyter-notebook-prototype</a> </li>
+<li><a
 href="https://github.com/thoth-tech/jupyter-notebook-prototype">Jupyter
-notebook to PDF</a> </p>
-<p><a
+notebook to PDF</a> </li>
+<li><a
 href="https://github.com/thoth-tech/jupyter-notebook-prototype/tree/main/docxtopdf">.docx
-to PDF code link</a> </p>
-<p><a
-href="https://github.com/thoth-tech/jupyter-notebook-prototype/blob/main/README.md">https://github.com/thoth-tech/jupyter-notebook-prototype/blob/main/README.md</a> </p>
-<p> <a
+to PDF code link</a> </li>
+<li><a
+href="https://github.com/thoth-tech/jupyter-notebook-prototype/blob/main/README.md">https://github.com/thoth-tech/jupyter-notebook-prototype/blob/main/README.md</a> </li>
+<li> <a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/docker_flow.png">Flowchart
-link</a> </p>
-<p><a
+link</a> </li>
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Jupyter%20Notebook/Docker-Documentation-Research-T1-2022.md">Docker
-Documentation and Research document link</a> </p></td>
+Documentation and Research document link</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -2607,10 +2562,6 @@ code may also be needed. The epic may need to be rescoped in later trimesters.
 Key achievements: Working conversions to pdf, the docker environments, and the documentation.
 
 <table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Achievements</strong></th>
@@ -2619,25 +2570,25 @@ Key achievements: Working conversions to pdf, the docker environments, and the d
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Jupyter notebook to PDF conversion</p>
-<p>Microsoft word to PDF conversion</p></td>
+<td><ul><li>Jupyter notebook to PDF conversion</li>
+<li>Microsoft word to PDF conversion</li></ul></td>
 <td>Lachlan Foy, Jordan John Litsas</td>
 </tr>
 <tr class="even">
-<td>Docker environment implementation</td>
+<td><ul><li>Docker environment implementation</li></ul></td>
 <td>Chetan Nagar</td>
 </tr>
 <tr class="odd">
-<td><p>SRS document</p>
-<p>Project documentation</p></td>
+<td><ul><li>SRS document</li>
+<li>Project documentation</li></ul></td>
 <td>Matt Clark and Ethan Keirs</td>
 </tr>
 <tr class="even">
-<td>Excel Spreadsheet functions</td>
+<td><ul><li>Excel Spreadsheet functions</li></ul></td>
 <td>Ethan Keirs</td>
 </tr>
 <tr class="odd">
-<td>Technical Mentoring</td>
+<td><ul><li>Technical Mentoring</li></ul></td>
 <td>Lachlan Foy</td>
 </tr>
 </tbody>
@@ -2742,21 +2693,21 @@ system to the local OnTrack instance. This will be dependent on the deployment t
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Testing of the deployed system</p></li>
-<li><p>Deployment Documentation</p></li>
-<li><p>User Documentation</p></li>
-<li><p>Deployment to Thoth Tech OnTrack</p></li>
+<li>Testing of the deployed system</li>
+<li>Deployment Documentation</li>
+<li>User Documentation</li>
+<li>Deployment to Thoth Tech OnTrack</li>
 </ul></td>
 <td><ul>
-<li><p>Integration of the Speaker Verification to Doubtfire</p></li>
-<li><p>Student Enrolment Interface</p></li>
-<li><p>Verification of voice samples</p></li>
-<li><p>Architecture Documentation</p></li>
+<li>Integration of the Speaker Verification to Doubtfire</li>
+<li>Student Enrolment Interface</li>
+<li>Verification of voice samples</li>
+<li>Architecture Documentation</li>
 </ul></td>
 <td><ul>
-<li><p>Upskilling for Ruby on Rails</p></li>
-<li><p>Understanding of Docker Systems</p></li>
-<li><p>Testing of Python Container</p></li>
+<li>Upskilling for Ruby on Rails</li>
+<li>Understanding of Docker Systems</li>
+<li>Testing of Python Container</li>
 </ul></td>
 </tr>
 </tbody>
@@ -2821,27 +2772,27 @@ This trimester has set up the foundation for future development teams.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Deployment of Voice Verification to OnTrack</p></li>
+<li>Deployment of Voice Verification to OnTrack</li>
 </ul></td>
 <td><ul>
-<li><p>Documentation (User documentation, Deployment Documentation, and
-Architecture Documentation).  </p></li>
+<li>Documentation (User documentation, Deployment Documentation, and
+Architecture Documentation).  </li>
 </ul></td>
 <td><ul>
-<li><p>SRS Document </p></li>
+<li>SRS Document </li>
 </ul></td>
-<td><p><a
+<td><ul><li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/OnTrack/Voice%20Verification/Voice%20Verification%20SRS%20Document.md">Software
-Requirements and Specifications Document</a> </p>
-<p><a href="https://trello.com/c/dgHkV3Yb">Voice Verification Trello
-Card</a> </p>
-<p><a href="https://trello.com/c/mu9Pcl1W">User Document |
-Trello</a></p>
-<p><a href="https://trello.com/c/6b7UHajP">Deployment Documentation |
-Trello</a></p>
-<p><a
+Requirements and Specifications Document</a></li>
+<li><a href="https://trello.com/c/dgHkV3Yb">Voice Verification Trello
+Card</a></li>
+<li><a href="https://trello.com/c/mu9Pcl1W">User Document |
+Trello</a></li>
+<li><a href="https://trello.com/c/6b7UHajP">Deployment Documentation |
+Trello</a></li>
+<li><a
 href="https://github.com/thoth-tech/documentation/pull/70">Architecture
-Document | Trello</a> </p></td>
+Document | Trello</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -2956,7 +2907,7 @@ products, and to perform the same analysis and work on the SplashKit product.
 
 - **Delivery Lead:** James Micallef
 - **IT Business Analyst:** Manisha Jyoti
-- **System Documentation Specialist:**: Faqi Rehman, Kosta Constantinou, Md Fahim Mizi, Parth Aneja,
+- **System Documentation Specialist:** Faqi Rehman, Kosta Constantinou, Md Fahim Mizi, Parth Aneja,
   Shivam Singh
 
 #### Project Mid-Trimester Progress
@@ -2983,11 +2934,6 @@ Next steps are to complete the repository analysis and produce the report of rec
 ##### High-Level Overview
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
@@ -2997,33 +2943,33 @@ Next steps are to complete the repository analysis and produce the report of rec
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Future work will focus on producing a report of recommendations
+<td>Future work will focus on producing a report of recommendations
 and expectations for current project teams to implement for
 documentation of their projects. Along with this, the project team will
-produce templates for:</p>
+produce templates for:
 <ul>
-<li><p>design documentation</p></li>
-<li><p>user documentation</p></li>
-<li><p>user guides, and</p></li>
-<li><p>requirement documentation.</p></li>
+<li>design documentation</li>
+<li>user documentation</li>
+<li>user guides, and</li>
+<li>requirement documentation.</li>
 </ul>
-<p>The report and associated templates will consolidate the team’s work
+The report and associated templates will consolidate the team’s work
 this trimester and provide a solid foundation for all team to produce
-documentation in the future.</p></td>
-<td><p>All Thoth Tech repositories are currently being analysed for
+documentation in the future.</td>
+<td>All Thoth Tech repositories are currently being analysed for
 existing documentation. The various repositories have been distributed
 as Trello cards amongst the team. Together, the team is producing an
 analysis document with comments on each document. There is checklist of
 attributes to be checked and commented on for each document which
-includes:</p>
+includes:
 <ul>
-<li><p>filename</p></li>
-<li><p>completeness</p></li>
-<li><p>accuracy</p></li>
-<li><p>currency</p></li>
-<li><p>format</p></li>
-<li><p>description, and</p></li>
-<li><p>type.</p></li>
+<li>filename</li>
+<li>completeness</li>
+<li>accuracy</li>
+<li>currency</li>
+<li>format</li>
+<li>description, and</li>
+<li>type.</li>
 </ul></td>
 <td>A documentation repository has been created, and communications have
 been distributed to the project teams on its use. This provides a single
@@ -3075,48 +3021,41 @@ documentation for the future. Key takeaways from this status report include:
 ##### High-level overview 
 
 <table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 22%" />
-<col style="width: 25%" />
-<col style="width: 26%" />
-</colgroup>
 <thead>
 <tr class="header">
-<th>Backlog </th>
-<th>In Progress </th>
-<th>Completed </th>
-<th>PR/Relevant documentation links </th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Produce analysis report with solutions  </p></li>
-<li><p>Produce report of recommendations for project teams to implement
-for documentation of their projects </p></li>
+<li>Produce analysis report with solutions</li>
+<li>Produce report of recommendations for project teams to implement
+for documentation of their projects</li>
 </ul></td>
 <td><ul>
-<li><p>Analyse documentation in existing repositories  </p></li>
+<li>Analyse documentation in existing repositories</li>
 </ul></td>
 <td><ul>
-<li><p>Create documentation repository </p></li>
+<li>Create documentation repository</li>
 </ul></td>
-<td><p><a
+<td><a
 href="https://github.com/thoth-tech/documentation">thoth-tech/documentation
-repository</a></p>
-<p> </p>
-<p><a
+repository</a>
+<a
 href="https://deakin365.sharepoint.com/:w:/s/OnTrackDocumentation/EWUe6wCeexBPsX62suL1BrQBd3YfKvnnpDVgS_9y2G9Z4w?e=af7te3">Analysis
-- Each Repo.docx</a> </p>
-<p><a
+- Each Repo.docx</a> 
+<a
 href="https://trello.com/c/6HqFGuUp/30-produce-analysis-report-with-solutions">Produce
-analysis report with solutions on Documentation Trello Card</a> </p>
-<p><a
+analysis report with solutions on Documentation Trello Card</a> 
+<a
 href="https://trello.com/c/RUQRcnO4/31-produce-report-of-recommendations-for-project-teams-to-implement-for-documentation-of-their-projects">Produce
 report of recommendations for project teams to implement for
 documentation of their projects on Documentation Trello
-Card</a> </p></td>
+Card</a></td>
 </tr>
 </tbody>
 </table>
@@ -3293,16 +3232,16 @@ Arcana
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>N/A</p></li>
+<li>N/A</li>
 </ul></td>
 <td><ul>
-<li><p>Documentation of process</p></li>
+<li>Documentation of process</li>
 </ul></td>
 <td><ul>
-<li><p>Complete the translation of SwinGame code to SplashKit. (<a
+<li>Complete the translation of SwinGame code to SplashKit. (<a
 href="https://github.com/thoth-tech/programming-arcana/pull/1">PR
-#1</a>)</p></li>
-<li><p>Testing strategy and test cases</p></li>
+#1</a>)</li>
+<li>Testing strategy and test cases</li>
 </ul></td>
 </tr>
 </tbody>
@@ -3320,11 +3259,9 @@ will continue working in Operations. Refer to the product forecast.
 
 ##### Additional information and links
 
-[Migrate Arcana to SplashKit Operations Trello Board](https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations)
-
-[Programming Arcana Repository](https://github.com/thoth-tech/programming-arcana)
-
-[PDF Programming Arcana](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2-SplashKitOperationsTeam/Shared%20Documents/SplashKit%20Operations%20Team/ProgramArcana?csf=1&web=1&e=aZqTLk)
+- [Migrate Arcana to SplashKit Operations Trello Board](https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations)
+- [Programming Arcana Repository](https://github.com/thoth-tech/programming-arcana)
+- [PDF Programming Arcana](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2-SplashKitOperationsTeam/Shared%20Documents/SplashKit%20Operations%20Team/ProgramArcana?csf=1&web=1&e=aZqTLk)
 
 #### Project End of Trimester Progress – Migrate Arcana to Splashkit
 
@@ -3346,12 +3283,6 @@ Complete the translation of existing SwinGame code to Splashkit. Apply a code f
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 27%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -3363,20 +3294,20 @@ Complete the translation of existing SwinGame code to Splashkit. Apply a code f
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Merge the code to head branch</p></li>
-<li><p>Style the code </p></li>
+<li>Merge the code to head branch</li>
+<li>Style the code </li>
 </ul></td>
 <td><ul>
-<li><p>One pull request is waiting for approve</p></li>
-<li><p>Needs to apply for all files (waiting for PR to merge) </p></li>
+<li>One pull request is waiting for approve</li>
+<li>Needs to apply for all files (waiting for PR to merge) </li>
 </ul></td>
 <td><ul>
-<li><p>Find out what code snippets we need to migrate </p></li>
-<li><p>try and get a copy of pdf version of programming arcana </p></li>
-<li><p>Making sure SplashKit is installed for everybody </p></li>
-<li><p>Three pull requests have been merged into master. </p></li>
-<li><p>Code format config file created, GitHub action CI created,
-document updated. </p></li>
+<li>Find out what code snippets we need to migrate </li>
+<li>try and get a copy of pdf version of programming arcana </li>
+<li>Making sure SplashKit is installed for everybody </li>
+<li>Three pull requests have been merged into master. </li>
+<li>Code format config file created, GitHub action CI created,
+document updated. </li>
 </ul></td>
 <td><a
 href="https://github.com/splashkit/programming-arcana/tree/master/topics">programming-arcana/tree/master/topics</a>
@@ -3409,10 +3340,6 @@ At this time the project is classified as complete, so Long-term are unknown.
 ##### Key Team Achievements  
 
 <table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Achievement</th>
@@ -3422,13 +3349,13 @@ At this time the project is classified as complete, so Long-term are unknown.
 <tbody>
 <tr class="odd">
 <td>Merge code to the head branch</td>
-<td><p>Ray Guo, Lachlan Morgan, Devesh Juggiah, Ray Guo</p>
-<p>Richard Douglas-Denton (reviewer) </p></td>
+<td>Ray Guo, Lachlan Morgan, Devesh Juggiah, Ray Guo
+Richard Douglas-Denton (reviewer) </td>
 </tr>
 <tr class="even">
 <td>Implement code formatter to the project</td>
-<td><p>Ray Guo</p>
-<p>Tan Le and Talia Zidar </p></td>
+<td><ul><li>Ray Guo (author)</li>
+<li>Tan Le, Talia Zidar (reviewer)</li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -3447,11 +3374,10 @@ script to addon additional features like coloured difference.
 
 ##### Links
 
-\[1\]
-[https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations](https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations)
-
-\[2\]
-[https://github.com/thoth-tech/programming-arcana/pull/1](https://github.com/thoth-tech/programming-arcana/pull/1)
+- \[1\]
+  [https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations](https://trello.com/b/23WxTlXO/migrate-arcana-to-splashkit-operations)
+- \[2\]
+  [https://github.com/thoth-tech/programming-arcana/pull/1](https://github.com/thoth-tech/programming-arcana/pull/1)
 
 ### Operations – Distribution Channels Project
 
@@ -3506,8 +3432,9 @@ down into deliverables for the upcoming Sprint 2 and 3.
 
 #### Project Members (4)
 
-**Delivery Lead:** Aiden John Molluso **MacOS Specialist:** Richard Douglas-Denton **Software
-Developer:** Lachlan Morgan, Trent Mizzi
+- **Delivery Lead:** Aiden John Molluso
+- **MacOS Specialist:** Richard Douglas-Denton
+- **Software Developer:** Lachlan Morgan, Trent Mizzi
 
 #### Project Mid-Trimester Progress
 
@@ -3547,11 +3474,6 @@ readme documentation. However, this would not achieve the goal of a single-click
 ##### High-Level Overview
 
 <table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 46%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog</th>
@@ -3563,35 +3485,35 @@ readme documentation. However, this would not achieve the goal of a single-click
 <tr class="odd">
 <td><ul>
 <li>
-<p>The team is still researching whether to use a package manager such
+The team is still researching whether to use a package manager such
 as Chocolatey or attempt to write a single PowerShell script to deploy
-skm.</p>
+skm.
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>The Linux installation script is under development and expected to
-closely follow that of the macOS script</p>
+The Linux installation script is under development and expected to
+closely follow that of the macOS script
 </li>
 <li>
-<p>The Windows installation process is significantly more complex</p>
+The Windows installation process is significantly more complex
 </li>
 </ul></td>
 <td><ul>
 <li>
-<p>The macOS installation script has been written and merged</p>
+The macOS installation script has been written and merged
 </li>
 <li>
-<p>Completion of macOS one-command installation script, reviewed and
-merged [2]</p>
+Completion of macOS one-command installation script, reviewed and
+merged [2]
 </li>
 <li>
-<p>Completion of planning for Linux one-command installation script</p>
+Completion of planning for Linux one-command installation script
 </li>
 <li>
-<p>Completion of SplashKit-core CMake modifications to enable M1 Mac
+Completion of SplashKit-core CMake modifications to enable M1 Mac
 compilation support via x86_64 Rosetta translation [3] (pending final
-review and merge)</p>
+review and merge)
 </li>
 </ul></td>
 </tr>
@@ -3640,12 +3562,6 @@ testing difficult due to varying access to hardware.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 23%" />
-<col style="width: 25%" />
-<col style="width: 26%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -3657,48 +3573,48 @@ testing difficult due to varying access to hardware.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Make Windows install simple one-step executable to
-install </p></li>
-<li><p>Branch and merge native replicable ARM build for SplashKit-core
-for M1</p></li>
-<li><p>Merge all three OS specific installation scripts into
-`skm-install.sh`</p></li>
-<li><p>Document Linux specific installation</p></li>
-<li><p>Document changes required on splashkit.io website</p></li>
+<li>Make Windows install simple one-step executable to
+install </li>
+<li>Branch and merge native replicable ARM build for SplashKit-core
+for M1</li>
+<li>Merge all three OS specific installation scripts into
+`skm-install.sh`</li>
+<li>Document Linux specific installation</li>
+<li>Document changes required on splashkit.io website</li>
 </ul></td>
 <td><ul>
-<li><p>Submit PR for 1.2 native arm builds</p></li>
-<li><p>Document macOS specific installation</p></li>
+<li>Submit PR for 1.2 native arm builds</li>
+<li>Document macOS specific installation</li>
 </ul></td>
 <td><ul>
-<li><p>Branch and create native replicable ARM builds for SplashKit-core
-for M1 using arm64 linked external libraries </p></li>
-<li><p>Port macOS bash one-command installation script to support
-Linux </p></li>
-<li><p>Make Linux install simple one-step executable </p></li>
-<li><p>Temporary fix for forcing x86_64 on M1 for
-SplashKit-core</p></li>
-<li><p>Create a new `skm-install-mac.sh` bash script that automates the
-installation process</p></li>
-<li><p>Work out existing installation for windows</p></li>
-<li><p>Make MAC install simple one-step executable to install </p></li>
+<li>Branch and create native replicable ARM builds for SplashKit-core
+for M1 using arm64 linked external libraries </li>
+<li>Port macOS bash one-command installation script to support
+Linux </li>
+<li>Make Linux install simple one-step executable </li>
+<li>Temporary fix for forcing x86_64 on M1 for
+SplashKit-core</li>
+<li>Create a new `skm-install-mac.sh` bash script that automates the
+installation process</li>
+<li>Work out existing installation for windows</li>
+<li>Make MAC install simple one-step executable to install </li>
 </ul></td>
-<td><p><a href="https://github.com/thoth-tech/skm">thoth-tech/skm: CLI
-and GUI app for SplashKit</a></p>
+<td><a href="https://github.com/thoth-tech/skm">thoth-tech/skm: CLI
+and GUI app for SplashKit</a>
 <ul>
-<li><p><a
-href="https://github.com/thoth-tech/skm/pull/3">PR#3</a></p></li>
-<li><p><a
-href="https://github.com/thoth-tech/skm/pull/4">PR#4</a></p></li>
-<li><p><a
-href="https://github.com/thoth-tech/skm/pull/5">PR#4</a></p></li>
+<li><a
+href="https://github.com/thoth-tech/skm/pull/3">PR#3</a></li>
+<li><a
+href="https://github.com/thoth-tech/skm/pull/4">PR#4</a></li>
+<li><a
+href="https://github.com/thoth-tech/skm/pull/5">PR#4</a></li>
 </ul>
-<p><a
+<a
 href="https://github.com/thoth-tech/splashkit-core">thoth-tech/splashkit-core:
-Core code for SplashKit—beginner's all-purpose SDK</a></p>
+Core code for SplashKit—beginner's all-purpose SDK</a>
 <ul>
-<li><p><a
-href="https://github.com/thoth-tech/splashkit-core/pull/1">PR#1</a></p></li>
+<li><a
+href="https://github.com/thoth-tech/splashkit-core/pull/1">PR#1</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -3749,35 +3665,35 @@ request are required.
 <tbody>
 <tr class="odd">
 <td>Initial research documentation<em> </em></td>
-<td><p>Richard Douglas-Denton</p>
-<p>Talia Zidar (reviewer) </p></td>
+<td>Richard Douglas-Denton
+Talia Zidar (reviewer) </td>
 </tr>
 <tr class="even">
 <td>Complete macOS one-command installation solution<em> </em></td>
-<td><p>Richard Douglas-Denton<em> </em></p>
-<p>Tan Le and Lachlan Morgan <br />
-(reviewer) </p></td>
+<td>Richard Douglas-Denton<em> </em>
+Tan Le and Lachlan Morgan <br />
+(reviewer) </td>
 </tr>
 <tr class="odd">
 <td>Complete Linux one-command installation solution<em> </em></td>
-<td><p>Richard Douglas-Denton<em> </em></p>
-<p>Tan Le and Lachlan Morgan <br />
-(reviewer) </p></td>
+<td>Richard Douglas-Denton<em> </em>
+Tan Le and Lachlan Morgan <br />
+(reviewer) </td>
 </tr>
 <tr class="even">
-<td><p>Complete Apple Silicon compatibility fix for SplashKit-core</p>
+<td>Complete Apple Silicon compatibility fix for SplashKit-core
 <ul>
-<li><p>allowing newer Apple M1 devices to compile SplashKit
-core<em> </em></p></li>
+<li>allowing newer Apple M1 devices to compile SplashKit
+core<em> </em></li>
 </ul></td>
-<td><p>Richard Douglas-Denton<em> </em></p>
-<p>Tan Le and Lachlan Morgan <br />
-(reviewer) </p></td>
+<td>Richard Douglas-Denton<em> </em>
+Tan Le and Lachlan Morgan <br />
+(reviewer) </td>
 </tr>
 <tr class="odd">
 <td>Development of testing strategy documentation<em> </em></td>
-<td><p>Richard Douglas-Denton</p>
-<p>Talia Zidar (reviewer) </p></td>
+<td>Richard Douglas-Denton
+Talia Zidar (reviewer) </td>
 </tr>
 </tbody>
 </table>
@@ -3827,68 +3743,36 @@ SplashKit’s continued relevance in a changing field.
 #### Aims for Trimester 
 
 - Understand how the language translators works
-
 - Investigate changes in Python between 3.8x versions and earlier to identify which of these changes
   have caused current incompatibilities.
-
 - Get SplashKit successfully working on the latest Python version (3.10.x).
-
 - Develop a new language translation for the Translator.
-
 - Test all existing and new language translations.
-
 - Prepare team members for future semesters.
 
 #### Deliverables 
 
-Short-term:
+##### Short-term
 
 - Documentation of the installation/setup of the SplashKit translator for
   development (Windows/Linux).
-
 - Documentation of the installation/setup and operation of the SplashKit translator.
-
 - Documentation of the process to test each of the language translations.
-
 - At least 1 working language extension for SplashKit.
-
 - SplashKit translated into Python compatible with version 3.10.x and backwards compatible (if
   possible).
-
 - Project decisions documentation to provide evidence-based decision-making history for future
   teams.
 
-Long-term:
+##### Long-term
 
 - Further language extensions added for SplashKit
 
 #### Project Members (8)
 
-**Delivery Lead:** Allan Farrell
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>Software Engineer:</strong></p>
-<p>Ben Thomas</p>
-<p>Jack Sievers</p>
-<p>Sicheng Liu</p></th>
-<th><p><strong>Software Developer:</strong></p>
-<p>Norbert Pop</p>
-<p>Dylan Medlin</p>
-<p>Jingze Du</p>
-<p>Timothy Wilbert</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+- **Delivery Lead:** Allan Farrell
+- **Software Engineer:** Ben Thomas, Jack Sievers, Sicheng Liu
+- **Software Developer:** Norbert Pop, Dylan Medlin, Jingze Du, Timothy Wilbert
 
 #### Project Mid-Trimester Progress 
 
@@ -3915,11 +3799,6 @@ researching alternative libraries, and completing the Rust extension.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -3930,19 +3809,19 @@ researching alternative libraries, and completing the Rust extension.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Implement Go Language Extension</p></li>
-<li><p>Implement Ruby Language Extension</p></li>
+<li>Implement Go Language Extension</li>
+<li>Implement Ruby Language Extension</li>
 </ul></td>
 <td><ul>
-<li><p>Documentation of the C# language extension translator</p></li>
-<li><p>Python compatibility 3.8/3.1</p></li>
-<li><p>Rust language extension</p></li>
-<li><p>Research alternative libraries to replace headerdoc</p></li>
+<li>Documentation of the C# language extension translator</li>
+<li>Python compatibility 3.8/3.1</li>
+<li>Rust language extension</li>
+<li>Research alternative libraries to replace headerdoc</li>
 </ul></td>
 <td><ul>
-<li><p>Document running SplashKit translator in Ubuntu</p></li>
-<li><p>Document running SplashKit translator in Windows using
-WSL</p></li>
+<li>Document running SplashKit translator in Ubuntu</li>
+<li>Document running SplashKit translator in Windows using
+WSL</li>
 </ul></td>
 </tr>
 </tbody>
@@ -3955,9 +3834,8 @@ The headerdoc library that SplashKit translator is built is no longer supported 
 Previous version of the Docker file utilised DNF (Dandified YUM) which means it was built to work on
 Fedora Linux
 
-[SplashKit Translator Repository](https://github.com/thoth-tech/splashkit-translator)
-
-[Language Extensions Trello Board](https://trello.com/b/xIVeBYwU/language-extensions)
+- [SplashKit Translator Repository](https://github.com/thoth-tech/splashkit-translator)
+- [Language Extensions Trello Board](https://trello.com/b/xIVeBYwU/language-extensions)
 
 ##### Blockers 
 
@@ -3997,12 +3875,6 @@ findings. This has provided a significant base of knowledge to pass on to later
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 32%" />
-<col style="width: 27%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -4015,44 +3887,44 @@ findings. This has provided a significant base of knowledge to pass on to later
 <tr class="odd">
 <td> </td>
 <td><ul>
-<li><p>Complete Rust Language extension. </p></li>
-<li><p>Work on C# translation and documentation</p></li>
-<li><p>Test SplashKit Python translator with versions prior to
-3.8 </p></li>
-<li><p>Test SplashKit translator with version 3.10 </p></li>
-<li><p>Create documentation for Python changelog from 3.7 to 3.8 for
-tracking potential causes for incompatibility </p></li>
+<li>Complete Rust Language extension. </li>
+<li>Work on C# translation and documentation</li>
+<li>Test SplashKit Python translator with versions prior to
+3.8 </li>
+<li>Test SplashKit translator with version 3.10 </li>
+<li>Create documentation for Python changelog from 3.7 to 3.8 for
+tracking potential causes for incompatibility </li>
 </ul></td>
 <td><ul>
-<li><p>Investigate getting SplashKit translator working on Ubuntu
-20.04 </p></li>
-<li><p>Investigate getting SplashKit translator to work on macOS with
-Docker </p></li>
-<li><p>Document Splashkit-translator development setup and
-operation. </p></li>
-<li><p>Create docker-compose file.</p></li>
-<li><p> Submitted Software Change Request form for review by Thoth Tech
-leadership </p></li>
+<li>Investigate getting SplashKit translator working on Ubuntu
+20.04 </li>
+<li>Investigate getting SplashKit translator to work on macOS with
+Docker </li>
+<li>Document Splashkit-translator development setup and
+operation. </li>
+<li>Create docker-compose file.</li>
+<li>Submitted Software Change Request form for review by Thoth Tech
+leadership</li>
 </ul></td>
-<td><p><a
-href="https://github.com/thoth-tech/splashkit-translator/blob/master/Docker_README.md">Docker_README.md</a> </p>
-<p><a
+<td><ul><li><a
+href="https://github.com/thoth-tech/splashkit-translator/blob/master/Docker_README.md">Docker_README.md</a></li> 
+<li><a
 href="https://github.com/thoth-tech/splashkit-translator/pull/3">Splashkit
-Translator PR#3</a> </p>
-<p><a
+Translator PR#3</a></li> 
+<li><a
 href="https://github.com/thoth-tech/splashkit-translator/commit/a29c6cd50f2fab33177af489732336307e604efd">commit:
-docker compose</a> </p>
-<p><a
+docker compose</a></li> 
+<li><a
 href="https://github.com/thoth-tech/splashkit-translator/commits/feat/rust">Splashkit-translator:
-feat/rust</a> </p>
-<p><a
+feat/rust</a></li> 
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Language%20Extensions/Research%20%26%20Findings/Software%20Change%20Request.md">Extensions
-SRS</a> </p>
-<p><a
-href="https://github.com/thoth-tech/splashkit-translator/tree/csharp_documentation">csharp_documentation</a> </p>
-<p><a
+SRS</a></li> 
+<li><a
+href="https://github.com/thoth-tech/splashkit-translator/tree/csharp_documentation">csharp_documentation</a></li> 
+<li><a
 href="https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Python%20Compatibality/Research%20%26%20Findings/Python%20Changelog.md">Extensions/Python
-Compatibility Research</a> </p></td>
+Compatibility Research</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -4104,13 +3976,13 @@ be expanded. </td>
 </tr>
 <tr class="even">
 <td>Python compatibility 3.8/3.10 </td>
-<td><p>Incomplete. Progress was made on testing Python compatibility for
+<td>Incomplete. Progress was made on testing Python compatibility for
 versions prior to 3.8 but docker error occurred whenever executing a
-translated python file. </p>
-<p>Lacking understanding of the cause of incompatibility, investigation
+translated python file. 
+Lacking understanding of the cause of incompatibility, investigation
 into changes from 3.7 to 3.8 was undertaken and a short report of those
 changes compiled and submitted to provide a better starting point for
-future teams. </p></td>
+future teams. </td>
 </tr>
 <tr class="odd">
 <td>Rust language extension </td>
@@ -4133,10 +4005,6 @@ request form was completed and submitted. </td>
 ###### In Progress Tasks
 
 <table>
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 73%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Task </th>
@@ -4175,13 +4043,9 @@ href="https://trello.com/c/2d8COBUg/27-complete-rust-language-extension">https:/
 </tbody>
 </table>
 
-**Backlog Tasks **
+**Backlog Tasks**
 
 <table>
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 73%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Task </th>
@@ -4227,10 +4091,6 @@ href="https://trello.com/c/tYqxZ40k/28-create-go-language-extension">https://tre
 ##### Key Team Achievements
 
 <table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Achievement</th>
@@ -4239,11 +4099,11 @@ href="https://trello.com/c/tYqxZ40k/28-create-go-language-extension">https://tre
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>SplashKit Translator</p>
+<td>SplashKit Translator
 <ul>
-<li><p>MacOS</p></li>
-<li><p>Windows</p></li>
-<li><p>Linux</p></li>
+<li>MacOS</li>
+<li>Windows</li>
+<li>Linux</li>
 </ul></td>
 <td>Dylan Medlin, Ben Thomas, Allan Farrell, Tan Le, Jack Sievers</td>
 </tr>
@@ -4273,10 +4133,8 @@ the translator’s source code, what each of the components is for, and how they
 ##### Blockers
 
 - Understanding the SplashKit Translator repository.
-
 - Upskilling – This project requires significant upskilling, in multiple programming languages and
   the existing code repository.
-
 - Ruby knowledge is essential to this project. All team members either need pre-existing Ruby
   knowledge or will spend a significant amount of time Upskilling.
 
@@ -4286,11 +4144,8 @@ Project documentation was included in the SplashKit Translator repository, while
 was added to the Thoth-tech/documentation repository.
 
 - [https://github.com/thoth-tech/splashkit-translator/blob/master/Docker_README.md](https://github.com/thoth-tech/splashkit-translator/blob/master/Docker_README.md)
-
 - [https://github.com/thoth-tech/splashkit-translator/tree/docs/rust/docs](https://github.com/thoth-tech/splashkit-translator/tree/docs/rust/docs)
-
 - [https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Language%20Extensions/Research%20%26%20Findings/Software%20Change%20Request%20Form.md](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Language%20Extensions/Research%20%26%20Findings/Software%20Change%20Request%20Form.md)
-
 - [https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Python%20Compatibality/Research%20%26%20Findings/Python%203.8%20Changelog.md](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Extensions/Python%20Compatibality/Research%20%26%20Findings/Python%203.8%20Changelog.md)
 
 ### Applications – Arcade Machine Project
@@ -4304,29 +4159,20 @@ library of games. Our system ideally will instead have access to a growing libra
 games publicly hosted on the internet. Objectives include:
 
 - Software which supports the ability to:
-
   - Upload games to the Arcade Machine
-
   - Select and play games on the Arcade Machine
-
 - The development of:
-
   - A vetting process which validates and reviews games for explicit/unacceptable content before
     addition
-
   - A user guide walking through the process of uploading games to the system.
-
   - Documentation
 
 Additional features which may be considered later in the lifecycle of the project include the
 development and deployment of a website which:
 
 - Supports the uploading of games
-
 - Stores and displays:
-
   - reviews
-
   - high scores and achievements.
 
 #### Aims for Trimester 
@@ -4339,31 +4185,22 @@ manufactured however the software platform is the primary focus for the trimeste
 
 #### Deliverables 
 
-Short-term:
+##### Short-term
 
 - Platform which can access, download, and play SplashKit games stored in a public library on the
   internet.
-
 - Production of a physical Arcade Machine which runs on the platform to showcase SplashKit games
   created by students during university open days.
 
-Long-term:
+##### Long-term
 
 - Arcade Machine and platform completed automated for uploading new games and self-maintaining.
 
 #### Project Members (5)
 
-**Delivery Lead:** Nick Agiazis
-
-**Software Developer:**
-
-Nguyen Quoc Huy Pham
-
-Riley Nicholas Dellios
-
-Anthony George
-
-Sarah Gosling
+- **Delivery Lead:** Nick Agiazis
+- **Software Developer:** Nguyen Quoc Huy Pham, Riley Nicholas Dellios, Anthony George, Sarah
+  Gosling
 
 #### Project Mid-Trimester Progress 
 
@@ -4377,14 +4214,9 @@ currently on track to have deliverables completed by the end of the Trimester.
 The Arcade team has a working prototype for the software. The current work is focused on refining
 the software and documentation for delivery for the end of the trimester.
 
-##### High-level overview Arcade Machine\*\* \*\* 
+##### High-level overview Arcade Machine
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -4395,33 +4227,33 @@ the software and documentation for delivery for the end of the trimester.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Implement dynamic loading screen to visualise GitHub resources
-being pulled</p></li>
-<li><p>User testing</p></li>
-<li><p>User acceptance</p></li>
-<li><p>Request for student games to be included</p></li>
-<li><p>“Created by” intro animation</p></li>
+<li>Implement dynamic loading screen to visualise GitHub resources
+being pulled</li>
+<li>User testing</li>
+<li>User acceptance</li>
+<li>Request for student games to be included</li>
+<li>“Created by” intro animation</li>
 </ul></td>
 <td><ul>
-<li><p>Creating the arcade machine class which is the parent class to
-all other parts of the software.</p></li>
-<li><p>Creating a new linked list data structure for games menu</p></li>
-<li><p>Animation carousel for game selection</p></li>
-<li><p>Refining options menu class</p></li>
+<li>Creating the arcade machine class which is the parent class to
+all other parts of the software.</li>
+<li>Creating a new linked list data structure for games menu</li>
+<li>Animation carousel for game selection</li>
+<li>Refining options menu class</li>
 </ul></td>
 <td><ul>
-<li><p>An introductory Splash Screen and loading screen, accompanied
-with graphics and sound </p></li>
-<li><p>Configuration data text file template and interpreter </p></li>
-<li><p>Grid class for development of structured user-interfaces using a
-grid style layout. </p></li>
-<li><p>Options menu allowing the user to select audio level and change
-music tracks </p></li>
-<li><p>Main menu screen</p></li>
-<li><p>Games menu screen to displaying the available games</p></li>
-<li><p>The games can be played once launched </p></li>
-<li><p>An event handler/selector/cursor class for user input </p></li>
-<li><p>Options class</p></li>
+<li>An introductory Splash Screen and loading screen, accompanied
+with graphics and sound </li>
+<li>Configuration data text file template and interpreter </li>
+<li>Grid class for development of structured user-interfaces using a
+grid style layout. </li>
+<li>Options menu allowing the user to select audio level and change
+music tracks </li>
+<li>Main menu screen</li>
+<li>Games menu screen to displaying the available games</li>
+<li>The games can be played once launched </li>
+<li>An event handler/selector/cursor class for user input </li>
+<li>Options class</li>
 </ul></td>
 </tr>
 </tbody>
@@ -4429,11 +4261,9 @@ music tracks </p></li>
 
 ##### Additional information and links 
 
-[Arcade Team Trello Board](https://trello.com/b/cnMs1BW6/arcade-team)
-
-[SRS Document](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Applications/Systems-Req.md)
-
-[Arcade Machine Repository](https://github.com/thoth-tech/arcade-machine)
+- [Arcade Team Trello Board](https://trello.com/b/cnMs1BW6/arcade-team)
+- [SRS Document](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Applications/Systems-Req.md)
+- [Arcade Machine Repository](https://github.com/thoth-tech/arcade-machine)
 
 ##### Blockers 
 
@@ -4497,36 +4327,36 @@ it is a complex project.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Animate SplashKit cursor</p></li>
-<li><p>Make Menu class Abstract</p></li>
-<li><p> Animate games menu background to move with selector</p></li>
-<li><p>Analytics</p></li>
-<li><p>.gitignore for the guide folder </p></li>
+<li>Animate SplashKit cursor</li>
+<li>Make Menu class Abstract</li>
+<li> Animate games menu background to move with selector</li>
+<li>Analytics</li>
+<li>.gitignore for the guide folder </li>
 </ul></td>
 <td><ul>
-<li><p>Control description on main menu</p></li>
-<li><p>Slide animation for game menu</p></li>
-<li><p>Requirements and Design documents. "What" we are building and
-"How" it will be built</p></li>
-<li><p>GUI Design document </p></li>
-<li><p>Basic User Guide for developers </p></li>
+<li>Control description on main menu</li>
+<li>Slide animation for game menu</li>
+<li>Requirements and Design documents. "What" we are building and
+"How" it will be built</li>
+<li>GUI Design document </li>
+<li>Basic User Guide for developers </li>
 </ul></td>
 <td><ul>
-<li><p>Create GridLayout Class</p></li>
-<li><p>Create Arcade Machine class </p></li>
-<li><p>Create GameButton Class </p></li>
-<li><p>Intro Animation "Created by: Arcade Machine Team"</p></li>
-<li><p>Linking cells </p></li>
+<li>Create GridLayout Class</li>
+<li>Create Arcade Machine class </li>
+<li>Create GameButton Class </li>
+<li>Intro Animation "Created by: Arcade Machine Team"</li>
+<li>Linking cells </li>
 </ul></td>
 <td><ul>
-<li><p><a
+<li><a
 href="https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/%20Applications%20">Documentation
-Applications</a></p></li>
-<li><p><a
+Applications</a></li>
+<li><a
 href="https://github.com/thoth-tech/arcade-machine%20%20">arcade-machine
-Repo</a></p></li>
-<li><p><a href="https://github.com/thoth-tech/arcade-games">arcade-games
-Repo</a></p></li>
+Repo</a></li>
+<li><a href="https://github.com/thoth-tech/arcade-games">arcade-games
+Repo</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -4551,9 +4381,7 @@ uploaded to the server to be played on the machine.
 ###### Long-term
 
 - Porting of the codebase from a Windows environment to a Linux environment
-
 - Sourcing of materials and design of physical machine
-
 - Arcade Machine and platform completed automated for uploading new games and self-maintaining.
 
 ##### Key Team Achievements 
@@ -4591,11 +4419,9 @@ stage.
 
 ##### Links
 
-[Documentation Applications Repo](https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/%20Applications)
-
-[arcade-machine Repo](https://github.com/thoth-tech/arcade-machine%20%20)
-
-[arcade-games Repo](https://github.com/thoth-tech/arcade-games)
+- [Documentation Applications Repo](https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/%20Applications)
+- [arcade-machine Repo](https://github.com/thoth-tech/arcade-machine%20%20)
+- [arcade-games Repo](https://github.com/thoth-tech/arcade-games)
 
 ### Applications – Build a Cool Game Project
 
@@ -4614,34 +4440,24 @@ The aim for this trimester is to work on game creation using SplashKit. This mus
 the functions that SplashKit has to make the games. This will showcase the creation tools that game
 developers can use to create a game from scratch so that it can be played on the arcade machine.
 
-_Deliverables_ Short-term:
+#### Deliverables
+
+##### Short-term
 
 - Cool 2D games demonstrating all functionality of SplashKit. (Minimum 1 per team member)
-
 - A step-by-step article guide of How to create the Cool games produced (Document design decisions,
   process and how-to-guides)
-
 - Guide uploaded to the SplashKit.io website.
 
-Long-term:
+##### Long-term
 
 - Documentation updates on how to create cool games of different types
-
   - create templates for platformers and collection games.
 
 #### Project Members (4)
 
-**Delivery Lead:** Nick Agiazis
-
-**Game Developer:**
-
-Morgaine Barter
-
-Lily Lan
-
-Bella Chhour
-
-Lachlan Morgan
+- **Delivery Lead:** Nick Agiazis
+- **Game Developer:** Morgaine Barter, Lily Lan, Bella Chhour, Lachlan Morgan
 
 #### Project Mid-Trimester Progress 
 
@@ -4661,11 +4477,6 @@ completing parts of their project at great speed.
 ###### Tanks Game
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -4676,23 +4487,23 @@ completing parts of their project at great speed.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Level Editor</p></li>
-<li><p>Custom Tank Sprites</p></li>
-<li><p>Aim module (bug fixes)</p></li>
+<li>Level Editor</li>
+<li>Custom Tank Sprites</li>
+<li>Aim module (bug fixes)</li>
 </ul>
 <ul>
-<li><p>Sounds Importing</p></li>
-<li><p>User Article Series</p></li>
+<li>Sounds Importing</li>
+<li>User Article Series</li>
 </ul></td>
 <td><ul>
-<li><p>Progressing on level editor: bug fixing and issue
-resolutions. </p></li>
-<li><p>A.I Fixes</p></li>
+<li>Progressing on level editor: bug fixing and issue
+resolutions. </li>
+<li>A.I Fixes</li>
 </ul></td>
 <td><ul>
-<li><p>Created the Brain of the A.I.</p></li>
-<li><p>Created Terrain Generation for the levels. </p></li>
-<li><p>Basic design of the game is created and playable.</p></li>
+<li>Created the Brain of the A.I.</li>
+<li>Created Terrain Generation for the levels. </li>
+<li>Basic design of the game is created and playable.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -4701,11 +4512,6 @@ resolutions. </p></li>
 ###### Jump Game
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -4716,19 +4522,19 @@ resolutions. </p></li>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Player Input testing</p></li>
-<li><p>Collisions</p></li>
-<li><p>Options classes</p></li>
-<li><p>User Article Series</p></li>
+<li>Player Input testing</li>
+<li>Collisions</li>
+<li>Options classes</li>
+<li>User Article Series</li>
 </ul></td>
 <td><ul>
-<li><p>Level Testing</p></li>
-<li><p>Player Input</p></li>
+<li>Level Testing</li>
+<li>Player Input</li>
 </ul></td>
 <td><ul>
-<li><p>Background created </p></li>
-<li><p>Player model appears on the screen  </p></li>
-<li><p>Asset Creation completed </p></li>
+<li>Background created </li>
+<li>Player model appears on the screen  </li>
+<li>Asset Creation completed </li>
 </ul></td>
 </tr>
 </tbody>
@@ -4737,11 +4543,6 @@ resolutions. </p></li>
 ###### Dicey Combat
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -4752,17 +4553,17 @@ resolutions. </p></li>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Creating Background</p></li>
-<li><p>Player controls</p></li>
-<li><p>Player Collisions</p></li>
-<li><p>Dice rolls function</p></li>
-<li><p>User Article Series</p></li>
+<li>Creating Background</li>
+<li>Player controls</li>
+<li>Player Collisions</li>
+<li>Dice rolls function</li>
+<li>User Article Series</li>
 </ul></td>
 <td><ul>
-<li><p>Assets are being created  </p></li>
+<li>Assets are being created  </li>
 </ul></td>
 <td><ul>
-<li><p>Main structure planning completed for the game </p></li>
+<li>Main structure planning completed for the game </li>
 </ul></td>
 </tr>
 </tbody>
@@ -4808,11 +4609,9 @@ programming the games.
 - The **Game** Jump: at least one level completed. This includes player input, sounds, animations
   and speed, gravity, and velocity for movement. While progress to date has been slow, progress is
   optimistic.
-
 - The Game **Dicey Combat:** will be able to move both players across the board with the right
   direction movement. As well as having the score board synchronized with the players’ winning or
   losing points.
-
 - For Game **Tanks:** be finished at the end of this trimester and will be improved upon after the
   main game is finished.
 
@@ -4835,45 +4634,39 @@ looking forward to addressing this most next semester.
 ##### High-level overview 
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 27%" />
-</colgroup>
 <thead>
 <tr class="header">
-<th>Backlog </th>
-<th>In Progress </th>
-<th>Completed </th>
-<th>PR/Relevant documentation links </th>
+<th>Backlog</th>
+<th>In Progress</th>
+<th>Completed</th>
+<th>PR/Relevant documentation links</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Documentation of Dicey Combat</p></li>
-<li><p>Pseudocode for Dicey Combat </p></li>
-<li><p>Dicey Combat - Creating dice roll </p></li>
+<li>Documentation of Dicey Combat</li>
+<li>Pseudocode for Dicey Combat</li>
+<li>Dicey Combat - Creating dice roll</li>
+</ul></td>
+<td><ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+<li>Individual Research on Sound Effects</li>
+<li>Documentation on future game</li>
+<li>Game Creation - Jump Handle Player input</li>
 </ul></td>
 <td><ul>
-<li><p>Individual Research on Sound Effects </p></li>
-<li><p>Documentation on future game </p></li>
-<li><p>Game Creation - Jump Handle Player input </p></li>
+<li>Create demonstration of Jump Game design e.g.,
+PowerPoint</li>
+<li>Create prototype presentation of the game</li>
+<li>Testing for the game</li>
 </ul></td>
-<td><ul>
-<li><p>Create demonstration of Jump Game design e.g.,
-PowerPoint </p></li>
-<li><p>Create prototype presentation of the game </p></li>
-<li><p>Testing for the game </p></li>
-</ul></td>
-<td><p><a
+<td><ul><li><a
 href="https://github.com/thoth-tech/documentation/tree/main/docs/Splashkit/Applications">Applications
-Documentation</a></p>
-<p><a href="https://github.com/thoth-tech/Jump"><em>Jump Game
-Repo</em></a> </p>
-<p><a href="https://github.com/thoth-tech/Tanks"><em>Tanks Game
-Repo</em></a></p></td>
+Documentation</a></li>
+<li><a href="https://github.com/thoth-tech/Jump">Jump Game
+Repo</a></li> 
+<li><a href="https://github.com/thoth-tech/Tanks">Tanks Game
+Repo</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -5030,11 +4823,6 @@ standards of both code and documentation.
 **Physics**
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5045,17 +4833,17 @@ standards of both code and documentation.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Expand Physics module functionality</p></li>
+<li>Expand Physics module functionality</li>
 </ul></td>
 <td><ul>
-<li><p>Designing and establishing a testing strategy for T3
-code</p></li>
-<li><p>Initiating testing environment for SplashKit</p></li>
-<li><p>Creating API Documentation</p></li>
+<li>Designing and establishing a testing strategy for T3
+code</li>
+<li>Initiating testing environment for SplashKit</li>
+<li>Creating API Documentation</li>
 </ul></td>
 <td><ul>
-<li><p>Reviewing T3 code</p></li>
-<li><p>Software Requirements Specification Document</p></li>
+<li>Reviewing T3 code</li>
+<li>Software Requirements Specification Document</li>
 </ul></td>
 </tr>
 </tbody>
@@ -5064,11 +4852,6 @@ code</p></li>
 **Data Analytics**
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -5079,17 +4862,17 @@ code</p></li>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Develop data visualisation </p></li>
+<li>Develop data visualisation </li>
 </ul></td>
 <td><ul>
-<li><p>Designing and establishing a testing strategy for T3
-code </p></li>
-<li><p>Initiating testing environment for SplashKit </p></li>
-<li><p>Creating API Documentation </p></li>
+<li>Designing and establishing a testing strategy for T3
+code </li>
+<li>Initiating testing environment for SplashKit </li>
+<li>Creating API Documentation </li>
 </ul></td>
 <td><ul>
-<li><p>Reviewing T3 code </p></li>
-<li><p>Software Requirements Specification Document  </p></li>
+<li>Reviewing T3 code </li>
+<li>Software Requirements Specification Document  </li>
 </ul></td>
 </tr>
 </tbody>
@@ -5098,11 +4881,6 @@ code </p></li>
 **Machine Learning**
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5113,20 +4891,20 @@ code </p></li>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>User Article Series</p></li>
-<li><p>Develop a Reinforcement Learning (RL) Agent</p></li>
+<li>User Article Series</li>
+<li>Develop a Reinforcement Learning (RL) Agent</li>
 </ul></td>
 <td><ul>
-<li><p>Creating Generalisable API Documentation</p></li>
-<li><p>Populating T2 Backlog</p></li>
+<li>Creating Generalisable API Documentation</li>
+<li>Populating T2 Backlog</li>
 </ul></td>
 <td><ul>
-<li><p>Frameworks have been implemented for users to submit actions to
-an AI </p></li>
-<li><p>Random agents and Q-Tables have been created for initial AI
-testing </p></li>
-<li><p>Creating demo Q-Table and user interaction frameworks </p></li>
-<li><p>Testing implementation on Tic-Tac-Toe games </p></li>
+<li>Frameworks have been implemented for users to submit actions to
+an AI </li>
+<li>Random agents and Q-Tables have been created for initial AI
+testing </li>
+<li>Creating demo Q-Table and user interaction frameworks </li>
+<li>Testing implementation on Tic-Tac-Toe games </li>
 </ul></td>
 </tr>
 </tbody>
@@ -5178,12 +4956,6 @@ performance, and adding neural networks.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 19%" />
-<col style="width: 25%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5195,22 +4967,22 @@ performance, and adding neural networks.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Testing on more games</p></li>
-<li><p>Load and save rewards</p></li>
-<li><p>Training progress bars</p></li>
-<li><p>Neural networks</p></li>
+<li>Testing on more games</li>
+<li>Load and save rewards</li>
+<li>Training progress bars</li>
+<li>Neural networks</li>
 </ul></td>
 <td></td>
 <td><ul>
-<li><p>Algorithm research</p></li>
-<li><p>Q-Learning design</p></li>
-<li><p>Q-Learning implementation</p></li>
-<li><p>Code documentation</p></li>
+<li>Algorithm research</li>
+<li>Q-Learning design</li>
+<li>Q-Learning implementation</li>
+<li>Code documentation</li>
 </ul></td>
-<td><p><a
-href="https://github.com/thoth-tech/splashkit-core/tree/feature/ml_game_ai">feature/ml_game_ai</a></p>
-<p><a
-href="https://github.com/thoth-tech/documentation/pull/59">PR#59</a></p></td>
+<td><ul><li><a
+href="https://github.com/thoth-tech/splashkit-core/tree/feature/ml_game_ai">feature/ml_game_ai</a></li>
+<li><a
+href="https://github.com/thoth-tech/documentation/pull/59">PR#59</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -5274,12 +5046,6 @@ and plotting functionality required in the longer term.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 20%" />
-<col style="width: 22%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5291,19 +5057,19 @@ and plotting functionality required in the longer term.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Instance selection</p></li>
-<li><p>Standardisation</p></li>
-<li><p>Data transformation</p></li>
-<li><p>Feature selection</p></li>
+<li>Instance selection</li>
+<li>Standardisation</li>
+<li>Data transformation</li>
+<li>Feature selection</li>
 </ul></td>
 <td><ul>
-<li><p>Redesign of Data Frames</p></li>
-<li><p>Test case design</p></li>
-<li><p>T3 code QA</p></li>
+<li>Redesign of Data Frames</li>
+<li>Test case design</li>
+<li>T3 code QA</li>
 </ul></td>
 <td><ul>
-<li><p>T3 code review</p></li>
-<li><p>Code compilation</p></li>
+<li>T3 code review</li>
+<li>Code compilation</li>
 </ul></td>
 <td><a
 href="https://github.com/timmydzeko/documentation/tree/main/docs/Splashkit/Modules/Data%20Analytics">Documentation
@@ -5360,12 +5126,6 @@ has begun, but a significant dependency on Box2D will require many methods needi
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 19%" />
-<col style="width: 25%" />
-<col style="width: 32%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5377,17 +5137,17 @@ has begun, but a significant dependency on Box2D will require many methods needi
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Sprite collisions</p></li>
-<li><p>Object collisions</p></li>
-<li><p>Gravity</p></li>
+<li>Sprite collisions</li>
+<li>Object collisions</li>
+<li>Gravity</li>
 </ul></td>
 <td><ul>
-<li><p>T3 code review</p></li>
+<li>T3 code review</li>
 </ul></td>
 <td><ul>
-<li><p>Test case design</p></li>
-<li><p>Code compilation</p></li>
-<li><p>T3 API design</p></li>
+<li>Test case design</li>
+<li>Code compilation</li>
+<li>T3 API design</li>
 </ul></td>
 <td><a
 href="https://github.com/thoth-tech/splashkit-core/compare/develop...someguy8:develop">Comparison
@@ -5485,13 +5245,13 @@ will form the minimum viable product (MVP). As part of this work, the following 
 
 #### Deliverables
 
-Short-term:
+##### Short-term
 
 - Documentation of the initial phase of user research
 - Design planning and documentation (personas, UX/UI approaches and user flows)
 - Research and proposal of the system architecture
 
-Long-term:
+##### Long-term
 
 - Implementation of prioritised features
 - Integrate Continuous Integration and deployment
@@ -5522,11 +5282,6 @@ completed by sprint two.
 ##### High Level Overview
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5537,18 +5292,18 @@ completed by sprint two.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>User Evaluation</p></li>
-<li><p>Tech Model</p></li>
+<li>User Evaluation</li>
+<li>Tech Model</li>
 </ul></td>
 <td><ul>
-<li><p>Team divided into Tech and UI.</p></li>
-<li><p>2 Wireframes to be finalised by Leads and Stakeholders</p></li>
+<li>Team divided into Tech and UI.</li>
+<li>2 Wireframes to be finalised by Leads and Stakeholders</li>
 </ul></td>
 <td><ul>
-<li><p>Reworked user stories and features with the team according to the
-functionality requirement given by the board.</p></li>
-<li><p>The team has performed individual research in their selected
-areas for the prototype (e.g., front-end, security, etc.).</p></li>
+<li>Reworked user stories and features with the team according to the
+functionality requirement given by the board.</li>
+<li>The team has performed individual research in their selected
+areas for the prototype (e.g., front-end, security, etc.).</li>
 </ul></td>
 </tr>
 </tbody>
@@ -5595,12 +5350,6 @@ extend due to changing tutor requirements.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 24%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -5612,33 +5361,33 @@ extend due to changing tutor requirements.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Coding tech model</p></li>
-<li><p>UI prototype user evaluation </p></li>
-<li><p>UI design prototype demo to board </p></li>
-<li><p>Next phase documentation </p></li>
+<li>Coding tech model</li>
+<li>UI prototype user evaluation </li>
+<li>UI design prototype demo to board </li>
+<li>Next phase documentation </li>
 </ul></td>
 <td><ul>
-<li><p>Final clean up on reflections wireframes </p></li>
-<li><p>Project documentations </p></li>
-<li><p>UI prototyping </p></li>
-<li><p>UML diagrams creation/documentation </p></li>
+<li>Final clean up on reflections wireframes </li>
+<li>Project documentations </li>
+<li>UI prototyping </li>
+<li>UML diagrams creation/documentation </li>
 </ul></td>
 <td><ul>
-<li><p>User stories </p></li>
-<li><p>Features list </p></li>
-<li><p>Wireframes for login, first home page, edit profile and add
-activities page. </p></li>
-<li><p>Individual research </p></li>
+<li>User stories </li>
+<li>Features list </li>
+<li>Wireframes for login, first home page, edit profile and add
+activities page. </li>
+<li>Individual research </li>
 </ul></td>
-<td><p><a
-href="https://www.figma.com/file/ccUGpRo28eDydJeHGmf6aA/prototype?node-id=161%3A88">Figma</a></p>
-<p><a
+<td><ul><li
+href="https://www.figma.com/file/ccUGpRo28eDydJeHGmf6aA/prototype?node-id=161%3A88">Figma</a></li>
+<li
 href="https://github.com/thoth-tech/documentation/pull/58">Documentations
-PR</a></p>
-<p><a
-href="https://trello.com/b/5hGRqxJO/dreambig-prototype">Trello</a></p>
-<p><a
-href="https://github.com/thoth-tech/documentation/pull/64">PR#64</a>  </p></td>
+PR</a></li>
+<li
+href="https://trello.com/b/5hGRqxJO/dreambig-prototype">Trello</a></li>
+<li
+href="https://github.com/thoth-tech/documentation/pull/64">PR#64</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -5672,10 +5421,6 @@ forward to onboarding 4 more team members.
 ##### Key Team Achievements 
 
 <table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 51%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Achievement</th>
@@ -5685,30 +5430,30 @@ forward to onboarding 4 more team members.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>UML diagram development</p></li>
-<li><p>Support on first wireframe.</p></li>
-<li><p>Converting documents from Teams to GitHub</p></li>
+<li>UML diagram development</li>
+<li>Support on first wireframe.</li>
+<li>Converting documents from Teams to GitHub</li>
 </ul></td>
 <td>Zac Brydon, Munatsi Matipana, and George Gkoumas.</td>
 </tr>
 <tr class="even">
 <td><ul>
-<li><p>Detailed wireframe creation</p></li>
+<li>Detailed wireframe creation</li>
 </ul></td>
 <td>Guanyu Chen, Harry Lui, and Harrison Paul Allwood</td>
 </tr>
 <tr class="odd">
 <td><ul>
-<li><p>UI design prototype</p></li>
+<li>UI design prototype</li>
 </ul></td>
 <td>Guanyu Chen, Harry Lui, Harrison Paul Allwood, and Neha Makineni
 (lead)</td>
 </tr>
 <tr class="even">
 <td><ul>
-<li><p>Document maintenance</p></li>
-<li><p>Reworking of wireframes</p></li>
-<li><p>Trello board management</p></li>
+<li>Document maintenance</li>
+<li>Reworking of wireframes</li>
+<li>Trello board management</li>
 </ul></td>
 <td>Neha Makineni</td>
 </tr>
@@ -5728,10 +5473,9 @@ No new blockers have been identified.
 
 ##### Links
 
-Git documentation: <https://github.com/thoth-tech/documentation/tree/main/docs/DreamBig>
-
-ERD:
-<https://lucid.app/lucidchart/515a1c6d-0ce2-47b6-88f7-fd04ec3957b1/edit?page=0_0&invitationId=inv_b3dfcee3-3b63-43e6-9fca-40d150f868f0>
+- Git documentation: <https://github.com/thoth-tech/documentation/tree/main/docs/DreamBig>
+- ERD:
+  <https://lucid.app/lucidchart/515a1c6d-0ce2-47b6-88f7-fd04ec3957b1/edit?page=0_0&invitationId=inv_b3dfcee3-3b63-43e6-9fca-40d150f868f0>
 
 ## Internal Systems
 
@@ -5816,11 +5560,6 @@ development and working through additional tools to supplement Jekyll or Gatsby.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -5831,23 +5570,23 @@ development and working through additional tools to supplement Jekyll or Gatsby.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Setup hosting service</p></li>
-<li><p>Create User Stories</p></li>
-<li><p>Document Testing Strategies</p></li>
-<li><p>Integrate Git Actions</p></li>
+<li>Setup hosting service</li>
+<li>Create User Stories</li>
+<li>Document Testing Strategies</li>
+<li>Integrate Git Actions</li>
 </ul></td>
 <td><ul>
-<li><p>Software Requirements Specification Document</p></li>
-<li><p>Design research</p></li>
-<li><p>Design Mock-ups</p></li>
-<li><p>Spike Testing Jekyll</p></li>
-<li><p>Spike testing Gatsby</p></li>
-<li><p>Document migration to Git</p></li>
+<li>Software Requirements Specification Document</li>
+<li>Design research</li>
+<li>Design Mock-ups</li>
+<li>Spike Testing Jekyll</li>
+<li>Spike testing Gatsby</li>
+<li>Document migration to Git</li>
 </ul></td>
 <td><ul>
-<li><p>Research into technologies</p></li>
-<li><p>Git Hub Repo created</p></li>
-<li><p>Technologies Documentation</p></li>
+<li>Research into technologies</li>
+<li>Git Hub Repo created</li>
+<li>Technologies Documentation</li>
 </ul></td>
 </tr>
 </tbody>
@@ -5892,12 +5631,6 @@ development next trimester.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 23%" />
-<col style="width: 28%" />
-<col style="width: 23%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -5909,24 +5642,24 @@ development next trimester.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>QA and Testing Strategies  </p></li>
-<li><p>Integrate Git Actions </p></li>
-<li><p>Develop Scalable File Management Process</p></li>
+<li>QA and Testing Strategies  </li>
+<li>Integrate Git Actions </li>
+<li>Develop Scalable File Management Process</li>
 </ul></td>
 <td><ul>
-<li><p>Decide on Hosting platform </p></li>
-<li><p>Develop the Static Site </p></li>
+<li>Decide on Hosting platform </li>
+<li>Develop the Static Site </li>
 </ul></td>
 <td><ul>
-<li><p>Research into technologies </p></li>
-<li><p>Git Hub Repo Created </p></li>
-<li><p>Technologies Documentation  </p></li>
-<li><p>SRS Document (Draft) </p></li>
-<li><p>Design Research  </p></li>
-<li><p>Spike Testing Jekyll </p></li>
-<li><p>Spike Testing Gatsby  </p></li>
-<li><p>Document Migration to Git </p></li>
-<li><p>Create User Stories </p></li>
+<li>Research into technologies </li>
+<li>Git Hub Repo Created </li>
+<li>Technologies Documentation  </li>
+<li>SRS Document (Draft) </li>
+<li>Design Research  </li>
+<li>Spike Testing Jekyll </li>
+<li>Spike Testing Gatsby  </li>
+<li>Document Migration to Git </li>
+<li>Create User Stories </li>
 </ul></td>
 <td><p><a href="https://github.com/thoth-tech/Internal-Systems">Internal
 Systems Repository</a></p>
@@ -6062,10 +5795,7 @@ In the long-term, this project is aiming to enhance security across the business
 #### Project Members (4)
 
 - **Project Lead:** Harshpreet Kaur
-- **Team Members:**
-  - Shiv Bhanu
-  - Charanjeet Singh
-  - (Proposed member) Ali Saeed
+- **Team Members:** Shiv Bhanu, Charanjeet Singh, Ali Saeed (Proposed member)
 
 #### Project Mid-Trimester Progress
 
@@ -6084,11 +5814,6 @@ data, cookies and how to communicate with a user.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Backlog</strong></th>
@@ -6099,14 +5824,14 @@ data, cookies and how to communicate with a user.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Develop Compliance documentation</p></li>
-<li><p>Analyse risks in each product</p></li>
+<li>Develop Compliance documentation</li>
+<li>Analyse risks in each product</li>
 </ul></td>
 <td><ul>
-<li><p>External research into similar companies’ practices</p></li>
+<li>External research into similar companies’ practices</li>
 </ul></td>
 <td><ul>
-<li><p>Basic research into each product</p></li>
+<li>Basic research into each product</li>
 </ul></td>
 </tr>
 </tbody>
@@ -6128,7 +5853,7 @@ It is likely that some progress will be made toward the Short-term by the end of
 will be reaching out to learn more about the data collected by each product. Refer to product
 Forecast.
 
-##### Contribution Table\*
+##### Contribution Table
 
 | Student                           | Contribution |
 | --------------------------------- | ------------ |
@@ -6157,12 +5882,6 @@ processes and understanding moving forward in development.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 23%" />
-<col style="width: 28%" />
-<col style="width: 23%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
@@ -6174,30 +5893,30 @@ processes and understanding moving forward in development.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p>Analyse chances of sensitive data leaking and protecting personal
-details of users</p></li>
-<li><p>Document data collected from client and how it is used</p></li>
-<li><p>Develop procedure to communicate data breaches and cyber
-attacks</p></li>
-<li><p>Data Protection Agreement</p></li>
-<li><p>Multi-Factor Authentication for OnTrack</p></li>
-<li><p>Penetration Tests</p></li>
-<li><p>System Security Plan Documentation</p></li>
-<li><p>Risk Acceptance tests</p></li>
+<li>Analyse chances of sensitive data leaking and protecting personal
+details of users</li>
+<li>Document data collected from client and how it is used</li>
+<li>Develop procedure to communicate data breaches and cyber
+attacks</li>
+<li>Data Protection Agreement</li>
+<li>Multi-Factor Authentication for OnTrack</li>
+<li>Penetration Tests</li>
+<li>System Security Plan Documentation</li>
+<li>Risk Acceptance tests</li>
 </ul></td>
 <td><ul>
-<li><p>Compliance and Risk report in first draft</p></li>
+<li>Compliance and Risk report in first draft</li>
 </ul></td>
 <td><ul>
-<li><p>Privacy Policies for all products</p></li>
+<li>Privacy Policies for all products</li>
 </ul></td>
 <td><ul>
-<li><p><a
+<li><a
 href="https://deakin365.sharepoint.com/:w:/r/sites/ThothTech2/Shared%20Documents/Risk%20and%20Compliance/Risk%20and%20Compliances.docx?d=wd119cfa0bceb467cb1d2f293e69b0e7d&amp;csf=1&amp;web=1&amp;e=xCpja4">Compliance
-and Risk Report draft</a></p></li>
-<li><p><a
+and Risk Report draft</a></li>
+<li><a
 href="https://deakin365.sharepoint.com/:w:/r/sites/ThothTech2/Shared%20Documents/Risk%20and%20Compliance/Privacy%20policies%20and%20Risk%20and%20Compliance%20for%20Splashkit.docx?d=wfdfdfc84d6324e2eb5b485fe2bbc158f&amp;csf=1&amp;web=1&amp;e=J4IG4i">Privacy
-Policies</a></p></li>
+Policies</a></li>
 </ul></td>
 </tr>
 </tbody>
