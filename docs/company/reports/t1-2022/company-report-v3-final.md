@@ -2638,11 +2638,8 @@ deploying, and developing any gaps identified in the existing pieces of work com
 Verification feature. This includes:
 
 - A Proof-of-Concept integration of Speaker Verification on Doubtfire.
-
 - Enrolment: Students can register their voice
-
 - Verification: When a task submission is received, verify the attached voice file
-
 - Deployed to the Thoth Tech OnTrack instance
 
 There will also be the deliverable of creating documentation to ensure that the architecture,
@@ -3042,20 +3039,20 @@ for documentation of their projects</li>
 <td><ul>
 <li>Create documentation repository</li>
 </ul></td>
-<td><a
+<td><ul><li><a
 href="https://github.com/thoth-tech/documentation">thoth-tech/documentation
-repository</a>
-<a
+repository</a></li>
+<li><a
 href="https://deakin365.sharepoint.com/:w:/s/OnTrackDocumentation/EWUe6wCeexBPsX62suL1BrQBd3YfKvnnpDVgS_9y2G9Z4w?e=af7te3">Analysis
-- Each Repo.docx</a> 
-<a
+- Each Repo.docx</a></li> 
+<li><a
 href="https://trello.com/c/6HqFGuUp/30-produce-analysis-report-with-solutions">Produce
-analysis report with solutions on Documentation Trello Card</a> 
-<a
+analysis report with solutions on Documentation Trello Card</a></li> 
+<li><a
 href="https://trello.com/c/RUQRcnO4/31-produce-report-of-recommendations-for-project-teams-to-implement-for-documentation-of-their-projects">Produce
 report of recommendations for project teams to implement for
 documentation of their projects on Documentation Trello
-Card</a></td>
+Card</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -3302,25 +3299,25 @@ Complete the translation of existing SwinGame code to Splashkit. Apply a code f
 <li>Needs to apply for all files (waiting for PR to merge) </li>
 </ul></td>
 <td><ul>
-<li>Find out what code snippets we need to migrate </li>
-<li>try and get a copy of pdf version of programming arcana </li>
-<li>Making sure SplashKit is installed for everybody </li>
-<li>Three pull requests have been merged into master. </li>
+<li>Find out what code snippets we need to migrate</li>
+<li>try and get a copy of pdf version of programming arcana</li>
+<li>Making sure SplashKit is installed for everybody</li>
+<li>Three pull requests have been merged into master.</li>
 <li>Code format config file created, GitHub action CI created,
 document updated. </li>
 </ul></td>
 <td><a
 href="https://github.com/splashkit/programming-arcana/tree/master/topics">programming-arcana/tree/master/topics</a>
-<a
-href="https://github.com/thoth-tech/programming-arcana/pull/1">PR1</a>,
-<a
-href="https://github.com/thoth-tech/programming-arcana/pull/4">PR2</a>,
-<a
-href="https://github.com/thoth-tech/programming-arcana/pull/5">PR3</a>,
-<a
-href="https://github.com/thoth-tech/programming-arcana/pull/6">PR4</a>
-<a
-href="https://github.com/thoth-tech/programming-arcana/pull/2">PR1</a></td>
+<ul><li><a
+href="https://github.com/thoth-tech/programming-arcana/pull/1">PR#1</a></li>,
+<li><a
+href="https://github.com/thoth-tech/programming-arcana/pull/4">PR#4</a></li>,
+<li><a
+href="https://github.com/thoth-tech/programming-arcana/pull/5">PR#5</a></li>,
+<li><a
+href="https://github.com/thoth-tech/programming-arcana/pull/6">PR#6</a></li>
+<li><a
+href="https://github.com/thoth-tech/programming-arcana/pull/2">PR#2</a></li></ul></td>
 </tr>
 </tbody>
 </table>
@@ -3607,7 +3604,7 @@ href="https://github.com/thoth-tech/skm/pull/3">PR#3</a></li>
 <li><a
 href="https://github.com/thoth-tech/skm/pull/4">PR#4</a></li>
 <li><a
-href="https://github.com/thoth-tech/skm/pull/5">PR#4</a></li>
+href="https://github.com/thoth-tech/skm/pull/5">PR#5</a></li>
 </ul>
 <a
 href="https://github.com/thoth-tech/splashkit-core">thoth-tech/splashkit-core:
@@ -3665,20 +3662,15 @@ request are required.
 <tbody>
 <tr class="odd">
 <td>Initial research documentation<em> </em></td>
-<td>Richard Douglas-Denton
-Talia Zidar (reviewer) </td>
+<td>Richard Douglas-Denton (author), Talia Zidar (reviewer) </td>
 </tr>
 <tr class="even">
 <td>Complete macOS one-command installation solution<em> </em></td>
-<td>Richard Douglas-Denton<em> </em>
-Tan Le and Lachlan Morgan <br />
-(reviewer) </td>
+<td>Richard Douglas-Denton (author), Tan Le and Lachlan Morgan (reviewer)</td>
 </tr>
 <tr class="odd">
 <td>Complete Linux one-command installation solution<em> </em></td>
-<td>Richard Douglas-Denton<em> </em>
-Tan Le and Lachlan Morgan <br />
-(reviewer) </td>
+<td>Richard Douglas-Denton (author), Tan Le and Lachlan Morgan (reviewer)</td>
 </tr>
 <tr class="even">
 <td>Complete Apple Silicon compatibility fix for SplashKit-core
@@ -3686,14 +3678,11 @@ Tan Le and Lachlan Morgan <br />
 <li>allowing newer Apple M1 devices to compile SplashKit
 core<em> </em></li>
 </ul></td>
-<td>Richard Douglas-Denton<em> </em>
-Tan Le and Lachlan Morgan <br />
-(reviewer) </td>
+<td>Richard Douglas-Denton (author), Tan Le and Lachlan Morgan (reviewer)</td>
 </tr>
 <tr class="odd">
 <td>Development of testing strategy documentation<em> </em></td>
-<td>Richard Douglas-Denton
-Talia Zidar (reviewer) </td>
+<td>Richard Douglas-Denton (author), Talia Zidar (reviewer) </td>
 </tr>
 </tbody>
 </table>
@@ -3721,11 +3710,9 @@ could mean that any research regarding Windows up to now is made redundant.
 
 ##### Links
 
-[SKM repository](https://github.com/thoth-tech/skm)
-
-[Splashkit-core repository](https://github.com/thoth-tech/splashkit-core)
-
-[SplashKit Operations Trello Board](https://trello.com/b/uDYt4NJB/splashkit-operations)
+- [SKM repository](https://github.com/thoth-tech/skm)
+- [Splashkit-core repository](https://github.com/thoth-tech/splashkit-core)
+- [SplashKit Operations Trello Board](https://trello.com/b/uDYt4NJB/splashkit-operations)
 
 ###  Extensions Project
 
@@ -4017,16 +4004,16 @@ request form was completed and submitted. </td>
 v3.8 </td>
 <td><p>The team need to successfully use the translated Python file and
 import it into a Python project. Currently the Python project throws an
-error when trying to run that it cannot find the SplashKit library. </p>
+error when trying to run that it cannot find the SplashKit library.</p>
 <p><a
 href="https://trello.com/c/ukKKR2mt/12-test-splashkit-python-translator-with-python-versions-prior-to-v38">https://trello.com/c/ukKKR2mt/12-test-splashkit-python-translator-with-python-versions-prior-to-v38</a> </p>
 <p> </p></td>
 </tr>
 <tr class="even">
-<td>Test SplashKit Python translator with Python 3.10 </td>
+<td>Test SplashKit Python translator with Python 3.10</td>
 <td><p>The team need first get SplashKit working for Python v3.8 as this
 is supposed to be working to help understand what has changed and is now
-preventing the translator from working with v3.10. </p>
+preventing the translator from working with v3.10.</p>
 <p><a
 href="https://trello.com/c/2TKSoxGt/13-test-splashkit-python-translator-with-python-310">https://trello.com/c/2TKSoxGt/13-test-splashkit-python-translator-with-python-310</a> </p></td>
 </tr>
@@ -4036,7 +4023,7 @@ href="https://trello.com/c/2TKSoxGt/13-test-splashkit-python-translator-with-pyt
 is being utilised in many modern settings, including Linux development.
 The Rust translator currently outputs a Rust file that when compile
 gives numerous errors. The Rust.rb file needs to be updated to ensure
-that the correct syntax is being written for the output file. </p>
+that the correct syntax is being written for the output file.</p>
 <p><a
 href="https://trello.com/c/2d8COBUg/27-complete-rust-language-extension">https://trello.com/c/2d8COBUg/27-complete-rust-language-extension</a> </p></td>
 </tr>
@@ -4310,12 +4297,6 @@ it is a complex project.
 ##### High-level overview
 
 <table>
-<colgroup>
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 25%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Backlog </th>
