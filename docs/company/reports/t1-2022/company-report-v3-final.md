@@ -698,10 +698,7 @@ vision of Thoth Tech objectives. Refer to forecast below.
 
 #### Leadership Projects Forecast
 
-<img src="media/image4.png" style="width:7.26806in;height:3.95208in"
-alt="Graphical user interface Description automatically generated with low confidence" />
-
-[Leadership Forecast](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERCuJ3aP_rNDh7ZPNPU8H_8B4bvJ7e1zwqkjLQ2MWUPMuQ?e=m2N8ZM)
+![Leadership Forecast](images/leadership-forecast-v3.png)
 
 #### Project End of Trimester Progress
 
@@ -838,20 +835,15 @@ achieved the following:
 
 - Continue to drive the values and culture established in T1
   2022 ([Trello](https://trello.com/c/BavHrp5i/89-drive-the-values-and-culture-established-in-t1-2022))
-
 - Iterate and improve the existing processes created in T1
   2022 ([Trello](https://trello.com/c/Fy7XbtGe/88-iterate-and-improve-the-existing-processes-created-in-t1-2022))
-
 - Provide training and resources to support the Thoth Tech project
   teams ([Trello](https://trello.com/c/axjurzZK/87-provide-training-and-resources-to-support-thoth-tech-project-teams))
-
 - Onboard members for T2 ([Trello](https://trello.com/c/Lwz9L3TD/20-onboarding-starter))
-
 - Investigate potential for expanding existing QA documentation, leveraging on work done by project
   teams so far, to provide additional detail and support around QA testing strategy frameworks and
   tools
   ([Trello](https://trello.com/c/J7TkzIvT/61-test-strategy-opportunities-for-further-qa-detail-and-alignment))
-
 - Drive diversity in leadership roles (across Area and Delivery leaders)
   ([Trello](https://trello.com/c/l6g9B5hn/90-improve-diversity-in-leadership-roles-across-senior-leadership-product-and-delivery-leaders))
 
@@ -860,16 +852,16 @@ achieved the following:
 <table>
 <thead>
 <tr class="header">
-<th>Achievement </th>
-<th>Contributor </th>
+<th>Achievement</th>
+<th>Contributor</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Company creation and structuring: 
 <ul>
-<li>Created Company organisation structure </li>
-<li>Defined leadership roles and responsibilities​ </li>
+<li>Created Company organisation structure</li>
+<li>Defined leadership roles and responsibilities​</li>
 <li>Onboarded 100 team members​ </li>
 <li>Allocated team members to projects based on requested products
 and skills​ </li>
@@ -937,12 +929,11 @@ specified) </td>
 <tr class="even">
 <td>Capstone Cohort Guest Presentations and sessions arranged: 
 <ul>
-<li>Kirsty McDonald: <em>Women in Tech</em> (Liz) </li>
-<li>Daniel Yong: <em>Industry Insight</em> (Talia &amp;
-Katrina) </li>
+<li>Kirsty McDonald: <em>Women in Tech</em> (Liz)</li>
+<li>Daniel Yong: <em>Industry Insight</em> (Talia and Katrina)</li>
 <li>Leadership Conference (Liz) </li>
 </ul></td>
-<td>Liz Lynch, Talia Zidar, Katrina Steen (as specified) </td>
+<td>Liz Lynch, Talia Zidar, Katrina Steen (as specified)</td>
 </tr>
 <tr class="odd">
 <td>Handover and Offboarding completed: 
@@ -1006,47 +997,29 @@ recommendations for clear and early messaging around expectations with members, 
 leaders to ensure expectations are clarified with unit chairs early to prevent difficulties involved
 in managing members joining the trimester late.
 
-##### Links: 
+##### Links 
 
-<table>
-<thead>
-<tr class="header">
-<th><ul>
-<li><a href="https://github.com/thoth-tech/handbook">Thoth-Tech Handbook</a>  
-<ul>
-<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md">Company Charter</a></li>
-<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md">Communication Guide</a></li>
-<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md">Quality Assurance Overview</a></li>
-<li><a href="https://github.com/thoth-tech/handbook/blob/main/docs/data/data-strategy.md">Data Strategy</a></li>
-</ul></li>
-<li><a href="https://trello.com/b/9jms2uly/thoth-leadership">Thoth-Tech Leadership Trello Board</a></li>
-<li>All workshop recordings  
-<ul>
-<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EVQNqqrUceBGqbyJZJngL-UBcqfXQxOuuxUNB2CszP9zew?e=zpysKY">Company-wide meeting</a></li>
-<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/ESlcEp9QlkpAuzF7wWU_9OUB1XNwkaF2RFbdXZ1fiNdnXA?e=60bO3w">D/HD Workshop</a></li>
-<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EU-YLlYtlkVErKiZnxcyU08BV9aUUGa3i1Bah6rRhnWrtg?e=pr2yIB">GitHub Repos Q&A</a></li>
-<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2/EeWt4zp0a7BLvE_I9lsPCxYBfIV_pSNRACesr1tqGQaqdg?e=7cTbM4">Quality Assurance Q&amp;A</a></li>
-<li><a href="https://deakin365.sharepoint.com/:v:/s/ThothTech2-Leadership/EQDksW01djxApiu0sYTpjcEBrd4znkVqhVXGhfgGF3Nhxw?e=TNUB8c">Documentation Workshop</a></li>
-</ul></li>
-</ul></th>
-<th><ul>
-<li>Miro board  
-<ul>
-<li><a href="https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450">Company Structure</a></li>
-<li><a href="https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071">Recruitment</a></li>
-<li><a href="https://miro.com/app/board/uXjVOHw0M_4=/?share_link_id=475081156944">Company Values</a></li>
-<li><a href="https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516">Meeting Planner</a></li>
-<li><a href="https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802">Proposed Branching Structure</a></li>
-<li><a href="https://miro.com/app/board/uXjVO2m3z0Q=/">Proposed T2 leadership</a></li>
-</ul></li>
-<li><a href="https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed">PR list (Thoth Tech Handbook Repo)</a>
-(All PRs in this handbook are either created or reviewed by Area Leads)</li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+- [Thoth-Tech Handbook](https://github.com/thoth-tech/handbook)
+  - [Company Charter](https://github.com/thoth-tech/handbook/blob/main/docs/company/charter.md)
+  - [Communication Guide](https://github.com/thoth-tech/handbook/blob/main/docs/communication/communication.md)
+  - [Quality Assurance Overview](https://github.com/thoth-tech/handbook/blob/main/docs/processes/quality-assurance/quality-assurance-overview.md)
+  - [Data Strategy](https://github.com/thoth-tech/handbook/blob/main/docs/data/data-strategy.md)
+  - [Thoth-Tech Leadership Trello Board](https://trello.com/b/9jms2uly/thoth-leadership)
+  - All workshop recordings
+    - [Company-wide meeting](https://deakin365.sharepoint.com/:v:/s/ThothTech2/EVQNqqrUceBGqbyJZJngL-UBcqfXQxOuuxUNB2CszP9zew?e=zpysKY)
+    - [D/HD Workshop](https://deakin365.sharepoint.com/:v:/s/ThothTech2/ESlcEp9QlkpAuzF7wWU_9OUB1XNwkaF2RFbdXZ1fiNdnXA?e=60bO3w)
+    - [GitHub Repos Q&A](https://deakin365.sharepoint.com/:v:/s/ThothTech2/EU-YLlYtlkVErKiZnxcyU08BV9aUUGa3i1Bah6rRhnWrtg?e=pr2yIB)
+    - [Quality Assurance Q&A](https://deakin365.sharepoint.com/:v:/s/ThothTech2/EeWt4zp0a7BLvE_I9lsPCxYBfIV_pSNRACesr1tqGQaqdg?e=7cTbM4)
+    - [Documentation Workshop](https://deakin365.sharepoint.com/:v:/s/ThothTech2-Leadership/EQDksW01djxApiu0sYTpjcEBrd4znkVqhVXGhfgGF3Nhxw?e=TNUB8c)
+  - Miro board
+    - [Company Structure](https://miro.com/app/board/uXjVOHtYWxs=/?share_link_id=972664923450)
+    - [Recruitment](https://miro.com/app/board/uXjVOGWn4k4=/?share_link_id=96134372071)
+    - [Company Values](https://miro.com/app/board/uXjVOHw0M_4=/?share_link_id=475081156944)
+    - [Meeting Planner](https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516)
+    - [Proposed Branching Structure](https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802)
+    - [Proposed T2 leadership](https://miro.com/app/board/uXjVO2m3z0Q=/)
+  - [PR list (Thoth Tech Handbook repository](https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed)
+    (All PRs in this handbook are either created or reviewed by Area Leads)
 
 # Product Overview
 
@@ -1072,9 +1045,7 @@ improve the teaching and learning experience.
 
 ### OnTrack Product Projects Forecast
 
-<img src="media/image5.png" style="width:7.27885in;height:6.98062in" />
-
-[OnTrack Forecast](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/EcscZKtL_GVBlH4iDbcAF_wB8NFeDxGZNsaE25qX3HmX7A?e=fl8oaj)
+![OnTrack Forecast](images/ontrack-forecast-v3.png)
 
 ### Front-End Migration Project
 
@@ -2985,9 +2956,7 @@ the product is to improve and expand the capabilities to increase SplashKit acce
 
 ### SplashKit Product Projects Forecast
 
-<img src="media/image6.png" style="width:6.93548in;height:6.93548in" />
-
-[SplashKit Forecast](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/Eaf86Xt7BedDkA8Zk2I_5wkBWMV6FH1us3ffUDNje_SVVA?e=e6TWyd)
+![SplashKit Forecast](images/splashkit-forecast-v3.png)
 
 ### Operations – Migrating Arcana to SplashKit Project
 
@@ -5022,9 +4991,7 @@ following goals:
 
 ### DreamBig Prototype Project Forecast
 
-<img src="media/image7.png" style="width:6.86606in;height:3.54931in" />
-
-[DreamBig Forecast](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ESEx1YsMDx9Jo2gZxaw3EmYBPuM3xLDfyhI6ZGtZ4251mQ?e=CCUd9S)
+![DreamBig Forecast](images/dreambig-forecast-v3.png)
 
 ### DreamBig Prototype Project
 
