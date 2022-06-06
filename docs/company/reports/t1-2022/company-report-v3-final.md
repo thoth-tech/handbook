@@ -1018,7 +1018,7 @@ in managing members joining the trimester late.
     - [Meeting Planner](https://miro.com/app/board/uXjVODy7l5o=/?share_link_id=47668865516)
     - [Proposed Branching Structure](https://miro.com/app/board/uXjVOGFri3o=/?share_link_id=513226504802)
     - [Proposed T2 leadership](https://miro.com/app/board/uXjVO2m3z0Q=/)
-  - [PR list (Thoth Tech Handbook repository](https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed)
+  - [PR list on Thoth Tech Handbook repository](https://github.com/thoth-tech/handbook/pulls?q=is%3Apr+is%3Aclosed)
     (All PRs in this handbook are either created or reviewed by Area Leads)
 
 # Product Overview
