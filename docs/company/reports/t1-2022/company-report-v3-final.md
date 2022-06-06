@@ -176,7 +176,7 @@ _Managing Director_
 
 # Leadership Team
 
-![leadership structure](images/leadership-structure-v3.jpg)
+![leadership structure](images/leadership-structure-v3.png)
 
 ## Roles and Responsibilities
 
@@ -507,7 +507,7 @@ The company structure is linked
 [here](https://deakin365.sharepoint.com/:b:/s/ThothTech2-Leadership/ERuLF9JWzz5HvF68OG7D_EgBQ14uMdrGKXuS2fvNEWE_WQ?e=ihX3Wt)
 and available on the next page.
 
-![company structure](images/company-structure-v3.jpg)
+![company structure](images/company-structure-v3.png)
 
 ## Thoth-Tech Senior Leadership
 
