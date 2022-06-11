@@ -30,15 +30,15 @@ The first place to start would be with the [Communication](docs/../../communicat
 
 There are also a variety of other training resources in the [Training](docs/training) folder that provide insight into achieving a D/HD grade, a markdown guide, how to use trello and other resources.
 
-The [useful resources](docs/useful_resources/../../../data/index.md) has a variety of resources also availible about how standups work, how to work in an agile team and about retrospectives.
+The [useful resources](docs/useful_resources/../../../data/index.md) folder has a variety of resources also available about how standups work, how to work in an agile team and about retrospectives.
 
-There are also a variety of video workshops availible made by former students in the Thoth Tech General Files under [Recordings](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2/Shared%20Documents/General/Recordings?csf=1&web=1&e=3NZUHd).
+There are also a variety of video workshops available made by former students in the Thoth Tech General Files under [Recordings](https://deakin365.sharepoint.com/:f:/r/sites/ThothTech2/Shared%20Documents/General/Recordings?csf=1&web=1&e=3NZUHd).
 
 ## Mentoring
 
 Enter mentoring guide details in here
 
-## Envrionment Set up
+## Environment Set up
 
 Once you have been allocated a project, you can start getting your development environment set up.
 
@@ -68,7 +68,7 @@ Back-end:
 
 ## Processes
 
-There are many company related processes that are crucial for you to understand and follow. These include the Quality Assurance processes, which can be found [here](docs/processes/quality-assurance/quality-assurance-overview.md). This provides a clear development guide that you must follow to ensure your code is tested and working correctly. There are also a number of [templates](docs/processes/quality-assurance/templates) availible that are required to document and test your work.
+There are many company related processes that are crucial for you to understand and follow. These include the Quality Assurance processes, which can be found [here](docs/processes/quality-assurance/quality-assurance-overview.md). This provides a clear development guide that you must follow to ensure your code is tested and working correctly. There are also a number of [templates](docs/processes/quality-assurance/templates) available that are required to document and test your work.
 
 You will also be required to understand the data strategy in place for Thoth Tech, and the information regarding this can be found in the [Data](docs/data/index.md) section. This includes information about the strategy and templates that can be used.
 
