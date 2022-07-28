@@ -59,39 +59,39 @@ Table of contents
 
 - [Executive Summary](#executive-summary)
 - [Leadership Team](#leadership-team)
-  - [Roles and Responsibilities]()
+  - [Roles and Responsibilities](#roles-and-responsibilities)
 - [Trimester Goals and Objectives](#trimester-goals-and-objectives)
-- [Company Charter]()
-  - [Mission]()
-  - [Values]()
-  - [Team Culture]()
-  - [Roles]()
-  - [Metrics of success]()
-  - [Standards of quality]()
-- [Company Structure and Projects Overview](#company-structure-and-projects-overview)
-- [Products](#products)
+- [Company Charter](#company-charter)
+  - [Mission](#mission)
+  - [Values](#values)
+  - [Team Culture](#team-culture)
+  - [Roles](#roles)
+  - [Metrics of success](#metrics-of-success)
+  - [Standards of quality](#standards-of-quality)
+- [Company Structure](#company-structure)
+- [Product Overview](#product-overview)
+  - [OnTrack](#ontrack)
+    - [Voice Verification](#voice-verification)
+    - [Task and Submission Redesign](#task-and-submission-redesign)
+    - [File Submission Enhancements](#file-submission-enhancements)
+    - [Security Analysis](#security-analysis)
+    - [User Interface Enhancement](#user-interface-enhancement)
+    - [Google Cloud Deployment](#google-cloud-deployment)
+    - [OnTrack Documentation](#ontrack-documentation)
+    - [Quality Assurance and Testing](#quality-assurance-and-testing)
   - [SplashKit](#splashkit)
-    - [Applications - Arcade Machine](#splashkit-applications---arcade-machine)
-    - [Applications - Build An Exceptional Game](#splashkit-applications---build-an-exceptional-game)
-    - [Modules Enhancements](#splashkit-modules-enhancements)
-    - [Extensions](#splashkit-extensions)
-    - [Operations](#splashkit-operations)
+    - [Operations](#operations)
+    - [Extensions](#extensions)
+    - [Applications - Arcade Machine](#applications---arcade-machine)
+    - [Applications - Build An Exceptional Game](#applications---build-an-exceptional-game)
+    - [Modules Enhancements](#modules-enhancements)
+  - [DreamBig](#dreambig)
+    - [Prototype Technical Team](#prototype-technical-team)
+    - [Design Team](#design-team)
+    - [Dreambig Documentation and Quality Assurance Team](#dreambig-documentation-and-quality-assurance-team)
   - [Company Operations](#company-operations)
     - [Documentation Infrastructure System](#documentation-infrastructure-system)
     - [Company Documentation](#company-documentation)
-  - [DreamBig](#dreambig)
-    - [DreamBig Prototype Technical Team](#dreambig-prototype-technical-team)
-    - [DreamBig Prototype Design Team](#dreambig-prototype-design-team)
-    - [Dreambig Documentation and Quality Assurance Team](#dreambig-documentation-and-quality-assurance-team)
-  - [OnTrack](#ontrack)
-    - [Voice Verification](#ontrack---voice-verification)
-    - [Task and Submission Redesign](#ontrack---task-and-submission-redesign)
-    - [File Submission Enhancements](#ontrack---file-submission-enhancements)
-    - [Security Analysis](#ontrack---security-analysis)
-    - [User Interface Enhancement](#ontrack---user-interface-enhancement)
-    - [Google Cloud Deployment](#ontrack---google-cloud-deployment)
-    - [Documentation](#ontrack---documentation)
-    - [Quality Assurance and Testing](#ontrack---quality-assurance-and-testing)
 
 ---
 
@@ -434,8 +434,6 @@ learning experience.
 
 **Product Lead:** Shaine Christmas
 
----
-
 ### Voice Verification
 
 #### Overview, Goals, and Objectives
@@ -475,8 +473,6 @@ _Delivery Lead:_ Shaine Christmas
 _Software Developers:_ Ha Nguyen, Devin Oshada Uvin Jayasinghe, Daniel Le, Simon Agahi, Jesse Kyle
 Hancock
 
----
-
 ### Task and Submission Redesign
 
 #### Overview, Goals, and Objectives
@@ -513,8 +509,6 @@ Long Term:
 _Delivery Lead:_ Grady Ramsay
 
 _Software Developers:_ Daniel Patrick Norris, Ricky Dodd, Mat Perkins
-
----
 
 ### File Submission Enhancements
 
@@ -556,8 +550,6 @@ _Delivery Lead:_ Nandini Kaushal
 _Software Developers:_ Keerat Kaur, Aaryan Sharma, Gurpartap Singh Panesar, Jayant, Yongqi Huang,
 Aryan Bagoria
 
----
-
 ### Security Analysis
 
 #### Overview, Goals, and Objectives
@@ -595,8 +587,6 @@ Long Term:
 _Delivery Lead:_ Ereena Bagga
 
 _Developers:_ Ben Thomas
-
----
 
 ### User Interface Enhancement
 
@@ -638,8 +628,6 @@ _Delivery Lead:_ Leo Luong
 _Software Developers:_ Anthony Papoutsis, Ahmed Ali, Aldy Putra Shavira, Kosta Constantinou, Nelson
 Lai
 
----
-
 ### Google Cloud Deployment
 
 #### Overview, Goals, and Objectives
@@ -678,8 +666,6 @@ _Delivery Lead:_ Harshpreet Kaur
 
 _Developers:_ Anshuman Bishnoi, Dan Eastaugh, Sicheng Liu, Chetan Nagar, Pratham Gupta, Xuetong Zhao
 
----
-
 ### OnTrack Documentation
 
 #### Overview, Goals, and Objectives
@@ -714,8 +700,6 @@ Long Term:
 _Delivery Lead:_ Shaine Christmas
 
 _Documentors:_ Matt Clark, Jasdeep Singh, MD Fahim Mizi, Shiv Bhanu, Adrienne Gelbhauer
-
----
 
 ### Quality Assurance and Testing
 
@@ -764,8 +748,6 @@ _Testers:_ David Kwiatkowski, Parth Aneja
 
 ---
 
----
-
 ## SplashKit
 
 SplashKit is an open-source Software Development Kit (SDK), created with the purpose of reducing the
@@ -785,8 +767,6 @@ educational toolkit. Currently the language used for development is C++ and the 
 product is to improve and expand the capabilities to increase SplashKit accessibility.
 
 **Product Lead:** Anthony George
-
----
 
 ### Operations
 
@@ -830,8 +810,6 @@ Long-term
 _Delivery Lead:_ Ryan Lawrence
 
 _Developers:_ Ismail Hassan, Auden Vitasa, Kevin Nguyen
-
----
 
 ### Extensions
 
@@ -879,8 +857,6 @@ Long-term
 _Delivery Lead:_ Bella Chhour
 
 _Software Developers:_ Lachlan Cayzer, Nelson La, Nick Agiazis
-
----
 
 ### Applications - Arcade Machine
 
@@ -950,8 +926,6 @@ _Delivery Lead:_ Anthony George
 _Software Developers:_ Riley Dellios, Huy Nguyen, Richard Douglas-Denton, Lachlan Foy, Mohamed
 Zirufaan, Zac Brydon
 
----
-
 ### Applications - Build An Exceptional Game
 
 #### Overview, Goals, and Objectives
@@ -1001,8 +975,6 @@ _Delivery Lead:_ Morgaine Barter
 
 _Software Developers:_ Daniel Agbay, Lachlan Morgan, Roy Chen, Robert Osborne, Lily Lan, Jiahao
 Zheng
-
----
 
 ### Modules Enhancements
 
@@ -1111,9 +1083,7 @@ following goals:
 
 **Product Lead:** Neha Makineni
 
----
-
-### DreamBig Prototype Technical Team
+### Prototype Technical Team
 
 #### Overview, Goals, and Objectives
 
@@ -1157,9 +1127,7 @@ _Software Developers:_ Norbert Pop, Way Yan Min
 
 _Technical Documentation Specialist:_ Xue Ting Jing
 
----
-
-### DreamBig Design Team
+### Design Team
 
 #### Overview, Goals, and Objectives
 
@@ -1195,8 +1163,6 @@ Long-term
 _Delivery lead:_ Harry Liu
 
 _UI&UX designer:_ Adam Sawczuk, Josephine Hannah, Junhua Ma, Monica Valentina Tasmin, Wei Min Voon
-
----
 
 ### DreamBig Documentation and Quality Assurance Team
 
@@ -1246,8 +1212,6 @@ the systems, equipment, people, and processes need to make the organization func
 
 **Product Lead:** Ishrat Jahan
 
----
-
 ### Documentation Infrastructure System
 
 Internal systems website will be for holding all company related documentation. This will provide
@@ -1290,8 +1254,6 @@ _Delivery Lead:_ Ishrat Jahan
 
 _Software Developers:_ Harrison Paul Allwood, Manveen Kaur Bhullar, Pratham Gupta, Sherap Thakur,
 Tanish Dhapola
-
----
 
 ### Company Documentation
 
