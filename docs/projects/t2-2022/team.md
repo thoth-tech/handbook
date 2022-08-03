@@ -24,7 +24,7 @@
 
  - Teams Channel: [Front End Migration](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Front%20End%20Migration?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:40cc53f7f52d42cd8d15bddad593aa01@thread.tacv2&ctx=channel)
  - Trello Board: [Front-end Migration](https://trello.com/b/pFPgCaIo/front-end-migration)
- - Delivery Lead: Leo Luong, Anthony Papoutsis
+ - Delivery Lead: Leo Luong
  - Academic Mentor: Muna Al-Hawawreh
  - Team Members:
     - Nelson Lai
@@ -34,7 +34,7 @@
     - Tushar
     - Kosta Constantinou
     - Haris Sajjad
-    - Bowen Yan (Guest)
+
 
  ### Deployment
 
