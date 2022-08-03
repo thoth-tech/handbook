@@ -5,7 +5,9 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: 'Syntax highlighting hint "%s" must be one of: yaml, ruby, plaintext, markdown, javascript, shell, golang, python, dockerfile, or typescript.'
+message:
+  'Syntax highlighting hint "%s" must be one of: yaml, ruby, plaintext, markdown, javascript, shell,
+  golang, python, dockerfile, or typescript.'
 link: TBA
 level: error
 scope: raw

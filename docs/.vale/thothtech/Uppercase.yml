@@ -5,7 +5,9 @@
 #
 # For a list of all options, see https://docs.errata.ai/vale/styles.
 extends: conditional
-message: "'%s' is uppercase. Use lowercase or `backticks` if possible. Otherwise add this word to the rule's exception list."
+message:
+  "'%s' is uppercase. Use lowercase or `backticks` if possible. Otherwise add this word to the
+  rule's exception list."
 link: TBA
 level: warning
 ignorecase: false
