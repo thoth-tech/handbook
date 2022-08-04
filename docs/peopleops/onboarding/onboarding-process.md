@@ -16,6 +16,14 @@ remaining as asynchronous as possible. It has been developed with three dimensio
 - Technical Onboarding
 - Social Onboarding
 
+## Product lead
+
+- Get ownership of all Ms team channels and the private sub channels, github repo, miro board, trello etc (have read and write acess)
+- Delete unused channels. Make sure all the documents under the deleted channel are moved/stored in either github or transferred to the relevant new channel.
+- Create a onboarding form or make a copy of previous trimester's form (Get student Github ID among other things)
+- Provide delivery leads with their team member name, target grade, github username so that delivery leads can add these people into github and Ms channels
+- Educate the juniors about products and subprojects. You can do that my running workshop, blog post, one to one sessions etc
+- Book your weekly leadership meeting.
 ## Accounts & Access
 
 - [ ] Submit the
