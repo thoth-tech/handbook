@@ -5,7 +5,9 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: substitution
-message: 'Verify this use of the word "admin". Can it be updated to "administration", "administrator", "administer", or "Admin Area"?'
+message:
+  'Verify this use of the word "admin". Can it be updated to "administration", "administrator",
+  "administer", or "Admin Area"?'
 link: TBA
 level: suggestion
 ignorecase: false

@@ -47,4 +47,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
       - Retrospectives
       - [Weekly Announcements](docs/projects/t1-2022/thoth-tech-leadership/weekly-announcements/)
   - T2 2022
+    - [Teams](docs/projects/t2-2022/team.md)
+      - Thoth Tech Leadership
+      - Retrospectives
 - Tools
