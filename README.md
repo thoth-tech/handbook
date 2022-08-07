@@ -24,6 +24,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
   - [Epic Example](docs/leadership/epic-example.md)
   - [Epic Template](docs/leadership/epic-template.md)
   - [Meetings](docs/leadership/meetings.md)
+  - [Meetings Minutes Template](docs/leadership/meeting-template.md)
 - [Data](docs/data/index.md)
 - Processes
   - Developer Operations
