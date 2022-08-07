@@ -762,7 +762,7 @@ coders to quickly learn to construct fun and functional programs which they can 
 showcase. It includes a large library of functions which can be utilized by the user to experiment
 and apply for their own application or game.
 
-This product is currently used by the students at Deakin University and aims to become a global
+This product is currently used by students at Deakin University and aims to become a global
 educational toolkit. Currently the language used for development is C++ and the direction of the
 product is to improve and expand the capabilities to increase SplashKit accessibility.
 
