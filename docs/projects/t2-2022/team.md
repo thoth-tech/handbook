@@ -64,8 +64,7 @@
 - Trello Board: [Voice Verification](https://trello.com/b/lkRdh1Fp/voice-verification)
 - Delivery Lead: Shaine Christmas
 - Academic Mentor: Muna Al-Hawawreh
-- Team Member: Ha Nguyen, Devin Oshada Uvin Jayasinghe, Daniel Le, Simon Agahi, Jesse Kyle
-Hancock
+- Team Member: Ha Nguyen, Devin Oshada Uvin Jayasinghe, Daniel Le, Simon Agahi, Jesse Kyle Hancock
 
 ### Documentation
 
