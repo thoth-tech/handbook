@@ -62,8 +62,9 @@
 - Teams Channel:
   [Voice Verification - OnTrack](https://teams.microsoft.com/_?tenantId=d02378ec-1688-46d5-8540-1c28b5f470f6#/school/conversations/Voice%20Verification%20-%20OnTrack?groupId=0e15669c-3f66-49aa-b023-640fe1dda2e0&threadId=19:ea448ec4e26449a5b74e0d6dc9be71f4@thread.tacv2&ctx=channel)
 - Trello Board: [Voice Verification](https://trello.com/b/lkRdh1Fp/voice-verification)
-- Delivery Lead: [to be added]
-- Team Member: [to be added]
+- Delivery Lead: Shaine Christmas
+- Academic Mentor: Muna Al-Hawawreh
+- Team Member: Ha Nguyen, Devin Oshada Uvin Jayasinghe, Daniel Le, Simon Agahi, Jesse Kyle Hancock
 
 ### Documentation
 
