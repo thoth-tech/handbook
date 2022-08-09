@@ -169,6 +169,26 @@ Long-term
 
 - Physical Arcade Machine built using RaspberryPi
 
+#### Progress
+
+The team have made excellent progress, covering (points)...
+Elaborate how wonderful your contributions have been
+Keep it brief, demonstrate progress - aligned with the team goals above.
+
+The team have also developed (inclusions)...
+
+Moving forward, the teams goals have shifted to...
+
+The team have made excellent progress, covering:
+- Finalising the automation of the game reviewal process
+- General refactor of the codebase
+
+The team have also developed (inclusions)...
+- Cross platform compatibility 
+
+Moving forward, the teams goals have shifted to...
+- Compiling games on a server
+
 #### Project Members (7)
 
 _Delivery Lead:_ Anthony George
