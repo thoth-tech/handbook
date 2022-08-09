@@ -15,6 +15,7 @@ Please see the [contribution guidelines](CONTRIBUTING.md).
 
 ## Sections
 
+- [Getting Started at Thoth Tech](docs/company/getting_started.md)
 - Company
   - [Charter](docs/company/charter.md)
   - [Roles](docs/company/roles.md)
