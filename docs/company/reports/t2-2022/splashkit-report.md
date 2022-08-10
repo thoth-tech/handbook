@@ -171,23 +171,29 @@ Long-term
 
 #### Progress
 
-The team have made excellent progress, covering (points)...
-Elaborate how wonderful your contributions have been
-Keep it brief, demonstrate progress - aligned with the team goals above.
-
-The team have also developed (inclusions)...
-
-Moving forward, the teams goals have shifted to...
-
 The team have made excellent progress, covering:
+
 - Finalising the automation of the game reviewal process
-- General refactor of the codebase
+- Documented a coding standard for developers to follow
+- Refactoring codebase to use specified standard
+- Refactoring the includes to each respective file that requires them
+- Research and documentation on cross platform compatibility
+- Refactoring the options menu
 
-The team have also developed (inclusions)...
-- Cross platform compatibility 
+The team have also developed:
 
-Moving forward, the teams goals have shifted to...
-- Compiling games on a server
+- Database class for creating databases
+- Table class for creating tables
+- Methods of standard database queries
+- Rating class to handle game rating
+
+Moving forward, the teams goals have shifted to:
+
+- Implementing server based compilation of games
+- Implementing realtime loading
+- Implementing optional display methods
+- Liaising with hardware construction teams
+- Developing a design for the hardware
 
 #### Project Members (7)
 
