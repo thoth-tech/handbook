@@ -30,9 +30,9 @@ This team has a goal of taking last trimesters existing research and extending o
 delivering an installation process that is effectively 'one-click' and compatible across all
 operating systems.
 
-The team also has the objective to research and document the possibility (or lack thereof) a browser
-based implementation, and should one exist, design and document an approach to take to make this
-feasible.
+The team also has the objective to research and document the possibility (or lack thereof) of a
+browser based IDE implementation, and should a viable approach exist, design and document an
+approach to take to make this feasible.
 
 #### Aims for Trimester
 
@@ -54,6 +54,40 @@ Short-term
 Long-term
 
 - A 'one-click' SplashKit installer
+
+#### Progress
+
+The Operations team has made great progress so far this trimester, such as:
+
+- Completing the single-command SplashKit installer, meaning we now have single-command installers
+  for macOS, Linux, and Windows
+- Great progress on GUI installer for Windows using QT framework
+- Documenting the new SplashKit install process such that we can update the splashkit.io website
+  when the changes are complete
+- Researching and documenting the possibility of a browser-based IDE solution with SplashKit
+  preinstalled, ala Harvard's CS50 course
+  - A viable approach appears to exist but requires further research
+
+The Operations team is working on the following:
+
+- Completing documentation and review of single line installer for Windows
+- Finalising new install process instructions for all operating systems
+- Squashing a visual bug with the GUI installer for Windows before entering review and documentation
+  phase
+- Writing research paper on possibility of browser-based IDE solution with SplashKit preinstalled
+  - Attempting to get a local prototype running to ensure viability before committing to the
+    project, as servers are required
+
+By the end of the trimester the Operations team hopes to:
+
+- Complete the single-command SplashKit installer for all operating systems
+- Complete the GUI installer for Windows
+- Begin implementing GUI installer for macOS and Linux with QT framework
+- Complete the documentation and review of the new install process instructions for all operating
+  systems
+- Complete the research paper on the possibility of a browser-based IDE solution with SplashKit
+  preinstalled
+- Progress on a local prototype as proof of concept for the browser-based IDE
 
 #### Project Members (4)
 
