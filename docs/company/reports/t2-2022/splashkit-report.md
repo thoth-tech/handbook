@@ -367,11 +367,67 @@ Long-term
 - Create a fully functioning 2d physics engine within Splashkit
 - Expand the methods to include physics such as sinking, inertia and others
 
-#### Project Members (7)
+#### Progress
+
+The modules team has made great progress so far this trimester, such as:
+
+- Data Analytics:
+  - Code review that began in trimester 1 of 2022 has been completed. As part of this review,
+    recommendations were made on removing string matching and regex code and overhauling the
+    dataframe constructor.
+  - Redesigning of the dataframe constructor was completed, with potential options for data
+    structures discussed in the team. The most efficient choice was to utilise vectors with the
+    variant data type.
+  - Methods for inserting data into the dataframe column by column and row by row were created and
+    tested.
+  - Creation of missing documentation and review of current documentation was conducted.
+  - Plans for the short term direction of the Data Analytics module were created.
+- Machine Learning
+  - Upgrades on the matrix_2d library were designed, implemented and tested
+  - All current documentation was reviewed and updated where necessary.
+  - Plans for the short term direction of the Machine Learning module were created.
+- Physics
+  - Full review of the existing code for the Physics module has began.
+  - Creation of missing documentation and review of current documentation was conducted.
+
+The modules team is working on the following:
+
+- Data Analytics
+  - Designing a way for column data types to be manually converted without inserting a new column
+    and deleting the old.
+  - Creating a custom NULL data type to use in the dataframe. This will work with the current
+    exclusive data type column structure.
+  - Designing the functionality for dataframes to be populated via comma separated value (CSV) or
+    text files. Null and column data types must be completed first.
+- Machine Learning
+  - Designing a scalable way to calculate the gradient during back-propogation for neural networks.
+  - Reviewing the proposed upgrade for the matrix_2d library
+- Physics
+  - Finalising the review and report on the current Physics implementation (both the existing
+    collisions API and the forked Physics API).
+  - Designing and implementing methods for rectangle to rectangle collisions. This can be utilised
+    by the Build an Exceptional Game team as custom hit-boxes for sprites.
+
+By the end of the trimester the Modules team hopes to:
+
+- Data Analytics
+  - Have the functionality to create, display and modify data in the dataframe.
+  - Have the functionality to read and write dataframes to and from CSV/text files
+  - Design and begin implementing the Data Visualisations API.
+- Machine Learning
+  - Be able to predict non-linear patterns using a fully connected neural network
+  - Be able to use neural networks to create Artificial Intelligence for games
+- Physics
+  - Have the required methods in the Collisions API created for use in the Build an Exceptional Game
+    team
+  - Creation of a Gravity API that contains functionality for freefall, terminal velocity and
+    sinking.
+
+#### Project Members (8)
 
 _Delivery Lead:_ Timothy Moore
 
 _Software Developers:_ Alex Hocking, Devesh Juggiah, Gaganjeet Singh, Harry Dentry, Jingyu Zhang,
-Munatsi Matipano
+Munatsi Matipano, Kai Tao
 
 ---
