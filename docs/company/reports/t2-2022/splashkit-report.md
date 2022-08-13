@@ -133,14 +133,33 @@ Short-term
 - Implement changes to SplashKit-core to rectify incompatibilities
 
 Long-term
+- Fix the Python incompatibility on MYSY
+- Complete this approach for other languages, preferably Go and Dart
 
-- Complete this approach for other languages
+#### Progress
+
+Progress made:
+- Finalising the deliverables of Splashkit-Translator from T1 documentation
+- Successfully installed and tested Splashkit-Translator with Python and Rust on Splashkit-Core (documented)
+- Investigate running Splashkit translator on Windows
+- Reviewed Rust library on Splashkit-Core 
+
+On-going progress:
+- Researching and investigating furthur into Python incompatilibity with MSYS2: "can't locate .dll file"
+- Researching the process of the translator, calling from the C native database/library, etc
+- Attempting to get Test1 executed wtih Golang from the C native language
+- Creating documentation for the processes
+
+Goals for the end of this capstone:
+- Fix with incompatibility issue, re-locating the file, creating an environment for the file or via another approach
+- Extending the translator language by replicating of Rust library with Go and Dart
+- Complete a complete documentation and mannual for the entire process for the next generation
 
 #### Project Members (4)
 
 _Delivery Lead:_ Bella Chhour
 
-_Software Developers:_ Lachlan Cayzer, Nelson La, Nick Agiazis
+_Software Developers:_ Nick Agiazis
 
 ### Applications - Arcade Machine
 
