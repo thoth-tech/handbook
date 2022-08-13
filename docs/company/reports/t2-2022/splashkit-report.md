@@ -260,7 +260,8 @@ The aim for this trimester is to
 - Compartmentalise the tasks to focus teams on specific areas of games development (Design,
   Mechanics, Animations, Collisions, AI, etc)
 - Construct UML and foundational designs and specifications
-- Acquire artwork and sound assets suitable to specifications
+- Generate pixel style artwork acording to references found on Trello and acquire sound assets suitable to specifications
+- Game Music is made to fit the style of the game
 - Develop the foundations of the game
 - Create game functionality, intro animations, menu, options, credits, etc
 
@@ -268,16 +269,18 @@ The aim for this trimester is to
 
 Short-term
 
-- A decided genre of game
+- A decided genre of game (1 or 2 player puzzle platform game)
 - UML Class diagrams and other designs
 - Team creations and task allocations
-- Acquisition of assets
+- Acquisition and creation of assets
 - Class creation
+- Level Editor created to export level text files.
 - Documentation
 
 Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
+- this game will be easily extendable by future teams.
 
 #### Project Members (7)
 
