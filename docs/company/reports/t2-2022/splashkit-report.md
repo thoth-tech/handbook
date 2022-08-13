@@ -304,20 +304,31 @@ Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
 - this game will be easily extendable by future teams.
+- The current collisions used will be updated to use the new Splashkit rectangle rectangle collision function once available to use.
 
 #### Progress
 
 The team have made excellent progress, covering:
 
--
+- Design Document including lore of the game 'Below the Surface', design decisions and reference images
+- Creating pixel styled visual assets using piskel to create spritesheets of a standard 64x64 size for use in game and level editor
+- Music Created appropriate to the style of the game, and more is being made.
 
 The team have also developed:
 
--
+- A Level Editor that exports level information in a txt file to create new levels
+(The Level Editor can use many layers however, 3 is recomended. player, door and enemies must be placed on layer 1)
 
 Moving forward, the teams goals have shifted to:
 
--
+- Refining the pick up and place function for moving pipes
+- Refining the Menu/splash screen and Credits/GameOver screen.
+- Refining current levels made to include intuative pipe puzzles
+- Creating the HUD displaying the players lives
+- Modifying different enemy behaviours to include a jumping enemy (blob monster) and one that doesn't move until it sees the player/s (snake).
+- Creating a bonus level where the toxic waste rises over time and player/s may collect bonus lives
+- Creating an epic boss battle for level 5
+- Game will be uploaded to Arcade Games Reposoitory for use on the Arcade Machine once the above is completed.
 
 #### Project Members (7)
 
