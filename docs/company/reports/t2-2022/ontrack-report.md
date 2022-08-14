@@ -104,7 +104,7 @@ _Delivery Representative:_ Grady Ramsay
 
 _Software Developers:_ Daniel Patrick Norris, Ricky Dodd, Mat Perkins
 
-### File Submission Enhancements -------------------------------------------------------------------\*
+### File Submission Enhancements
 
 #### Overview, Goals, and Objectives
 
