@@ -28,14 +28,13 @@ The Aims for this Trimester are:
 
 - To Test the system for a range of different audio files with multiple speakers
 - Implement the Voice Verification container into the OnTrack API
-- Design a User Interface for displaying results of verification of a Submission
 
 #### Deliverables
 
 Short Term:
 
 - Test how the system responds to audio submissions with multiple different speakers
-- Wireframes and High-Fidelity designs for User Interface for displaying results
+- Integration of the Voice Verification API into the OnTrack API
 - Documentation of implementing the Voice Verification container into the existing OnTrack API
 - Working validation of voices through a local distribution of the OnTrack API
 
@@ -44,9 +43,17 @@ Long Term:
 - Full implementation, Testing and Documentation of Voice Verification system within the existing
   OnTrack System.
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Local distribution of OnTrack running
+- Voice Verification Container Tested
+- Voice Verification API currently being tested
+
 #### Project Members (6)
 
-_Delivery Lead:_ Shaine Christmas
+_Delivery Representative:_ Shaine Christmas
 
 _Software Developers:_ Ha Nguyen, Devin Oshada Uvin Jayasinghe, Daniel Le, Simon Agahi, Jesse Kyle
 Hancock
@@ -82,13 +89,22 @@ Long Term:
 - Code review of final design
 - Build and implementation of final design into OnTrack
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of OnTrack User Flow map
+- Creation of first Iteration Wireframes
+- Creation of Project Epic and User Stories
+- Development of Proof of Concept for upload and chat history log feature
+
 #### Project Members (4)
 
-_Delivery Lead:_ Grady Ramsay
+_Delivery Representative:_ Grady Ramsay
 
 _Software Developers:_ Daniel Patrick Norris, Ricky Dodd, Mat Perkins
 
-### File Submission Enhancements
+### File Submission Enhancements -------------------------------------------------------------------\*
 
 #### Overview, Goals, and Objectives
 
@@ -121,9 +137,16 @@ Long Term:
 - Integration of relevant file types into the OnTrack submission system.
 - Ongoing documentation of valid file types new formats to add.
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Completed Local installation of OnTrack Project
+- Committed Changes for Jupiter Notebook Submission
+
 #### Project Members (7)
 
-_Delivery Lead:_ Nandini Kaushal
+_Delivery Representative:_ Nandini Kaushal
 
 _Software Developers:_ Keerat Kaur, Aaryan Sharma, Gurpartap Singh Panesar, Jayant, Yongqi Huang,
 Aryan Bagoria
@@ -160,9 +183,17 @@ Long Term:
 - Implementation of fixes for identified security vulnerabilities.
 - Further documentation of vulnerabilities and proposed fixes.
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of Github and Trello Resources
+- Research for Authenitcation and Authorisation Services
+- Meeting with Hardhat Industries to initiate Security Analysis
+
 #### Project Members (2)
 
-_Delivery Lead:_ Ereena Bagga
+_Delivery Representative:_ Ereena Bagga
 
 _Developers:_ Ben Thomas
 
@@ -199,9 +230,16 @@ Long Term:
 - Prior to CoffeeScript support being removed, make sure that future team members are supported and
   set up for success to migrate all remaining components
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of List of files to migrate from CoffeeScript to Typescript
+- Initiated migration of 5 sections, with 2 completed.
+
 #### Project Members (6)
 
-_Delivery Lead:_ Leo Luong
+_Delivery Representative:_ Leo Luong
 
 _Software Developers:_ Anthony Papoutsis, Ahmed Ali, Aldy Putra Shavira, Kosta Constantinou, Nelson
 Lai
@@ -238,9 +276,17 @@ Long Term:
   system.
 - Ongoing Documentation of the OnTrack deployment to Google Cloud Platform.
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of list of Tasks for Project Completion
+- Building understanding of Docker
+- Building understanding of the Google Cloud Platform
+
 #### Project Members (7)
 
-_Delivery Lead:_ Harshpreet Kaur
+_Delivery Representative:_ Harshpreet Kaur
 
 _Developers:_ Anshuman Bishnoi, Dan Eastaugh, Sicheng Liu, Chetan Nagar, Pratham Gupta, Xuetong Zhao
 
@@ -273,9 +319,17 @@ Long Term:
 - Ensuring the entirety of the current OnTrack project are documented
 - Formatting documentation of new areas to match OnTrack documentation standards
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of Map of OnTrack system
+- Creation of List of areas to document
+- Creation of OnTrack Local Distribution User Guide
+
 #### Project Members (6)
 
-_Delivery Lead:_ Shaine Christmas
+_Delivery Representative:_ Shaine Christmas
 
 _Documentors:_ Matt Clark, Jasdeep Singh, MD Fahim Mizi, Shiv Bhanu, Adrienne Gelbhauer
 
@@ -318,9 +372,18 @@ Long Term:
 - Maintain a bug tracker
 - Create/use documentation for standardising the creation of use cases and test cases
 
+#### Project Mid-Trimester Progress
+
+Currently Completed Tasks:
+
+- Creation of Documentation for QA and Testing Procedures
+- Upskilling in QA technologies
+- Creation of Automation Framework
+- Creation of Ontrack current and developing feature list
+
 #### Project Members (3)
 
-_Delivery Lead:_ Matthew Paul Fletcher
+_Delivery Representative:_ Matthew Paul Fletcher
 
 _Testers:_ David Kwiatkowski, Parth Aneja
 
