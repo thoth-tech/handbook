@@ -34,16 +34,19 @@ of this work, the following will be established:
 
 - Documentation of app developments
 - Research and analysis on prototype backend functionality
-- Focussing on connecting frontend to backend upon design conformation
+- Focusing on connecting frontend to backend upon design conformation
 - Complete technical prototype incorporating above analysis
 
 #### Deliverables
 
 Short-term
 
-- Detailed UML diagram for backend DB design
+- Detailed Entity Relationship Diagram of backend DB design
 - Documentation on how to setup DreamBig app using Docker
 - Frontend pages that prove backend API functionality
+- Implementation of the DreamBig star component
+- Automated database seeding to allow for testing and demonstration purposes
+- Research a QA process to be followed when developing new features
 
 Long-term
 
