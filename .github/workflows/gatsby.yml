@@ -1,0 +1,11 @@
+name: Redeploy Gatsby
+on:
+  push:
+    branches: [main]
+jobs:
+  Deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Triggering Deploy"
+      - run: curl -X POST ${{ secrets.DEPLOY_WEBHOOK }}
+      - run: echo "Done!"
