@@ -1,9 +1,8 @@
 # Company Operations Guide
 
-This purpose of this Company Operations Guide is to provide guidelines as to how certain activities
-undertaken as part of being a member of Thoth Tech should be conducted. This contents within this
-guide will assist in achieving consistency in the micro-level company operations across all teams
-and products.
+The Company Operations Guide informs Thoth Tech members of how to conduct certain company
+activities. The contents of this guide will assist in achieving consistency in micro-level company
+operations across all teams and products.
 
 ## Table of Contents
 
@@ -21,33 +20,36 @@ and products.
 
 ## Storage of Documentation
 
-Undertaking documentation is a key company operations process within Thoth Tech, including
-documenting research findings, testing processes and results, meeting notes, and much more. Ensuring
-that this documentations adheres to the
+Undertaking documentation is a key company operations process within Thoth Tech. This includes
+documenting:
+
+- Research findings
+- Meeting notes
+- Testing processes and results
+- And much more.
+
+It is important to ensure that this documentations adheres to the
 [Writing Style Guide](https://github.com/thoth-tech/handbook/blob/main/docs/processes/documentation/writing-style-guide.md)
-is important and so is ensuring that the documentation is stored in the correct location. The next
-sections outline which types of documentation are to be stored in which locations, as well as the
-recommended practices to be undertaken when storing documentation within these locations.
+and is stored in the correct location. The next sections outline where to store various
+documentation and recommended documentation practices.
 
 ### Company Handbook
 
 As best stated by Thoth Tech Managing Director Andrew Cain, the
 [Company Handbook](https://github.com/thoth-tech/handbook) is "_the source of **truth** - the place
-we go when we want to know something about a project, product, or team_". As such, the Company
-Handbook is the location to store high-level information about the Company and the projects,
-products, and teams within it, as well as processes and guidelines which apply to the whole of Thoth
-Tech. It is important that the information included within the Company Handbook is reviewed reguarly
-and updated to reflect any changes within the company.
+we go when we want to know something about a project, product, or team_". The Company Handbook
+contains high-level information about the Company and its projects, products, and teams. Also, it
+contains guidelines and process information that is relevant to the whole company.
 
 The following are examples of information relevant to be added to the Company Handbook:
 
 - Product information, including:
-  - An overview of each product
+  - Product overview
   - Product goals and objectives
-  - Guidelines for how new members can get started working on the product
+  - Guides for new members getting started
 - Team information, including:
-  - Team members and their role titles
-  - Objectives and goals for each trimester
+  - Team members and role titles
+  - Trimester objectives and goals
 - Information relevant to the whole company, including:
   - Communication guidelines
   - Contribution guidelines
@@ -58,109 +60,89 @@ The following are examples of information relevant to be added to the Company Ha
   - Leadership information
   - Data strategies
   - Quality assurance practices
-- "Epics" - high-level documents which, in a single file, overview what the working points are which
-  each product hopes to work towards and/or complete for this trimester. Epics can be for the whole
-  project/product or can be for individual teams. For individual teams, they can guide what the
-  priority tasks are for the trimester and what needs to be done, as well as provide a scope for
-  tasks, so that team members can go about assigning themselves to the tasks and work towards
-  completing them.
 
 ### Documentation Repository
 
-The purpose of the [Documentation Repository](https://github.com/thoth-tech/documentation) is to
-store any documentation which is not of high enough significance to go into the Company Handbook.
-Although not relevant to the Handbook, adding all other documentation to this Documentation
-Repository is important for transparency, and can evidence the progression of each team. Within the
-Documentaion Repository, there is a folder for each team (under the relevant product folder) for
-members of that team to store all of their non-Handbook documentation.
+The [Documentation Repository](https://github.com/thoth-tech/documentation) stores any documentation
+which is not significant enough to go into the Company Handbook. Although not relevant to the
+Handbook, adding all other documentation to this Documentation Repository is important for
+transparency and demonstrating team progress. Within this repository, there is a folder for each
+team (under the relevant product folder) for members to store their non-Handbook documentation.
 
-Specifically, the Documentation Repository can be used to store any:
+Specifically, the Documentation Repository can be used to store:
 
 - Research notes and findings
 - Planning notes
-- Diagrams developed
+- Diagrams
 - Meeting notes
 - Collaborative documents
 - Testing processes and results
 
-that are generated by each team, allowing it to be a centralised location for all such
-documentation - which can then also be used to evidence the work performed by individuals and by the
-team as a whole.
+that are generated by each team. This centralised location for all such documentation can be used to
+evidence the work performed by individuals, and by the team as a whole.
 
 ### Microsoft Teams channels
 
-While the main storage locations for any documentation should be either the Company Handbook or the
-Documentation Repository, Microsoft Teams channels may also be used to store:
+While the most documentation should be stored in the Company Handbook or Documentation Repository,
+Microsoft Teams channels may also be used to store:
 
 - In-progress collaborative documents (for example, a shared Word doc for collaborating on goals for
   the trimester)
 - The Team Worklog
 
-For collaborative documents, once they have been completed or there is no longer a need to
-collaborate on them, teams are to convert these documents in Markdown and add them to their team
-folder within the Documentation Repository.
+Once collaborative documents have been completed, teams are to convert these documents into Markdown
+and add them to the Documentation Repository.
 
 #### File & Folder Naming Conventions
 
-For documents stored under the Microsoft Teams channels, teams are to store them within a folder
-which aligns with the following naming requirements: **Trimester-Year-TeamName** (for example,
-"T2-2022-CompanyOperations"). This ensures that the documents are stored under a relevant location
-and, for future trimesters, assists the teams in finding and accessing relevant documentation.
+For documents within the Microsoft Teams channels, teams are to store them in a folder which follows
+this naming convention: **Trimester-Year-TeamName** (for example, "T2-2022-CompanyOperations"). This
+ensures that the documents are stored under a relevant location and assists future trimester’s teams
+in finding and accessing relevant documentation.
 
-For the name of each file then stored under the relevant team folders, these are to be logical file
-names which succinctly describe what the document is (for example,
-"CompanyDocumentation-Team-Worklog" rather than "Untitled1"). This will ensure that, at a glance,
-team members - both current and future - will be able to understand what the overall content of each
-documentation file will be and will assist in locating these documents.
+The name of each file within these folders must be logical and succinctly describe the file contents
+(for example, "CompanyDocumentation-Team-Worklog" rather than "Untitled1"). This will ensure that,
+at a glance, team members can understand the overall content of each file. Such naming conventions
+will also assist in locating these documents.
 
 ## Conducting Team Meetings
 
-Conducting and engaging in regular team meetings (at least once a week) is an important part of team
+Conducting and engaging in regular team meetings (at least weekly) is an important part of team
 engagement, collaboration, and management. These meetings are an opportunity to revisit and discuss
-the direction and tasks of the team, as well as a chance for members to discuss how they are
-progressing in their tasks and any blockers they might be encountering. As such, the content of
-these teams meetings is highly valuable to team members, leaders, and also higher-up members of the
-company (including company directors) in ensuring that teams are on-track to achieveing their goals
-for the trimester.
+the direction and tasks of the team, as well as how members are progressing.
 
-The next few sections outlines some guides as to where to conduct these meetings and some guidance
-regarding meeting recordings.
+The next few sections provide guidance on team meeting location and recordings of these meetings.
 
 ### Location of Team Meetings
 
 Each team within Thoth Tech is assigned their own private channel within Microsoft Teams to enable
 communication and collaboration. **This private channel is also the location where team meetings are
-to be conducted**, so that all team communication activities are conducted within the same location
-for ease of access and transparancy. Further to this, conducting the team meetings within the same
-private channel is important so that company directors can keep track of team engagement and attend
-team meetings if necessary.
-
-Although it is possible to schedule separate private meetings through the Microsoft Teams calendar
-and conduct team meetings through this avenue, this creates another private "chat channel" specific
-to the meeting and causes a separation between the communication in the main teams channel and the
-conducted meetings. Hence, it is important that teams schedule the meeting and conduct it within
-their dedicated team channel.
+to be conducted**. Doing so ensures that all team communication activities are conducted within the
+same location for ease of access and transparency. Further, conducting the team meetings within the
+same private channel allows company directors to keep track of team engagement and attend meetings
+as necessary.
 
 #### Scheduling Meetings in Private Channels
 
 The following steps are a guide through the process of setting up a recurring meeting within a
-private Microsoft Teams channel. Following this process allows for a meeting invite to be sent to
-all team members within the channel, and adds the meeting to each member's calendar for ease of time
-management.
+private Microsoft Teams channel. From following this process, a meeting invite is sent to all
+channel members and the meeting is added to the calendar.
 
-1. In Microsoft Teams, select the three dots/elipsis next to the name of the relevant team channel
-   (the three dots/elipsis appear to the right of the lock icon when the team name is hovered over),
-   and then select "Get email address" from the drop-down menu.
-2. In the resulting window is name of the channel followed by the channel's private email address in
+1. In Microsoft Teams, select the three dots/elipsis next to the name of the relevant team channel.
+   The three dots/elipsis appear to the right of the lock icon when the team name is hovered over.
+2. Select "Get email address" from the drop-down menu.
+3. In the resulting window is the channel name followed by the channel's private email address in
    angle brackets (eg **Name of Channel** <**Channel email address**>). Highlight and copy only the
    channel email address contained in the angle brackets.
-3. Next, select "Calendar" from the left side pane of Teams, and then "New meeting" in top
+
+4. Next, select "Calendar" from the left side pane of Teams, and then "New meeting" in top
    right-hand-side of the calendar window.
-4. Paste the channel email address into the meeting participants section (the section that says "Add
-   required attendees"), fill in the rest of the appropriate meeting details (including meeting
-   name, date, whether it is recurring, and a brief description), and select "Save".
-5. And you're done! A meeting invite will be automatically sent to all members of the private
-   channel and the scheduled meeting has been set up to be held within the private team channel.
+
+5. Paste the channel email address into the meeting participants section (the section that says "Add
+   required attendees"). Then, fill in the rest of the appropriate meeting details (including
+   meeting name, date, whether it is recurring, and a brief description), and select "Save".
+6. And you're done! A meeting invite will be automatically sent to all members of the private
+   channel and the scheduled meeting has been set up.
 
 (Note: this guide has been adapted from the instructions provided in
 [this article](https://scoutsaustraliansw.zendesk.com/hc/en-us/articles/360041835192-How-to-Schedule-a-meeting-from-within-a-private-Teams-channel))
@@ -168,13 +150,12 @@ management.
 ### Meeting Recordings
 
 Meeting recordings are a highly valuable source of evidence to demonstrate engagement and
-collaboration by Thoth Tech members. Additionally, recordings of meetings can then be accessed and
-utilised by members who were unable to attend the meeting live or could not atttend the full
-duration of the meeting, ensuring that all members are up-to-date with what has been discussed in
+collaboration by Thoth Tech members. Additionally, recordings of meetings can be accessed by members
+who were unable to attend. This allows all members to be up-to-date with what has been discussed in
 the meetings.
 
-**As such, all team meetings should be ensured that they are recorded** using the MS Teams recording
-function, and that these recordings are stored in a location that is logical and accessible to all
-relevant team members, leadership members, and company directors. For storing team meeting
-recordings, it is recommended that they are placed in an appropriately named folder within the
-"Files" tab of the team's private channel.
+**As such, all team meetings must be recorded** using the MS Teams recording function.
+
+It is recommended that recordings are placed in an appropriately named folder within the "Files" tab
+of the team's private channel. This allows relevant team members, leadership members, and company
+directors to access the recordings as necessary.
