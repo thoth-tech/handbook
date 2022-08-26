@@ -1,3 +1,4 @@
+# /* eslint no-use-before-define: 0 */  
 name: MD to PDF converter
 
 on:
@@ -18,7 +19,8 @@ jobs:
       - name: Printing targetted file names # outputing the targeted file names - only for logging purposes
         run: |
           file_names_arr=($TARGETED_FILE_NAMES) 
-          printf '%s ' "${file_names_arr[@]/#/$DIR_PATH}"
+          printf '%s' "${file_names_arr[@]/#/$DIR_PATH}"
+          echo "" # remove lint issues
 
       - name: Create targeted list
         id: files_list
