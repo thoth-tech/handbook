@@ -36,6 +36,3 @@ jobs:
         with:
           name: outputFile.pdf
           path: output.pdf
-
-
-          
