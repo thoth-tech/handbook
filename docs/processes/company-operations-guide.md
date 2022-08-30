@@ -130,23 +130,35 @@ channel members and the meeting is added to the calendar.
 
 1. In Microsoft Teams, select the three dots/elipsis next to the name of the relevant team channel.
    The three dots/elipsis appear to the right of the lock icon when the team name is hovered over.
-   <img src="images/CO-guide-step1.png" height=30% width=30%>
+
+   <img src="images/CO-guide-step1.png" height=40% width=40%>
+
 2. Select "Get email address" from the drop-down menu.
-   <img src="images/CO-guide-step2.png" height=30% width=30%>
+
+   <img src="images/CO-guide-step2.png" height=40% width=40%>
+
 3. In the resulting window is the channel name followed by the channel's private email address in
    angle brackets (eg **Name of Channel** <**Channel email address**>). Highlight and copy
    (right-click, then select "copy") only the channel email address contained in the angle brackets.
+
    <img src="images/CO-guide-step3.png" height=80% width=80%>
 
 4. Next, select "Calendar" from the left side pane of Teams,
-   <img src="images/CO-guide-step4.png" height=30% width=30%> and then "New meeting" in top
-   right-hand-side of the calendar window.
+
+   <img src="images/CO-guide-step4.png" height=40% width=40%>
+
+   and then "New meeting" in top right-hand-side of the calendar window.
+
    <img src="images/CO-guide-step5.png" height=100% width=100%>
 
 5. Paste the channel email address into the meeting participants section (the section that says "Add
-   required attendees"). <img src="images/CO-guide-step6.png" height=100% width=100%> Then, fill in
-   the rest of the appropriate meeting details (including meeting name, date, whether it is
-   recurring, and a brief description), and select "Save".
+   required attendees").
+
+    <img src="images/CO-guide-step6.png" height=100% width=100%>
+
+   Then, fill in the rest of the appropriate meeting details (including meeting name, date, whether
+   it is recurring, and a brief description), and select "Save".
+
 6. And you're done! A meeting invite will be automatically sent to all members of the private
    channel and the scheduled meeting has been set up.
 
