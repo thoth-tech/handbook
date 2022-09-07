@@ -7,7 +7,7 @@ difficult to manage. In each scenario there are different outcomes and courses o
 - [Technical difficulties](#technical-difficulties)
 - [Swapping teams](#swapping-teams)
 - [Time zone management](#time-zone-management)
-- [Late Onboarding](#late-onboarding)
+- [Late onboarding](#late-onboarding)
 - [Conflict management](#conflict-management)
 - [Bullying, abuse, or harassment](#bullying-abuse-or-harassment)
 
@@ -85,10 +85,10 @@ with the product and its technologies, they will be able to assist in developing
 
 ## Swapping teams
 
-At the end of each member’s first trimester with the company, they nominate which team they would
-like to be in for their senior trimester. They have the option to remain in the same team, or to
-change to another – even within a different product. This is the ideal time to swap teams, as it is
-based on your interests and what you’d like to achieve in the company.
+At the end of your first trimester with the company, you can nominate which team you would like to
+be in for your senior trimester. You have the option to remain in the same team, or to change to
+another – even within a different product. This is the ideal time to swap teams, as it is based on
+your interests and what you’d like to achieve in the company.
 
 If you wish to swap teams at any other point, it is a more complex process and is not guaranteed to
 be approved. In this case, valid reasons must be given to support the desire to swap teams. Your
@@ -119,24 +119,24 @@ Ultimately, ensuring that communication is open and that other members are aware
 differences is essential. Your team members are there to support you, so reach out to clarify
 deadlines or to ask for support should managing time differences become difficult.
 
-## Late Onboarding
+## Late onboarding
 
 When first starting out at Thoth Tech, there is a lot to explore and learn about the company and the
 technologies used. Onboarding is a key part of this process, containing several tasks and resources
 to help new junior members in getting started. Onboarding is also completed again during your time
 as a senior with Thoth Tech.
 
-In the case of late Onboarding, it is likely that other team members have already completed their
-Onboarding and are now working towards their company contributions. Should this be the case, there
+In the case of late onboarding, it is likely that other team members have already completed their
+onboarding and are now working towards their company contributions. Should this be the case, there
 are several actions which can assist in getting “up to speed”:
 
 - Importantly, introduce yourself to your team and let them know that you are going through the
-  process of Onboarding
+  process of onboarding
 - Watch the recordings of any team and company meetings that have occurred
 - Reach out to your Team and Area Leads for guidance regarding what contributions you can make that
   best suit your skill set and interests.
 
-While late Onboarding may make you feel “behind” in the company, remember that your team and peers
+While late onboarding may make you feel “behind” in the company, remember that your team and peers
 are there to support you through the process. Ensure that you reach out to your peers as needed, and
 soon enough you will be caught up and contributing within the company.
 
