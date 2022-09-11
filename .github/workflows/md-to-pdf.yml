@@ -1,4 +1,4 @@
-# /* eslint no-use-before-define: 0 */  
+# /* eslint no-use-before-define: 0 */
 name: MD to PDF converter
 
 on:
@@ -8,7 +8,7 @@ on:
 env:
   DIR_PATH: docs/company/reports/t2-2022/
   # targetted file names should be in the correct order
-  TARGETED_FILE_NAMES: company-report-v2-2.3P.md ontrack-report.md splashkit-report.md company-operation-report.md dreambig-report.md
+  TARGETED_FILE_NAMES: company-operation-report.md ontrack-report.md splashkit-report.md company-operation-report.md dreambig-report.md
 
 jobs:
   convertMDtoPDF:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Printing targetted file names # outputing the targeted file names - only for logging purposes
         run: |
-          file_names_arr=($TARGETED_FILE_NAMES) 
+          file_names_arr=($TARGETED_FILE_NAMES)
           printf '%s' "${file_names_arr[@]/#/$DIR_PATH}"
           echo "" # remove lint issues
 
