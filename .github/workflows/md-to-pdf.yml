@@ -8,7 +8,7 @@ on:
 env:
   DIR_PATH: docs/company/reports/t2-2022/
   # targetted file names should be in the correct order
-  TARGETED_FILE_NAMES: company-operation-report.md ontrack-report.md splashkit-report.md company-operation-report.md dreambig-report.md
+  TARGETED_FILE_NAMES: company-structure-obj-report.md ontrack-report.md splashkit-report.md company-operation-report.md dreambig-report.md
 
 jobs:
   convertMDtoPDF:
