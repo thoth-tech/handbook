@@ -23,9 +23,9 @@ From such communication, all Thoth Tech members should feel aware of what tasks 
 completed, and that they are continually supported and guided. If at any time you are unsure or feel
 that there is insufficient communication regarding tasks, there are several points of contact:
 
-- Your Team Lead
-- Fellow Team Members
-- The Area Lead.
+- your Team Lead
+- fellow Team Members
+- the Area Lead.
 
 It is always better to seek assistance sooner rather than later. Remember that your peers are there
 to support you, so don’t hesitate to send them a message if you’re feeling uncertain.
@@ -41,10 +41,10 @@ In any case, there are courses of action that can be taken when technical diffic
 encountered. When communicating what the technical difficulty is, please remember to provide any
 relevant:
 
-- Screenshots (including commands run and output generated, or what appears on-screen after an
+- screenshots (including commands run and output generated, or what appears on-screen after an
   action)
-- System details (for example, Operating System or version number of software)
-- General background details which directly assist in explaining the issue.
+- system details (for example, Operating System or version number of software)
+- general background details which directly assist in explaining the issue.
 
 These aspects all assist in creating a clearer understanding of the problem and what could
 potentially be done to solve it. Hence, providing as much relevant information as possible is
