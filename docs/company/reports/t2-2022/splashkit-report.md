@@ -89,6 +89,10 @@ By the end of the trimester the Operations team hopes to:
   preinstalled
 - Progress on a local prototype as proof of concept for the browser-based IDE
 
+#### Final Status
+
+-
+
 #### Project Members (4)
 
 _Delivery Lead:_ Ryan Lawrence
@@ -158,6 +162,10 @@ Goals for the end of this capstone:
 - Fix with incompatibility issue, re-locating the file, creating an environment for the file or via another approach
 - Extending the translator language by replicating of Rust library with Go and Dart
 - Complete a complete documentation and mannual for the entire process for the next generation
+
+#### Final Status
+
+-
 
 #### Project Members (4)
 
@@ -252,6 +260,10 @@ Moving forward, the teams goals have shifted to:
 - Liaising with hardware construction teams
 - Developing a design for the hardware
 
+#### Final Status
+
+-
+
 #### Project Members (7)
 
 _Delivery Lead:_ Anthony George
@@ -329,6 +341,10 @@ Moving forward, the teams goals have shifted to:
 - Creating a bonus level where the toxic waste rises over time and player/s may collect bonus lives
 - Creating an epic boss battle for level 5
 - Game will be uploaded to Arcade Games Reposoitory for use on the Arcade Machine once the above is completed.
+
+#### Final Status
+
+-
 
 #### Project Members (7)
 
@@ -473,6 +489,10 @@ By the end of the trimester the Modules team hopes to:
     team
   - Creation of a Gravity API that contains functionality for freefall, terminal velocity and
     sinking.
+
+#### Final Status
+
+-
 
 #### Project Members (8)
 
