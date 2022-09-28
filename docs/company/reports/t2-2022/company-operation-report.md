@@ -19,11 +19,13 @@ audiences.
 - GitHub actions are used to update and publish documentation(s) when PRs are merged
 - Site is hosted through GCP
 
-
 ### Project Mid-Trimester Progress
+
 - Review on previous research done
-- SRS details updated and merged [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
+- SRS details updated and merged
+  [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
 - Gatsby implementation plan done [PR link](https://github.com/thoth-tech/documentation/pull/117)
+
 #### Aims for Trimester
 
 - Implementation of Gatsby centralised documentation website
@@ -75,12 +77,13 @@ this aim, the team will:
   documentation to accommodate such needs
 - Work to the best of our abilities to create meaningful and high quality documentation
 
-
 ### Project Mid-Trimester Progress
+
 - Reviewed the current state of company handbook
 - T2 Project and Team updated
 - Each team has access to update their interim reports for each project
-- On boarding is getting updated [Here](https://github.com/thoth-tech/handbook/blob/updateonboarding/docs/peopleops/onboarding/onboarding-process.md)
+- On boarding is getting updated
+  [Here](https://github.com/thoth-tech/handbook/blob/updateonboarding/docs/peopleops/onboarding/onboarding-process.md)
 - Getting started guide is updated and merged [Here](https://github.com/thoth-tech/handbook/pull/99)
 
 #### Deliverables
