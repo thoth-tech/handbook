@@ -91,7 +91,17 @@ By the end of the trimester the Operations team hopes to:
 
 #### Final Status
 
--
+- Single-command installer for macOS, Linux, and Windows completed (awaiting pull request approval to
+  merge into master https://github.com/splashkit/skm/pull/46)
+- Windows and Linux downloadable GUI installer completed, awaiting creation of new splashkit repo (currently available at https://github.com/Issey9119/SplashKit-Installation-Windows)
+  - macOS downloadable GUI installer not yet started due to lack of macOS device to test on (and inability to run in VM), but should be similar to Linux implementation
+- SplashKit.io website updated to reflect new install process for single command installers on all operating systems (awaiting pull request approval to merge into master https://github.com/splashkit/splashkit.io/pull/39)
+  - Website has also been updated to add a link to download the Windows GUI installer
+    - Currently links to an external repo until the new splashkit repo is created
+    - Will need to update website again once macOS and Linux GUI installers are completed
+- SplashKit browser IDE research completed, and working prototype implemented with Gitpod (available at https://github.com/thoth-tech/splashkit-gitpod-environment)
+  - TODO: futher automate the installation of SplashKit in the Gitpod container (specifically automating "skm linux install" following skm install)
+  - TODO: Implement NoVNC to emulate GUI for SplashKit programs
 
 #### Project Members (4)
 
