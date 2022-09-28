@@ -3,7 +3,7 @@
 Managing company processes and operations. Keeping Thoth-Tech running. Help employees to understand
 the systems, equipment, people, and processes need to make the organization function.
 
-**Process Lead:** Ishrat Jahan
+**Process Representative:** Ishrat Jahan
 
 ### Documentation Infrastructure System
 
@@ -13,37 +13,40 @@ audiences.
 
 #### Overview, Goals, and Objectives
 
-- Establish an website for centralised documentation
+- Establish an Gatsby static site website for centralised documentation
 - Documentation produced is accurate to current version of products
-- A quick way for updating and distributing company and product details
-- Site is automatically generated when contributions are made
-- Site is hosted
+- An accessible way for storing and distributing company and product details
+- GitHub actions are used to update and publish documentation(s) when PRs are merged
+- Site is hosted through GCP
 
+
+### Project Mid-Trimester Progress
+- Review on previous research done
+- SRS details updated and merged [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
+- Gatsby implementation plan done [PR link](https://github.com/thoth-tech/documentation/pull/117)
 #### Aims for Trimester
 
-- Research privacy and security features
-- Design the interface
-- Deciding who gets access
+- Implementation of Gatsby centralised documentation website
+- Establish privacy and security features
 - Deciding how will we test
-- How will privacy be protected
-- A prototype showing all design and functionality of the internal website
+- A document showing all design and functionality of the internal website
 
 #### Deliverables
 
 Short-term:
 
-- Design the interface
+- Initial Gatsby centralised documentation website
 - Establishing testing strategy
 - Establishing hosting strategy
-- Research solutions
+- Document processes
 
 Long-term:
 
-- Establish a website for centralised documentation as a part of Company Operation.
+- Establish a website for all documentation as a part of Company Operation.
 
 #### Project Members (6)
 
-_Delivery Lead:_ Ishrat Jahan
+_Delivery Representative:_ Ishrat Jahan
 
 _Software Developers:_ Harrison Paul Allwood, Manveen Kaur Bhullar, Pratham Gupta, Sherap Thakur,
 Tanish Dhapola
@@ -65,17 +68,26 @@ This trimester, the Company Documentation team aims to create, manage, maintain,
 state of company documentation, company policies around transition and people operation. In meeting
 this aim, the team will:
 
-- Review the current state of documentation across the company (including company handbook)
+- Update company onboarding, operational processes in the handbook
 - Identify gaps or areas of improvement
 - Create new documentation, including templates, in order to address these areas
 - Continue to think critically about the documentation needs of the company and create additional
   documentation to accommodate such needs
 - Work to the best of our abilities to create meaningful and high quality documentation
 
+
+### Project Mid-Trimester Progress
+- Reviewed the current state of company handbook
+- T2 Project and Team updated
+- Each team has access to update their interim reports for each project
+- On boarding is getting updated [Here](https://github.com/thoth-tech/handbook/blob/updateonboarding/docs/peopleops/onboarding/onboarding-process.md)
+- Getting started guide is updated and merged [Here](https://github.com/thoth-tech/handbook/pull/99)
+
 #### Deliverables
 
 Short-term:
 
+- Establish Operational rules and regulations
 - Various documentation to supplement current documents in order to better meet company needs
 - Reviewed and improved documentation and handbook to better the state of documentation across the
   whole company
@@ -89,7 +101,7 @@ Long-term:
 
 #### Project Members (6)
 
-_Delivery Lead:_ James Micallef
+_Delivery Representative:_ James Micallef
 
 _Company Documentation Members (specific roles TBA):_ Sarah Nicole Dyson, Ethan Graham Keirs, Durga
-Maya Ghallay, Charanjeet Singh, Faiq Rehman.
+Maya Ghallay, Charanjeet Singh, Faiq Rehman
