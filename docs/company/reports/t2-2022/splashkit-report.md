@@ -93,7 +93,7 @@ By the end of the trimester the Operations team hopes to:
 
 - Single-command installer for macOS, Linux, and Windows completed (awaiting pull request approval to
   merge into master https://github.com/splashkit/skm/pull/46)
-- Windows and Linux downloadable GUI installer completed, awaiting creation of new splashkit repo (currently available at https://github.com/Issey9119/SplashKit-Installation-Windows)
+- Windows and Linux downloadable GUI installer completed, awaiting creation of new splashkit repo (Available at https://github.com/thoth-tech/splashkit-core/tree/ismail/SplashKit_Install)
   - macOS downloadable GUI installer not yet started due to lack of macOS device to test on (and inability to run in VM), but should be similar to Linux implementation
 - SplashKit.io website updated to reflect new install process for single command installers on all operating systems (awaiting pull request approval to merge into master https://github.com/splashkit/splashkit.io/pull/39)
   - Website has also been updated to add a link to download the Windows GUI installer
