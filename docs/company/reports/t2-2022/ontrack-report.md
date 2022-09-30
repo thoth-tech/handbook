@@ -10,7 +10,7 @@ assistance of teaching staff feedback throughout the unit. OnTrack is based on D
 Thoth Tech is working towards creating new and enhanced features that improve the teaching and
 learning experience.
 
-**Product Lead:** Shaine Christmas
+**Product Lead:** Shaine Christmas, Matthew Fletcher
 
 ### Voice Verification
 
@@ -377,9 +377,24 @@ Long Term:
 Currently Completed Tasks:
 
 - Creation of Documentation for QA and Testing Procedures
-- Upskilling in QA technologies
+- Up-skilling in QA technologies
 - Creation of Automation Framework
-- Creation of Ontrack current and developing feature list
+- Creation of OnTrack current and developing feature list
+
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
+- Creation of Documentation for QA and Testing Procedures
+- Up-skilling in QA technologies
+- Creation of Automation Framework
+- Creation of UI automation Repository
+- Creation of OnTrack current and developing feature list
+- Creation of Use Cases for Students, Markers, and Administrators
+- Creation of Test Strategy Document
+- Creation of Automation On-boarding Document
+- Creation of Test Case Template
+- Creation of Test Case List
 
 #### Project Members (3)
 
