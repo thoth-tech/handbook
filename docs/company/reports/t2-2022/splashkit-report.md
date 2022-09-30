@@ -281,18 +281,37 @@ Moving forward, the teams goals have shifted to:
 
 #### Final Status
 
+This team has made remarkable developmental progress of the Arcade Machine software this trimester.  
+Early on, heavy focus was put on refactoring the code base to meet style and conventions guidelines.
+This included:  
+
 - Major refactoring of tightly coupled components has been completed
 - Separation of implementation logic and definitions has been completed
-- Revised build process has been implemented allowing for a faster incremental build process
+- Revised build process has been implemented allowing for a faster incremental build process with the implementation of a `Makefile`
+- Documentation covering source code style and convention has been authored
+
+The team recognised and prioritised the necessity of cross-platform application support,
+especially with the goal of this software executing on a RaspberryPi.  
+This ensured the following tasks:
+
 - Support for Windows, macOS and Linux has been completed
 - Further stability added through identification and resolution of previously undetected bugs
+
+New features have been implemented such as:
+
+- Database class and methods to interact with MySQL database tables
+- Ability to add a rating to games (ratings are stored in the database)
+- Play time durations of each game (durations are stored in the database)
+- A full re-design of the Options menu to comply with the standardised architecture, alllowing for
+- New, dynamically generating 'Credits' screen
+- New, dynamically generating 'About' screen
+
 - Automated cross-platform game build scripts have been completed
-- New, dynamically generating about and credits screen added
-- Documentation covering source code style and convention has been authored
-- Code base has been refactored to meet style and conventions guidelines
-- Documentation has been partially added, but still needs more work
+
 - Team was able run the Arcade Machine software on physical hardware
-  - Arcade Machine software runs slow on models older than RaspberryPi 4
+
+- Documentation has been partially added, but still needs more work
+- Arcade Machine software runs slow on models older than RaspberryPi 4
 
 #### Project Members (7)
 
