@@ -290,24 +290,40 @@ This included:
 - Revised build process has been implemented allowing for a faster incremental build process with the implementation of a `Makefile`
 - Documentation covering source code style and convention has been authored
 
-The team recognised and prioritised the necessity of cross-platform application support,
-especially with the goal of this software executing on a RaspberryPi.  
+The team recognised and prioritised the necessity of cross-platform application support early on,
+especially considering the goal for this software to be executed using RaspberryPi, a Linux system.  
 This ensured the following tasks:
 
-- Support for Windows, macOS and Linux has been completed
-- Further stability added through identification and resolution of previously undetected bugs
+- Support for Windows, macOS and Linux was prioritised and has been completed
+- Further cross-platform compatibility added through identification and resolution of previously undetected bugs
 
-New features have been implemented such as:
+Good time and task management has been a crucial aspect of this teams success.  
+Each member has selected a task to implement a new feature:
 
-- Database class and methods to interact with MySQL database tables
-- Ability to add a rating to games (ratings are stored in the database)
-- Play time durations of each game (durations are stored in the database)
-- A full re-design of the Options menu to comply with the standardised architecture, alllowing for
-- New, dynamically generating 'Credits' screen
-- New, dynamically generating 'About' screen
+- Database class and methods to interact with MySQL database tables - Zac Brydon
+- Ability to add a rating to games (ratings are stored in the database) - Riley Dellios
+- Play time durations of each game (durations are stored in the database) - Zac & Riley
+- A full re-design of the Options menu to comply with the standardised architecture - Anthony George
+- New, dynamically generating 'Credits' screen - Lachlan Foy
+- New, dynamically generating 'About' screen - Richard Douglas-Denton
 
-- Automated cross-platform game build scripts have been completed
+The above features have been thoughtfully designed and implemented to allow for future development to easily adapat to the architecture.  
 
+The design of the Arcade Machine architecture demands dependancy on other Thoth Tech repositories to operate correctly.
+One of these repos is the [arcade-games](https://github.com/thoth-tech/arcade-games) repository.
+As the designs show, the Arcade Machine fetches new games from this repo on startup, requiring several things:
+
+- Validation to ensure the content being downloaded is not malicious
+- Validation to ensure the config.txt file has been included and completed
+- Validation to ensure the content being downloaded contains pre-compiled executables (the Arcade Machine does not apply builds)
+
+To accomodate this, we have developed and tested through the use of 'GitHub Actions':
+
+- Automated Validation of contributed games
+- Automated cross-platform game compilation scripts have also been completed.
+
+- Creation of automated Arcade Machine startup scripts for RaspberryPi
+- Modification of `splashkit/skm` to accomodate Raspbian OS
 - Team was able run the Arcade Machine software on physical hardware
 
 - Documentation has been partially added, but still needs more work
