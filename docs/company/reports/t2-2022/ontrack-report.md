@@ -10,7 +10,7 @@ assistance of teaching staff feedback throughout the unit. OnTrack is based on D
 Thoth Tech is working towards creating new and enhanced features that improve the teaching and
 learning experience.
 
-**Product Lead:** Shaine Christmas, Matthew Fletcher
+**Product Leads:** Shaine Christmas, Matthew Fletcher
 
 ### Voice Verification
 
@@ -51,6 +51,17 @@ Currently Completed Tasks:
 - Voice Verification Container Tested
 - Voice Verification API currently being tested
 
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
+- Local distribution of OnTrack running
+- Voice Verification Container Tested
+- Voice Verification Design Document
+- Creation of Voice Verification Handover Document
+- Creation of Audio System Interface Design Document
+- Testing of Voice Verification API
+
 #### Project Members (6)
 
 _Delivery Representative:_ Shaine Christmas
@@ -62,11 +73,10 @@ Hancock
 
 #### Overview, Goals, and Objectives
 
-The Objective of this project is to redesign the task view and submission process for students
-empowering students, connecting them with tutors and facilitating personalised learning experiences.
+The objective of this project is to redesign the task view and submission process for students.
+This project should empower students, connecting them with tutors and facilitating personalised learning experiences.
 Our goal is creating UI and software designs for a "next generation" update to tasks in OnTrack. The
-project effects all users of OnTrack, mainly for how students view and understand their tasks for
-their units, as well as how submission is handled for students and assessors.
+project effects all users of OnTrack, mostly affecting student viewing of tasks. Additionally, the project affects how submission is handled for students and assessors.
 
 #### Aims for Trimester
 
@@ -80,7 +90,7 @@ The aims for this trimester are:
 Short Term:
 
 - Documentation Epic and User stories.
-- Develop and deliver 4 wireframes.
+- Develop and deliver 4 wire frames.
 - Develop and deliver 2 visual designs.
 
 Long Term:
@@ -94,7 +104,16 @@ Long Term:
 Currently Completed Tasks:
 
 - Creation of OnTrack User Flow map
-- Creation of first Iteration Wireframes
+- Creation of first Iteration Wire frames
+- Creation of Project Epic and User Stories
+- Development of Proof of Concept for upload and chat history log feature
+
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
+- Creation of OnTrack User Flow map
+- Creation of first Iteration Wire frames
 - Creation of Project Epic and User Stories
 - Development of Proof of Concept for upload and chat history log feature
 
@@ -144,6 +163,10 @@ Currently Completed Tasks:
 - Completed Local installation of OnTrack Project
 - Committed Changes for Jupiter Notebook Submission
 
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
 #### Project Members (7)
 
 _Delivery Representative:_ Nandini Kaushal
@@ -155,7 +178,7 @@ Aryan Bagoria
 
 #### Overview, Goals, and Objectives
 
-The aim of the Security Analysis project is to understand the vulnerabilities within the OnTrack
+The aim of the Security Analysis project is to understand the vulnerabilities in the OnTrack
 system, to aid in the implementation of security measures. Given that OnTrack has a high throughput
 of task submission and user data, protecting the students and assessors data is paramount for
 ensuring that both technical system remain secure. This will effect all users of Ontrack, as well as
@@ -190,6 +213,10 @@ Currently Completed Tasks:
 - Creation of Github and Trello Resources
 - Research for Authenitcation and Authorisation Services
 - Meeting with Hardhat Industries to initiate Security Analysis
+
+#### Project End-Trimester Progress
+
+Completed Tasks:
 
 #### Project Members (2)
 
@@ -236,6 +263,10 @@ Currently Completed Tasks:
 
 - Creation of List of files to migrate from CoffeeScript to Typescript
 - Initiated migration of 5 sections, with 2 completed.
+
+#### Project End-Trimester Progress
+
+Completed Tasks:
 
 #### Project Members (6)
 
@@ -284,6 +315,10 @@ Currently Completed Tasks:
 - Building understanding of Docker
 - Building understanding of the Google Cloud Platform
 
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
 #### Project Members (7)
 
 _Delivery Representative:_ Harshpreet Kaur
@@ -320,12 +355,22 @@ Long Term:
 - Formatting documentation of new areas to match OnTrack documentation standards
 
 #### Project Mid-Trimester Progress
-
 Currently Completed Tasks:
 
 - Creation of Map of OnTrack system
 - Creation of List of areas to document
 - Creation of OnTrack Local Distribution User Guide
+
+#### Project End-Trimester Progress
+
+Completed Tasks:
+
+- Creation of Map of OnTrack system
+- Creation of List of areas to document
+- Creation of OnTrack Local Distribution User Guide
+- Creation of OnTrack Documentation Template
+- Creation of OnTrack Documentation Template User Guide
+- Creation of OnTrack Architecture Document
 
 #### Project Members (6)
 
