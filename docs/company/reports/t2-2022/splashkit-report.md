@@ -347,7 +347,7 @@ Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
 - this game will be easily extendable by future teams.
-- The current collisions used will be updated to use the new Splashkit rectangle rectangle collision
+- The current collisions used will be updated to use the new Splashkit rectangle-rectangle collision
   function once available to use.
 
 #### Progress
@@ -528,7 +528,46 @@ By the end of the trimester the Modules team hopes to:
 
 #### Final Status
 
--
+- Data Analytics
+  - Dataframe constructor has been completed
+  - Data can be inserted as a vector of values as either a row or a column
+    - Will check to ensure that the data types are correct for each column
+      - Throws an invalid argument if they don't match
+  - Individual cells can be updated and retrieved
+  - A null value has been specifically built for the dataframe to aid with functionality
+  - A save to csv function has been implemented
+  - The dataframe and its individul columns and rows can be displayed in the terminal
+  - Work on finalising basic methods for datatype conversion is in progress, currently waiting on
+    finalisation of a pull request review: https://github.com/thoth-tech/splashkit-core/pull/22
+  - Load CSV function yet to be finalised
+  - Dataframe can be created and have data points added and changed.
+- Machine Learning
+  - Neural networking library initiated
+    - Only implements a fully connected (dense) network currently
+    - Only ReLu and Sigmoid activation functions created
+    - Testing has been implemented
+    - Back propogation needs to be reworked and optimised
+  - Matrix2d updated to scale size of matrices
+    - Originally supported only a 3x3 matrix
+  - Pong Game API created
+    - Allows user vs user to test the game handles as expected
+    - Implements a random agent
+    - Implements a q learning agent
+  - TicTacToe Game API updated
+    - Tests Q-Learning and MiniMax agents
+  - Training progress bar implemented
+    - Allows developer to visualise progress through training iterations
+  -
+- Physics
+  - Review document of physics module completed
+    - Recommendations for how to refactor and implement current methods included
+    - Located in
+      [documentation repository](https://github.com/thoth-tech/documentation/blob/main/docs/Splashkit/Modules/Physics/Research%20%26%20Findings/Physics_Module_Review_2022_Trimester_2.md)
+  - Code from fork moved into `splashkit-core` repository on
+    [modules/physics](https://github.com/thoth-tech/splashkit-core/blob/modules/physics/coresdk/src/coresdk/physics.cpp)
+    branch
+  - Maths behind some physics methods needs to be checked
+  - Documentation partially completed, requires test cases and testing strategy to be written
 
 #### Project Members (8)
 
