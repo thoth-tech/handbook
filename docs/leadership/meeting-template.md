@@ -4,17 +4,20 @@
 
 ### Meeting Minutes
 
-06/03/2022
+Date: [dd/mm/yyyy]
+Time: [Time here]
 
 Present: [Names here]
 
 Apologies: [Names here]
 
-Next meeting: 07/03/2022
+Next meeting: [dd/mm/yyyy]
 
 Minutes by: [Names here]
 
 **Agenda**
+
+- List
 
 **Announcements**
 
