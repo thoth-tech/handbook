@@ -602,7 +602,7 @@ By the end of the trimester the Modules team hopes to:
   - A save to csv function has been implemented
   - The dataframe and its individul columns and rows can be displayed in the terminal
   - Work on finalising basic methods for datatype conversion is in progress, currently waiting on
-    finalisation of a pull request review: https://github.com/thoth-tech/splashkit-core/pull/22
+    finalisation of a pull request review: [pull request #22](https://github.com/thoth-tech/splashkit-core/pull/22)
   - Load CSV function yet to be finalised
   - Dataframe can be created and have data points added and changed.
 - Machine Learning
