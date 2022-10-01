@@ -185,9 +185,9 @@ Goals for the end of this capstone:
 #### Final Status
 
 Bella has made significant contributions to enabling the use of Golang language to the translator.
+These contributions are awaiting further review in this [pull request](https://github.com/thoth-tech/splashkit-translator/pull/12#pullrequestreview-1127442070)
 
-This team had some difficulty progressing the remaining project developments this trimester.
-
+Other members of this team have had some difficulty progressing the remaining project developments this trimester.
 
 #### Project Members (4)
 
