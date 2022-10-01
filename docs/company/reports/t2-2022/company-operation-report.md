@@ -91,5 +91,5 @@ Long-term:
 
 _Delivery Lead:_ James Micallef
 
-_Company Documentation Members (specific roles TBA):_ Sarah Nicole Dyson, Ethan Graham Keirs, Durga
+_Documentation Developer:_ Sarah Nicole Dyson, Ethan Graham Keirs, Durga
 Maya Ghallay, Charanjeet Singh, Faiq Rehman.
