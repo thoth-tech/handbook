@@ -39,7 +39,7 @@ In an office environment, a secure network is provided for employees to utilise 
 company operations. For remote working environments, however, there is no standard or uniform
 network for employees to connect to – home or public networks instead being used. Such networks,
 particularly free public Wi-Fi networks, may have minimal security. As such, the risk of data loss
-or cyber attacks also increase should such insecure networks be accessed.
+or cyber-attacks also increase should such insecure networks be accessed.
 
 ### Shared computers
 
