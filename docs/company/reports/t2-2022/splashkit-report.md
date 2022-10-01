@@ -423,28 +423,42 @@ The team have made excellent progress, covering:
 - Creating pixel styled visual assets using piskel to create spritesheets of a standard 64x64 size
   for use in game and level editor
 - Music Created appropriate to the style of the game, and more is being made.
+- pick up and place function for moving pipes
+- Created functional Menu screen, Credits and GameOver screen.
+- Current levels made to include intuative pipe puzzles
+- Creating the HUD displaying the players lives and health
+- Different enemy behaviours for each enemy created (roach, snake, blob, flies (3 types), rat and water rat / boss).
+- Creating an epic boss battle for level 10
 
 The team have also developed:
 
 - A Level Editor that exports level information in a txt file to create new levels (The Level Editor
-  can use many layers however, 3 is recomended. player, door and enemies must be placed on layer 1)
+  can use many layers however, 2-4 is recomended. player and door must be placed on layer 1)
 
 Moving forward, the teams goals have shifted to:
-
-- Refining the pick up and place function for moving pipes
-- Refining the Menu/splash screen and Credits/GameOver screen.
-- Refining current levels made to include intuative pipe puzzles
-- Creating the HUD displaying the players lives
-- Modifying different enemy behaviours to include a jumping enemy (blob monster) and one that
-  doesn't move until it sees the player/s (snake).
-- Creating a bonus level where the toxic waste rises over time and player/s may collect bonus lives
-- Creating an epic boss battle for level 5
-- Game will be uploaded to Arcade Games Reposoitory for use on the Arcade Machine once the above is
+- Being able to drop a pipe if a different one is needed first (near place of player when dropped)
+- There are two sound effect errors that only occur on mac (toxic waste and rain sound effects)
+- (optional) a spider enemy added to the game.
+- (optional) more levels!
+- When uploaded to the Arcade Games Reposoitory and played through the Arcade Machine there was a segmentation error where the game would occasionally crash at different points. we must find where and why this error is happening. (and fix it)
+- Game will be uploaded to Arcade Games Reposoitory (again) for use on the Arcade Machine once the above is
   completed.
+
 
 #### Final Status
 
--
+- Below the Surface (game) has 12 levels in total
+- 3 easy levels
+- 2 moderately difficult levels
+- 2 hard levels
+- slime surfin' level where player must fall without dying
+- 2 non pipe puzzle levels where the focus is on combat.
+- 2 bonus levels only accessible through password entry
+- 4 different music tracks created specifically to fit the style of the game
+- A password entry load level function
+- A challenging 1 player game, 
+- A very challenging 2 player game! (if player2 out of window player2 dies AND if either player is out of lives it is game over)
+- Game was uploaded to Arcade Games reposetory for testing through Arcade Machine reposetory.
 
 #### Project Members (7)
 
