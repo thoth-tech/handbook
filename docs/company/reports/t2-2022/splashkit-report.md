@@ -189,6 +189,9 @@ These contributions are awaiting further review in this [pull request](https://g
 
 Other members of this team have had some difficulty progressing the remaining project developments this trimester.
 
+[Trello Board](https://trello.com/b/xIVeBYwU/language-extensions)
+[Teams Channel](https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/school/conversations/SplashKit%20-%20Extensions?threadId=19:45968578cad94ed7852cb076b8e69c82@thread.tacv2&ctx=channel)
+
 #### Project Members (4)
 
 _Delivery Lead:_ Bella Chhour
