@@ -73,10 +73,11 @@ Hancock
 
 #### Overview, Goals, and Objectives
 
-The objective of this project is to redesign the task view and submission process for students.
-This project should empower students, connecting them with tutors and facilitating personalised learning experiences.
-Our goal is creating UI and software designs for a "next generation" update to tasks in OnTrack. The
-project effects all users of OnTrack, mostly affecting student viewing of tasks. Additionally, the project affects how submission is handled for students and assessors.
+The objective of this project is to redesign the task view and submission process for students. This
+project should empower students, connecting them with tutors and facilitating personalised learning
+experiences. Our goal is creating UI and software designs for a "next generation" update to tasks in
+OnTrack. The project effects all users of OnTrack, mostly affecting student viewing of tasks.
+Additionally, the project affects how submission is handled for students and assessors.
 
 #### Aims for Trimester
 
@@ -165,6 +166,7 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+
 - Completed Local installation of OnTrack Project
 - Committed Changes for Jupiter Notebook Submission
 
@@ -179,11 +181,11 @@ Aryan Bagoria
 
 #### Overview, Goals, and Objectives
 
-The aim of the Security Analysis project is to understand the vulnerabilities in the OnTrack
-system, to aid in the implementation of security measures. Given that OnTrack has a high throughput
-of task submission and user data, protecting the students and assessors data is paramount for
-ensuring that both technical system remain secure. This will effect all users of Ontrack, as well as
-the ongoing development of the OnTrack system.
+The aim of the Security Analysis project is to understand the vulnerabilities in the OnTrack system,
+to aid in the implementation of security measures. Given that OnTrack has a high throughput of task
+submission and user data, protecting the students and assessors data is paramount for ensuring that
+both technical system remain secure. This will effect all users of Ontrack, as well as the ongoing
+development of the OnTrack system.
 
 #### Aims for Trimester
 
@@ -218,6 +220,7 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+
 - Creation of Github and Trello Resources
 - Research for Authenitcation and Authorisation Services
 - Meeting with Hardhat Industries to initiate Security Analysis
@@ -271,6 +274,7 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+
 - Creation of List of files to migrate from CoffeeScript to Typescript
 - Completed migration of 6 Components.
 - Creation of Documentation of Migration.
@@ -325,6 +329,7 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+
 - Creation of list of Tasks for Project Completion
 - Building understanding of Docker
 - Building understanding of the Google Cloud Platform
@@ -368,6 +373,7 @@ Long Term:
 - Formatting documentation of new areas to match OnTrack documentation standards
 
 #### Project Mid-Trimester Progress
+
 Currently Completed Tasks:
 
 - Creation of Map of OnTrack system
@@ -395,11 +401,11 @@ _Documentors:_ Matt Clark, Jasdeep Singh, MD Fahim Mizi, Shiv Bhanu, Adrienne Ge
 
 #### Overview, Goals, and Objectives
 
-This projects main goal is to identify and document the current features of OnTrack and put in
-place a Quality Assurance and Testing infrastructure to better maintain the quality of OnTrack and
-allow for more polished product. As OnTrack continues in its development, ensuring that robust
-testing is important for ensuring the quality of OnTrack as a system. The overarching goal of this
-project is to ensure that the OnTrack product is robust and completes rigorous testing.
+This projects main goal is to identify and document the current features of OnTrack and put in place
+a Quality Assurance and Testing infrastructure to better maintain the quality of OnTrack and allow
+for more polished product. As OnTrack continues in its development, ensuring that robust testing is
+important for ensuring the quality of OnTrack as a system. The overarching goal of this project is
+to ensure that the OnTrack product is robust and completes rigorous testing.
 
 #### Aims for Trimester
 
