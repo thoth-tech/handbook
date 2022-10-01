@@ -410,7 +410,7 @@ Short-term
 Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
-- this game will be easily extendable by future teams (using documentation provided in build-a-game reposetory and level editor)
+- this game will be easily extendable by future teams (using documentation provided in build-a-game repository and level editor)
 - The current collisions used will be updated to use the new Splashkit rectangle-rectangle collision
   function once available to use.
 
@@ -441,8 +441,8 @@ Moving forward, the teams goals have shifted to:
 - There are two sound effect errors that only occur on mac (toxic waste and rain sound effects)
 - (optional) a spider enemy added to the game.
 - (optional) more levels!
-- When uploaded to the Arcade Games Reposoitory and played through the Arcade Machine there was a segmentation error where the game would occasionally crash at different points. we must find where and why this error is happening. (and fix it)
-- Game will be uploaded to Arcade Games Reposoitory (again) for use on the Arcade Machine once the above is
+- When uploaded to the Arcade Games Repository and played through the Arcade Machine there was a segmentation error where the game would occasionally crash at different points. we must find where and why this error is happening. (and fix it)
+- Game will be uploaded to Arcade Games Repository (again) for use on the Arcade Machine once the above is
   completed.
 
 
@@ -459,7 +459,7 @@ Moving forward, the teams goals have shifted to:
 - A password entry load level function
 - A challenging 1 player game, 
 - A very challenging 2 player game! (if player2 out of window player2 dies AND if either player is out of lives it is game over)
-- Game was uploaded to Arcade Games reposetory for testing through Arcade Machine reposetory.
+- Game was uploaded to Arcade Games repository for testing through Arcade Machine reposetory.
 
 #### Project Members (7)
 
