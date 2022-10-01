@@ -317,17 +317,40 @@ As the designs show, the Arcade Machine fetches new games from this repo on star
 - Validation to ensure the config.txt file has been included and completed
 - Validation to ensure the content being downloaded contains pre-compiled executables (the Arcade Machine does not apply builds)
 
-To accomodate this, we have developed and tested through the use of 'GitHub Actions':
+To accomodate this, we have developed and tested the following through the use of 'GitHub Actions':
 
-- Automated Validation of contributed games
+- Automated validation of contributed games
 - Automated cross-platform game compilation scripts have also been completed.
+
+Development has progressed to the implementation of hardware where the following development has been completed:  
 
 - Creation of automated Arcade Machine startup scripts for RaspberryPi
 - Modification of `splashkit/skm` to accomodate Raspbian OS
-- Team was able run the Arcade Machine software on physical hardware
+- Testing the Arcade Machine software on:  
+- Windows, Linux Manjaro, Linux Ubuntu, macOS
+- RaspberryPi Zero (performs poorly)
+- RaspberryPi 3 B+ (performs well with GPU acceleration, with some artefacts to address)
+- RaspberryPi 4 (performs as exepected)
 
-- Documentation has been partially added, but still needs more work
-- Arcade Machine software runs slow on models older than RaspberryPi 4
+#### Future Development
+
+There is still plenty of scope for this project to expand and progress.  
+The team have identified areas for improvement, with focus on how RaspberryPi hardware performs.  
+Focus should be given to:
+
+- Documentation has been partially added, but requires additions
+- Address why the software runs slow on models older than RaspberryPi 4
+- Options menu is now effectively a 'blank canvas', inviting further development of new features
+to take advantage of newly implemented database facilties
+
+#### Links to associated documentation and dependancies
+
+[Trello Board](https://trello.com/b/cnMs1BW6/arcade-team)
+[arcade-machine repo](https://github.com/thoth-tech/arcade-machine)
+[arcade-games repo](https://github.com/thoth-tech/arcade-games)
+[arcade-startup repo](https://github.com/thoth-tech/arcade-machine-startup)
+[Lucid Chart Designs](https://lucid.app/lucidchart/e8aca17d-caf6-4e07-bf3f-e90277dd6a42/edit?page=0_0&invitationId=inv_770fb38f-fe04-4ca1-ad6d-ea036024d6aa#)
+[Teams Channel](https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/school/conversations/SplashKit%20Arcade%20Machine?threadId=19:4f9172e017464db0875b526e2a7deea2@thread.tacv2&ctx=channel)
 
 #### Project Members (7)
 
