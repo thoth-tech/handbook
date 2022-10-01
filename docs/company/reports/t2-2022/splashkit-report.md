@@ -184,7 +184,10 @@ Goals for the end of this capstone:
 
 #### Final Status
 
--
+Bella has made significant contributions to enabling the use of Golang language to the translator.
+
+This team had some difficulty progressing the remaining project developments this trimester.
+
 
 #### Project Members (4)
 
