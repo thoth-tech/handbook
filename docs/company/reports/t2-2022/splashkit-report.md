@@ -372,7 +372,7 @@ Zirufaan, Zac Brydon
 This trimester, this team will collaborate as a unit to create a single game of exceptional class
 and quality.
 
-The goal is to make a game so good it is worthy of commercial release game. The intension here is to
+The goal is to make a game so good it is worthy of commercial release. The intension here is to
 showcase to the world, the power of the SplashKit SDK, and encourage developers to develop games
 using the engine. This trimester's student developers will aim to utilise as many methods that
 SplashKit has to offer in order to ‘advertise’ SplashKit’s ability as a game engine.
@@ -429,6 +429,7 @@ The team have made excellent progress, covering:
 - Creating the HUD displaying the players lives and health
 - Different enemy behaviours for each enemy created (roach, snake, blob, flies (3 types), rat and water rat / boss).
 - Creating an epic boss battle for level 10
+- instructional MarkDown files on how to create levels using the level editor and how to load these txt files into the game for testing at level 1.
 
 The team have also developed:
 
