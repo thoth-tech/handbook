@@ -410,7 +410,7 @@ Short-term
 Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
-- this game will be easily extendable by future teams.
+- this game will be easily extendable by future teams (using documentation provided in build-a-game reposetory and level editor)
 - The current collisions used will be updated to use the new Splashkit rectangle-rectangle collision
   function once available to use.
 
