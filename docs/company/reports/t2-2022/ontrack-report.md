@@ -112,10 +112,9 @@ Currently Completed Tasks:
 
 Completed Tasks:
 
-- Creation of OnTrack User Flow map
-- Creation of first Iteration Wire frames
-- Creation of Project Epic and User Stories
-- Development of Proof of Concept for upload and chat history log feature
+- Documentation of Project
+- Completion of Iteration 3 wire frames
+- Coded example of time-based log back-end functioning
 
 #### Project Members (4)
 
@@ -166,6 +165,8 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+- Completed Local installation of OnTrack Project
+- Committed Changes for Jupiter Notebook Submission
 
 #### Project Members (7)
 
@@ -217,6 +218,9 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+- Creation of Github and Trello Resources
+- Research for Authenitcation and Authorisation Services
+- Meeting with Hardhat Industries to initiate Security Analysis
 
 #### Project Members (2)
 
@@ -267,6 +271,9 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+- Creation of List of files to migrate from CoffeeScript to Typescript
+- Completed migration of 6 Components.
+- Creation of Documentation of Migration.
 
 #### Project Members (6)
 
@@ -318,6 +325,12 @@ Currently Completed Tasks:
 #### Project End-Trimester Progress
 
 Completed Tasks:
+- Creation of list of Tasks for Project Completion
+- Building understanding of Docker
+- Building understanding of the Google Cloud Platform
+- Deployment of CI/CD system for Docker Watchtower
+- Resources for Kubernetes deployment
+- Plan of action for Deakin IAM and Security Permisions Policies.
 
 #### Project Members (7)
 
@@ -382,7 +395,7 @@ _Documentors:_ Matt Clark, Jasdeep Singh, MD Fahim Mizi, Shiv Bhanu, Adrienne Ge
 
 #### Overview, Goals, and Objectives
 
-This project’s main goal is to identify and document the current features of OnTrack and put in
+This projects main goal is to identify and document the current features of OnTrack and put in
 place a Quality Assurance and Testing infrastructure to better maintain the quality of OnTrack and
 allow for more polished product. As OnTrack continues in its development, ensuring that robust
 testing is important for ensuring the quality of OnTrack as a system. The overarching goal of this
