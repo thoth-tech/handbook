@@ -41,10 +41,6 @@ of this work, the following will be established:
 
 Short-term
 
-- Detailed Entity Relationship Diagram of backend DB design
-- Documentation on how to setup DreamBig app using Docker
-- Frontend pages that prove backend API functionality
-- Implementation of the DreamBig star component
 - Automated database seeding to allow for testing and demonstration purposes
 - Research a QA process to be followed when developing new features
 
@@ -53,6 +49,13 @@ Long-term
 - Build frontend pages that deliver DreamBig planned functionality
 - Ensure all aspects of DreamBig app have been unit tested
 - Create e2e tests for DreamBig
+
+What we achieved this trimester
+
+- Detailed Entity Relationship Diagram of backend DB design
+- Documentation on how to setup DreamBig app using Docker
+- Frontend pages that prove backend API functionality
+- Implementation of the DreamBig star component
 
 #### Project Members (4)
 
@@ -85,13 +88,16 @@ will form the minimum viable product (MVP). As part of this work, the following 
 
 Short-term
 
-- Finishing wireframes update and high-quality model.
 - Complete high quality design documentation to communicate design concepts.
 
 Long-term
 
-- Complete a good quality UI/UX design prototype incorporating above analysis
 - Keeping updating any users prefer features and UI.
+
+What we achieved this trimester
+
+- Finishing wireframes update and high-quality model.
+- Complete a good quality UI/UX design prototype incorporating above analysis.
 
 #### Project Members (6)
 
@@ -123,11 +129,14 @@ will be established:
 
 Short-term
 
-- Complete research and trials of new frameworks for documentation and QA
-- Test the framework with new documentation and features for QA Long-term
 - Once the build of design prototype is done do the required testing
 - Once the build of technical prototype (backend, frontend, API, database) is being built, do
   regular testing to see if they are produced according to company standards
+
+What we achieved this trimester
+
+- Complete research and trials of new frameworks for documentation and QA
+- Test the framework with new documentation and features for QA Long-term
 - Finish converting previous documentation according to the new framework
 
 #### Project Members (5)
@@ -137,5 +146,3 @@ _Delivery lead:_ Neha Makineni
 _Technical writers:_ Alicia Threatt, Ashar Kamal
 
 _Quality Assurance testing specialists:_ Gurpreet Kaur, Tiomothy Davies
-
----
