@@ -93,8 +93,8 @@ By the end of the trimester the Operations team hopes to:
 
 #### Final Status
 
-- Single-command installer for macOS, Linux, and Windows completed (awaiting [pull request](https://github.com/splashkit/skm/pull/46) approval
-  to merge into master)
+- Single-command installer for macOS, Linux, and Windows completed (awaiting
+  [pull request](https://github.com/splashkit/skm/pull/46) approval to merge into master)
 - Windows and Linux downloadable GUI installer completed, awaiting creation of new splashkit repo
   Available [here](https://github.com/thoth-tech/splashkit-core/tree/ismail/SplashKit_Install)
   - macOS downloadable GUI installer not yet started due to lack of macOS device to test on (and
@@ -187,9 +187,11 @@ Goals for the end of this capstone:
 #### Final Status
 
 Bella has made significant contributions to enabling the use of Golang language to the translator.
-These contributions are awaiting further review in this [pull request](https://github.com/thoth-tech/splashkit-translator/pull/12#pullrequestreview-1127442070)
+These contributions are awaiting further review in this
+[pull request](https://github.com/thoth-tech/splashkit-translator/pull/12#pullrequestreview-1127442070)
 
-Other members of this team have had some difficulty progressing the remaining project developments this trimester.
+Other members of this team have had some difficulty progressing the remaining project developments
+this trimester.
 
 [Trello Board](https://trello.com/b/xIVeBYwU/language-extensions)
 [Teams Channel](https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/school/conversations/SplashKit%20-%20Extensions?threadId=19:45968578cad94ed7852cb076b8e69c82@thread.tacv2&ctx=channel)
@@ -289,21 +291,25 @@ Moving forward, the teams goals have shifted to:
 
 #### Final Status
 
-This team has made remarkable developmental progress of the Arcade Machine software this trimester.  
+This team has made remarkable developmental progress of the Arcade Machine software this
+trimester.  
 Early on, heavy focus was put on refactoring the code base to meet style and conventions guidelines.
-This included:  
+This included:
 
 - Major refactoring of tightly coupled components has been completed
 - Separation of implementation logic and definitions has been completed
-- Revised build process has been implemented allowing for a faster incremental build process with the implementation of a `Makefile`
+- Revised build process has been implemented allowing for a faster incremental build process with
+  the implementation of a `Makefile`
 - Documentation covering source code style and convention has been authored
 
 The team recognised and prioritised the necessity of cross-platform application support early on,
-especially considering the goal for this software to be executed using RaspberryPi, a Linux system.  
+especially considering the goal for this software to be executed using RaspberryPi, a Linux
+system.  
 This ensured the following tasks:
 
 - Support for Windows, macOS and Linux was prioritised and has been completed
-- Further cross-platform compatibility added through identification and resolution of previously undetected bugs
+- Further cross-platform compatibility added through identification and resolution of previously
+  undetected bugs
 
 Good time and task management has been a crucial aspect of this teams success.  
 Each member has selected a task to implement a new feature:
@@ -315,26 +321,30 @@ Each member has selected a task to implement a new feature:
 - New, dynamically generating 'Credits' screen - Lachlan Foy
 - New, dynamically generating 'About' screen - Richard Douglas-Denton
 
-The above features have been thoughtfully designed and implemented to allow for future development to easily adapat to the architecture.  
+The above features have been thoughtfully designed and implemented to allow for future development
+to easily adapat to the architecture.
 
-The design of the Arcade Machine architecture demands dependancy on other Thoth Tech repositories to operate correctly.
-One of these repos is the [arcade-games](https://github.com/thoth-tech/arcade-games) repository.
-As the designs show, the Arcade Machine fetches new games from this repo on startup, requiring several things:
+The design of the Arcade Machine architecture demands dependancy on other Thoth Tech repositories to
+operate correctly. One of these repos is the
+[arcade-games](https://github.com/thoth-tech/arcade-games) repository. As the designs show, the
+Arcade Machine fetches new games from this repo on startup, requiring several things:
 
 - Validation to ensure the content being downloaded is not malicious
 - Validation to ensure the config.txt file has been included and completed
-- Validation to ensure the content being downloaded contains pre-compiled executables (the Arcade Machine does not apply builds)
+- Validation to ensure the content being downloaded contains pre-compiled executables (the Arcade
+  Machine does not apply builds)
 
 To accomodate this, we have developed and tested the following through the use of 'GitHub Actions':
 
 - Automated validation of contributed games
 - Automated cross-platform game compilation scripts have also been completed.
 
-Development has progressed to the implementation of hardware where the following development has been completed:  
+Development has progressed to the implementation of hardware where the following development has
+been completed:
 
 - Creation of automated Arcade Machine startup scripts for RaspberryPi
 - Modification of `splashkit/skm` to accomodate Raspbian OS
-- Testing the Arcade Machine software on:  
+- Testing the Arcade Machine software on:
 - Windows, Linux Manjaro, Linux Ubuntu, macOS
 - RaspberryPi Zero (performs poorly)
 - RaspberryPi 3 B+ (performs well with GPU acceleration, with some artefacts to address)
@@ -348,8 +358,8 @@ Focus should be given to:
 
 - Documentation has been partially added, but requires additions
 - Address why the software runs slow on models older than RaspberryPi 4
-- Options menu is now effectively a 'blank canvas', inviting further development of new features
-to take advantage of newly implemented database facilties
+- Options menu is now effectively a 'blank canvas', inviting further development of new features to
+  take advantage of newly implemented database facilties
 
 #### Links to associated documentation and dependancies
 
@@ -412,7 +422,8 @@ Short-term
 Long-term
 
 - Commercially releasable game, developed using the Splashkit SDK
-- this game will be easily extendable by future teams (using documentation provided in build-a-game repository and level editor)
+- this game will be easily extendable by future teams (using documentation provided in build-a-game
+  repository and level editor)
 - The current collisions used will be updated to use the new Splashkit rectangle-rectangle collision
   function once available to use.
 
@@ -429,9 +440,11 @@ The team have made excellent progress, covering:
 - Created functional Menu screen, Credits and GameOver screen.
 - Current levels made to include intuative pipe puzzles
 - Creating the HUD displaying the players lives and health
-- Different enemy behaviours for each enemy created (roach, snake, blob, flies (3 types), rat and water rat / boss).
+- Different enemy behaviours for each enemy created (roach, snake, blob, flies (3 types), rat and
+  water rat / boss).
 - Creating an epic boss battle for level 10
-- instructional MarkDown files on how to create levels using the level editor and how to load these txt files into the game for testing at level 1.
+- instructional MarkDown files on how to create levels using the level editor and how to load these
+  txt files into the game for testing at level 1.
 
 The team have also developed:
 
@@ -444,9 +457,11 @@ Moving forward, the teams goals have shifted to:
 - There are two sound effect errors that only occur on mac (toxic waste and rain sound effects)
 - (optional) a spider enemy added to the game.
 - (optional) more levels!
-- When uploaded to the Arcade Games Repository and played through the Arcade Machine there was a segmentation error where the game would occasionally crash at different points. we must find where and why this error is happening. (and fix it)
-- Game will be uploaded to Arcade Games Repository (again) for use on the Arcade Machine once the above is
-  completed.
+- When uploaded to the Arcade Games Repository and played through the Arcade Machine there was a
+  segmentation error where the game would occasionally crash at different points. we must find where
+  and why this error is happening. (and fix it)
+- Game will be uploaded to Arcade Games Repository (again) for use on the Arcade Machine once the
+  above is completed.
 
 #### Final Status
 
@@ -460,7 +475,8 @@ Moving forward, the teams goals have shifted to:
 - 4 different music tracks created specifically to fit the style of the game
 - A password entry load level function
 - A challenging 1 player game
-- A very challenging 2 player game! (if player2 out of window player2 dies AND if either player is out of lives it is game over)
+- A very challenging 2 player game! (if player2 out of window player2 dies AND if either player is
+  out of lives it is game over)
 - Game was uploaded to Arcade Games repository for testing through Arcade Machine reposetory.
 
 #### Project Members (7)
@@ -619,7 +635,8 @@ By the end of the trimester the Modules team hopes to:
   - A save to csv function has been implemented
   - The dataframe and its individul columns and rows can be displayed in the terminal
   - Work on finalising basic methods for datatype conversion is in progress, currently waiting on
-    finalisation of a pull request review: [pull request #22](https://github.com/thoth-tech/splashkit-core/pull/22)
+    finalisation of a pull request review:
+    [pull request #22](https://github.com/thoth-tech/splashkit-core/pull/22)
   - Load CSV function yet to be finalised
   - Dataframe can be created and have data points added and changed.
 - Machine Learning
