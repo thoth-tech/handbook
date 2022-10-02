@@ -3,7 +3,7 @@
 Managing company processes and operations. Keeping Thoth-Tech running. Help employees to understand
 the systems, equipment, people, and processes need to make the organization function.
 
-**Process Lead:** Ishrat Jahan
+**Process Representative:** Ishrat Jahan
 
 ### Documentation Infrastructure System
 
@@ -13,37 +13,58 @@ audiences.
 
 #### Overview, Goals, and Objectives
 
-- Establish an website for centralised documentation
+- Establish an Gatsby static site website for centralised documentation
 - Documentation produced is accurate to current version of products
-- A quick way for updating and distributing company and product details
-- Site is automatically generated when contributions are made
-- Site is hosted
+- An accessible way for storing and distributing company and product details
+- GitHub actions are used to update and publish documentation(s) when PRs are merged
+- Site is hosted through GCP
 
-#### Aims for Trimester
+### Project Mid-Trimester Progress
 
-- Research privacy and security features
-- Design the interface
-- Deciding who gets access
-- Deciding how will we test
-- How will privacy be protected
-- A prototype showing all design and functionality of the internal website
+- Review on previous research done
+- SRS details updated and merged
+  [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
+- Gatsby implementation plan done [PR link](https://github.com/thoth-tech/documentation/pull/117)
+
+### Project End-Trimester Progress
+
+- Implementation of Gatsby centralised documentation website which generates content in gatsby from
+  markdown files from Company handbook repository
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/7)
+- Created and Styled the landing page
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/9)
+- The Gatsby website is deployed in Vercel and has two environment (Production and Preview)
+- Created Hook, so that on every successful push, Vercel updates the content in gatsby accordingly
+  by re-deploying
+- Markdown pages are being styled using Material UI **_(In Progress)_**
+  [Draft PR link](https://github.com/thoth-tech/Internal-Systems/pull/10)
+- Created a Getting started guide for the Project
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/8)
+- Created new User stories, Designs according to the SRS document
+
+#### Aims for Trimester Update
+
+- Add new functionalities to the website and ensure timely turnover of deliverables
+- Deploy the website to GCP
+- Establish privacy and security features
+- Create testing strategies
 
 #### Deliverables
 
 Short-term:
 
-- Design the interface
+- Initial Gatsby centralised documentation website
 - Establishing testing strategy
 - Establishing hosting strategy
-- Research solutions
+- Document processes
 
 Long-term:
 
-- Establish a website for centralised documentation as a part of Company Operation.
+- Establish a website for all documentation as a part of Company Operation.
 
 #### Project Members (6)
 
-_Delivery Lead:_ Ishrat Jahan
+_Delivery Representative:_ Ishrat Jahan
 
 _Software Developers:_ Harrison Paul Allwood, Manveen Kaur Bhullar, Pratham Gupta, Sherap Thakur,
 Tanish Dhapola
