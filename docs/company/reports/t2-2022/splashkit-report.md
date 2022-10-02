@@ -1,4 +1,6 @@
-## SplashKit
+# SplashKit
+
+## Report
 
 SplashKit is an open-source Software Development Kit (SDK), created with the purpose of reducing the
 overhead required for truly technical coding and allowing students new to coding to create
@@ -437,6 +439,7 @@ The team have also developed:
   can use many layers however, 2-4 is recomended. player and door must be placed on layer 1)
 
 Moving forward, the teams goals have shifted to:
+
 - Being able to drop a pipe if a different one is needed first (near place of player when dropped)
 - There are two sound effect errors that only occur on mac (toxic waste and rain sound effects)
 - (optional) a spider enemy added to the game.
@@ -444,7 +447,6 @@ Moving forward, the teams goals have shifted to:
 - When uploaded to the Arcade Games Repository and played through the Arcade Machine there was a segmentation error where the game would occasionally crash at different points. we must find where and why this error is happening. (and fix it)
 - Game will be uploaded to Arcade Games Repository (again) for use on the Arcade Machine once the above is
   completed.
-
 
 #### Final Status
 
@@ -457,7 +459,7 @@ Moving forward, the teams goals have shifted to:
 - 2 bonus levels only accessible through password entry
 - 4 different music tracks created specifically to fit the style of the game
 - A password entry load level function
-- A challenging 1 player game, 
+- A challenging 1 player game
 - A very challenging 2 player game! (if player2 out of window player2 dies AND if either player is out of lives it is game over)
 - Game was uploaded to Arcade Games repository for testing through Arcade Machine reposetory.
 
