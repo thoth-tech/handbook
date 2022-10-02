@@ -3,7 +3,7 @@
 Managing company processes and operations. Keeping Thoth-Tech running. Help employees to understand
 the systems, equipment, people, and processes need to make the organization function.
 
-**Process Lead:** Ishrat Jahan
+**Process Representative:** Ishrat Jahan
 
 ### Documentation Infrastructure System
 
@@ -13,37 +13,58 @@ audiences.
 
 #### Overview, Goals, and Objectives
 
-- Establish an website for centralised documentation
+- Establish an Gatsby static site website for centralised documentation
 - Documentation produced is accurate to current version of products
-- A quick way for updating and distributing company and product details
-- Site is automatically generated when contributions are made
-- Site is hosted
+- An accessible way for storing and distributing company and product details
+- GitHub actions are used to update and publish documentation(s) when PRs are merged
+- Site is hosted through GCP
 
-#### Aims for Trimester
+### Project Mid-Trimester Progress
 
-- Research privacy and security features
-- Design the interface
-- Deciding who gets access
-- Deciding how will we test
-- How will privacy be protected
-- A prototype showing all design and functionality of the internal website
+- Review on previous research done
+- SRS details updated and merged
+  [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
+- Gatsby implementation plan done [PR link](https://github.com/thoth-tech/documentation/pull/117)
+
+### Project End-Trimester Progress
+
+- Implementation of Gatsby centralised documentation website which generates content in gatsby from
+  markdown files from Company handbook repository
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/7)
+- Created and Styled the landing page
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/9)
+- The Gatsby website is deployed in Vercel and has two environment (Production and Preview)
+- Created Hook, so that on every successful push, Vercel updates the content in gatsby accordingly
+  by re-deploying
+- Markdown pages are being styled using Material UI **_(In Progress)_**
+  [Draft PR link](https://github.com/thoth-tech/Internal-Systems/pull/10)
+- Created a Getting started guide for the Project
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/8)
+- Created new User stories, Designs according to the SRS document
+
+#### Aims for Trimester Update
+
+- Add new functionalities to the website and ensure timely turnover of deliverables
+- Deploy the website to GCP
+- Establish privacy and security features
+- Create testing strategies
 
 #### Deliverables
 
 Short-term:
 
-- Design the interface
+- Initial Gatsby centralised documentation website
 - Establishing testing strategy
 - Establishing hosting strategy
-- Research solutions
+- Document processes
 
 Long-term:
 
-- Establish a website for centralised documentation as a part of Company Operation.
+- Establish a website for all documentation as a part of Company Operation.
 
 #### Project Members (6)
 
-_Delivery Lead:_ Ishrat Jahan
+_Delivery Representative:_ Ishrat Jahan
 
 _Software Developers:_ Harrison Paul Allwood, Manveen Kaur Bhullar, Pratham Gupta, Sherap Thakur,
 Tanish Dhapola
@@ -65,17 +86,27 @@ This trimester, the Company Documentation team aims to create, manage, maintain,
 state of company documentation, company policies around transition and people operation. In meeting
 this aim, the team will:
 
-- Review the current state of documentation across the company (including company handbook)
+- Update company onboarding, operational processes in the handbook
 - Identify gaps or areas of improvement
 - Create new documentation, including templates, in order to address these areas
 - Continue to think critically about the documentation needs of the company and create additional
   documentation to accommodate such needs
 - Work to the best of our abilities to create meaningful and high quality documentation
 
+### Project Mid-Trimester Progress
+
+- Reviewed the current state of company handbook
+- T2 Project and Team updated
+- Each team has access to update their interim reports for each project
+- On boarding is getting updated
+  [Here](https://github.com/thoth-tech/handbook/blob/updateonboarding/docs/peopleops/onboarding/onboarding-process.md)
+- Getting started guide is updated and merged [Here](https://github.com/thoth-tech/handbook/pull/99)
+
 #### Deliverables
 
 Short-term:
 
+- Establish Operational rules and regulations
 - Various documentation to supplement current documents in order to better meet company needs
 - Reviewed and improved documentation and handbook to better the state of documentation across the
   whole company
@@ -89,7 +120,7 @@ Long-term:
 
 #### Project Members (6)
 
-_Delivery Lead:_ James Micallef
+_Delivery Representative:_ James Micallef
 
 _Documentation Developer:_ Sarah Nicole Dyson, Ethan Graham Keirs, Durga
 Maya Ghallay, Charanjeet Singh, Faiq Rehman.
@@ -108,22 +139,22 @@ A brief summary of each project members role and completed task:
 ###### James Micallef
 James Micallef was the Delivery Lead. Their tasks were:
 - Documentation
-- Led the team 
-- Set up team tools, communication channels and cadence 
-- Facilitated team meetings and retrospectives 
-- Communicated and prioritised tasks 
-- Reviewed and provided feedback on documentation 
+- Led the team
+- Set up team tools, communication channels and cadence
+- Facilitated team meetings and retrospectives
+- Communicated and prioritised tasks
+- Reviewed and provided feedback on documentation
 - Remote Working Guide
 - Update Communication Scenarios in Handbook
 
 ###### Sarah Nicole Dyson
 Sarah Nicole Dyson was a Documentation Developer. Her roles were OnTrack Enhance Authentication (under Deployment team) - Documentation & back-end Development. Their tasks were:
 - Documentation
-- Converted the first Company Report into Markdown and added it to the Handbook 
-- Updated the leadership folder within the Handbook. Added in the leadership and company structure images for T2 2022, and added folders to separate the leadership information into different trimesters so that the most up-to-date information (and past information) is easy to find 
-- Updated the folders within the Documentation repository to reflect the new teams added to the company this trimester 
-- Created a document which outlines the rules of specific operations within the company: how to store documentation and where (handbook, documentation repository, or Teams channels), as well as how and where to conduct team meetings 
-- Updated the Communication Scenarios document in the Handbook to complete it – added a range of scenarios Thoth Tech members may face and best courses of action for each 
+- Converted the first Company Report into Markdown and added it to the Handbook
+- Updated the leadership folder within the Handbook. Added in the leadership and company structure images for T2 2022, and added folders to separate the leadership information into different trimesters so that the most up-to-date information (and past information) is easy to find
+- Updated the folders within the Documentation repository to reflect the new teams added to the company this trimester
+- Created a document which outlines the rules of specific operations within the company: how to store documentation and where (handbook, documentation repository, or Teams channels), as well as how and where to conduct team meetings
+- Updated the Communication Scenarios document in the Handbook to complete it – added a range of scenarios Thoth Tech members may face and best courses of action for each
 - Created a remote working guide, as one of the first installments of cyber security guides in the Thoth Tech handbook
 
 ###### Ethan Graham Keirs
@@ -135,7 +166,7 @@ Ethan Graham Keirs was a Documentation Developer. Their tasks were:
 - Convert weekly to-dos made by James Micallef into markdown for GitHub
 - Made Software Requirement Specification (SRS) based off existing Software Requirement Specification
 - Reviewed and provided feedback on documentation
-- Task 10.2 Company report for Company Operations Company Documentation team 
+- Task 10.2 Company report for Company Operations Company Documentation team
 
 ###### Durga Maya Ghallay
 Durga Maya Ghallay was a Documentation Developer. Their tasks were:
@@ -242,7 +273,7 @@ in the future.
 
 - It is recommended that all project members review the company handbook, this will allow them to answer any questions other teams may have about the handbook, company operation or documentation. The reviewing of the company handbook also allow project members to identify any missing documents that they can add or updated and improved existing documentation in the Handbook. This is recommended to be done at the start of each trimester.
 - Documentation team members should ensure templates are existing or developed for all document types and team activities.
-- A report should be produced with recommendations and expectations for current project teams to implement for documentation of their projects 
+- A report should be produced with recommendations and expectations for current project teams to implement for documentation of their projects
 - Collaboration with other project teams should take place to ensure the documentation repository is being utilised for all company and project information. This team will should also be responsible for upholding the expectations of documentation across the company.
 
 ##### Blockers
