@@ -147,5 +147,3 @@ _Delivery lead:_ Neha Makineni
 _Technical writers:_ Alicia Threatt, Ashar Kamal
 
 _Quality Assurance testing specialists:_ Gurpreet Kaur, Tiomothy Davies
-
----
