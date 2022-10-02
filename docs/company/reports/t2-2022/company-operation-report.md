@@ -26,12 +26,28 @@ audiences.
   [SRS](https://github.com/thoth-tech/documentation/blob/main/docs/Internal%20Systems/SRS.md)
 - Gatsby implementation plan done [PR link](https://github.com/thoth-tech/documentation/pull/117)
 
-#### Aims for Trimester
+### Project End-Trimester Progress
 
-- Implementation of Gatsby centralised documentation website
+- Implementation of Gatsby centralised documentation website which generates content in gatsby from
+  markdown files from Company handbook repository
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/7)
+- Created and Styled the landing page
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/9)
+- The Gatsby website is deployed in Vercel and has two environment (Production and Preview)
+- Created Hook, so that on every successful push, Vercel updates the content in gatsby accordingly
+  by re-deploying
+- Markdown pages are being styled using Material UI **_(In Progress)_**
+  [Draft PR link](https://github.com/thoth-tech/Internal-Systems/pull/10)
+- Created a Getting started guide for the Project
+  [PR link](https://github.com/thoth-tech/Internal-Systems/pull/8)
+- Created new User stories, Designs according to the SRS document
+
+#### Aims for Trimester Update
+
+- Add new functionalities to the website and ensure timely turnover of deliverables
+- Deploy the website to GCP
 - Establish privacy and security features
-- Deciding how will we test
-- A document showing all design and functionality of the internal website
+- Create testing strategies
 
 #### Deliverables
 
